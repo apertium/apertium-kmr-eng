@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-kmr-eng.eng-kmr.lrx -text
+/apertium-kmr-eng.eng-kmr.t1x -text
+/apertium-kmr-eng.eng-kmr.t2x -text
+/apertium-kmr-eng.eng-kmr.t3x -text
+/apertium-kmr-eng.kmr-eng.dix -text
+/apertium-kmr-eng.kmr-eng.lrx -text
+/apertium-kmr-eng.kmr-eng.t1x -text
+/apertium-kmr-eng.kmr-eng.t2x -text
+/apertium-kmr-eng.kmr-eng.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
