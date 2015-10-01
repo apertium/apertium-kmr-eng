@@ -145,7 +145,6 @@
      <e><p><l>baş<s n="adj"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>baş<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>baş<s n="adj"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
-     <e><p><l>baştir<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
      <e><p><l>başûrî<s n="adj"/></l><r>southern<s n="adj"/></r></p></e>
      <e><p><l>batil<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
      <e><p><l>batil<s n="adj"/></l><r>fallacious<s n="adj"/></r></p></e>
@@ -610,7 +609,6 @@
      <e><p><l>caîz<s n="adj"/></l><r>proper<s n="adj"/></r></p></e>
      <e><p><l>caîz<s n="adj"/></l><r>right<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>çak<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
-     <e><p><l>çaktir<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
      <e><p><l>çalak<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
      <e><p><l>çalak<s n="adj"/></l><r>*agile<s n="adj"/></r></p></e>
      <e><p><l>çalak<s n="adj"/></l><r>swift<s n="adj"/></r></p></e>
@@ -674,7 +672,6 @@
      <e><p><l>çermoke<s n="adj"/></l><r>*skinny<s n="adj"/></r></p></e>
      <e><p><l>cesedî<s n="adj"/></l><r>*bodily<s n="adj"/></r></p></e>
      <e><p><l>cesedî<s n="adj"/></l><r>physical<s n="adj"/></r></p></e>
-     <e><p><l>çêtir<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
      <e><p><l>cêwî<s n="adj"/></l><r>twin<s n="adj"/></r></p></e>
      <e><p><l>çewt<s n="adj"/></l><r>awry<s n="adj"/></r></p></e>
      <e><p><l>çewt<s n="adj"/></l><r>crooked<s n="adj"/></r></p></e>
@@ -1271,7 +1268,6 @@
      <e><p><l>jênegerr<s n="adj"/></l><r>inevitable<s n="adj"/></r></p></e>
      <e><p><l>jênegerr<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
      <e><p><l>jêrîn<s n="adj"/></l><r>inferior<s n="adj"/></r></p></e>
-     <e><p><l>jêrîn<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
      <e><p><l>jêrîn<s n="adj"/></l><r>subordinate<s n="adj"/></r></p></e>
      <e><p><l>jêrîn<s n="adj"/></l><r>subsidiary<s n="adj"/></r></p></e>
      <e><p><l>jêzêde<s n="adj"/></l><r>excess<s n="adj"/></r></p></e>
@@ -1598,8 +1594,6 @@
      <e><p><l>meşkûk<s n="adj"/></l><r>suspicious<s n="adj"/></r></p></e>
      <e><p><l>meşrû<s n="adj"/></l><r>just<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>meşrû<s n="adj"/></l><r>*legitime<s n="adj"/></r></p></e>
-     <e><p><l>mestir<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-     <e><p><l>mestir<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
      <e><p><l>mesûd<s n="adj"/></l><r>fortunate<s n="adj"/></r></p></e>
      <e><p><l>mesûd<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>mesûd<s n="adj"/></l><r>lucky<s n="adj"/><s n="sint"/></r></p></e>
@@ -2453,8 +2447,6 @@
      <e><p><l>şkêbar<s n="adj"/></l><r>fragile<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>şkestî<s n="adj"/></l><r>broken<s n="adj"/></r></p></e>
      <e><p><l>skotî<s n="adj"/></l><r>Scottish<s n="adj"/></r></p></e>
-     <e><p><l>soring<s n="adj"/></l><r>mad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-     <e><p><l>sorreng<s n="adj"/></l><r>mad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
      <e><p><l>şor<s n="adj"/></l><r>salty<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>sosret<s n="adj"/></l><r>exceptional<s n="adj"/></r></p></e>
      <e><p><l>sosret<s n="adj"/></l><r>extraordinary<s n="adj"/></r></p></e>
