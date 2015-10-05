@@ -20,7 +20,7 @@
       <program name="lt-proc -b">
         <file name="kmr-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="kmr-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -153,7 +153,7 @@
     </pipeline>
   </mode>
 
-  <mode name="kmr-eng-lex" install="no">
+  <mode name="kmr-eng-lextor" install="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name="kmr-eng.automorf.bin"/>
@@ -170,7 +170,7 @@
       <program name="lt-proc -b">
         <file name="kmr-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc -t">
+      <program name="lrx-proc -m -t">
         <file name="kmr-eng.autolex.bin"/>
       </program>
     </pipeline>
@@ -193,7 +193,7 @@
       <program name="lt-proc -b">
         <file name="kmr-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="kmr-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b -t">
@@ -220,7 +220,7 @@
       <program name="lt-proc -b">
         <file name="kmr-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="kmr-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -251,7 +251,7 @@
       <program name="lt-proc -b">
         <file name="kmr-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="kmr-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -288,7 +288,7 @@
       <program name="lt-proc -b">
         <file name="eng-kmr.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="eng-kmr.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -421,7 +421,7 @@
     </pipeline>
   </mode>
 
-  <mode name="eng-kmr-lex" install="no">
+  <mode name="eng-kmr-lextor" install="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name="eng-kmr.automorf.bin"/>
@@ -438,7 +438,7 @@
       <program name="lt-proc -b">
         <file name="eng-kmr.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="eng-kmr.autolex.bin"/>
       </program>
     </pipeline>
