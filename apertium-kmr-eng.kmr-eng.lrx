@@ -12,6 +12,10 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="serok" tags="n.*"><select lemma="president" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.0">
     <match lemma="ziman" tags="n.*"><select lemma="language" tags="n.*"/></match>
   </rule>
 
