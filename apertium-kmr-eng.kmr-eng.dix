@@ -162,7 +162,7 @@
      <e r="LR"><p><l>em<s n="prn"/><s n="pers"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
      
       <e><p><l>xwe<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
-
+      <e><p><l>hev<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
      <!-- SECTION: Determiners -->
 
       <e><p><l>ev<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
@@ -1758,6 +1758,7 @@
       <e><p><l>derz<s n="n"/><s n="f"/></l><r>split<s n="n"/></r></p></e>
       <e><p><l>desen<s n="n"/><s n="f"/></l><r>design<s n="n"/></r></p></e>
       <e><p><l>desen<s n="n"/><s n="f"/></l><r>pattern<s n="n"/></r></p></e>
+      <e><p><l>dest<s n="n"/><s n="f"/></l><r>hand<s n="n"/></r></p></e>
       <e><p><l>destan<s n="n"/><s n="f"/></l><r>story<s n="n"/></r></p></e>
       <e><p><l>destava zirav<s n="n"/><s n="f"/></l><r>urine<s n="n"/></r></p></e>
       <e><p><l>destavxane<s n="n"/><s n="f"/></l><r>restroom<s n="n"/></r></p></e>
@@ -5284,6 +5285,7 @@
       <e><p><l>noviyalî<s n="n"/><s n="f"/></l><r>*Novial<s n="n"/></r></p></e>
       <e><p><l>nuhîtî<s n="n"/><s n="f"/></l><r>novelty<s n="n"/></r></p></e>
       <e><p><l>nûjenî<s n="n"/><s n="f"/></l><r>*modernity<s n="n"/></r></p></e>
+      <e><p><l>nûbûn<s n="n"/><s n="f"/></l><r>renewal<s n="n"/></r></p></e>
       <e><p><l>nusxe<s n="n"/><s n="f"/></l><r>copy<s n="n"/></r></p></e>
       <e><p><l>nuvejîn<s n="n"/><s n="f"/></l><r>renaissance<s n="n"/></r></p></e>
       <e><p><l>nuyîtî<s n="n"/><s n="f"/></l><r>novelty<s n="n"/></r></p></e>
@@ -5619,6 +5621,8 @@
       <e><p><l>pêwîstî<s n="n"/><s n="f"/></l><r>necessity<s n="n"/></r></p></e>
       <e><p><l>pêwîstî<s n="n"/><s n="f"/></l><r>requirement<s n="n"/></r></p></e>
       <e><p><l>peyam<s n="n"/><s n="f"/></l><r>message<s n="n"/></r></p></e>
+      <e><p><l>peyamnêr<s n="n"/><s n="f"/></l><r>reporter<s n="n"/></r></p></e>
+      <e><p><l>peyamnêr<s n="n"/><s n="m"/></l><r>reporter<s n="n"/></r></p></e>
       <e><p><l>peya<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
       <e><p><l>peyan<s n="n"/><s n="f"/></l><r>attempt<s n="n"/></r></p></e>
       <e><p><l>peyan<s n="n"/><s n="f"/></l><r>effort<s n="n"/></r></p></e>
@@ -6655,6 +6659,7 @@
       <e><p><l>selîqe<s n="n"/><s n="f"/></l><r>*aria<s n="n"/></r></p></e>
       <e><p><l>selîqe<s n="n"/><s n="f"/></l><r>melody<s n="n"/></r></p></e>
       <e><p><l>selîqe<s n="n"/><s n="f"/></l><r>tune<s n="n"/></r></p></e>
+      <e><p><l>sîstem<s n="n"/><s n="f"/></l><r>system<s n="n"/></r></p></e>
       <e><p><l>şel<s n="n"/><s n="m"/></l><r>clod<s n="n"/></r></p></e>
       <e><p><l>selpak<s n="n"/><s n="f"/></l><r>napkin<s n="n"/></r></p></e>
       <e><p><l>selpak<s n="n"/><s n="f"/></l><r>*serviette<s n="n"/></r></p></e>
@@ -11353,6 +11358,7 @@
 
       <e><p><l>kirin<s n="vblex"/><s n="tv"/></l><r>do<s n="vblex"/></r></p></e>
       <e><p><l>kirin<s n="vblex"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
+      <e><p><l>dîtin<s n="vblex"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
 
       <e><p><l>zanîn<s n="vblex"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
 
