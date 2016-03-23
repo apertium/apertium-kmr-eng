@@ -77,6 +77,8 @@
 
       <e><p><l>ji<b/>ber<b/>ku<s n="cnjsub"/></l><r>because<s n="cnjadv"/></r></p></e>
 
+
+
      <!-- SECTION: Adpositions -->
 
       <e><p><l>ba<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
@@ -124,6 +126,7 @@
       <e><p><l>ji<s n="pr"/></l><r>since<s n="pr"/></r></p></e>
       <e><p><l>ji<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>ji<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>hember<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
       <e><p><l>li<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
       <e><p><l>li<b/>ber<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
       <e><p><l>li<b/>ber<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
@@ -569,6 +572,7 @@
       <e><p><l>bajarr<s n="n"/><s n="m"/></l><r>town<s n="n"/></r></p></e>
       <e><p><l>bakirin<s n="n"/><s n="f"/></l><r>improvement<s n="n"/></r></p></e>
       <e><p><l>bakûr<s n="n"/><s n="m"/></l><r>north<s n="n"/></r></p></e>
+      <e><p><l>başûr<s n="n"/><s n="m"/></l><r>south<s n="n"/></r></p></e>
       <e><p><l>bakuzîr<s n="n"/><s n="f"/></l><r>*snowstorm<s n="n"/></r></p></e>
       <e><p><l>balans<s n="n"/><s n="f"/></l><r>balance<s n="n"/></r></p></e>
       <e><p><l>balans<s n="n"/><s n="f"/></l><r>countenance<s n="n"/></r></p></e>
@@ -1518,6 +1522,7 @@
       <e><p><l>damezre<s n="n"/><s n="f"/></l><r>*organization<s n="n"/></r></p></e>
       <e><p><l>dam<s n="n"/><s n="f"/></l><r>*checkers<s n="n"/></r></p></e>
       <e><p><l>dam<s n="n"/><s n="f"/></l><r>draught<s n="n"/><s n="pl"/></r></p></e>
+      <e><p><l>dan<s n="n"/><s n="f"/></l><r>giving<s n="n"/></r></p></e>
       <e><p><l>danê êvarê<s n="n"/><s n="m"/></l><r>afternoon<s n="n"/></r></p></e>
       <e><p><l>danegeh<s n="n"/><s n="f"/></l><r>database<s n="n"/></r></p></e>
       <e><p><l>dane<s n="n"/><s n="f"/></l><r>piece<s n="n"/></r></p></e>
@@ -3013,6 +3018,7 @@
       <e><p><l>hêl<s n="n"/><s n="f"/></l><r>side<s n="n"/></r></p></e>
       <e><p><l>hel<s n="n"/><s n="f"/></l><r>solution<s n="n"/></r></p></e>
       <e><p><l>helqe<s n="n"/><s n="f"/></l><r>ring<s n="n"/></r></p></e>
+      <e><p><l>helkeft<s n="n"/><s n="f"/></l><r>occasion<s n="n"/></r></p></e>
       <e><p><l>helwest<s n="n"/><s n="f"/></l><r>opinion<s n="n"/></r></p></e>
       <e><p><l>helwest<s n="n"/><s n="f"/></l><r>stand<s n="n"/></r></p></e>
       <e><p><l>helwest<s n="n"/><s n="f"/></l><r>view<s n="n"/></r></p></e>
@@ -8438,6 +8444,7 @@
       <e><p><l>Bexda<s n="np"/><s n="top"/><s n="f"/></l><r>Baghdad<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Şirnex<s n="np"/><s n="top"/><s n="f"/></l><r>Şirnex<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kurdistan<s n="np"/><s n="top"/><s n="f"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Hewlêr<s n="np"/><s n="top"/><s n="f"/></l><r>Hewler<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Newroz<s n="np"/><s n="top"/><s n="f"/></l><r>Novruz</r></p></e>
       <e><p><l>Tirkiye<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Tirkîye<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
@@ -8446,6 +8453,7 @@
 
 
       <e><p><l>Salih<s n="np"/><s n="ant"/><s n="m"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Mesûd<s n="np"/><s n="ant"/><s n="m"/></l><r>Masoud<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Barzanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Barzani<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
@@ -9102,6 +9110,7 @@
       <e><p><l>ceyranî<s n="adj"/></l><r>electronic<s n="adj"/></r></p></e>
       <e><p><l>cezewî<s n="adj"/></l><r>*sorcerer<s n="adj"/></r></p></e>
       <e><p><l>cidî<s n="adj"/></l><r>serious<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>ciddî<s n="adj"/></l><r>serious<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>cîgeyî<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
       <e><p><l>cîguhêz<s n="adj"/></l><r>mobile<s n="adj"/></r></p></e>
       <e><p><l>cîhanî<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
@@ -11120,6 +11129,7 @@
       <e><p><l>westiyayî<s n="adj"/></l><r>exhausted<s n="adj"/></r></p></e>
       <e><p><l>wexiran<s n="adj"/></l><r>delayed<s n="adj"/></r></p></e>
       <e><p><l>wexiran<s n="adj"/></l><r>late<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>wiha<s n="adj"/></l><r>such<b/>a<s n="det"/></r></p></e>
       <e><p><l>winda<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
       <e><p><l>wolofî<s n="adj"/></l><r>*Wolof<s n="adj"/></r></p></e>
       <e><p><l>xalis<s n="adj"/></l><r>genuine<s n="adj"/></r></p></e>
