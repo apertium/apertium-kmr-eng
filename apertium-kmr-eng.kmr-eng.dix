@@ -72,6 +72,8 @@
 
       <e><p><l>piştî<b/>ku<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
 
+      <e><p><l>ku<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+
       <e><p><l>ji<b/>ber<b/>ku<s n="cnjsub"/></l><r>because<s n="cnjadv"/></r></p></e>
 
      <!-- SECTION: Adpositions -->
@@ -2596,6 +2598,7 @@
       <e><p><l>gef<s n="n"/><s n="f"/></l><r>menace<s n="n"/></r></p></e>
       <e><p><l>gef<s n="n"/><s n="f"/></l><r>*spectre<s n="n"/></r></p></e>
       <e><p><l>gef<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>
+      <e><p><l>gel<s n="n"/><s n="f"/></l><r>nation<s n="n"/></r></p></e>
       <e><p><l>gêlaz<s n="n"/><s n="f"/></l><r>cherry<s n="n"/></r></p></e>
       <e><p><l>gelender<s n="n"/><s n="m"/></l><r>beam<s n="n"/></r></p></e>
       <e><p><l>gelî<s n="n"/><s n="m"/></l><r>canyon<s n="n"/></r></p></e>
@@ -4011,6 +4014,7 @@
       <e><p><l>kirê<s n="n"/><s n="f"/></l><r>rent<s n="n"/></r></p></e>
       <e><p><l>kirêtî<s n="n"/><s n="f"/></l><r>*de<s n="n"/></r></p></e>
       <e><p><l>kirêtî<s n="n"/><s n="f"/></l><r>*ugliness<s n="n"/></r></p></e>
+      <e><p><l>kirîz<s n="n"/><s n="f"/></l><r>crisis<s n="n"/></r></p></e>
       <e><p><l>kirêwe<s n="n"/><s n="m"/></l><r>*blizzard<s n="n"/></r></p></e>
       <e><p><l>kirkût<s n="n"/><s n="f"/></l><r>match<s n="n"/></r></p></e>
       <e><p><l>kir<s n="n"/><s n="f"/></l><r>action<s n="n"/></r></p></e>
@@ -6822,6 +6826,7 @@
       <e><p><l>serûm<s n="n"/><s n="f"/></l><r>serum<s n="n"/></r></p></e>
       <e><p><l>serwerî<s n="n"/><s n="f"/></l><r>sovereignty<s n="n"/></r></p></e>
       <e><p><l>serw<s n="n"/><s n="f"/></l><r>cypress<s n="n"/></r></p></e>
+      <e><p><l>serxwebûn<s n="n"/><s n="f"/></l><r>independence<s n="n"/></r></p></e>
       <e><p><l>sêşem<s n="n"/><s n="f"/></l><r>Tuesday<s n="n"/></r></p></e>
       <e><p><l>şetele<s n="n"/><s n="f"/></l><r>avalanche<s n="n"/></r></p></e>
       <e><p><l>setil<s n="n"/><s n="f"/></l><r>bucket<s n="n"/></r></p></e>
@@ -8422,9 +8427,14 @@
       <e><p><l>Diyarbekir<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakır<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Şirnex<s n="np"/><s n="top"/><s n="f"/></l><r>Şirnex<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kurdistan<s n="np"/><s n="top"/><s n="f"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Tirkiye<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Tirkîye<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Sûriye<s n="np"/><s n="top"/><s n="f"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Sûrîye<s n="np"/><s n="top"/><s n="f"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
+
 
       <e><p><l>Salih<s n="np"/><s n="ant"/><s n="m"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
-
+      <e><p><l>Barzanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Barzani<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
@@ -8555,6 +8565,7 @@
       <e><p><l>bawerbar<s n="adj"/></l><r>*believable<s n="adj"/></r></p></e>
       <e><p><l>bawerbar<s n="adj"/></l><r>credible<s n="adj"/></r></p></e>
       <e><p><l>bawermend<s n="adj"/></l><r>faithful<s n="adj"/></r></p></e>
+      <e><p><l>belav<s n="adj"/></l><r>spread<s n="adj"/></r></p></e>
       <e><p><l>bêaqil<s n="adj"/></l><r>stupid<s n="adj"/></r></p></e>
       <e><p><l>bêar<s n="adj"/></l><r>*impertinent<s n="adj"/></r></p></e>
       <e><p><l>bêar<s n="adj"/></l><r>impudent<s n="adj"/></r></p></e>
@@ -10735,6 +10746,7 @@
       <e><p><l>sergewer<s n="adj"/></l><r>noble<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>serhişk<s n="adj"/></l><r>*obstinate<s n="adj"/></r></p></e>
       <e><p><l>serhişk<s n="adj"/></l><r>stubborn<s n="adj"/></r></p></e>
+      <e><p><l>siyasî<s n="adj"/></l><r>political<s n="adj"/></r></p></e>
       <e><p><l>şerîf<s n="adj"/></l><r>honest<s n="adj"/></r></p></e>
       <e><p><l>şerîf<s n="adj"/></l><r>honourable<s n="adj"/></r></p></e>
       <e><p><l>serkeş<s n="adj"/></l><r>rebel<s n="adj"/></r></p></e>
@@ -11344,10 +11356,18 @@
       <e><p><l>xwendin<s n="vblex"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>
 
       <e><p><l>şiştin<s n="vblex"/><s n="tv"/></l><r>wash<s n="vblex"/></r></p></e>
+      
+      <e><p><l>tewandin<s n="vblex"/><s n="tv"/></l><r>bend<s n="vblex"/></r></p></e>
+
+      <e><p><l>qewimin<s n="vblex"/><s n="iv"/></l><r>take place<s n="vblex"/></r></p></e>
+      <e><p><l>qewimin<s n="vblex"/><s n="iv"/></l><r>happen<s n="vblex"/></r></p></e>
+      <e><p><l>qewimin<s n="vblex"/><s n="iv"/></l><r>form<s n="vblex"/></r></p></e>
 
       <e><p><l>çûn<s n="vblex"/><s n="iv"/></l><r>go<s n="vblex"/></r></p></e>
 
       <e><p><l>hatin<s n="vblex"/><s n="iv"/></l><r>come<s n="vblex"/></r></p></e>
+
+      <e><p><l>divêtin<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
 
       <e><p><l>rabûn<s n="vblex"/><s n="iv"/></l><r>arise<s n="vblex"/></r></p></e>
       <e><p><l>rabûn<s n="vblex"/><s n="iv"/></l><r>rise<s n="vblex"/></r></p></e>
