@@ -69,6 +69,7 @@
 
       <e><p><l>û<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
       <e><p><l>piştî<b/>ku<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
 
@@ -309,6 +310,8 @@
       <e><p><l>al<s n="n"/><s n="m"/></l><r>standard<s n="n"/></r></p></e>
       <e><p><l>alole<s n="n"/><s n="f"/></l><r>labyrinth<s n="n"/></r></p></e>
       <e><p><l>alole<s n="n"/><s n="f"/></l><r>maze<s n="n"/></r></p></e>
+      <e><p><l>alozî<s n="n"/><s n="f"/></l><r>confusion<s n="n"/></r></p></e>
+      <e><p><l>alozî<s n="n"/><s n="f"/></l><r>difficulty<s n="n"/></r></p></e>
       <e><p><l>alûçe<s n="n"/><s n="f"/></l><r>*sloe<s n="n"/></r></p></e>
       <e><p><l>alûşk<s n="n"/><s n="f"/></l><r>chin<s n="n"/></r></p></e>
       <e><p><l>alûşk<s n="n"/><s n="f"/></l><r>jaw<s n="n"/></r></p></e>
@@ -2598,7 +2601,7 @@
       <e><p><l>gef<s n="n"/><s n="f"/></l><r>menace<s n="n"/></r></p></e>
       <e><p><l>gef<s n="n"/><s n="f"/></l><r>*spectre<s n="n"/></r></p></e>
       <e><p><l>gef<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>
-      <e><p><l>gel<s n="n"/><s n="f"/></l><r>nation<s n="n"/></r></p></e>
+      <e><p><l>gel<s n="n"/><s n="m"/></l><r>nation<s n="n"/></r></p></e>
       <e><p><l>gêlaz<s n="n"/><s n="f"/></l><r>cherry<s n="n"/></r></p></e>
       <e><p><l>gelender<s n="n"/><s n="m"/></l><r>beam<s n="n"/></r></p></e>
       <e><p><l>gelî<s n="n"/><s n="m"/></l><r>canyon<s n="n"/></r></p></e>
@@ -5413,6 +5416,7 @@
       <e><p><l>par<s n="n"/><s n="f"/></l><r>portion<s n="n"/></r></p></e>
       <e><p><l>par<s n="n"/><s n="f"/></l><r>share<s n="n"/></r></p></e>
       <e><p><l>parole<s n="n"/><s n="f"/></l><r>slogan<s n="n"/></r></p></e>
+      <e><p><l>partî<s n="n"/><s n="f"/></l><r>party<s n="n"/></r></p></e>
       <e><p><l>parvexwazî<s n="n"/><s n="f"/></l><r>*separatism<s n="n"/></r></p></e>
       <e><p><l>parzemîn<s n="n"/><s n="f"/></l><r>continent<s n="n"/></r></p></e>
       <e><p><l>pasaport<s n="n"/><s n="f"/></l><r>passport<s n="n"/></r></p></e>
@@ -8167,6 +8171,7 @@
       <e><p><l>xwîngermî<s n="n"/><s n="f"/></l><r>fervor<s n="n"/></r></p></e>
       <e><p><l>xwî<s n="n"/><s n="m"/></l><r>habit<s n="n"/></r></p></e>
       <e><p><l>xwîn<s n="n"/><s n="f"/></l><r>blood<s n="n"/></r></p></e>
+      <e><p><l>xwînrijandin<s n="n"/><s n="f"/></l><r>bloodshed<s n="n"/></r></p></e>
       <e><p><l>xwişk<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
       <e><p><l>xwîşk<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
       <e><p><l>xwîzî<s n="n"/><s n="f"/></l><r>saliva<s n="n"/></r></p></e>
@@ -8425,8 +8430,10 @@
      <!-- SECTION: Proper nouns-->
 
       <e><p><l>Diyarbekir<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakır<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Bexda<s n="np"/><s n="top"/><s n="f"/></l><r>Baghdad<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Şirnex<s n="np"/><s n="top"/><s n="f"/></l><r>Şirnex<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kurdistan<s n="np"/><s n="top"/><s n="f"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Newroz<s n="np"/><s n="top"/><s n="f"/></l><r>Novruz</r></p></e>
       <e><p><l>Tirkiye<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Tirkîye<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Sûriye<s n="np"/><s n="top"/><s n="f"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
@@ -9543,6 +9550,7 @@
       <e><p><l>hember<s n="adj"/></l><r>equal<s n="adj"/></r></p></e>
       <e><p><l>hemta<s n="adj"/></l><r>alike<s n="adj"/></r></p></e>
       <e><p><l>hemta<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
+      <e><p><l>hemû<s n="adj"/></l><r>all<s n="adj"/></r></p></e>
       <e><p><l>hemwar<s n="adj"/></l><r>harmonious<s n="adj"/></r></p></e>
       <e><p><l>hênik<s n="adj"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>herêmî<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
