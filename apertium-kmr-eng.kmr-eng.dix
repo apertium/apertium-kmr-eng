@@ -8171,6 +8171,8 @@
       <e><p><l>xwerist<s n="n"/><s n="f"/></l><r>nature<s n="n"/></r></p></e>
       <e><p><l>xweşbextî<s n="n"/><s n="f"/></l><r>happiness<s n="n"/></r></p></e>
       <e><p><l>xweşbextî<s n="n"/><s n="f"/></l><r>joy<s n="n"/></r></p></e>
+      <e><p><l>xweşî<s n="n"/><s n="f"/></l><r>peace<s n="n"/></r></p></e>
+      <e><p><l>xweşî<s n="n"/><s n="f"/></l><r>health<s n="n"/></r></p></e>
       <e><p><l>xweşguzarî<s n="n"/><s n="f"/></l><r>wealth<s n="n"/></r></p></e>
       <e><p><l>xweşguzarî<s n="n"/><s n="f"/></l><r>*wellbeing<s n="n"/></r></p></e>
       <e><p><l>xweşguzarî<s n="n"/><s n="f"/></l><r>*wellfare<s n="n"/></r></p></e>
@@ -8382,6 +8384,10 @@
       <e><p><l>zirnazîq<s n="n"/><s n="f"/></l><r>*seesaw<s n="n"/></r></p></e>
       <e><p><l>zirrîn<s n="n"/><s n="f"/></l><r>*braying<s n="n"/></r></p></e>
       <e><p><l>zirt<s n="n"/><s n="f"/></l><r>menace<s n="n"/></r></p></e>
+      <e><p><l>zihniyet<s n="n"/><s n="f"/></l><r>mentality<s n="n"/></r></p></e>
+      <e><p><l>sekindanin<s n="n"/><s n="f"/></l><r>stopping<s n="n"/></r></p></e>
+      <e><p><l>zilm<s n="n"/><s n="f"/></l><r>oppression<s n="n"/></r></p></e>
+      <e><p><l>zilm<s n="n"/><s n="f"/></l><r>cruelty<s n="n"/></r></p></e>
       <e><p><l>zirt<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>
       <e><p><l>zirûf<s n="n"/><s n="m"/></l><r>position<s n="n"/></r></p></e>
       <e><p><l>zirûf<s n="n"/><s n="m"/></l><r>*sitution<s n="n"/></r></p></e>
@@ -8459,6 +8465,13 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+      <e><p><l>xembar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+      <e><p><l>xembar<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
+      <e><p><l>xemdar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+      <e><p><l>xemdar<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
+      <e><p><l>xirab<s n="adj"/></l><r>destroyed<s n="adj"/></r></p></e>
+      <e><p><l>dudil<s n="adj"/></l><r>hesitant<s n="adj"/></r></p></e>
+      <e><p><l>dudil<s n="adj"/></l><r>unsure<s n="adj"/></r></p></e>
       <e><p><l>absûrd<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
       <e><p><l>absûrd<s n="adj"/></l><r>foolish<s n="adj"/></r></p></e>
       <e><p><l>absûrd<s n="adj"/></l><r>nonsense<s n="adj"/></r></p></e>
@@ -11577,7 +11590,6 @@
      <e><p><l>ramîn<s n="vblex"/><s n="TD"/></l><r>think<s n="vblex"/></r></p></e>
      <e><p><l>revîn<s n="vblex"/><s n="TD"/></l><r>escape<s n="vblex"/></r></p></e>
      <e><p><l>rûniştin<s n="vblex"/><s n="TD"/></l><r>sit<s n="vblex"/></r></p></e>
-     <e><p><l>sekinandin<s n="vblex"/><s n="TD"/></l><r>stop<s n="vblex"/></r></p></e>
      <e><p><l>sekinîn<s n="vblex"/><s n="TD"/></l><r>stay<s n="vblex"/></r></p></e>
      <e><p><l>sîqilandin<s n="vblex"/><s n="TD"/></l><r>incite<s n="vblex"/></r></p></e>
      <e><p><l>sîqilandin<s n="vblex"/><s n="TD"/></l><r>extinguish<s n="vblex"/></r></p></e>
