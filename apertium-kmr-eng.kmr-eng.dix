@@ -166,11 +166,13 @@
      
       <e><p><l>xwe<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>hev<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
+
      <!-- SECTION: Determiners -->
 
       <e><p><l>ev<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>ew<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>hindek<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>her<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
 
      <!-- SECTION: Numerals -->
 
@@ -5595,6 +5597,7 @@
       <e><p><l>pêşewatî<s n="n"/><s n="f"/></l><r>leadership<s n="n"/></r></p></e>
       <e><p><l>pêşgotin<s n="n"/><s n="f"/></l><r>foreword<s n="n"/></r></p></e>
       <e><p><l>pêşî<s n="n"/><s n="f"/></l><r>*mosquito<s n="n"/></r></p></e>
+      <e><p><l>pêşî<s n="n"/><s n="f"/></l><r>advance<s n="n"/></r></p></e>
       <e><p><l>pesin<s n="n"/><s n="m"/></l><r>praise<s n="n"/></r></p></e>
       <e><p><l>pêsîr<s n="n"/><s n="f"/></l><r>*thorax<s n="n"/></r></p></e>
       <e><p><l>pêşkeş<s n="n"/><s n="f"/></l><r>gift<s n="n"/></r></p></e>
@@ -6279,6 +6282,7 @@
       <e><p><l>renc<s n="n"/><s n="f"/></l><r>struggle<s n="n"/></r></p></e>
       <e><p><l>rê<s n="n"/><s n="f"/></l><r>road<s n="n"/></r></p></e>
       <e><p><l>rê<s n="n"/><s n="f"/></l><r>way<s n="n"/></r></p></e>
+      <e><p><l>rê<s n="n"/><s n="f"/></l><r>path<s n="n"/></r></p></e>
       <e><p><l>rengdêr<s n="n"/><s n="f"/></l><r>adjective<s n="n"/></r></p></e>
       <e><p><l>reng<s n="n"/><s n="m"/></l><r>colour<s n="n"/></r></p></e>
       <e><p><l>rengpîşe<s n="n"/><s n="f"/></l><r>adverb<s n="n"/></r></p></e>
