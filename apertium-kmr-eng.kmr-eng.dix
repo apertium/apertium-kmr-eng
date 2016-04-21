@@ -221,6 +221,59 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>kes<s n="n"/></l><r>person<s n="n"/></r></p></e>
+     <e><p><l>hesab<s n="n"/></l><r>account<s n="n"/></r></p></e>
+     <e><p><l>hesab<s n="n"/></l><r>calculation<s n="n"/></r></p></e>
+     <e><p><l>hêjahî<s n="n"/></l><r>dearness<s n="n"/></r></p></e>
+     <e><p><l>hêjahî<s n="n"/></l><r>worth<s n="n"/></r></p></e>
+     <e><p><l>hêjayî<s n="n"/></l><r>dearness<s n="n"/></r></p></e>
+     <e><p><l>hêjayî<s n="n"/></l><r>worth<s n="n"/></r></p></e>
+     <e><p><l>guhartin<s n="n"/></l><r>change<s n="n"/></r></p></e>
+     <e><p><l>guhertin<s n="n"/></l><r>change<s n="n"/></r></p></e>
+     <e><p><l>parlamento<s n="n"/></l><r>parliament<s n="n"/></r></p></e>
+     <e><p><l>girtî<s n="n"/></l><r>convict<s n="n"/></r></p></e>
+     <e><p><l>girtî<s n="n"/></l><r>prisoner<s n="n"/></r></p></e>
+     <e><p><l>fersend<s n="n"/></l><r>opportunity<s n="n"/></r></p></e>
+     <e><p><l>fersend<s n="n"/></l><r>chance<s n="n"/></r></p></e>
+     <e><p><l>firsend<s n="n"/></l><r>opportunity<s n="n"/></r></p></e>
+     <e><p><l>firsend<s n="n"/></l><r>chance<s n="n"/></r></p></e>
+     <e><p><l>diyar<s n="n"/></l><r>up<s n="n"/></r></p></e>
+     <e><p><l>diyar<s n="n"/></l><r>homeland<s n="n"/></r></p></e>
+     <e><p><l>diyar<s n="n"/></l><r>country<s n="n"/></r></p></e>
+     <e><p><l>aştî<s n="n"/></l><r>peace<s n="n"/></r></p></e>
+     <e><p><l>alîkar<s n="n"/></l><r>helper<s n="n"/></r></p></e>
+     <e><p><l>referandom<s n="n"/></l><r>referandum<s n="n"/></r></p></e>
+     <e><p><l>reform<s n="n"/></l><r>reform<s n="n"/></r></p></e>
+     <e><p><l>pîrozkirin<s n="n"/></l><r>congratulation<s n="n"/></r></p></e>
+     <e><p><l>pir<s n="n"/></l><r>bridge<s n="n"/></r></p></e>
+     <e><p><l>serek<s n="n"/><s n="m"/></l><r>leader<s n="n"/></r></p></e>
+     <e><p><l>serek<s n="n"/><s n="m"/></l><r>chief<s n="n"/></r></p></e>
+     <e><p><l>serkeftin<s n="n"/><s n="f"/></l><r>success<s n="n"/></r></p></e>
+     <e><p><l>serkeftin<s n="n"/><s n="f"/></l><r>victory<s n="n"/></r></p></e>
+     <e><p><l>serokatî<s n="n"/><s n="f"/></l><r>presidency<s n="n"/></r></p></e>
+     <e><p><l>şirîkbûn<s n="n"/><s n="f"/></l><r>cooperation<s n="n"/></r></p></e>
+     <e><p><l>tehdît<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>
+     <e><p><l>tehdîd<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>
+     <e><p><l>destkeft<s n="n"/><s n="f"/></l><r>acquisition<s n="n"/></r></p></e>
+     <e><p><l>destkeft<s n="n"/><s n="f"/></l><r>gain<s n="n"/></r></p></e>
+     <e><p><l>daxuyanî<s n="n"/><s n="f"/></l><r>notification<s n="n"/></r></p></e>
+     <e><p><l>daxuyanî<s n="n"/><s n="f"/></l><r>statement<s n="n"/></r></p></e>
+     <e><p><l>çareserî<s n="n"/><s n="f"/></l><r>solution<s n="n"/></r></p></e>
+     <e><p><l>birrîn<s n="n"/><s n="f"/></l><r>shearing<s n="n"/></r></p></e>
+     <e><p><l>birrîn<s n="n"/><s n="f"/></l><r>cutting<s n="n"/></r></p></e>
+     <e><p><l>birrîn<s n="n"/><s n="f"/></l><r>depletion<s n="n"/></r></p></e>
+     <e><p><l>birrîn<s n="n"/><s n="f"/></l><r>extinction<s n="n"/></r></p></e>
+     <e><p><l>birîn<s n="n"/><s n="f"/></l><r>shearing<s n="n"/></r></p></e>
+     <e><p><l>birîn<s n="n"/><s n="f"/></l><r>cutting<s n="n"/></r></p></e>
+     <e><p><l>birîn<s n="n"/><s n="f"/></l><r>depletion<s n="n"/></r></p></e>
+     <e><p><l>birîn<s n="n"/><s n="f"/></l><r>extinction<s n="n"/></r></p></e>
+     <e><p><l>bere<s n="n"/><s n="f"/></l><r>front<s n="n"/></r></p></e>
+     <e><p><l>asteng<s n="n"/><s n="f"/></l><r>obstacle<s n="n"/></r></p></e>
+     <e><p><l>arîşe<s n="n"/><s n="f"/></l><r>issue<s n="n"/></r></p></e>
+     <e><p><l>arîşe<s n="n"/><s n="f"/></l><r>problem<s n="n"/></r></p></e>
+     <e><p><l>aktîfkirin<s n="n"/><s n="f"/></l><r>activation<s n="n"/></r></p></e>
+     <e><p><l>adar<s n="n"/><s n="f"/></l><r>march<s n="n"/></r></p></e>
+     <e><p><l>îrade<s n="n"/><s n="f"/></l><r>will<s n="n"/></r></p></e>
      <e><p><l>bijarde<s n="n"/><s n="f"/></l><r>elite<s n="n"/></r></p></e>
      <e><p><l>nehiştin<s n="n"/><s n="f"/></l><r>prevention<s n="n"/></r></p></e>
      <e><p><l>nehîştin<s n="n"/><s n="f"/></l><r>prevention<s n="n"/></r></p></e>
@@ -8488,6 +8541,26 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>kiritîk<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
+     <e><p><l>kiritîk<s n="adj"/></l><r>critical<s n="adj"/></r></p></e>
+     <e><p><l>kesekî<s n="adj"/></l><r>rough<s n="adj"/></r></p></e>
+     <e><p><l>kesekî<s n="adj"/></l><r>rocky<s n="adj"/></r></p></e>
+     <e><p><l>hundirî<s n="adj"/></l><r>interior<s n="adj"/></r></p></e>
+     <e><p><l>hundirî<s n="adj"/></l><r>internal<s n="adj"/></r></p></e>
+     <e><p><l>hundirîn<s n="adj"/></l><r>interior<s n="adj"/></r></p></e>
+     <e><p><l>hundirîn<s n="adj"/></l><r>internal<s n="adj"/></r></p></e>
+     <e><p><l>girtî<s n="adj"/></l><r>imprisoned<s n="adj"/></r></p></e>
+     <e><p><l>girtî<s n="adj"/></l><r>arrested<s n="adj"/></r></p></e>
+     <e><p><l>girtî<s n="adj"/></l><r>enclosed<s n="adj"/></r></p></e>
+     <e><p><l>girtî<s n="adj"/></l><r>closed<s n="adj"/></r></p></e>
+     <e><p><l>federal<s n="adj"/></l><r>federal<s n="adj"/></r></p></e>
+     <e><p><l>diyar<s n="adj"/></l><r>visible<s n="adj"/></r></p></e>
+     <e><p><l>diyar<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
+     <e><p><l>alîkar<s n="adj"/></l><r>helpful<s n="adj"/></r></p></e>
+     <e><p><l>pir<s n="adj"/></l><r>many<s n="adj"/></r></p></e>
+     <e><p><l>sereke<s n="adj"/></l><r>major<s n="adj"/></r></p></e>
+     <e><p><l>sereke<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>
+     <e><p><l>sereke<s n="adj"/></l><r>main<s n="adj"/></r></p></e>
       <e><p><l>xembar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
       <e><p><l>xembar<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
       <e><p><l>xemdar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
