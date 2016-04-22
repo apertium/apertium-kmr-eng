@@ -5,6 +5,7 @@
   <sdefs>
     <sdef n="n"     c="Noun"/>
     <sdef n="prn"  c=""/>
+    <sdef n="fut"  c="Future"/>
     <sdef n="cnjcoo"  c=""/>
     <sdef n="cnjsub"  c=""/>
     <sdef n="cnjadv"  c=""/>
@@ -157,6 +158,7 @@
       <e><p><l>heta<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
 
      <e r="LR"><p><l>de<s n="post"/></l><r></r></p></e>
+     <e r="LR"><p><l>dê<s n="fut"/></l><r></r></p></e>
      <e r="LR"><p><l>re<s n="post"/></l><r></r></p></e>
 
      <!-- SECTION: Pronouns -->
