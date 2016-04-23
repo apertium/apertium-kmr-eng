@@ -16,5 +16,8 @@
 /apertium-kmr-eng.kmr-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/testvoc/bidix-unknowns.sh -text
+dev/testvoc/generation.sh -text
+dev/testvoc/streamparser.py -text
 /modes.xml -text
 texts/barzani_newroz.kmr.txt -text
