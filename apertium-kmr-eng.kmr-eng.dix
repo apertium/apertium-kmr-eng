@@ -71,6 +71,9 @@
       <e><p><l>û<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+      <e><p><l>an<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yan<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
+      <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
       <e><p><l>piştî<b/>ku<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
 
@@ -223,6 +226,14 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>ra<s n="n"/></l><r>display<s n="n"/></r></p></e>
+     <e><p><l>ra<s n="n"/></l><r>path<s n="n"/></r></p></e>
+     <e><p><l>ra<s n="n"/></l><r>root<s n="n"/></r></p></e>
+     <e><p><l>ra<s n="n"/></l><r>road<s n="n"/></r></p></e>
+     <e><p><l>ra<s n="n"/></l><r>vein<s n="n"/></r></p></e>
+     <e><p><l>jiyan<s n="n"/></l><r>life<s n="n"/></r></p></e>
+     <e><p><l>bajar<s n="n"/></l><r>province<s n="n"/></r></p></e>
+     <e><p><l>bajar<s n="n"/></l><r>city<s n="n"/></r></p></e>
      <e><p><l>kes<s n="n"/></l><r>person<s n="n"/></r></p></e>
      <e><p><l>hesab<s n="n"/></l><r>account<s n="n"/></r></p></e>
      <e><p><l>hesab<s n="n"/></l><r>calculation<s n="n"/></r></p></e>
@@ -11469,6 +11480,10 @@
       <e><p><l>dîsa<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
       <e><p><l>dîsan<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
       <e><p><l>mixabin<s n="adv"/></l><r>unfortunately<s n="adv"/></r></p></e>
+
+      <e><p><l>êdî<s n="adv"/></l><r>from<b/>now<b/>on<s n="adv"/></r></p></e>
+      <e><p><l>êdî<s n="adv"/></l><r>any<b/>more<s n="adv"/></r></p></e>
+      <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
 
