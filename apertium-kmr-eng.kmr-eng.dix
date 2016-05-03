@@ -8555,6 +8555,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>din<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
      <e><p><l>kiritîk<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
      <e><p><l>kiritîk<s n="adj"/></l><r>critical<s n="adj"/></r></p></e>
      <e><p><l>kesekî<s n="adj"/></l><r>rough<s n="adj"/></r></p></e>
@@ -11488,6 +11489,7 @@
 
      <!-- SECTION: Verbs -->
 
+      <e><p><l>dan<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
       <e><p><l>bûn<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
 
       <e><p><l>hebûn<s n="vbhaver"/></l><r>there<b/>be<s n="vblex"/></r></p></e>
