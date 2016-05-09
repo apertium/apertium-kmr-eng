@@ -29,3 +29,5 @@ t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
 texts/barzani_newroz.kmr.txt -text
+texts/xurm-trans-hand.txt -text
+texts/xurmatu.txt -text

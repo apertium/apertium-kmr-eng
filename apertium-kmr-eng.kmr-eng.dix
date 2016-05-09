@@ -53,7 +53,7 @@
     <sdef n="rpar" 	c=""/> 
     <sdef n="lquot" 	c=""/> 
     <sdef n="rquot" 	c=""/> 
-
+    <sdef n="org"      c=""/>
   </sdefs>
 
    <section id="main" type="standard">
@@ -76,8 +76,9 @@
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
       <e><p><l>piştî<b/>ku<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
-
+      <e><p><l>hem<s n="cnjsub"/></l><r>both<s n="cnjsub"/></r></p></e>
       <e><p><l>ku<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+      <e><p><l>bo<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
 
       <e><p><l>ji<b/>ber<b/>ku<s n="cnjsub"/></l><r>because<s n="cnjadv"/></r></p></e>
 
@@ -96,6 +97,7 @@
       <e><p><l>ber<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
       <e><p><l>bêyî<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
       <e><p><l>bêy<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
+      <e><p><l>bo<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
       <e><p><l>bi<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>bi<s n="pr"/></l><r>in<s n="pr"/></r></p></e> <!-- bi kurdî -->
       <e><p><l>bi<s n="pr"/></l><r>along<g><b/>with</g><s n="pr"/></r></p></e>
@@ -180,6 +182,7 @@
       <e><p><l>ev<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>ew<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>hindek<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>hin<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
 
      <!-- SECTION: Numerals -->
@@ -229,6 +232,10 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>hincet<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
+     <e><p><l>hêncet<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
+     <e><p><l>welatî<s n="n"/></l><r>countryman<s n="n"/></r></p></e>
+     <e><p><l>welatî<s n="n"/></l><r>citizen<s n="n"/></r></p></e>
      <e><p><l>şîe<s n="n"/></l><r>shia<s n="n"/></r></p></e>
      <e><p><l>sirûşt<s n="n"/></l><r>nature<s n="n"/></r></p></e>
      <e><p><l>ra<s n="n"/></l><r>display<s n="n"/></r></p></e>
@@ -8540,10 +8547,13 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
-      <e><p><l>Heşda<b/>Şeibî<s n="np"/><s n="top"/><s n="f"/></l><r>Hashd<b/>al<b/>Shaabi<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>DAIŞ<s n="np"/><s n="top"/><s n="f"/></l><r>ISIS<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Kerkûk<s n="np"/><s n="top"/><s n="f"/></l><r>Kirkuk<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Heşda<b/>Şeibî<s n="np"/><s n="org"/><s n="al"/><s n="f"/></l><r>Hashd<b/>al<b/>Shaabi<s n="np"/><s n="org"/><s n="pl"/></r></p></e>
       <e><p><l>Xurmatû<s n="np"/><s n="top"/><s n="f"/></l><r>Tuz<b/>Khurmatu<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Diyarbekir<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakir<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Iraq<s n="np"/><s n="top"/><s n="f"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Îran<s n="np"/><s n="top"/><s n="f"/></l><r>Iran<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Bexda<s n="np"/><s n="top"/><s n="f"/></l><r>Baghdad<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Şirnex<s n="np"/><s n="top"/><s n="f"/></l><r>Şirnex<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kurdistan<s n="np"/><s n="top"/><s n="f"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
@@ -8561,6 +8571,8 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>navdar<s n="adj"/></l><r>navdar<s n="adj"/></r></p></e>
+     <e><p><l>giredayî<s n="adj"/></l><r>connected<s n="adj"/></r></p></e>
      <e><p><l>zêde<s n="adj"/></l><r>many<s n="adj"/></r></p></e>     
      <e><p><l>pirr<s n="adj"/></l><r>many<s n="adj"/></r></p></e>
      <e><p><l>din<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
@@ -11480,7 +11492,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
-
+      <e><p><l>vêga<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
       <e><p><l>dû<b/>re<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
       <e><p><l>dû<b/>re<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
       <e><p><l>carînan<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
