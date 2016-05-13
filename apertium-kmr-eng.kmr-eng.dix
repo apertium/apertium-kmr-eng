@@ -20,6 +20,7 @@
     <sdef n="al"  c=""/>
     <sdef n="ant"  c=""/>
     <sdef n="post"  c=""/>
+    <sdef n="itg"      c="Interrogative"/>
     <sdef n="pr"  c=""/>
     <sdef n="adj"   c="Adjective"/>
     <sdef n="adv"   c="Adverb"/>
@@ -1360,6 +1361,9 @@
       <e><p><l>cejn<s n="n"/><s n="f"/></l><r>feast<s n="n"/></r></p></e>
       <e><p><l>cejn<s n="n"/><s n="f"/></l><r>holiday<s n="n"/></r></p></e>
       <e><p><l>çek<s n="n"/><s n="f"/></l><r>clothing<s n="n"/></r></p></e>
+      <e><p><l>çêkirin<s n="n"/><s n="f"/></l><r>production<s n="n"/></r></p></e>
+      <e><p><l>çêkirin<s n="n"/><s n="f"/></l><r>making<s n="n"/></r></p></e>
+      <e><p><l>çêkirin<s n="n"/><s n="f"/></l><r>foundation<s n="n"/></r></p></e>
       <e><p><l>çelak<s n="n"/><s n="m"/></l><r>pole<s n="n"/></r></p></e>
       <e><p><l>çelak<s n="n"/><s n="m"/></l><r>stake<s n="n"/></r></p></e>
       <e><p><l>celeb<s n="n"/><s n="m"/></l><r>kind<s n="n"/></r></p></e>
@@ -8547,6 +8551,10 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+
+      <e><p><l>Mêrdîn<s n="np"/><s n="top"/><s n="f"/></l><r>Mardin<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Wan<s n="np"/><s n="top"/><s n="f"/></l><r>Van<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Amed<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakir<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>DAIŞ<s n="np"/><s n="top"/><s n="f"/></l><r>ISIS<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kerkûk<s n="np"/><s n="top"/><s n="f"/></l><r>Kirkuk<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Heşda<b/>Şeibî<s n="np"/><s n="org"/><s n="al"/><s n="f"/></l><r>Hashd<b/>al<b/>Shaabi<s n="np"/><s n="org"/><s n="pl"/></r></p></e>
@@ -8564,15 +8572,17 @@
       <e><p><l>Sûriye<s n="np"/><s n="top"/><s n="f"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Sûrîye<s n="np"/><s n="top"/><s n="f"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
 
-
+      <e><p><l>Mihemed<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Salih<s n="np"/><s n="ant"/><s n="m"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mesûd<s n="np"/><s n="ant"/><s n="m"/></l><r>Masoud<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Barzanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Barzani<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
-     <e><p><l>navdar<s n="adj"/></l><r>navdar<s n="adj"/></r></p></e>
-     <e><p><l>giredayî<s n="adj"/></l><r>connected<s n="adj"/></r></p></e>
+     <e><p><l>amade<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
+     <e><p><l>navdar<s n="adj"/></l><r>named<s n="adj"/></r></p></e>
+     <e><p><l>girêdayî<s n="adj"/></l><r>connected<s n="adj"/></r></p></e>
+     <e><p><l>grêdayî<s n="adj"/></l><r>connected<s n="adj"/></r></p></e>
      <e><p><l>zêde<s n="adj"/></l><r>many<s n="adj"/></r></p></e>     
      <e><p><l>pirr<s n="adj"/></l><r>many<s n="adj"/></r></p></e>
      <e><p><l>din<s n="adj"/></l><r>other<s n="adj"/></r></p></e>
@@ -11492,6 +11502,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+      <e><p><l>çi<s n="adv"/><s n="itg"/></l><r>what<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>vêga<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
       <e><p><l>dû<b/>re<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
       <e><p><l>dû<b/>re<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
