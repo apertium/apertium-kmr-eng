@@ -7899,6 +7899,7 @@
       <e><p><l>vatinî<s n="n"/><s n="f"/></l><r>task<s n="n"/></r></p></e>
       <e><p><l>vazo<s n="n"/><s n="f"/></l><r>vase<s n="n"/></r></p></e>
       <e><p><l>veavakirin<s n="n"/><s n="f"/></l><r>rebuilding<s n="n"/></r></p></e>
+      <e><p><l>avakirin<s n="n"/><s n="f"/></l><r>construction<s n="n"/></r></p></e>
       <e><p><l>veberanîn<s n="n"/><s n="f"/></l><r>investment<s n="n"/></r></p></e>
       <e><p><l>vebûn<s n="n"/><s n="f"/></l><r>open<s n="n"/></r></p></e>
       <e><p><l>vebûn<s n="n"/><s n="f"/></l><r>*unfurl<s n="n"/></r></p></e>
@@ -8553,7 +8554,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
-
+      <e><p><l>Ewropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Mêrdîn<s n="np"/><s n="top"/><s n="f"/></l><r>Mardin<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Wan<s n="np"/><s n="top"/><s n="f"/></l><r>Van<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amed<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakir<s n="np"/><s n="top"/></r></p></e>
@@ -11642,14 +11643,15 @@
      <e><p><l>teqîn<s n="vblex"/><s n="iv"/></l><r>burst<s n="vblex"/></r></p></e>
      <e><p><l>tirsandin<s n="vblex"/><s n="tv"/></l><r>scare<s n="vblex"/></r></p></e>
      <e><p><l>tirsandin<s n="vblex"/><s n="tv"/></l><r>fear<s n="vblex"/></r></p></e>
+     <e><p><l>valakirin<s n="vblex"/><s n="tv"/></l><r>empty<s n="vblex"/></r></p></e>
      <e><p><l>xapandin<s n="vblex"/><s n="tv"/></l><r>deceive<s n="vblex"/></r></p></e>
      <e><p><l>xapandin<s n="vblex"/><s n="tv"/></l><r>fool<s n="vblex"/></r></p></e>
      <e><p><l>xemilandin<s n="vblex"/><s n="tv"/></l><r>decorate<s n="vblex"/></r></p></e>
      <e><p><l>xemilandin<s n="vblex"/><s n="tv"/></l><r>adorn<s n="vblex"/></r></p></e>
      <e><p><l>xwestin<s n="vblex"/><s n="tv"/></l><r>want<s n="vblex"/></r></p></e>
      <e><p><l>zivirandin<s n="vblex"/><s n="tv"/></l><r>turn<g><b/>around</g><s n="vblex"/></r></p></e>
-
-
+     <e><p><l>weşandin<s n="vblex"/><s n="tv"/></l><r>publish<s n="vblex"/></r></p></e>
+     <e><p><l>avakirin<s n="vblex"/><s n="tv"/></l><r>build<s n="vblex"/></r></p></e>
      <!-- SECTION: Interjections -->
 
      <!-- SECTION: Punctuation -->
@@ -11759,7 +11761,7 @@
      <e><p><l>vexwendin<s n="vblex"/><s n="TD"/></l><r>invite<s n="vblex"/></r></p></e>
      <e><p><l>wergerandin<s n="vblex"/><s n="TD"/></l><r>translate<s n="vblex"/></r></p></e>
      <e><p><l>westandin<s n="vblex"/><s n="TD"/></l><r>tire<s n="vblex"/></r></p></e>
-     <e><p><l>weşandin<s n="vblex"/><s n="TD"/></l><r>publish<s n="vblex"/></r></p></e>
+
      <e><p><l>xeniqîn<s n="vblex"/><s n="TD"/></l><r>drown<s n="vblex"/></r></p></e>
      <e><p><l>xirxirandin<s n="vblex"/><s n="TD"/></l><r>tug<s n="vblex"/></r></p></e>
      <e><p><l>zewicîn<s n="vblex"/><s n="TD"/></l><r>marry<s n="vblex"/></r></p></e>
