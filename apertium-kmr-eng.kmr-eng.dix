@@ -233,6 +233,7 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>kur<s n="n"/></l><r>son<s n="n"/></r></p></e>
      <e><p><l>hincet<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
      <e><p><l>hêncet<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
      <e><p><l>welatî<s n="n"/></l><r>countryman<s n="n"/></r></p></e>
@@ -7969,6 +7970,7 @@
       <e><p><l>waje<s n="n"/><s n="f"/></l><r>notion<s n="n"/></r></p></e>
       <e><p><l>waje<s n="n"/><s n="f"/></l><r>*purview<s n="n"/></r></p></e>
       <e><p><l>waje<s n="n"/><s n="f"/></l><r>term<s n="n"/></r></p></e>
+      <e><p><l>wate<s n="n"/><s n="f"/></l><r>meaning<s n="n"/></r></p></e>
       <e><p><l>warîde<s n="n"/><s n="m"/></l><r>earnings<s n="n"/><s n="pl"/></r></p></e>
       <e><p><l>warîde<s n="n"/><s n="m"/></l><r>income<s n="n"/></r></p></e>
       <e><p><l>warîl<s n="n"/><s n="f"/></l><r>barrel<s n="n"/></r></p></e>
@@ -8579,6 +8581,10 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+
+
+     <e><p><l>erebî<s n="adj"/></l><r>arabic<s n="adj"/></r></p></e>
+     <e><p><l>fermî<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
      <e><p><l>amade<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
      <e><p><l>navdar<s n="adj"/></l><r>named<s n="adj"/></r></p></e>
      <e><p><l>girêdayî<s n="adj"/></l><r>connected<s n="adj"/></r></p></e>
@@ -11502,7 +11508,9 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+      <e><p><l>heman<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
       <e><p><l>çi<s n="adv"/><s n="itg"/></l><r>what<s n="adv"/><s n="itg"/></r></p></e>
+      <e><p><l>îro<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
       <e><p><l>vêga<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
       <e><p><l>dû<b/>re<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
       <e><p><l>dû<b/>re<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
@@ -11598,6 +11606,7 @@
      <e><p><l>firîn<s n="vblex"/><s n="iv"/></l><r>fly<s n="vblex"/></r></p></e>
      <e><p><l>firîn<s n="vblex"/><s n="iv"/></l><r>jump<s n="vblex"/></r></p></e>
      <e><p><l>firotin<s n="vblex"/><s n="tv"/></l><r>sell<s n="vblex"/></r></p></e>
+     <e><p><l>girtin<s n="vblex"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
      <e><p><l>girtin<s n="vblex"/><s n="tv"/></l><r>close<s n="vblex"/></r></p></e>
      <e><p><l>girtin<s n="vblex"/><s n="tv"/></l><r>detain<s n="vblex"/></r></p></e>
      <e><p><l>girtin<s n="vblex"/><s n="tv"/></l><r>surround<s n="vblex"/></r></p></e>
