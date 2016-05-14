@@ -86,7 +86,8 @@
 
 
      <!-- SECTION: Adpositions -->
-
+      <e><p><l>jê<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
+      <e><p><l>navbera<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
       <e><p><l>wek<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
       <e><p><l>wekî<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
       <e><p><l>wek<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
@@ -185,7 +186,7 @@
       <e><p><l>hindek<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hin<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
-
+      <e><p><l>çend<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
      <!-- SECTION: Numerals -->
 
      <e><p><l>yek<s n="num"/></l><r>one<s n="num"/></r></p></e>
@@ -233,6 +234,39 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>perwaz<s n="n"/></l><r>flight<s n="n"/></r></p></e>
+     <e><p><l>perwaz<s n="n"/></l><r>flying,<s n="n"/></r></p></e>
+     <e><p><l>perwaz<s n="n"/></l><r>wing<s n="n"/></r></p></e>
+     <e><p><l>pexşan<s n="n"/></l><r>prose<s n="n"/></r></p></e>
+     <e><p><l>peşk<s n="n"/></l><r>sprinkle<s n="n"/></r></p></e>
+     <e><p><l>pereng<s n="n"/></l><r>ember<s n="n"/></r></p></e>
+     <e><p><l>pere<s n="n"/></l><r>money<s n="n"/></r></p></e>
+     <e><p><l>pergal<s n="n"/></l><r>tool<s n="n"/></r></p></e>
+     <e><p><l>pergal<s n="n"/></l><r>means,<s n="n"/></r></p></e>
+     <e><p><l>pergal<s n="n"/></l><r>order,<s n="n"/></r></p></e>
+     <e><p><l>pez<s n="n"/></l><r>flock<s n="n"/></r></p></e>
+     <e><p><l>pez<s n="n"/></l><r>goat,<s n="n"/></r></p></e>
+     <e><p><l>pez<s n="n"/></l><r>sheep,<s n="n"/></r></p></e>
+     <e><p><l>peywir<s n="n"/></l><r>duty<s n="n"/></r></p></e>
+     <e><p><l>peyvik<s n="n"/></l><r>word<s n="n"/></r></p></e>
+     <e><p><l>peyvok<s n="n"/></l><r>word<s n="n"/></r></p></e>
+     <e><p><l>pervgerî<s n="n"/></l><r>gossip<s n="n"/></r></p></e>
+     <e><p><l>peyv<s n="n"/></l><r>word<s n="n"/></r></p></e>
+     <e><p><l>peyv<s n="n"/></l><r>speech,<s n="n"/></r></p></e>
+     <e><p><l>peykan<s n="n"/></l><r>arrowhead<s n="n"/></r></p></e>
+     <e><p><l>peykan<s n="n"/></l><r>arrow,<s n="n"/></r></p></e>
+     <e><p><l>peyk<s n="n"/></l><r>messenger<s n="n"/></r></p></e>
+     <e><p><l>peyk<s n="n"/></l><r>satellite,<s n="n"/></r></p></e>
+     <e><p><l>hedar<s n="n"/></l><r>stabilization<s n="n"/></r></p></e>
+     <e><p><l>hedar<s n="n"/></l><r>stability,<s n="n"/></r></p></e>
+     <e><p><l>hebanî<s n="n"/></l><r>retail<s n="n"/></r></p></e>
+     <e><p><l>heb<s n="n"/></l><r>grain<s n="n"/></r></p></e>
+     <e><p><l>heb<s n="n"/></l><r>kernel,<s n="n"/></r></p></e>
+     <e><p><l>heb<s n="n"/></l><r>piece,<s n="n"/></r></p></e>
+     <e><p><l>heb<s n="n"/></l><r>item,<s n="n"/></r></p></e>
+     <e><p><l>heb<s n="n"/></l><r>pill,<s n="n"/></r></p></e>
+
+     <e><p><l>nivîsandin<s n="n"/></l><r>writing<s n="n"/></r></p></e>
      <e><p><l>kur<s n="n"/></l><r>son<s n="n"/></r></p></e>
      <e><p><l>hincet<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
      <e><p><l>hêncet<s n="n"/></l><r>excuse<s n="n"/></r></p></e>
@@ -8582,6 +8616,16 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>perîşan<s n="adj"/></l><r>wretched<s n="adj"/></r></p></e>
+     <e><p><l>perîşan<s n="adj"/></l><r>miserable,<s n="adj"/></r></p></e>
+     <e><p><l>peywend<s n="adj"/></l><r>related<s n="adj"/></r></p></e>
+     <e><p><l>peywend<s n="adj"/></l><r>connected,<s n="adj"/></r></p></e>
+     <e><p><l>hazir<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
+     <e><p><l>perîşan ; adjcomp ; miserable, wretched<s n="adj"/></l><r>wretched<s n="adj"/></r></p></e>
+     <e><p><l>perîşan ; adjcomp ; miserable, wretched<s n="adj"/></l><r>miserable,<s n="adj"/></r></p></e>
+     <e><p><l>peywend ; adjcomp ; connected, related<s n="adj"/></l><r>related<s n="adj"/></r></p></e>
+     <e><p><l>peywend ; adjcomp ; connected, related<s n="adj"/></l><r>connected,<s n="adj"/></r></p></e>
+     <e><p><l>hazir; adjcomp ; ready<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
 
 
      <e><p><l>erebî<s n="adj"/></l><r>arabic<s n="adj"/></r></p></e>
@@ -11509,6 +11553,8 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+      <e><p><l>çend<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
+      <e><p><l>pêş<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
       <e><p><l>heman<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
       <e><p><l>çi<s n="adv"/><s n="itg"/></l><r>what<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>îro<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
@@ -11530,6 +11576,8 @@
 
      <!-- SECTION: Verbs -->
 
+      <e><p><l>nivîsandin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
+      <e><p><l>nivîsin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>dan<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
       <e><p><l>bûn<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
 
