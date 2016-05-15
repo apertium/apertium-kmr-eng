@@ -3,6 +3,7 @@
   <alphabet></alphabet>
 
   <sdefs>
+    <sdef n="abbr"     c="Abbreviation"/>
     <sdef n="n"     c="Noun"/>
     <sdef n="prn"  c=""/>
     <sdef n="fut"  c="Future"/>
@@ -58,6 +59,10 @@
   </sdefs>
 
    <section id="main" type="standard">
+
+     <!-- SECTION: Abbreviations -->
+
+      <e><p><l>hwd<s n="abbr"/></l><r>etc.<s n="abbr"/></r></p></e>
 
      <!-- SECTION: Miscellaneous -->
 
@@ -230,10 +235,21 @@
      <e><p><l>heştsed<s n="num"/></l><r>eight<b/>hundred<s n="num"/></r></p></e>
      <e><p><l>nehsed<s n="num"/></l><r>nine<b/>hundred<s n="num"/></r></p></e>
      <e><p><l>hezar<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
-
+     <e><p><l>milyon<s n="num"/></l><r>million<s n="num"/></r></p></e>
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>navend<s n="n"/></l><r>centre<s n="n"/></r></p></e>
+     <e><p><l>cure<s n="n"/></l><r>type<s n="n"/></r></p></e>
+     <e><p><l>cure<s n="n"/></l><r>kind<s n="n"/></r></p></e>
+     <e><p><l>cur<s n="n"/></l><r>type<s n="n"/></r></p></e>
+     <e><p><l>cur<s n="n"/></l><r>kind<s n="n"/></r></p></e>
+     <e><p><l>cure<s n="n"/></l><r>sort<s n="n"/></r></p></e>
+     <e><p><l>cure<s n="n"/></l><r>type,<s n="n"/></r></p></e>
+     <e><p><l>cure<s n="n"/></l><r>kind,<s n="n"/></r></p></e>
+     <e><p><l>cur<s n="n"/></l><r>sort<s n="n"/></r></p></e>
+     <e><p><l>cur<s n="n"/></l><r>type,<s n="n"/></r></p></e>
+     <e><p><l>cur<s n="n"/></l><r>kind,<s n="n"/></r></p></e>
      <e><p><l>perwaz<s n="n"/></l><r>flight<s n="n"/></r></p></e>
      <e><p><l>perwaz<s n="n"/></l><r>flying,<s n="n"/></r></p></e>
      <e><p><l>perwaz<s n="n"/></l><r>wing<s n="n"/></r></p></e>
@@ -8588,13 +8604,14 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Elî<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ewropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Mêrdîn<s n="np"/><s n="top"/><s n="f"/></l><r>Mardin<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Wan<s n="np"/><s n="top"/><s n="f"/></l><r>Van<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Amed<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakir<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>DAIŞ<s n="np"/><s n="top"/><s n="f"/></l><r>ISIS<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kerkûk<s n="np"/><s n="top"/><s n="f"/></l><r>Kirkuk<s n="np"/><s n="top"/></r></p></e>
-      <e><p><l>Heşda<b/>Şeibî<s n="np"/><s n="org"/><s n="al"/><s n="f"/></l><r>Hashd<b/>al<b/>Shaabi<s n="np"/><s n="org"/><s n="pl"/></r></p></e>
+      <e><p><l>Heşda<b/>Şeibî<s n="np"/><s n="org"/><s n="f"/></l><r>Hashd<b/>al<b/>Shaabi<s n="np"/><s n="org"/><s n="pl"/></r></p></e>
       <e><p><l>Xurmatû<s n="np"/><s n="top"/><s n="f"/></l><r>Tuz<b/>Khurmatu<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Diyarbekir<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakir<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Iraq<s n="np"/><s n="top"/><s n="f"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
@@ -8616,6 +8633,18 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>çû<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
+     <e><p><l>navîn<s n="adj"/></l><r>‌<b/>middle<s n="adj"/></r></p></e>
+     <e><p><l>tevî<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
+     <e><p><l>tevî<s n="adj"/></l><r>total<s n="adj"/></r></p></e>
+     <e><p><l>cuda<s n="adj"/></l><r>seperate<s n="adj"/></r></p></e>
+     <e><p><l>giştî<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
+     <e><p><l>cuda<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+     <e><p><l>cuda<s n="adj"/></l><r>seperate,<s n="adj"/></r></p></e>
+     <e><p><l>giştî<s n="adj"/></l><r>public<s n="adj"/></r></p></e>
+     <e><p><l>giştî<s n="adj"/></l><r>general,<s n="adj"/></r></p></e>
+     <e><p><l>çû<s n="adj"/></l><r>‌past<s n="adj"/></r></p></e>
+     <e><p><l>navîn<s n="adj"/></l><r>middle<s n="adj"/></r></p></e>
      <e><p><l>perîşan<s n="adj"/></l><r>wretched<s n="adj"/></r></p></e>
      <e><p><l>perîşan<s n="adj"/></l><r>miserable,<s n="adj"/></r></p></e>
      <e><p><l>peywend<s n="adj"/></l><r>related<s n="adj"/></r></p></e>
@@ -11553,6 +11582,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>piştre<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
       <e><p><l>çend<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
       <e><p><l>pêş<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
       <e><p><l>heman<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
@@ -11575,7 +11605,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
-
+      <e><p><l>xwandin<s n="vblex"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>
       <e><p><l>nivîsandin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>nivîsin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>dan<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
