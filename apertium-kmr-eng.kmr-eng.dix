@@ -31,6 +31,7 @@
     <sdef n="vbcop"  c=""/>
     <sdef n="vbser"  c=""/>
     <sdef n="vbhaver"  c=""/>
+    <sdef n="vbmod"  c=""/>
     <sdef n="tv"  c=""/>
     <sdef n="TD"  c=""/>
     <sdef n="iv"  c=""/>
@@ -63,9 +64,12 @@
      <!-- SECTION: Abbreviations -->
 
       <e><p><l>hwd<s n="abbr"/></l><r>etc.<s n="abbr"/></r></p></e>
+      <e><p><l>km<s n="abbr"/></l><r>kilometer<s n="n"/><s n="pl"/></r></p></e>
+      <e><p><l>m<s n="abbr"/></l><r>meter<s n="n"/><s n="pl"/></r></p></e>
 
      <!-- SECTION: Miscellaneous -->
-
+     <e r="LR"><p><l>br</l><r></r></p></e>
+     <e r="LR"><p><l>z</l><r></r></p></e>
      <e r="LR"><p><l>yê<s n="con"/><s n="m"/><s n="sg"/></l><r></r></p></e>
      <e r="LR"><p><l>yê<s n="con"/><s n="mf"/><s n="pl"/></l><r></r></p></e>
      <e r="LR"><p><l>yê<s n="con"/><s n="f"/><s n="sg"/></l><r></r></p></e>
@@ -78,6 +82,7 @@
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ango<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
@@ -239,6 +244,32 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>encamdan<s n="n"/></l><r>result<s n="n"/></r></p></e>
+     <e><p><l>zarok<s n="n"/></l><r>kid<s n="n"/></r></p></e>
+     <e><p><l>zarok<s n="n"/></l><r>child<s n="n"/></r></p></e>
+     <e><p><l>beş<s n="n"/></l><r>sector<s n="n"/></r></p></e>
+     <e><p><l>beş<s n="n"/></l><r>part<s n="n"/></r></p></e>
+     <e><p><l>beş<s n="n"/></l><r>piece<s n="n"/></r></p></e>
+     <e><p><l>beş<s n="n"/></l><r>share<s n="n"/></r></p></e>
+     <e><p><l>rê<s n="n"/></l><r>road<s n="n"/></r></p></e>
+     <e><p><l>rê<s n="n"/></l><r>path<s n="n"/></r></p></e>
+     <e><p><l>hîn<s n="n"/></l><r>learning<s n="n"/></r></p></e>
+     <e><p><l>famîle<s n="n"/></l><r>family<s n="n"/></r></p></e>
+     <e><p><l>heya<s n="n"/></l><r>shame<s n="n"/></r></p></e>
+     <e><p><l>heya<s n="n"/></l><r>genitals<s n="n"/></r></p></e>
+     <e><p><l>alfabe<s n="n"/></l><r>alphabet<s n="n"/></r></p></e>
+     <e><p><l>xwendin<s n="n"/></l><r>reading<s n="n"/></r></p></e>
+     <e><p><l>împeratorî<s n="n"/></l><r>empire<s n="n"/></r></p></e>
+     <e><p><l>rastî<s n="n"/></l><r>reality<s n="n"/></r></p></e>
+     <e><p><l>rastî<s n="n"/></l><r>truth<s n="n"/></r></p></e>
+     <e><p><l>nivîskar<s n="n"/></l><r>writer<s n="n"/></r></p></e>
+     <e><p><l>nêzîkî<s n="n"/></l><r>proximity<s n="n"/></r></p></e>
+     <e><p><l>serjimarî<s n="n"/></l><r>census<s n="n"/></r></p></e>
+     <e><p><l>hatin<s n="n"/></l><r>coming<s n="n"/></r></p></e>
+     <e><p><l>naskirin<s n="n"/></l><r>recognition<s n="n"/></r></p></e>
+     <e><p><l>kuştin<s n="n"/></l><r>killing<s n="n"/></r></p></e>
+     <e><p><l>şaristan<s n="n"/></l><r>city<s n="n"/></r></p></e>
+     <e><p><l>gundistan<s n="n"/></l><r>district<s n="n"/></r></p></e>
      <e><p><l>navend<s n="n"/></l><r>centre<s n="n"/></r></p></e>
      <e><p><l>cure<s n="n"/></l><r>type<s n="n"/></r></p></e>
      <e><p><l>cure<s n="n"/></l><r>kind<s n="n"/></r></p></e>
@@ -8604,6 +8635,22 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Serdeşt<s n="np"/><s n="top"/><s n="f"/></l><r>Sardasht<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Farqîn<s n="np"/><s n="top"/><s n="f"/></l><r>Silvan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Efrîn<s n="np"/><s n="top"/><s n="f"/></l><r>Afrin<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Erzîrom<s n="np"/><s n="top"/><s n="f"/></l><r>Erzurum<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mûş<s n="np"/><s n="top"/><s n="f"/></l><r>Muş<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Stenbol<s n="np"/><s n="top"/><s n="f"/></l><r>Istanbul<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Amerîka<s n="np"/><s n="top"/><s n="f"/></l><r>America<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Îsa<s n="np"/><s n="ant"/><s n="m"/></l><r>Isa<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Bedirxan<s n="np"/><s n="ant"/><s n="m"/></l><r>Bedirxan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Swêd<s n="np"/><s n="top"/><s n="f"/></l><r>Sweden<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Îraq<s n="np"/><s n="top"/><s n="f"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ehmed<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmed<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Almanya<s n="np"/><s n="top"/><s n="f"/></l><r>Germany<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Sêrt<s n="np"/><s n="top"/><s n="f"/></l><r>Siirt<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Fransa<s n="np"/><s n="top"/><s n="f"/></l><r>France<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Dêrsim<s n="np"/><s n="top"/><s n="f"/></l><r>Tunceli<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Elî<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ewropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Mêrdîn<s n="np"/><s n="top"/><s n="f"/></l><r>Mardin<s n="np"/><s n="top"/></r></p></e>
@@ -8633,6 +8680,14 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>dewlemend<s n="adj"/></l><r>wealthy<s n="adj"/></r></p></e>
+     <e><p><l>dewlemend<s n="adj"/></l><r>rich<s n="adj"/></r></p></e>
+     <e><p><l>reş<s n="adj"/></l><r>dark<s n="adj"/></r></p></e>
+     <e><p><l>reş<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
+     <e><p><l>dîrokî<s n="adj"/></l><r>historical<s n="adj"/></r></p></e>
+     <e><p><l>yekemîn<s n="adj"/></l><r>foremost<s n="adj"/></r></p></e>
+     <e><p><l>yekemîn<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
+     <e><p><l>nêzîk<s n="adj"/></l><r>close<s n="adj"/></r></p></e>
      <e><p><l>çû<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
      <e><p><l>navîn<s n="adj"/></l><r>‌<b/>middle<s n="adj"/></r></p></e>
      <e><p><l>tevî<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
@@ -11582,6 +11637,9 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>nêzî<s n="adv"/></l><r>nearly<s n="adv"/></r></p></e>
+     <e><p><l>hê<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
+     <e><p><l>hê<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
      <e><p><l>piştre<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
       <e><p><l>çend<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
       <e><p><l>pêş<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
@@ -11605,6 +11663,11 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+
+     <e><p><l>karîn<s n="vblex"/><s n="tv"/></l><r>be<b/>able<b/>to<s n="vbmod"/></r></p></e>
+     <e><p><l>derketin<s n="vblex"/><s n="tv"/></l><r>go<b/>out<s n="vblex"/></r></p></e>
+     <e><p><l>naskirin<s n="vblex"/><s n="tv"/></l><r>recognize<s n="vblex"/></r></p></e>
+      <e><p><l>kuştin<s n="vblex"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
       <e><p><l>xwandin<s n="vblex"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>
       <e><p><l>nivîsandin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>nivîsin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
