@@ -188,6 +188,8 @@
      
       <e><p><l>xwe<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>hev<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
+      <e><p><l>çi<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p></e>
+
 
      <!-- SECTION: Determiners -->
 
@@ -244,6 +246,9 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>YNK<s n="n"/></l><r>YNK<s n="n"/></r></p></e>
+     <e><p><l>HDP<s n="n"/></l><r>HDP<s n="n"/></r></p></e>
+
      <e><p><l>encamdan<s n="n"/></l><r>result<s n="n"/></r></p></e>
      <e><p><l>zarok<s n="n"/></l><r>kid<s n="n"/></r></p></e>
      <e><p><l>zarok<s n="n"/></l><r>child<s n="n"/></r></p></e>
