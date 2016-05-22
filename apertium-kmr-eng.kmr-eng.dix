@@ -48,7 +48,7 @@
     <sdef n="pers"  c=""/>
     <sdef n="emph"  c=""/>
     <sdef n="FD"  c=""/>
-
+    <sdef n="acr" 	c=""/> 
     <sdef n="guio" 	c=""/> 
     <sdef n="cm" 	c=""/> 
     <sdef n="sent" 	c=""/> 
@@ -96,6 +96,7 @@
 
 
      <!-- SECTION: Adpositions -->
+      <e><p><l>derbarê<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
       <e><p><l>jê<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
       <e><p><l>navbera<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
       <e><p><l>wek<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
@@ -246,9 +247,19 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
-     <e><p><l>YNK<s n="n"/></l><r>YNK<s n="n"/></r></p></e>
-     <e><p><l>HDP<s n="n"/></l><r>HDP<s n="n"/></r></p></e>
-
+     <e><p><l>îngilîzî<s n="n"/></l><r>English<s n="n"/></r></p></e>
+     <e><p><l>erebî<s n="n"/></l><r>Arabic<s n="n"/></r></p></e>
+     <e><p><l>nasîn<s n="n"/></l><r>meeting<s n="n"/></r></p></e>
+     <e><p><l>nasîn<s n="n"/></l><r>knowing<s n="n"/></r></p></e>
+     <e><p><l>YNK<s n="n"/><s n="acr"/></l><r>YNK<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>HDP<s n="n"/><s n="acr"/></l><r>HDP<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>PDK<s n="n"/><s n="acr"/></l><r>KDP<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>PYD<s n="n"/><s n="acr"/></l><r>PYD<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>PKK<s n="n"/><s n="acr"/></l><r>PKK<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>DAIŞ<s n="n"/><s n="acr"/></l><r>ISIS<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>YPG<s n="n"/><s n="acr"/></l><r>YPG<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>ENKS<s n="n"/><s n="acr"/></l><r>ENKS<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>BDP<s n="n"/><s n="acr"/></l><r>BDP<s n="n"/><s n="acr"/></r></p></e>
      <e><p><l>encamdan<s n="n"/></l><r>result<s n="n"/></r></p></e>
      <e><p><l>zarok<s n="n"/></l><r>kid<s n="n"/></r></p></e>
      <e><p><l>zarok<s n="n"/></l><r>child<s n="n"/></r></p></e>
@@ -8640,6 +8651,11 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Pêşmerge<s n="np"/><s n="org"/><s n="f"/><s n="sg"/></l><r>Peshmerga<s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+     <e><p><l>Rûdaw<s n="np"/><s n="org"/><s n="f"/><s n="sg"/></l><r>Rudaw<s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+     <e><p><l>Şingal<s n="np"/><s n="top"/><s n="f"/></l><r>Shengal<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Şingal<s n="np"/><s n="top"/><s n="f"/></l><r>Shengal<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Agirî<s n="np"/><s n="top"/><s n="f"/></l><r>Agri<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Serdeşt<s n="np"/><s n="top"/><s n="f"/></l><r>Sardasht<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Farqîn<s n="np"/><s n="top"/><s n="f"/></l><r>Silvan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Efrîn<s n="np"/><s n="top"/><s n="f"/></l><r>Afrin<s n="np"/><s n="top"/></r></p></e>
@@ -8685,6 +8701,9 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>îngilîzî<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
+     <e><p><l>erebî<s n="adj"/></l><r>Arabic<s n="adj"/></r></p></e>
+     <e><p><l>taybet<s n="adj"/></l><r>private<s n="adj"/></r></p></e>
      <e><p><l>dewlemend<s n="adj"/></l><r>wealthy<s n="adj"/></r></p></e>
      <e><p><l>dewlemend<s n="adj"/></l><r>rich<s n="adj"/></r></p></e>
      <e><p><l>reş<s n="adj"/></l><r>dark<s n="adj"/></r></p></e>
@@ -11642,6 +11661,11 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>herwiha<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+     <e><p><l>herwisa<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+     <e><p><l>wisa<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+     <e><p><l>wisa<s n="adv"/></l><r>this<b/>way<s n="adv"/></r></p></e>
+     <e><p><l>wir<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
      <e><p><l>nêzî<s n="adv"/></l><r>nearly<s n="adv"/></r></p></e>
      <e><p><l>hê<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
      <e><p><l>hê<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
