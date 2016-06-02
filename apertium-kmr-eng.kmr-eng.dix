@@ -247,6 +247,20 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>pêjgeh<s n="n"/></l><r>cuisine<s n="n"/></r></p></e>
+     <e><p><l>esl<s n="n"/></l><r>origin<s n="n"/></r></p></e>
+     <e><p><l>temen<s n="n"/></l><r>lifespan<s n="n"/></r></p></e>
+     <e><p><l>temen<s n="n"/></l><r>life<s n="n"/></r></p></e>
+     <e><p><l>sal<s n="n"/></l><r>year<s n="n"/></r></p></e>
+     <e><p><l>derbas<s n="n"/></l><r>passing<s n="n"/></r></p></e>
+     <e><p><l>vir<s n="n"/></l><r>falsehood<s n="n"/></r></p></e>
+     <e><p><l>vir<s n="n"/></l><r>untruth<s n="n"/></r></p></e>
+     <e><p><l>vir<s n="n"/></l><r>lie<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/></l><r>method<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/></l><r>kind<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/></l><r>way<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/></l><r>shape<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/></l><r>style<s n="n"/></r></p></e>
      <e><p><l>îngilîzî<s n="n"/></l><r>English<s n="n"/></r></p></e>
      <e><p><l>erebî<s n="n"/></l><r>Arabic<s n="n"/></r></p></e>
      <e><p><l>nasîn<s n="n"/></l><r>meeting<s n="n"/></r></p></e>
@@ -8701,6 +8715,8 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>civakî<s n="adj"/></l><r>societal<s n="adj"/></r></p></e>
+     <e><p><l>civakî<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
      <e><p><l>îngilîzî<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
      <e><p><l>erebî<s n="adj"/></l><r>Arabic<s n="adj"/></r></p></e>
      <e><p><l>taybet<s n="adj"/></l><r>private<s n="adj"/></r></p></e>
