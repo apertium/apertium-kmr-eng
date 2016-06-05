@@ -82,7 +82,7 @@
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
-      <e><p><l>ango<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ango<s n="cnjadv"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
@@ -247,20 +247,27 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
-     <e><p><l>pêjgeh<s n="n"/></l><r>cuisine<s n="n"/></r></p></e>
-     <e><p><l>esl<s n="n"/></l><r>origin<s n="n"/></r></p></e>
-     <e><p><l>temen<s n="n"/></l><r>lifespan<s n="n"/></r></p></e>
-     <e><p><l>temen<s n="n"/></l><r>life<s n="n"/></r></p></e>
-     <e><p><l>sal<s n="n"/></l><r>year<s n="n"/></r></p></e>
-     <e><p><l>derbas<s n="n"/></l><r>passing<s n="n"/></r></p></e>
-     <e><p><l>vir<s n="n"/></l><r>falsehood<s n="n"/></r></p></e>
-     <e><p><l>vir<s n="n"/></l><r>untruth<s n="n"/></r></p></e>
-     <e><p><l>vir<s n="n"/></l><r>lie<s n="n"/></r></p></e>
-     <e><p><l>awa<s n="n"/></l><r>method<s n="n"/></r></p></e>
-     <e><p><l>awa<s n="n"/></l><r>kind<s n="n"/></r></p></e>
-     <e><p><l>awa<s n="n"/></l><r>way<s n="n"/></r></p></e>
-     <e><p><l>awa<s n="n"/></l><r>shape<s n="n"/></r></p></e>
-     <e><p><l>awa<s n="n"/></l><r>style<s n="n"/></r></p></e>
+     <e><p><l>cih<s n="n"/><s n="m"/></l><r>location<s n="n"/></r></p></e>
+     <e><p><l>cih<s n="n"/><s n="m"/></l><r>position<s n="n"/></r></p></e>
+     <e><p><l>cih<s n="n"/><s n="m"/></l><r>spot<s n="n"/></r></p></e>
+     <e><p><l>cih<s n="n"/><s n="m"/></l><r>place<s n="n"/></r></p></e>
+     <e><p><l>nîşan<s n="n"/><s n="f"/></l><r>mark<s n="n"/></r></p></e>
+     <e><p><l>nîşan<s n="n"/><s n="f"/></l><r>sign<s n="n"/></r></p></e>
+     <e><p><l>fransî<s n="n"/><s n="f"/></l><r>French<s n="n"/></r></p></e>
+     <e><p><l>pêjgeh<s n="n"/><s n="f"/></l><r>cuisine<s n="n"/></r></p></e>
+     <e><p><l>esl<s n="n"/><s n="m"/></l><r>origin<s n="n"/></r></p></e>
+     <e><p><l>temen<s n="n"/><s n="m"/></l><r>lifespan<s n="n"/></r></p></e>
+     <e><p><l>temen<s n="n"/><s n="m"/></l><r>life<s n="n"/></r></p></e>
+     <e><p><l>sal<s n="n"/><s n="f"/></l><r>year<s n="n"/></r></p></e>
+     <e><p><l>derbas<s n="n"/><s n="f"/></l><r>passing<s n="n"/></r></p></e>
+     <e><p><l>vir<s n="n"/><s n="f"/></l><r>falsehood<s n="n"/></r></p></e>
+     <e><p><l>vir<s n="n"/><s n="f"/></l><r>untruth<s n="n"/></r></p></e>
+     <e><p><l>vir<s n="n"/><s n="f"/></l><r>lie<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="m"/></l><r>method<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="m"/></l><r>kind<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="m"/></l><r>way<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="m"/></l><r>shape<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="m"/></l><r>style<s n="n"/></r></p></e>
      <e><p><l>îngilîzî<s n="n"/></l><r>English<s n="n"/></r></p></e>
      <e><p><l>erebî<s n="n"/></l><r>Arabic<s n="n"/></r></p></e>
      <e><p><l>nasîn<s n="n"/></l><r>meeting<s n="n"/></r></p></e>
@@ -8665,6 +8672,8 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Seqiz<s n="np"/><s n="top"/><s n="f"/></l><r>Saqqez<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Riha<s n="np"/><s n="top"/><s n="f"/></l><r>Urfa<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Pêşmerge<s n="np"/><s n="org"/><s n="f"/><s n="sg"/></l><r>Peshmerga<s n="np"/><s n="org"/><s n="sg"/></r></p></e>
      <e><p><l>Rûdaw<s n="np"/><s n="org"/><s n="f"/><s n="sg"/></l><r>Rudaw<s n="np"/><s n="org"/><s n="sg"/></r></p></e>
      <e><p><l>Şingal<s n="np"/><s n="top"/><s n="f"/></l><r>Shengal<s n="np"/><s n="top"/></r></p></e>
@@ -8715,6 +8724,16 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>çê<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+     <e><p><l>romî<s n="adj"/></l><r>Roman<s n="adj"/></r></p></e>
+     <e><p><l>olî<s n="adj"/></l><r>religious<s n="adj"/></r></p></e>
+     <e><p><l>hêdî<s n="adj"/></l><r>slow<s n="adj"/></r></p></e>
+     <e><p><l>fransî<s n="adj"/></l><r>French<s n="adj"/></r></p></e>
+     <e><p><l>zanistî<s n="adj"/></l><r>scientific<s n="adj"/></r></p></e>
+     <e><p><l>xweş<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+     <e><p><l>xweş<s n="adj"/></l><r>nice<s n="adj"/></r></p></e>
+     <e><p><l>xweş<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+     <e><p><l>leşkerî<s n="adj"/></l><r>military<s n="adj"/></r></p></e>
      <e><p><l>civakî<s n="adj"/></l><r>societal<s n="adj"/></r></p></e>
      <e><p><l>civakî<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
      <e><p><l>îngilîzî<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
@@ -11677,6 +11696,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>çawa<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
      <e><p><l>herwiha<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
      <e><p><l>herwisa<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
      <e><p><l>wisa<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
