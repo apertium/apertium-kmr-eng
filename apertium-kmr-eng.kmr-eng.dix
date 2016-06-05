@@ -86,6 +86,7 @@
       <e><p><l>yan<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
+      <e><p><l>lewra<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
       <e><p><l>piştî<b/>ku<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
       <e><p><l>hem<s n="cnjsub"/></l><r>both<s n="cnjsub"/></r></p></e>
       <e><p><l>ku<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -96,6 +97,7 @@
 
 
      <!-- SECTION: Adpositions -->
+      <e><p><l>digel<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>derbarê<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
       <e><p><l>jê<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
       <e><p><l>navbera<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
@@ -247,6 +249,16 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>rû<s n="n"/><s n="m"/></l><r>surface<s n="n"/></r></p></e>
+     <e><p><l>rû<s n="n"/><s n="m"/></l><r>face<s n="n"/></r></p></e>
+     <e><p><l>Kurmancî<s n="n"/><s n="f"/></l><r>Kurmanji<s n="n"/></r></p></e>
+     <e><p><l>fizîk<s n="n"/><s n="m"/></l><r>physique<s n="n"/></r></p></e>
+     <e><p><l>fizîk<s n="n"/><s n="m"/></l><r>physics<s n="n"/></r></p></e>
+     <e><p><l>derve<s n="n"/><s n="m"/></l><r>exterior<s n="n"/></r></p></e>
+     <e><p><l>derve<s n="n"/><s n="m"/></l><r>outside<s n="n"/></r></p></e>
+     <e><p><l>hebûn<s n="n"/><s n="f"/></l><r>presence<s n="n"/></r></p></e>
+     <e><p><l>hebûn<s n="n"/><s n="f"/></l><r>existence<s n="n"/></r></p></e>
+     <e><p><l>yewnanî<s n="n"/><s n="f"/></l><r>Greek<s n="n"/></r></p></e>
      <e><p><l>cih<s n="n"/><s n="m"/></l><r>location<s n="n"/></r></p></e>
      <e><p><l>cih<s n="n"/><s n="m"/></l><r>position<s n="n"/></r></p></e>
      <e><p><l>cih<s n="n"/><s n="m"/></l><r>spot<s n="n"/></r></p></e>
@@ -8672,6 +8684,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Licê<s n="np"/><s n="top"/><s n="f"/></l><r>Lice<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Seqiz<s n="np"/><s n="top"/><s n="f"/></l><r>Saqqez<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Riha<s n="np"/><s n="top"/><s n="f"/></l><r>Urfa<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Pêşmerge<s n="np"/><s n="org"/><s n="f"/><s n="sg"/></l><r>Peshmerga<s n="np"/><s n="org"/><s n="sg"/></r></p></e>
@@ -8724,6 +8737,11 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>pêşîn<s n="adj"/></l><r>primary<s n="adj"/></r></p></e>
+     <e><p><l>pêşîn<s n="adj"/></l><r>early<s n="adj"/></r></p></e>
+     <e><p><l>pêşîn<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
+     <e><p><l>derve<s n="adj"/></l><r>exterior<s n="adj"/></r></p></e>
+     <e><p><l>derve<s n="adj"/></l><r>outer<s n="adj"/></r></p></e>
      <e><p><l>çê<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
      <e><p><l>romî<s n="adj"/></l><r>Roman<s n="adj"/></r></p></e>
      <e><p><l>olî<s n="adj"/></l><r>religious<s n="adj"/></r></p></e>
