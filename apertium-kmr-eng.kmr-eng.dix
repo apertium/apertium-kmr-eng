@@ -97,6 +97,8 @@
 
 
      <!-- SECTION: Adpositions -->
+
+      <e><p><l>ji<b/>bona<b/>ku<s n="pr"/></l><r>because<s n="cnjsub"/></r></p></e>
       <e><p><l>digel<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>derbarê<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
       <e><p><l>jê<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
@@ -249,6 +251,15 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Dr<s n="n"/><s n="f"/></l><r>Doctor<s n="n"/></r></p></e>
+     <e><p><l>Dr<s n="n"/><s n="m"/></l><r>Doctor<s n="n"/></r></p></e>
+     <e><p><l>misilman<s n="n"/><s n="m"/></l><r>Muslim<s n="n"/></r></p></e>
+     <e><p><l>bira<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
+     <e><p><l>TV<s n="n"/><s n="m"/></l><r>television<s n="n"/></r></p></e>
+     <e><p><l>cm<s n="n"/><s n="m"/></l><r>centimetre<s n="n"/></r></p></e>
+     <e><p><l>pêşketin<s n="n"/><s n="f"/></l><r>progress<s n="n"/></r></p></e>
+     <e><p><l>pêşketin<s n="n"/><s n="f"/></l><r>development<s n="n"/></r></p></e>
+     <e><p><l>Îslam<s n="n"/><s n="f"/></l><r>Islam<s n="n"/></r></p></e>
      <e><p><l>rû<s n="n"/><s n="m"/></l><r>surface<s n="n"/></r></p></e>
      <e><p><l>rû<s n="n"/><s n="m"/></l><r>face<s n="n"/></r></p></e>
      <e><p><l>Kurmancî<s n="n"/><s n="f"/></l><r>Kurmanji<s n="n"/></r></p></e>
@@ -8684,6 +8695,8 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Rom<s n="np"/><s n="top"/><s n="f"/></l><r>Rome<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Dêrika<s n="np"/><s n="top"/><s n="f"/></l><r>Derik<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Licê<s n="np"/><s n="top"/><s n="f"/></l><r>Lice<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Seqiz<s n="np"/><s n="top"/><s n="f"/></l><r>Saqqez<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Riha<s n="np"/><s n="top"/><s n="f"/></l><r>Urfa<s n="np"/><s n="top"/></r></p></e>
@@ -8737,6 +8750,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>duyem<s n="adj"/></l><r>second<s n="adj"/></r></p></e>
      <e><p><l>pêşîn<s n="adj"/></l><r>primary<s n="adj"/></r></p></e>
      <e><p><l>pêşîn<s n="adj"/></l><r>early<s n="adj"/></r></p></e>
      <e><p><l>pêşîn<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
