@@ -80,6 +80,7 @@
 
       <e><p><l>û<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+      <e><p><l>anjî<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>ango<s n="cnjadv"/></l><r>or<s n="cnjcoo"/></r></p></e>
@@ -251,6 +252,21 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>îranî<s n="n"/><s n="f"/></l><r>Iranian<s n="n"/></r></p></e>
+     <e><p><l>îranî<s n="n"/><s n="m"/></l><r>Iranian<s n="n"/></r></p></e>
+     <e><p><l>çînî<s n="n"/><s n="f"/></l><r>Chinese<s n="n"/></r></p></e>
+     <e><p><l>çînî<s n="n"/><s n="m"/></l><r>Chinese<s n="n"/></r></p></e>
+     <e><p><l>federedewlet<s n="n"/><s n="f"/></l><r>federal<b/>state<s n="n"/></r></p></e>
+     <e><p><l>weşanxane<s n="n"/><s n="f"/></l><r>press<s n="n"/></r></p></e>
+     <e><p><l>akademî<s n="n"/><s n="f"/></l><r>academy<s n="n"/></r></p></e>
+     <e><p><l>Soranî<s n="n"/><s n="m"/></l><r>Sorani<s n="n"/></r></p></e>
+     <e><p><l>sivîl<s n="n"/><s n="f"/></l><r>civilian<s n="n"/></r></p></e>
+     <e><p><l>sivîl<s n="n"/><s n="m"/></l><r>civilian<s n="n"/></r></p></e>
+     <e><p><l>şafîî<s n="n"/><s n="m"/></l><r>shafii<s n="n"/></r></p></e>
+     <e><p><l>matematîk<s n="n"/><s n="m"/></l><r>mathematics<s n="n"/></r></p></e>
+     <e><p><l>zanistî<s n="n"/><s n="f"/></l><r>knowledge<s n="n"/></r></p></e>
+     <e><p><l>Avesta<s n="n"/><s n="m"/></l><r>Avesta<s n="n"/></r></p></e>
+     <e><p><l>Bîzans<s n="n"/><s n="m"/></l><r>Byzantine<s n="n"/></r></p></e>
      <e><p><l>grekî<s n="n"/><s n="f"/></l><r>Greek<s n="n"/></r></p></e>
      <e><p><l>grekî<s n="n"/><s n="m"/></l><r>Greek<s n="n"/></r></p></e>
      <e><p><l>hunermend<s n="n"/><s n="f"/></l><r>atrist<s n="n"/></r></p></e>
@@ -8757,6 +8773,20 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Parîs<s n="np"/><s n="top"/><s n="f"/></l><r>Paris<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Berlîn<s n="np"/><s n="top"/><s n="f"/></l><r>Berlin<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>London<s n="np"/><s n="top"/><s n="f"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Botan<s n="np"/><s n="top"/><s n="f"/></l><r>Botan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mekkê<s n="np"/><s n="top"/><s n="f"/></l><r>Mecca<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Silêmanî<s n="np"/><s n="top"/><s n="f"/></l><r>Suleymaniyah<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mêzgirê<s n="np"/><s n="top"/><s n="f"/></l><r>Mazgirt<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Misr<s n="np"/><s n="top"/><s n="f"/></l><r>Egypt<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Firat<s n="np"/><s n="top"/><s n="f"/></l><r>Euphrates<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Atlantîk<s n="np"/><s n="top"/><s n="f"/></l><r>Atlantic<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Qamişlo<s n="np"/><s n="top"/><s n="f"/></l><r>Al-Qamishli<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Enqere<s n="np"/><s n="top"/><s n="f"/></l><r>Ankara<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Hekarî<s n="np"/><s n="top"/><s n="f"/></l><r>Hakkari<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Midyad<s n="np"/><s n="top"/><s n="f"/></l><r>Midyat<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Patnos<s n="np"/><s n="top"/><s n="f"/></l><r>Patnos<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Uherské<s n="np"/><s n="top"/><s n="f"/></l><r>Uherské<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Elmanya<s n="np"/><s n="top"/><s n="f"/></l><r>Germany<s n="np"/><s n="top"/></r></p></e>
@@ -8833,6 +8863,8 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>Îranî<s n="adj"/></l><r>Iranian<s n="adj"/></r></p></e>
+     <e><p><l>çînî<s n="adj"/></l><r>Chinese<s n="adj"/></r></p></e>
      <e><p><l>grekî<s n="adj"/></l><r>Greek<s n="adj"/></r></p></e>
      <e><p><l>amerîkî<s n="adj"/></l><r>American<s n="adj"/></r></p></e>
      <e><p><l>cîhanî<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
@@ -11859,6 +11891,8 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+
+     <e><p><l>rizgar<b/>kirin<s n="vblex"/><s n="tv"/></l><r>save<s n="vblex"/></r></p></e>
      <e><p><l>berdewam<b/>kirin<s n="vblex"/><s n="tv"/></l><r>continue<s n="vblex"/></r></p></e>
      <e><p><l>binavkirin<s n="vblex"/><s n="tv"/></l><r>call<s n="vblex"/></r></p></e>
      <e><p><l>binavkirin<s n="vblex"/><s n="tv"/></l><r>name<s n="vblex"/></r></p></e>
