@@ -251,6 +251,28 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>grekî<s n="n"/><s n="f"/></l><r>Greek<s n="n"/></r></p></e>
+     <e><p><l>grekî<s n="n"/><s n="m"/></l><r>Greek<s n="n"/></r></p></e>
+     <e><p><l>hunermend<s n="n"/><s n="f"/></l><r>atrist<s n="n"/></r></p></e>
+     <e><p><l>hunermend<s n="n"/><s n="m"/></l><r>atrist<s n="n"/></r></p></e>
+     <e><p><l>aramî<s n="n"/><s n="f"/></l><r>stability<s n="n"/></r></p></e>
+     <e><p><l>aramî<s n="n"/><s n="f"/></l><r>peace<s n="n"/></r></p></e>
+     <e><p><l>City<s n="n"/><s n="f"/></l><r>City<s n="n"/></r></p></e>
+     <e><p><l>sumerî<s n="n"/><s n="f"/></l><r>Sumerian<s n="n"/></r></p></e>
+     <e><p><l>sumerî<s n="n"/><s n="m"/></l><r>Sumerian<s n="n"/></r></p></e>
+     <e><p><l>beden<s n="n"/><s n="f"/></l><r>body<s n="n"/></r></p></e>
+     <e><p><l>stranbêj<s n="n"/><s n="f"/></l><r>singer<s n="n"/></r></p></e>
+     <e><p><l>stranbêj<s n="n"/><s n="m"/></l><r>singer<s n="n"/></r></p></e>
+     <e><p><l>êrîş<s n="n"/><s n="f"/></l><r>assault<s n="n"/></r></p></e>
+     <e><p><l>êrîş<s n="n"/><s n="f"/></l><r>attack<s n="n"/></r></p></e>
+     <e><p><l>leşker<s n="n"/><s n="m"/></l><r>soldier<s n="n"/></r></p></e>
+     <e><p><l>afirandin<s n="n"/><s n="f"/></l><r>creation<s n="n"/></r></p></e>
+     <e><p><l>sosyalîst<s n="n"/><s n="f"/></l><r>socialist<s n="n"/></r></p></e>
+     <e><p><l>sosyalîst<s n="n"/><s n="m"/></l><r>socialist<s n="n"/></r></p></e>
+     <e><p><l>êzîdî<s n="n"/><s n="f"/></l><r>Yazidi<s n="n"/></r></p></e>
+     <e><p><l>êzîdî<s n="n"/><s n="m"/></l><r>Yazidi<s n="n"/></r></p></e>
+     <e><p><l>romî<s n="n"/><s n="m"/></l><r>Roman<s n="n"/></r></p></e>
+     <e><p><l>başûr<s n="n"/><s n="f"/></l><r>south<s n="n"/></r></p></e>
      <e><p><l>bijîşkî<s n="n"/><s n="f"/></l><r>medicine<s n="n"/></r></p></e>
      <e><p><l>ciwan<s n="n"/><s n="f"/></l><r>youth<s n="n"/></r></p></e>
      <e><p><l>ciwan<s n="n"/><s n="m"/></l><r>youth<s n="n"/></r></p></e>
@@ -8735,6 +8757,19 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Patnos<s n="np"/><s n="top"/><s n="f"/></l><r>Patnos<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Uherské<s n="np"/><s n="top"/><s n="f"/></l><r>Uherské<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Elmanya<s n="np"/><s n="top"/><s n="f"/></l><r>Germany<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>îran<s n="np"/><s n="top"/><s n="f"/></l><r>Iran<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Anatoliya<s n="np"/><s n="top"/><s n="f"/></l><r>Anatolia<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ewrûpa<s n="np"/><s n="top"/><s n="f"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Lîce<s n="np"/><s n="top"/><s n="f"/></l><r>Lice<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Behdînan<s n="np"/><s n="top"/><s n="f"/></l><r>Behdinan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Kellaterzan<s n="np"/><s n="top"/><s n="f"/></l><r>Kellaterzan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Swîsre<s n="np"/><s n="top"/><s n="f"/></l><r>Switzerland<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>York<s n="np"/><s n="top"/><s n="f"/></l><r>York<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Gurcistan<s n="np"/><s n="top"/><s n="f"/></l><r>Georgia<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ermenistan<s n="np"/><s n="top"/><s n="f"/></l><r>Armenia<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Stockholm<s n="np"/><s n="top"/><s n="f"/></l><r>Stockholm<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Zagros<s n="np"/><s n="top"/><s n="f"/></l><r>Zagros<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Asya<s n="np"/><s n="top"/><s n="f"/></l><r>Asia<s n="np"/><s n="top"/></r></p></e>
@@ -8798,6 +8833,11 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>grekî<s n="adj"/></l><r>Greek<s n="adj"/></r></p></e>
+     <e><p><l>amerîkî<s n="adj"/></l><r>American<s n="adj"/></r></p></e>
+     <e><p><l>cîhanî<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
+     <e><p><l>kedî<s n="adj"/></l><r>domestic<s n="adj"/></r></p></e>
+     <e><p><l>demokratîk<s n="adj"/></l><r>democratic<s n="adj"/></r></p></e>
      <e><p><l>atomî<s n="adj"/></l><r>atomic<s n="adj"/></r></p></e>
      <e><p><l>profesyonel<s n="adj"/></l><r>professional<s n="adj"/></r></p></e>
      <e><p><l>çandî<s n="adj"/></l><r>cultural<s n="adj"/></r></p></e>
