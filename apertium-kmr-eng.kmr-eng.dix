@@ -252,6 +252,38 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>naverok<s n="n"/><s n="f"/></l><r>content<s n="n"/></r></p></e>
+     <e><p><l>Şerefname<s n="n"/><s n="f"/></l><r>Sharafname<s n="n"/></r></p></e>
+     <e><p><l>Efendî<s n="n"/><s n="m"/></l><r>Efendi<s n="n"/></r></p></e>
+     <e><p><l>hevpar<s n="n"/><s n="f"/></l><r>partner<s n="n"/></r></p></e>
+     <e><p><l>hevpar<s n="n"/><s n="m"/></l><r>partner<s n="n"/></r></p></e>
+     <e><p><l>hevpar<s n="n"/><s n="f"/></l><r>investor<s n="n"/></r></p></e>
+     <e><p><l>hevpar<s n="n"/><s n="m"/></l><r>investor<s n="n"/></r></p></e>
+     <e><p><l>suryanî<s n="n"/><s n="f"/></l><r>Assyrian<s n="n"/></r></p></e>
+     <e><p><l>suryanî<s n="n"/><s n="m"/></l><r>Assyrian<s n="n"/></r></p></e>
+     <e><p><l>Elewî<s n="n"/><s n="f"/></l><r>Alevi<s n="n"/></r></p></e>
+     <e><p><l>Elewî<s n="n"/><s n="m"/></l><r>Alevi<s n="n"/></r></p></e>
+     <e><p><l>bakur<s n="n"/><s n="f"/></l><r>north<s n="n"/></r></p></e>
+     <e><p><l>demokrat<s n="n"/><s n="f"/></l><r>democrat<s n="n"/></r></p></e>
+     <e><p><l>demokrat<s n="n"/><s n="m"/></l><r>democrat<s n="n"/></r></p></e>
+     <e><p><l>Xweda<s n="n"/><s n="m"/></l><r>God<s n="n"/></r></p></e>
+     <e><p><l>ayet<s n="n"/><s n="f"/></l><r>verse<s n="n"/></r></p></e>
+     <e><p><l>bingeh<s n="n"/><s n="f"/></l><r>foundation<s n="n"/></r></p></e>
+     <e><p><l>sûre<s n="n"/><s n="f"/></l><r>surah<s n="n"/></r></p></e>
+     <e><p><l>siltan<s n="n"/><s n="m"/></l><r>sultan<s n="n"/></r></p></e>
+     <e><p><l>azerî<s n="n"/><s n="f"/></l><r>Azerbaijani<s n="n"/></r></p></e>
+     <e><p><l>azerî<s n="n"/><s n="m"/></l><r>Azerbaijani<s n="n"/></r></p></e>
+     <e><p><l>ereb<s n="n"/><s n="f"/></l><r>Arab<s n="n"/></r></p></e>
+     <e><p><l>ereb<s n="n"/><s n="m"/></l><r>Arab<s n="n"/></r></p></e>
+     <e><p><l>nifûs<s n="n"/><s n="f"/></l><r>population<s n="n"/></r></p></e>
+     <e><p><l>Ereb<s n="n"/><s n="f"/></l><r>Arab<s n="n"/></r></p></e>
+     <e><p><l>Ereb<s n="n"/><s n="m"/></l><r>Arab<s n="n"/></r></p></e>
+     <e><p><l>Med<s n="n"/><s n="m"/></l><r>Mede<s n="n"/></r></p></e>
+     <e><p><l>berdewam<s n="n"/><s n="f"/></l><r>continuance<s n="n"/></r></p></e>
+     <e><p><l>berdewam<s n="n"/><s n="f"/></l><r>continuation<s n="n"/></r></p></e>
+     <e><p><l>bexş<s n="n"/><s n="f"/></l><r>forgiveness<s n="n"/></r></p></e>
+     <e><p><l>zazakî<s n="n"/><s n="f"/></l><r>Zazaki<s n="n"/></r></p></e>
+     <e><p><l>Paşa<s n="n"/><s n="m"/></l><r>Pasha<s n="n"/></r></p></e>
      <e><p><l>înternet<s n="n"/><s n="f"/></l><r>internet<s n="n"/></r></p></e>
      <e><p><l>Alman<s n="n"/><s n="f"/></l><r>German<s n="n"/></r></p></e>
      <e><p><l>Alman<s n="n"/><s n="m"/></l><r>German<s n="n"/></r></p></e>
@@ -8790,6 +8822,22 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Freud<s n="np"/><s n="ant"/><s n="m"/></l><r>Napoleon<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Napoleon<s n="np"/><s n="ant"/><s n="m"/></l><r>Napoleon<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Evdirehman<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulrahman<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Amêdî<s n="np"/><s n="top"/><s n="f"/></l><r>Amedi<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mîtra<s n="np"/><s n="ant"/><s n="m"/></l><r>Mitra<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Hesen<s n="np"/><s n="ant"/><s n="m"/></l><r>Hasan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Selahedîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Salahaddin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Robert<s n="np"/><s n="ant"/><s n="m"/></l><r>Robert<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îdirê<s n="np"/><s n="top"/><s n="f"/></l><r>Igdir<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mem<s n="np"/><s n="ant"/><s n="m"/></l><r>Mem<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Nûh<s n="np"/><s n="ant"/><s n="m"/></l><r>Nuh<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Meledî<s n="np"/><s n="top"/><s n="f"/></l><r>Malatya<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Bedlîs<s n="np"/><s n="top"/><s n="f"/></l><r>Bitlis<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Teyran<s n="np"/><s n="top"/><s n="f"/></l><r>Teyran<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Qoser<s n="np"/><s n="top"/><s n="f"/></l><r>Kiziltepe<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Rûsya<s n="np"/><s n="top"/><s n="f"/></l><r>Russia<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Adem<s n="np"/><s n="ant"/><s n="m"/></l><r>Adem<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Charles<s n="np"/><s n="ant"/><s n="m"/></l><r>Charles<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Mehmed<s n="np"/><s n="ant"/><s n="m"/></l><r>Mehmed<s n="np"/><s n="ant"/></r></p></e>
@@ -8935,6 +8983,15 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>suryanî<s n="adj"/></l><r>Assyrian<s n="adj"/></r></p></e>
+     <e><p><l>sîstematîk<s n="adj"/></l><r>systematic<s n="adj"/></r></p></e>
+     <e><p><l>psîkolojîk<s n="adj"/></l><r>psychological<s n="adj"/></r></p></e>
+     <e><p><l>sêyem<s n="adj"/></l><r>third<s n="adj"/></r></p></e>
+     <e><p><l>netewî<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
+     <e><p><l>jêrîn<s n="adj"/></l><r>lower<s n="adj"/></r></p></e>
+     <e><p><l>jorîn<s n="adj"/></l><r>upper<s n="adj"/></r></p></e>
+     <e><p><l>hêja<s n="adj"/></l><r>precious<s n="adj"/></r></p></e>
+     <e><p><l>hêja<s n="adj"/></l><r>dear<s n="adj"/></r></p></e>
      <e><p><l>rojavayî<s n="adj"/></l><r>western<s n="adj"/></r></p></e>
      <e><p><l>swêdî<s n="adj"/></l><r>Swedish<s n="adj"/></r></p></e>
      <e><p><l>Îslamî<s n="adj"/></l><r>Islamic<s n="adj"/></r></p></e>
@@ -11969,6 +12026,8 @@
 
      <!-- SECTION: Verbs -->
 
+     <e><p><l>çêkirin<s n="vblex"/><s n="tv"/></l><r>build<s n="vblex"/></r></p></e>
+     <e><p><l>çêkirin<s n="vblex"/><s n="tv"/></l><r>found<s n="vblex"/></r></p></e>
      <e><p><l>rizgar<b/>kirin<s n="vblex"/><s n="tv"/></l><r>save<s n="vblex"/></r></p></e>
      <e><p><l>berdewam<b/>kirin<s n="vblex"/><s n="tv"/></l><r>continue<s n="vblex"/></r></p></e>
      <e><p><l>binavkirin<s n="vblex"/><s n="tv"/></l><r>call<s n="vblex"/></r></p></e>
