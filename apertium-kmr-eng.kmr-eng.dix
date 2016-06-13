@@ -252,6 +252,8 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Sultan<s n="n"/><s n="m"/></l><r>Sultan<s n="n"/></r></p></e>
+     <e><p><l>Caesar<s n="n"/><s n="m"/></l><r>Caesar<s n="n"/></r></p></e>
      <e><p><l>naverok<s n="n"/><s n="f"/></l><r>content<s n="n"/></r></p></e>
      <e><p><l>Şerefname<s n="n"/><s n="f"/></l><r>Sharafname<s n="n"/></r></p></e>
      <e><p><l>Efendî<s n="n"/><s n="m"/></l><r>Efendi<s n="n"/></r></p></e>
@@ -8822,6 +8824,53 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Henry<s n="np"/><s n="ant"/><s n="m"/></l><r>Henry<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îhsan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ihsan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îsraîl<s n="np"/><s n="top"/><s n="f"/></l><r>Israel<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Michael<s n="np"/><s n="ant"/><s n="m"/></l><r>Michael<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Mirad<s n="np"/><s n="ant"/><s n="m"/></l><r>Murad<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Washington<s n="np"/><s n="top"/><s n="f"/></l><r>Washington<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Canada<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Kobanî<s n="np"/><s n="top"/><s n="f"/></l><r>Kobani<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Zengî<s n="np"/><s n="ant"/><s n="m"/></l><r>Zangi<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Afrin<s n="np"/><s n="top"/><s n="f"/></l><r>Afrin<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Aslan<s n="np"/><s n="ant"/><s n="m"/></l><r>Aslan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Kilîs<s n="np"/><s n="top"/><s n="f"/></l><r>Kilis<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Polonya<s n="np"/><s n="top"/><s n="f"/></l><r>Poland<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Îskender<s n="np"/><s n="ant"/><s n="m"/></l><r>Alexander<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Yigit<s n="np"/><s n="ant"/><s n="m"/></l><r>Yigit<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Eyûbî<s n="np"/><s n="ant"/><s n="m"/></l><r>Ayyubi<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Deniz<s n="np"/><s n="ant"/><s n="m"/></l><r>Deniz<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Omer<s n="np"/><s n="ant"/><s n="m"/></l><r>Omer<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Kawa<s n="np"/><s n="ant"/><s n="m"/></l><r>Kawa<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Kevin<s n="np"/><s n="ant"/><s n="m"/></l><r>Kevin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Lîtvanya<s n="np"/><s n="top"/><s n="f"/></l><r>Lithuania<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Lenîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Lenin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Richard<s n="np"/><s n="ant"/><s n="m"/></l><r>Richard<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îsrael<s n="np"/><s n="top"/><s n="f"/></l><r>Israel<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Şerîf<s n="np"/><s n="ant"/><s n="m"/></l><r>Sharif<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Platon<s n="np"/><s n="ant"/><s n="m"/></l><r>Plato<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Friedrich<s n="np"/><s n="ant"/><s n="m"/></l><r>Friedrich<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Sigmund<s n="np"/><s n="ant"/><s n="m"/></l><r>Sigmund<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Nûredîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Nureddin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ezîz<s n="np"/><s n="ant"/><s n="m"/></l><r>Aziz<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Qadir<s n="np"/><s n="ant"/><s n="m"/></l><r>Qadir<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ziya<s n="np"/><s n="ant"/><s n="m"/></l><r>Ziya<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Joseph<s n="np"/><s n="ant"/><s n="m"/></l><r>Joseph<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Kerîm<s n="np"/><s n="ant"/><s n="m"/></l><r>Kerim<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ocalan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ocalan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Sedam<s n="np"/><s n="ant"/><s n="m"/></l><r>Saddam<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>David<s n="np"/><s n="ant"/><s n="m"/></l><r>David<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Abdusamet<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulsamed<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Çêxov<s n="np"/><s n="ant"/><s n="m"/></l><r>Chekhov<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Muhammed<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Muhemmed<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Qasim<s n="np"/><s n="ant"/><s n="m"/></l><r>Qasim<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Arif<s n="np"/><s n="ant"/><s n="m"/></l><r>Arif<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Husên<s n="np"/><s n="ant"/><s n="m"/></l><r>Hussein<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Pûşkîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Pushkin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Yewnanistan<s n="np"/><s n="top"/><s n="f"/></l><r>Greece<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Freud<s n="np"/><s n="ant"/><s n="m"/></l><r>Napoleon<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Napoleon<s n="np"/><s n="ant"/><s n="m"/></l><r>Napoleon<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Evdirehman<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulrahman<s n="np"/><s n="ant"/></r></p></e>
@@ -8983,6 +9032,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>îslamî<s n="adj"/></l><r>Islamic<s n="adj"/></r></p></e>
      <e><p><l>suryanî<s n="adj"/></l><r>Assyrian<s n="adj"/></r></p></e>
      <e><p><l>sîstematîk<s n="adj"/></l><r>systematic<s n="adj"/></r></p></e>
      <e><p><l>psîkolojîk<s n="adj"/></l><r>psychological<s n="adj"/></r></p></e>
