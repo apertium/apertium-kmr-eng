@@ -252,6 +252,18 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>fîlm<s n="n"/><s n="f"/></l><r>film<s n="n"/></r></p></e>
+     <e><p><l>fîlm<s n="n"/><s n="m"/></l><r>film<s n="n"/></r></p></e>
+     <e><p><l>siyasetmedar<s n="n"/><s n="m"/></l><r>politician<s n="n"/></r></p></e>
+     <e><p><l>osmanî<s n="n"/><s n="m"/></l><r>Ottoman<s n="n"/></r></p></e>
+     <e><p><l>zanist<s n="n"/><s n="m"/></l><r>knowledge<s n="n"/></r></p></e>
+     <e><p><l>hewl<s n="n"/><s n="f"/></l><r>effort<s n="n"/></r></p></e>
+     <e><p><l>Beg<s n="n"/><s n="m"/></l><r>Bey<s n="n"/></r></p></e>
+     <e><p><l>alman<s n="n"/><s n="f"/></l><r>German<s n="n"/></r></p></e>
+     <e><p><l>alman<s n="n"/><s n="m"/></l><r>German<s n="n"/></r></p></e>
+     <e><p><l>gelhenasî<s n="n"/><s n="m"/></l><r>demographics<s n="n"/></r></p></e>
+     <e><p><l>gav<s n="n"/><s n="f"/></l><r>moment<s n="n"/></r></p></e>
+     <e><p><l>gav<s n="n"/><s n="f"/></l><r>step<s n="n"/></r></p></e>
      <e><p><l>Sultan<s n="n"/><s n="m"/></l><r>Sultan<s n="n"/></r></p></e>
      <e><p><l>Caesar<s n="n"/><s n="m"/></l><r>Caesar<s n="n"/></r></p></e>
      <e><p><l>naverok<s n="n"/><s n="f"/></l><r>content<s n="n"/></r></p></e>
@@ -8824,6 +8836,15 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Zêwye<s n="np"/><s n="top"/><s n="f"/></l><r>Ziviyah<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Cizîrî<s n="np"/><s n="ant"/><s n="m"/></l><r>Ciziri<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îbrahîm<s n="np"/><s n="ant"/><s n="m"/></l><r>Ibrahim<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Osman<s n="np"/><s n="ant"/><s n="m"/></l><r>Osman<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ebû<s n="np"/><s n="ant"/><s n="m"/></l><r>Abu<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Hecî<s n="np"/><s n="ant"/><s n="m"/></l><r>Haci<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Çewlîgê<s n="np"/><s n="top"/><s n="f"/></l><r>Bingol<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Kemal<s n="np"/><s n="ant"/><s n="m"/></l><r>Kemal<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Nobel<s n="np"/><s n="ant"/><s n="m"/></l><r>Nobel<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Henry<s n="np"/><s n="ant"/><s n="m"/></l><r>Henry<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îhsan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ihsan<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îsraîl<s n="np"/><s n="top"/><s n="f"/></l><r>Israel<s n="np"/><s n="top"/></r></p></e>
@@ -9032,6 +9053,12 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>serbest<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
+     <e><p><l>cûda<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+     <e><p><l>pêwîst<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+     <e><p><l>kesk<s n="adj"/></l><r>green<s n="adj"/></r></p></e>
+     <e><p><l>balkêş<s n="adj"/></l><r>peculiar<s n="adj"/></r></p></e>
+     <e><p><l>balkêş<s n="adj"/></l><r>interesting<s n="adj"/></r></p></e>
      <e><p><l>îslamî<s n="adj"/></l><r>Islamic<s n="adj"/></r></p></e>
      <e><p><l>suryanî<s n="adj"/></l><r>Assyrian<s n="adj"/></r></p></e>
      <e><p><l>sîstematîk<s n="adj"/></l><r>systematic<s n="adj"/></r></p></e>
@@ -12075,13 +12102,16 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>xebitandin<s n="vblex"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
+     <e><p><l>xebitandin<s n="vblex"/><s n="tv"/></l><r>utilize<s n="vblex"/></r></p></e>
+     <e><p><l>çapkirin<s n="vblex"/><s n="tv"/></l><r>print<s n="vblex"/></r></p></e>
      <e><p><l>firotin<s n="vblex"/><s n="tv"/></l><r>sell<s n="vblex"/></r></p></e>
      <e><p><l>hejmartin<s n="vblex"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
      <e><p><l>sazkirin<s n="vblex"/><s n="tv"/></l><r>found<s n="vblex"/></r></p></e>
      <e><p><l>vekirin<s n="vblex"/><s n="tv"/></l><r>open<s n="vblex"/></r></p></e>
-     <e><p><l>damezrandin<s n="vblex"/><s n="tv"/></l><r>found<s n="vblex"/></r></p></e>
-     <e><p><l>damezrandin<s n="vblex"/><s n="tv"/></l><r>establish<s n="vblex"/></r></p></e>
-     <e><p><l>damezrandin<s n="vblex"/><s n="tv"/></l><r>create<s n="vblex"/></r></p></e>
+     <e><p><l>damezirandin<s n="vblex"/><s n="tv"/></l><r>found<s n="vblex"/></r></p></e>
+     <e><p><l>damezirandin<s n="vblex"/><s n="tv"/></l><r>establish<s n="vblex"/></r></p></e>
+     <e><p><l>damezirandin<s n="vblex"/><s n="tv"/></l><r>create<s n="vblex"/></r></p></e>
      <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>oversee<s n="vblex"/></r></p></e>
      <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>finalize<s n="vblex"/></r></p></e>
      <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>finish<s n="vblex"/></r></p></e>
