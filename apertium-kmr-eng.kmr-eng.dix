@@ -253,6 +253,7 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>derengî<s n="n"/><s n="f"/></l><r>lateness<s n="n"/></r></p></e>
      <e><p><l>pist<s n="n"/><s n="f"/></l><r>back<s n="n"/></r></p></e>
      <e><p><l>Mewlana<s n="n"/><s n="f"/></l><r>Molana<s n="n"/></r></p></e>
      <e><p><l>Mewlana<s n="n"/><s n="m"/></l><r>Molana<s n="n"/></r></p></e>
@@ -12340,6 +12341,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>heta<s n="adv"/></l><r>in<b/>fact<s n="adv"/></r></p></e>
      <e><p><l>bêguman<s n="adv"/></l><r>doubtless<s n="adv"/></r></p></e>
      <e><p><l>lêbelê<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
      <e><p><l>bêhtir<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
