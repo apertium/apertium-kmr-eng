@@ -13,6 +13,7 @@
     <sdef n="cnjadv"  c=""/>
     <sdef n="np"  c=""/>
     <sdef n="det"  c=""/>
+    <sdef n="vaux"  c=""/>
     <sdef n="dem"  c=""/>
     <sdef n="qnt"  c=""/>
     <sdef n="con"  c=""/>
@@ -100,6 +101,7 @@
 
      <!-- SECTION: Adpositions -->
       <e><p><l>ve<s n="post"/></l><r>to<s n="pr"/></r></p></e>
+      <e><p><l>ve<s n="post"/></l><r></r></p></e>
       <e><p><l>ji<b/>bona<b/>ku<s n="pr"/></l><r>because<s n="cnjsub"/></r></p></e>
       <e><p><l>digel<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>derbarê<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
@@ -8124,6 +8126,7 @@
       <e><p><l>textereş<s n="n"/><s n="m"/></l><r>blackboard<s n="n"/></r></p></e>
       <e><p><l>textereş<s n="n"/><s n="m"/></l><r>*chalkboard<s n="n"/></r></p></e>
       <e><p><l>text<s n="n"/><s n="m"/></l><r>throne<s n="n"/></r></p></e>
+      <e><p><l>text<s n="n"/><s n="m"/></l><r>bed<s n="n"/></r></p></e>
       <e><p><l>têzav<s n="n"/><s n="f"/></l><r>acid<s n="n"/></r></p></e>
       <e><p><l>tezmînat<s n="n"/><s n="f"/></l><r>compensation<s n="n"/></r></p></e>
       <e><p><l>tezmînat<s n="n"/><s n="f"/></l><r>damage<s n="n"/><s n="pl"/></r></p></e>
@@ -12379,9 +12382,9 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
-     <e><p><l>raketin<s n="vblex"/></l><r>sleep<s n="vblex"/></r></p></e>
-     <e><p><l>rabûn<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
-     <e><p><l>hişyar<b/>bûn<s n="vblex"/></l><r>wake<b/><s n="vblex"/></r></p></e>
+     <e><p><l>raketin<s n="vblex"/><s n="iv"/></l><r>sleep<s n="vblex"/></r></p></e>
+     <e><p><l>rabûn<s n="vblex"/><s n="iv"/></l><r>rise<s n="vblex"/></r></p></e>
+     <e><p><l>hişyar<b/>bûn<s n="vblex"/><s n="iv"/></l><r>wake<s n="vblex"/></r></p></e>
      <e><p><l>qelandin<s n="vblex"/><s n="tv"/></l><r>fry<s n="vblex"/></r></p></e>
      <e><p><l>diyarkirin<s n="vblex"/><s n="tv"/></l><r>clarify<s n="vblex"/></r></p></e>
      <e><p><l>diyarkirin<s n="vblex"/><s n="tv"/></l><r>state<s n="vblex"/></r></p></e>
@@ -12443,6 +12446,7 @@
       <e><p><l>nivîsin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>dan<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
       <e><p><l>bûn<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
+      <e><p><l>bûn<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
 
       <e><p><l>hebûn<s n="vbhaver"/></l><r>there<b/>be<s n="vblex"/></r></p></e>
       <e><p><l>hebûn<s n="vbhaver"/></l><r>exist<s n="vblex"/></r></p></e>
