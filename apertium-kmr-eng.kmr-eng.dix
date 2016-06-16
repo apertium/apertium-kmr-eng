@@ -252,6 +252,20 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Mewlana<s n="n"/><s n="f"/></l><r>Molana<s n="n"/></r></p></e>
+     <e><p><l>Mewlana<s n="n"/><s n="m"/></l><r>Molana<s n="n"/></r></p></e>
+     <e><p><l>fîzîknas<s n="n"/><s n="f"/></l><r>physicist<s n="n"/></r></p></e>
+     <e><p><l>fîzîknas<s n="n"/><s n="m"/></l><r>physicist<s n="n"/></r></p></e>
+     <e><p><l>dimilî<s n="n"/><s n="f"/></l><r>Zazaki<s n="n"/></r></p></e>
+     <e><p><l>dimilî<s n="n"/><s n="m"/></l><r>Zazaki<s n="n"/></r></p></e>
+     <e><p><l>zîndan<s n="n"/><s n="f"/></l><r>prison<s n="n"/></r></p></e>
+     <e><p><l>mirovahî<s n="n"/><s n="f"/></l><r>humanity<s n="n"/></r></p></e>
+     <e><p><l>tîrmeh<s n="n"/><s n="f"/></l><r>july<s n="n"/></r></p></e>
+     <e><p><l>kendav<s n="n"/><s n="f"/></l><r>estuary<s n="n"/></r></p></e>
+     <e><p><l>YKSS<s n="n"/><s n="acr"/><s n="f"/></l><r>YKSS<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>îsot<s n="n"/><s n="f"/></l><r>pepper<s n="n"/></r></p></e>
+     <e><p><l>rejîm<s n="n"/><s n="f"/></l><r>regime<s n="n"/></r></p></e>
+     <e><p><l>avrêl<s n="n"/><s n="f"/></l><r>april<s n="n"/></r></p></e>
      <e><p><l>kîlometre<s n="n"/><s n="f"/></l><r>kilometre<s n="n"/></r></p></e>
      <e><p><l>kîlometre<s n="n"/><s n="m"/></l><r>kilometre<s n="n"/></r></p></e>
      <e><p><l>Zerdeştî<s n="n"/><s n="f"/></l><r>Zoroastrian<s n="n"/></r></p></e>
@@ -8929,6 +8943,12 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Baba<s n="np"/><s n="ant"/><s n="m"/></l><r>Baba<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Hacî<s n="np"/><s n="ant"/><s n="m"/></l><r>Haci<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Saint<s n="np"/><s n="ant"/><s n="f"/></l><r>Saint<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Saint<s n="np"/><s n="ant"/><s n="m"/></l><r>Saint<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>ibn<s n="np"/><s n="ant"/><s n="m"/></l><r>ibn<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Roma<s n="np"/><s n="top"/><s n="f"/></l><r>Rome<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Medîne<s n="np"/><s n="top"/><s n="f"/></l><r>Medina<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Öcalan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ocalan<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Suhrewerdî<s n="np"/><s n="ant"/><s n="m"/></l><r>Suhrawardi<s n="np"/><s n="ant"/></r></p></e>
@@ -9265,6 +9285,14 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>xwerû<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+     <e><p><l>xwerû<s n="adj"/></l><r>pure<s n="adj"/></r></p></e>
+     <e><p><l>xwerû<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
+     <e><p><l>sipî<s n="adj"/></l><r>white<s n="adj"/></r></p></e>
+     <e><p><l>serkeftî<s n="adj"/></l><r>superior<s n="adj"/></r></p></e>
+     <e><p><l>zewicî<s n="adj"/></l><r>married<s n="adj"/></r></p></e>
+     <e><p><l>kifş<s n="adj"/></l><r>open<s n="adj"/></r></p></e>
+     <e><p><l>mecbûr<s n="adj"/></l><r>obligatory<s n="adj"/></r></p></e>
      <e><p><l>rizgar<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
      <e><p><l>şexsî<s n="adj"/></l><r>personal<s n="adj"/></r></p></e>
      <e><p><l>ewropayî<s n="adj"/></l><r>European<s n="adj"/></r></p></e>
