@@ -37,6 +37,12 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <def-cat n="vblex-pp">
+	    <cat-item tags="vblex.*.pp"/>
+    </def-cat>
+    <def-cat n="vaux">
+	    <cat-item tags="vaux.*"/>
+    </def-cat>
 
     <def-cat n="vblex-neg">
       <cat-item tags="vblex.*.neg.*"/>
@@ -51,12 +57,25 @@
       <attr-item tags="n"/>
       <attr-item tags="np"/>
     </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbcop"/>
+      <attr-item tags="vaux"/>
+    </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
       <attr-item tags="sp"/>
       <attr-item tags="ND"/>
     </def-attr>
+
+    <def-attr n="a_prs">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+   </def-attr>  
     <def-attr n="a_func">
       <attr-item tags="FD"/>
       <attr-item tags="obj"/>
@@ -84,7 +103,33 @@
   </section-def-macros>
 
   <section-rules>
-
+    <rule comment="REGLA: pp-vaux">
+	    <pattern>
+                <pattern-item n="vblex-pp"/>
+		<pattern-item n="vaux"/>
+            </pattern>
+	    <action>
+	<let><clip pos="2" side="tl" part="a_verb"/><lit-tag v="vbhaver"/></let>
+	<let><clip pos="2" side="tl" part="a_prs"/><lit-tag v=""/></let>
+	<let><clip pos="2" side="tl" part="a_num"/><lit-tag v=""/></let>
+	    <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+	    <lu>
+	      <lit v="have"/>
+              <clip pos="2" side="tl" part="tags"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+  </out>
+  </action>
+    </rule>
+	  
     <rule comment="REGLA: pron-pers">
       <pattern>
         <pattern-item n="pron-pers"/>
