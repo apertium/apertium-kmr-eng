@@ -14,6 +14,7 @@
     <sdef n="np"  c=""/>
     <sdef n="det"  c=""/>
     <sdef n="vaux"  c=""/>
+    <sdef n="tn"  c=""/>
     <sdef n="dem"  c=""/>
     <sdef n="qnt"  c=""/>
     <sdef n="con"  c=""/>
@@ -91,6 +92,7 @@
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
       <e><p><l>lewra<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+      <e><p><l>gava<s n="cnjsub"/></l><r>when<s n="cnjadv"/></r></p></e>
       <e><p><l>piştî<b/>ku<s n="cnjsub"/></l><r>after<s n="cnjadv"/></r></p></e>
       <e><p><l>hem<s n="cnjsub"/></l><r>both<s n="cnjsub"/></r></p></e>
       <e><p><l>ku<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -200,6 +202,9 @@
       <e><p><l>xwe<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>hev<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>çi<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p></e>
+
+     <e><p><l>ew<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="tn"/></r></p></e>
+     <e><p><l>ew<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="tn"/></r></p></e>
 
 
      <!-- SECTION: Determiners -->
