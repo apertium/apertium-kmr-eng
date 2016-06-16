@@ -8944,6 +8944,10 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Şerlok<s n="np"/><s n="ant"/><s n="m"/></l><r>Sherlock<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Rweylot<s n="np"/><s n="ant"/><s n="m"/></l><r>Roylott<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Stonêr<s n="np"/><s n="ant"/><s n="m"/></l><r>Stoner<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Holmes<s n="np"/><s n="ant"/><s n="m"/></l><r>Holmes<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Baba<s n="np"/><s n="ant"/><s n="m"/></l><r>Baba<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Hacî<s n="np"/><s n="ant"/><s n="m"/></l><r>Haci<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Saint<s n="np"/><s n="ant"/><s n="f"/></l><r>Saint<s n="np"/><s n="ant"/></r></p></e>
@@ -9286,6 +9290,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>ecêb<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
      <e><p><l>xwerû<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
      <e><p><l>xwerû<s n="adj"/></l><r>pure<s n="adj"/></r></p></e>
      <e><p><l>xwerû<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
