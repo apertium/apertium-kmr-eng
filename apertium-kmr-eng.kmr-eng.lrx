@@ -4,9 +4,25 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="ji" tags="pr"><select lemma="to" tags="pr"/></match>
+    <or><match tags="n.*"/><match tags="prn.*"/></or>
+    <match lemma="re" tags="post"/>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="zû" tags="adj.*"><select lemma="early" tags="adj.*"/></match>
+    <match lemma="hişyar bûn" tags="vblex.*"/>
+  </rule>
+  
+  <rule weight="1.0">
     <match lemma="bi" tags="pr"><select lemma="at" tags="pr"/></match>
     <match tags="n.*"/>
     <match lemma="ve" tags="post"/>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="li ser" tags="pr"><select lemma="on" tags="pr"/></match>
+    <match lemma="pist" tags="n.*"/>
   </rule>
 
   <rule weight="1.0">

@@ -43,15 +43,25 @@
     <def-cat n="vaux">
 	    <cat-item tags="vaux.*"/>
     </def-cat>
-
+    <def-cat n="prog-past">
+	    <cat-item tags="vblex.*.prog.past.*"/>
+    </def-cat>
     <def-cat n="vblex-neg">
       <cat-item tags="vblex.*.neg.*"/>
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_prog">
+      <attr-item tags="prog"/>
+    </def-attr>
     <def-attr n="a_neg">
       <attr-item tags="neg"/>
+    </def-attr>
+    <def-attr n="a_grau">
+      <attr-item tags="comp"/>
+      <attr-item tags="pst"/>
+      <attr-item tags="sup"/>
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
@@ -103,7 +113,28 @@
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: pp-vaux">
+    <rule comment="REGLA: prog-past">
+	    <pattern>
+		<pattern-item n="prog-past"/>
+            </pattern>
+	    <action>
+	<let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+	<let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+	<let><clip pos="1" side="tl" part="a_prog"/><lit v=""/></let>
+	    <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+  </out>
+  </action>
+    </rule>
+	  <rule comment="REGLA: pp-vaux">
 	    <pattern>
                 <pattern-item n="vblex-pp"/>
 		<pattern-item n="vaux"/>
@@ -111,7 +142,7 @@
 	    <action>
 	<let><clip pos="2" side="tl" part="a_verb"/><lit-tag v="vbhaver"/></let>
 	<let><clip pos="2" side="tl" part="a_prs"/><lit-tag v=""/></let>
-	<let><clip pos="2" side="tl" part="a_num"/><lit-tag v=""/></let>
+	<let><clip pos="2" side="tl" part="a_nbr"/><lit-tag v=""/></let>
 	    <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -287,6 +318,28 @@
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="a_nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+  <rule comment="REGLA: adjec">
+      <pattern>
+        <pattern-item n="adjec"/>
+      </pattern>
+      <action>
+	      <choose>
+		      <when><test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal></test>
+			      <let><clip pos="1" side="tl" part="a_grau"/><lit v=""/></let></when>
+	</choose>
+        <out>
+          <chunk name="j" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
