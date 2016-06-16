@@ -10,6 +10,11 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="li" tags="pr"><select lemma="at" tags="pr"/></match>
+    <match tags="prn.pers.*"/>
+  </rule>
+
+  <rule weight="1.0">
     <match lemma="zû" tags="adj.*"><select lemma="early" tags="adj.*"/></match>
     <match lemma="hişyar bûn" tags="vblex.*"/>
   </rule>

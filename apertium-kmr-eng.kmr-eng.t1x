@@ -58,6 +58,13 @@
     <def-attr n="a_neg">
       <attr-item tags="neg"/>
     </def-attr>
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="GD"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="nt"/>
+    </def-attr>
     <def-attr n="a_grau">
       <attr-item tags="comp"/>
       <attr-item tags="pst"/>
@@ -168,8 +175,19 @@
       <action>
         <choose>
           <when>
+            <test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></equal></test>
+                <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></let>
+          </when>
+  </choose>
+  <choose>
+	  <when>
             <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal></test>
                 <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
+                <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+          </when>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="obl"/></equal></test>
+                <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="obj"/></let>
                 <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
         </choose>
