@@ -3,6 +3,7 @@
   <alphabet></alphabet>
 
   <sdefs>
+    <sdef n="narr"      c="Narrative"/>
     <sdef n="abbr"     c="Abbreviation"/>
     <sdef n="n"     c="Noun"/>
     <sdef n="prn"  c=""/>
@@ -12367,6 +12368,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>qelandin<s n="vblex"/><s n="tv"/></l><r>fry<s n="vblex"/></r></p></e>
      <e><p><l>diyarkirin<s n="vblex"/><s n="tv"/></l><r>clarify<s n="vblex"/></r></p></e>
      <e><p><l>diyarkirin<s n="vblex"/><s n="tv"/></l><r>state<s n="vblex"/></r></p></e>
      <e><p><l>diyarkirin<s n="vblex"/><s n="tv"/></l><r>designate<s n="vblex"/></r></p></e>
