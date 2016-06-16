@@ -4,6 +4,12 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="bi" tags="pr"><select lemma="at" tags="pr"/></match>
+    <match tags="n.*"/>
+    <match lemma="ve" tags="post"/>
+  </rule>
+
+  <rule weight="1.0">
     <match lemma="bi" tags="pr"><select lemma="with" tags="pr"/></match>
   </rule>
 
