@@ -17,6 +17,9 @@
     <def-cat n="saet">
       <cat-item lemma="saet" tags="n.f.sg.*"/>
     </def-cat>
+    <def-cat n="nom-con-def">
+      <cat-item tags="n.*.*.con.def"/>
+    </def-cat>
     <def-cat n="nom-con">
       <cat-item tags="n.*.*.con.*"/>
     </def-cat>
@@ -234,6 +237,35 @@
 
 
 <!-- ^Nav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$-->
+
+    <rule comment="REGLA: nom-con-def">
+      <pattern>
+        <pattern-item n="nom-con-def"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="det-nom-of" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+	      <lit v="the"/><lit-tag v="det.def.sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <get-case-from pos="2">
+                <clip pos="1" side="tl" part="lemh"/></get-case-from>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+      </lu>
+      <lu>
+	      <lit v="of"/><lit-tag v="pr"/>
+      </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: nom-con prn-obl">
       <pattern>

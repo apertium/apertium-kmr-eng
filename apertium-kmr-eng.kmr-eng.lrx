@@ -4,6 +4,10 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="li" tags="pr"><select lemma="by" tags="pr"/></match>
+    <match lemma="hêl" tags="n.*"/>  
+</rule>
+  <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="to" tags="pr"/></match>
     <or><match tags="n.*"/><match tags="prn.*"/></or>
     <match lemma="re" tags="post"/>
