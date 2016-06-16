@@ -253,6 +253,7 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>pist<s n="n"/><s n="f"/></l><r>back<s n="n"/></r></p></e>
      <e><p><l>Mewlana<s n="n"/><s n="f"/></l><r>Molana<s n="n"/></r></p></e>
      <e><p><l>Mewlana<s n="n"/><s n="m"/></l><r>Molana<s n="n"/></r></p></e>
      <e><p><l>fîzîknas<s n="n"/><s n="f"/></l><r>physicist<s n="n"/></r></p></e>
@@ -8944,6 +8945,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Wetsin<s n="np"/><s n="ant"/><s n="m"/></l><r>Watson<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Şerlok<s n="np"/><s n="ant"/><s n="m"/></l><r>Sherlock<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Rweylot<s n="np"/><s n="ant"/><s n="m"/></l><r>Roylott<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Stonêr<s n="np"/><s n="ant"/><s n="m"/></l><r>Stoner<s n="np"/><s n="ant"/></r></p></e>
