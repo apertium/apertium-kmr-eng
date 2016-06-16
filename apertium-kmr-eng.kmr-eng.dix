@@ -14,6 +14,7 @@
     <sdef n="np"  c=""/>
     <sdef n="det"  c=""/>
     <sdef n="vaux"  c=""/>
+    <sdef n="neg"  c=""/>
     <sdef n="tn"  c=""/>
     <sdef n="dem"  c=""/>
     <sdef n="qnt"  c=""/>
@@ -12351,6 +12352,8 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>ne<s n="adv"/><s n="neg"/></l><r>not<s n="adv"/></r></p></e>
+
      <e><p><l>heta<s n="adv"/></l><r>in<b/>fact<s n="adv"/></r></p></e>
      <e><p><l>bêguman<s n="adv"/></l><r>doubtless<s n="adv"/></r></p></e>
      <e><p><l>lêbelê<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
