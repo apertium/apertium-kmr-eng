@@ -22,6 +22,7 @@
     <sdef n="top"  c=""/>
     <sdef n="al"  c=""/>
     <sdef n="ant"  c=""/>
+    <sdef n="cog"  c=""/>
     <sdef n="post"  c=""/>
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="pr"  c=""/>
@@ -8952,10 +8953,10 @@
 
      <!-- SECTION: Proper nouns-->
      <e><p><l>Wetsin<s n="np"/><s n="ant"/><s n="m"/></l><r>Watson<s n="np"/><s n="ant"/></r></p></e>
-     <e><p><l>Şerlok<s n="np"/><s n="ant"/><s n="m"/></l><r>Sherlock<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Şerlok<s n="np"/><s n="ant"/><s n="m"/></l><r>Sherlock<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Rweylot<s n="np"/><s n="ant"/><s n="m"/></l><r>Roylott<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Stonêr<s n="np"/><s n="ant"/><s n="m"/></l><r>Stoner<s n="np"/><s n="ant"/></r></p></e>
-     <e><p><l>Holmes<s n="np"/><s n="ant"/><s n="m"/></l><r>Holmes<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Holmes<s n="np"/><s n="ant"/><s n="m"/></l><r>Holmes<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Baba<s n="np"/><s n="ant"/><s n="m"/></l><r>Baba<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Hacî<s n="np"/><s n="ant"/><s n="m"/></l><r>Haci<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Saint<s n="np"/><s n="ant"/><s n="f"/></l><r>Saint<s n="np"/><s n="ant"/></r></p></e>
@@ -8963,7 +8964,7 @@
      <e><p><l>ibn<s n="np"/><s n="ant"/><s n="m"/></l><r>ibn<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Roma<s n="np"/><s n="top"/><s n="f"/></l><r>Rome<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Medîne<s n="np"/><s n="top"/><s n="f"/></l><r>Medina<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>Öcalan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ocalan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Öcalan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ocalan<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Suhrewerdî<s n="np"/><s n="ant"/><s n="m"/></l><r>Suhrawardi<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Konstantinopolis<s n="np"/><s n="top"/><s n="f"/></l><r>Constantinople<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Qonye<s n="np"/><s n="top"/><s n="f"/></l><r>Konya<s n="np"/><s n="top"/></r></p></e>
@@ -8983,11 +8984,11 @@
      <e><p><l>Êrîvan<s n="np"/><s n="top"/><s n="f"/></l><r>Yerevan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Fatma<s n="np"/><s n="ant"/><s n="f"/></l><r>Fatma<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îzmîr<s n="np"/><s n="top"/><s n="f"/></l><r>Izmir<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>Martin<s n="np"/><s n="ant"/><s n="m"/></l><r>Martin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Martin<s n="np"/><s n="ant"/><s n="m"/></l><r>Martin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Moskow<s n="np"/><s n="top"/><s n="f"/></l><r>Moscow<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Sîlvan<s n="np"/><s n="top"/><s n="f"/></l><r>Silvan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Sokrates<s n="np"/><s n="ant"/><s n="m"/></l><r>Socrates<s n="np"/><s n="ant"/></r></p></e>
-     <e><p><l>Einstein<s n="np"/><s n="ant"/><s n="m"/></l><r>Einstein<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Einstein<s n="np"/><s n="ant"/><s n="m"/></l><r>Einstein<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Erebistan<s n="np"/><s n="top"/><s n="f"/></l><r>Arabia<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Julius<s n="np"/><s n="ant"/><s n="m"/></l><r>Julius<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Taylor<s n="np"/><s n="ant"/><s n="f"/></l><r>Taylor<s n="np"/><s n="ant"/></r></p></e>
