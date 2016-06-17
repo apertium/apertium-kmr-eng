@@ -26,7 +26,7 @@
     <def-cat n="nom-con">
       <cat-item tags="n.*.*.con.*"/>
     </def-cat>
-    <def-cat n="prn-obl">
+    <def-cat n="pron-obl">
       <cat-item tags="prn.pers.*.*.*.obl"/>
       <cat-item lemma="xwe" tags="prn.ref.*"/>
     </def-cat>
@@ -79,6 +79,8 @@
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.cog"/>
     </def-attr>
     <def-attr n="a_verb">
       <attr-item tags="vbser"/>
@@ -104,6 +106,9 @@
       <attr-item tags="obj"/>
       <attr-item tags="subj"/>
     </def-attr>
+    <def-attr n="a_prn">
+      <attr-item tags="prn.pers"/>
+    </def-attr>
     <def-attr n="a_case">
       <attr-item tags="nom"/>
       <attr-item tags="obl"/>
@@ -114,14 +119,72 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="last-subj"/>
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
+    <def-macro n="set-subj1" npar="1">
+      <choose>
+        <when><test><equal><clip pos="1" side="sl" part="a_prn"/><lit-tag v="prn.pers"/></equal></test>
+          <choose>
+            <when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p1"/></equal>
+                             <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+                  <let><var n="last-subj"/><lit-tag v="p1.mf.sg"/></let></when>
+            <when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p1"/></equal>
+                             <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></and></test>
+                  <let><var n="last-subj"/><lit-tag v="p1.mf.pl"/></let></when>
+            <when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p3"/></equal>
+                             <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></and></test>
+                  <let><var n="last-subj"/><lit-tag v="p3.mf.pl"/></let></when>
+            <when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p3"/></equal>
+                             <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+                  <let><var n="last-subj"/><lit-tag v="p3.GD.sg"/></let></when>
+            <when><test><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p2"/></equal></test>
+                  <let><var n="last-subj"/><lit-tag v="p2.mf.sp"/></let></when>
+          </choose>
+        </when>
+        <when><test><equal><clip pos="1" side="sl" part="a_nom"/><lit-tag v="np.ant"/></equal></test>
+          <choose>
+            <when><test><equal><clip pos="1" side="sl" part="a_gen"/><lit-tag v="m"/></equal></test>
+                  <let><var n="last-subj"/><lit-tag v="p3.m.sg"/></let></when>
+            <when><test><equal><clip pos="1" side="sl" part="a_gen"/><lit-tag v="f"/></equal></test>
+                  <let><var n="last-subj"/><lit-tag v="p3.f.sg"/></let></when>
+          </choose>
+        </when>
+      </choose>
+    </def-macro>
+
+    <def-macro n="conv-prn-poss1" npar="1">
+      <choose>
+        <when><test><equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="xwe"/></equal></test>
+          <choose>
+            <when><test><equal><var n="last-subj"/><lit-tag v="p3.GD.sg"/></equal></test>
+                  <let><clip pos="1" side="tl" part="whole"/>
+                       <concat><get-case-from pos="1"><lit v="his"/></get-case-from><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when><test><equal><var n="last-subj"/><lit-tag v="p3.m.sg"/></equal></test>
+                  <let><clip pos="1" side="tl" part="whole"/>
+                       <concat><get-case-from pos="1"><lit v="his"/></get-case-from><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when><test><equal><var n="last-subj"/><lit-tag v="p3.f.sg"/></equal></test>
+                  <let><clip pos="1" side="tl" part="whole"/>
+                       <concat><get-case-from pos="1"><lit v="her"/></get-case-from><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when><test><equal><var n="last-subj"/><lit-tag v="p1.mf.sg"/></equal></test>
+                  <let><clip pos="1" side="tl" part="whole"/>
+                       <concat><get-case-from pos="1"><lit v="my"/></get-case-from><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when><test><equal><var n="last-subj"/><lit-tag v="p1.mf.pl"/></equal></test>
+                  <let><clip pos="1" side="tl" part="whole"/>
+                       <concat><get-case-from pos="1"><lit v="our"/></get-case-from><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when><test><equal><var n="last-subj"/><lit-tag v="p2.mf.sp"/></equal></test>
+                  <let><clip pos="1" side="tl" part="whole"/>
+                       <concat><get-case-from pos="1"><lit v="your"/></get-case-from><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+          </choose>
+        </when>
+      </choose>
     </def-macro>
   </section-def-macros>
 
@@ -179,6 +242,9 @@
         <pattern-item n="pron-pers"/>
       </pattern>
       <action>
+        <call-macro n="set-subj1">
+          <with-param pos="1"/>
+        </call-macro> 
         <choose>
           <when>
             <test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></equal></test>
@@ -215,6 +281,9 @@
         <pattern-item n="ant"/>
       </pattern>
       <action>
+        <call-macro n="set-subj1">
+          <with-param pos="1"/>
+        </call-macro> 
         <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
         <out>
           <chunk name="ant" case="caseFirstWord">
@@ -293,16 +362,19 @@
 
 
 <!-- ^Nav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$-->
-    <rule comment="REGLA: nom-con prn-obl">
+    <rule comment="REGLA: nom-con pron-obl">
       <pattern>
         <pattern-item n="nom-con"/>
-        <pattern-item n="prn-obl"/>
+        <pattern-item n="pron-obl"/>
       </pattern>
       <action>
         <let><clip pos="2" side="tl" part="a_func"/><lit-tag v="obj"/></let>
         <let><clip pos="2" side="tl" part="a_case"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="lem"/>
              <get-case-from pos="1"><clip pos="2" side="tl" part="lem"/></get-case-from></let>
+        <call-macro n="conv-prn-poss1">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="det-nom" case="caseFirstWord">
             <tags>
@@ -326,10 +398,10 @@
 
 <!-- ^heval<n><m><pl><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$ ^yê<con><mf><pl>$ ^kurd<n><m><sg><obl><def>$-->
 
-    <rule comment="REGLA: nom-con prn-obl yê nom">
+    <rule comment="REGLA: nom-con pron-obl yê nom">
       <pattern>
         <pattern-item n="nom-con"/>
-        <pattern-item n="prn-obl"/>
+        <pattern-item n="pron-obl"/>
         <pattern-item n="yê"/>
         <pattern-item n="nom"/>
       </pattern>
@@ -338,6 +410,9 @@
         <let><clip pos="2" side="tl" part="a_case"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="lem"/>
              <get-case-from pos="1"><clip pos="2" side="tl" part="lem"/></get-case-from></let>
+        <call-macro n="conv-prn-poss1">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="det-nom" case="caseFirstWord">
             <tags>
