@@ -267,6 +267,26 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>kod<s n="n"/><s n="f"/></l><r>code<s n="n"/></r></p></e>
+     <e><p><l>Windows<s n="n"/><s n="f"/></l><r>Windows<s n="n"/></r></p></e>
+     <e><p><l>form<s n="n"/><s n="f"/></l><r>form<s n="n"/></r></p></e>
+     <e><p><l>bajarok<s n="n"/><s n="m"/></l><r>town<s n="n"/></r></p></e>
+     <e><p><l>têgihiştin<s n="n"/><s n="f"/></l><r>understanding<s n="n"/></r></p></e>
+     <e><p><l>bijîşk<s n="n"/><s n="f"/></l><r>doctor<s n="n"/></r></p></e>
+     <e><p><l>bijîşk<s n="n"/><s n="m"/></l><r>doctor<s n="n"/></r></p></e>
+     <e><p><l>BZ<s n="n"/><s n="acr"/><s n="f"/></l><r>BZ<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>bahs<s n="n"/><s n="f"/></l><r>discussion<s n="n"/></r></p></e>
+     <e><p><l>ketin<s n="n"/><s n="f"/></l><r>falling<s n="n"/></r></p></e>
+     <e><p><l>nexweşî<s n="n"/><s n="f"/></l><r>sickness<s n="n"/></r></p></e>
+     <e><p><l>piştgirî<s n="n"/><s n="f"/></l><r>cooperation<s n="n"/></r></p></e>
+     <e><p><l>agahî<s n="n"/><s n="f"/></l><r>information<s n="n"/></r></p></e>
+     <e><p><l>rêveberî<s n="n"/><s n="f"/></l><r>administration<s n="n"/></r></p></e>
+     <e><p><l>berhem<s n="n"/><s n="f"/></l><r>product<s n="n"/></r></p></e>
+     <e><p><l>derketin<s n="n"/><s n="f"/></l><r>emergence<s n="n"/></r></p></e>
+     <e><p><l>BR<s n="n"/><s n="acr"/><s n="f"/></l><r>BR<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>desthilatdarî<s n="n"/><s n="f"/></l><r>government<s n="n"/></r></p></e>
+     <e><p><l>berfanbarê<s n="n"/><s n="f"/></l><r>december<s n="n"/></r></p></e>
+     <e><p><l>rezberê<s n="n"/><s n="f"/></l><r>september<s n="n"/></r></p></e>
      <e><p><l>derengî<s n="n"/><s n="f"/></l><r>lateness<s n="n"/></r></p></e>
      <e><p><l>pist<s n="n"/><s n="f"/></l><r>back<s n="n"/></r></p></e>
      <e><p><l>Mewlana<s n="n"/><s n="f"/></l><r>Molana<s n="n"/></r></p></e>
@@ -8959,6 +8979,8 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>University<s n="np"/><s n="top"/><s n="f"/></l><r>University<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>San<s n="np"/><s n="ant"/><s n="m"/></l><r>San<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Wetsin<s n="np"/><s n="ant"/><s n="m"/></l><r>Watson<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Şerlok<s n="np"/><s n="ant"/><s n="m"/></l><r>Sherlock<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Rweylot<s n="np"/><s n="ant"/><s n="m"/></l><r>Roylott<s n="np"/><s n="ant"/></r></p></e>
@@ -9306,6 +9328,17 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>nivîsî<s n="adj"/></l><r>written<s n="adj"/></r></p></e>
+     <e><p><l>wenda<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
+     <e><p><l>navnetewî<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
+     <e><p><l>tevahî<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
+     <e><p><l>amadeyî<s n="adj"/></l><r>preparatory<s n="adj"/></r></p></e>
+     <e><p><l>birîndar<s n="adj"/></l><r>wounded<s n="adj"/></r></p></e>
+     <e><p><l>nivîskî<s n="adj"/></l><r>written<s n="adj"/></r></p></e>
+     <e><p><l>çandinî<s n="adj"/></l><r>agricultural<s n="adj"/></r></p></e>
+     <e><p><l>berfireh<s n="adj"/></l><r>detailed<s n="adj"/></r></p></e>
+     <e><p><l>berfireh<s n="adj"/></l><r>inclusive<s n="adj"/></r></p></e>
+     <e><p><l>hişk<s n="adj"/></l><r>hard<s n="adj"/></r></p></e>
      <e><p><l>ecêb<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
      <e><p><l>xwerû<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
      <e><p><l>xwerû<s n="adj"/></l><r>pure<s n="adj"/></r></p></e>
@@ -12354,6 +12387,10 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>seranser<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+     <e><p><l>carnan<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+     <e><p><l>gellek<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+     <e><p><l>îroj<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
      <e><p><l>ne<s n="adv"/><s n="neg"/></l><r>not<s n="adv"/></r></p></e>
 
      <e><p><l>heta<s n="adv"/></l><r>in<b/>fact<s n="adv"/></r></p></e>

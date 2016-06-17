@@ -234,37 +234,6 @@
 
     <rule comment="REGLA: nom">
       <pattern>
-        <pattern-item n="nom"/>
-      </pattern>
-      <action>
-        <choose>
-          <when>
-            <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal></test>
-                <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
-                <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
-          </when>
-        </choose>
-        <out>
-          <chunk name="pers" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="a_nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-<!-- ^Nav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$-->
-
-    <rule comment="REGLA: nom-con-def">
-      <pattern>
         <pattern-item n="nom-con-def"/>
       </pattern>
       <action>
@@ -284,6 +253,7 @@
               <clip pos="1" side="tl" part="a_nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
       </lu>
+      <b/>
       <lu>
 	      <lit v="of"/><lit-tag v="pr"/>
       </lu>
@@ -292,6 +262,37 @@
       </action>
     </rule>
 
+
+    <rule comment="REGLA: nom">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal></test>
+                <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
+                <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<!-- ^Nav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$-->
     <rule comment="REGLA: nom-con prn-obl">
       <pattern>
         <pattern-item n="nom-con"/>
