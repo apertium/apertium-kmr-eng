@@ -271,6 +271,28 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>UTC<s n="n"/><s n="acr"/><s n="f"/></l><r>UTC<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>fahm<s n="n"/><s n="f"/></l><r>understanding<s n="n"/></r></p></e>
+     <e><p><l>perwerdehî<s n="n"/><s n="f"/></l><r>education<s n="n"/></r></p></e>
+     <e><p><l>çandinî<s n="n"/><s n="f"/></l><r>agriculture<s n="n"/></r></p></e>
+     <e><p><l>birçîbûn<s n="n"/><s n="f"/></l><r>famine<s n="n"/></r></p></e>
+     <e><p><l>damezrandin<s n="n"/><s n="f"/></l><r>creation<s n="n"/></r></p></e>
+     <e><p><l>ajal<s n="n"/><s n="f"/></l><r>class<s n="n"/></r></p></e>
+     <e><p><l>cîran<s n="n"/><s n="f"/></l><r>neighbour<s n="n"/></r></p></e>
+     <e><p><l>cîran<s n="n"/><s n="m"/></l><r>neighbour<s n="n"/></r></p></e>
+     <e><p><l>mane<s n="n"/><s n="f"/></l><r>meaning<s n="n"/></r></p></e>
+     <e><p><l>quşxane<s n="n"/><s n="f"/></l><r>pot<s n="n"/></r></p></e>
+     <e><p><l>cînav<s n="n"/><s n="f"/></l><r>pronoun<s n="n"/></r></p></e>
+     <e><p><l>cînav<s n="n"/><s n="m"/></l><r>pronoun<s n="n"/></r></p></e>
+     <e><p><l>zanîn<s n="n"/><s n="f"/></l><r>knowledge<s n="n"/></r></p></e>
+     <e><p><l>rexne<s n="n"/><s n="f"/></l><r>criticism<s n="n"/></r></p></e>
+     <e><p><l>têkoşîn<s n="n"/><s n="f"/></l><r>struggle<s n="n"/></r></p></e>
+     <e><p><l>derbaz<s n="n"/><s n="f"/></l><r>passing<s n="n"/></r></p></e>
+     <e><p><l>tarî<s n="n"/><s n="f"/></l><r>darkness<s n="n"/></r></p></e>
+     <e><p><l>tevahî<s n="n"/><s n="f"/></l><r>entirity<s n="n"/></r></p></e>
+     <e><p><l>gelawêj<s n="n"/><s n="f"/></l><r>august<s n="n"/></r></p></e>
+     <e><p><l>dûrî<s n="n"/><s n="f"/></l><r>distance<s n="n"/></r></p></e>
+     <e><p><l>berfanbar<s n="n"/><s n="f"/></l><r>december<s n="n"/></r></p></e>
      <e><p><l>kod<s n="n"/><s n="f"/></l><r>code<s n="n"/></r></p></e>
      <e><p><l>Windows<s n="n"/><s n="f"/></l><r>Windows<s n="n"/></r></p></e>
      <e><p><l>form<s n="n"/><s n="f"/></l><r>form<s n="n"/></r></p></e>
@@ -8983,6 +9005,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>II<s n="np"/><s n="ant"/><s n="m"/></l><r>II<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>The<s n="np"/><s n="top"/><s n="f"/></l><r>The<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>New<s n="np"/><s n="top"/><s n="f"/></l><r>New<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>University<s n="np"/><s n="top"/><s n="f"/></l><r>University<s n="np"/><s n="top"/></r></p></e>
@@ -9334,6 +9357,17 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>pîr<s n="adj"/></l><r>old<s n="adj"/></r></p></e>
+     <e><p><l>xilas<s n="adj"/></l><r>finished<s n="adj"/></r></p></e>
+     <e><p><l>kevneşopî<s n="adj"/></l><r>traditional<s n="adj"/></r></p></e>
+     <e><p><l>mijûl<s n="adj"/></l><r>busy<s n="adj"/></r></p></e>
+     <e><p><l>germ<s n="adj"/></l><r>hot<s n="adj"/></r></p></e>
+     <e><p><l>peyda<s n="adj"/></l><r>found<s n="adj"/></r></p></e>
+     <e><p><l>bingehîn<s n="adj"/></l><r>basic<s n="adj"/></r></p></e>
+     <e><p><l>fireh<s n="adj"/></l><r>wide<s n="adj"/></r></p></e>
+     <e><p><l>devkî<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
+     <e><p><l>xeynî<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+     <e><p><l>temam<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
      <e><p><l>teybetî<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
      <e><p><l>nivîsî<s n="adj"/></l><r>written<s n="adj"/></r></p></e>
      <e><p><l>wenda<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
@@ -12437,6 +12471,24 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>kifşkirin<s n="vblex"/><s n="tv"/></l><r>clarify<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>kifşkirin<s n="vblex"/><s n="tv"/></l><r>reveal<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>rakirin<s n="vblex"/><s n="tv"/></l><r>raise<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>qedexekirin<s n="vblex"/><s n="tv"/></l><r>forbid<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>cuda<b/>kirin<s n="vblex"/><s n="tv"/></l><r>change<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>vegirtin<s n="vblex"/><s n="tv"/></l><r>conquer<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>bidest<b/>ketin<s n="vblex"/><s n="iv"/></l><r>be<b/>captured<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>bidest<b/>xistin<s n="vblex"/><s n="tv"/></l><r>acquire<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>bidest<b/>xistin<s n="vblex"/><s n="tv"/></l><r>capture<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>nîşandan<s n="vblex"/><s n="tv"/></l><r>show<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>wergirtin<s n="vblex"/><s n="tv"/></l><r>take<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>wergirtin<s n="vblex"/><s n="tv"/></l><r>wear<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>berdan<s n="vblex"/><s n="tv"/></l><r>let<s n="vblex"/></r></p></e>
+     <e><p><l>berdan<s n="vblex"/><s n="tv"/></l><r>allow<s n="vblex"/></r></p></e>
+     <e><p><l>berdan<s n="vblex"/><s n="tv"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
+     <e><p><l>berdan<s n="vblex"/><s n="tv"/></l><r>leave<s n="vblex"/></r></p></e>
+     <e><p><l>berdan<s n="vblex"/><s n="tv"/></l><r>forsake<s n="vblex"/></r></p></e>
+     <e><p><l>berdan<s n="vblex"/><s n="tv"/></l><r>divorce<s n="vblex"/></r></p></e>
      <e><p><l>wergerandin<s n="vblex"/><s n="tv"/></l><r>translate<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>derpêş<b/>kirin<s n="vblex"/><s n="tv"/></l><r>foresee<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>pêşber<b/>kirin<s n="vblex"/><s n="tv"/></l><r>allege<s n="n"/><s n="vblex"/></r></p></e>
@@ -12445,7 +12497,7 @@
      <e><p><l>heter<b/>kirin<s n="vblex"/><s n="tv"/></l><r>bite<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>şil<b/>kirin<s n="vblex"/><s n="tv"/></l><r>wet<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>matkirin<s n="vblex"/><s n="tv"/></l><r>shock<s n="n"/><s n="vblex"/></r></p></e>
-     <e><p><l>peyda<b/>kirin<s n="vblex"/><s n="tv"/></l><r>create<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>peyda<b/>kirin<s n="vblex"/><s n="tv"/></l><r>find<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>raketin<s n="vblex"/><s n="iv"/></l><r>sleep<s n="vblex"/></r></p></e>
      <e><p><l>rabûn<s n="vblex"/><s n="iv"/></l><r>rise<s n="vblex"/></r></p></e>
      <e><p><l>hişyar<b/>bûn<s n="vblex"/><s n="iv"/></l><r>wake<s n="vblex"/></r></p></e>
@@ -12656,12 +12708,6 @@
      <e><p><l>azirandin<s n="vblex"/><s n="TD"/></l><r>incite<s n="vblex"/></r></p></e>
      <e><p><l>bazdan<s n="vblex"/><s n="TD"/></l><r>escape<s n="vblex"/></r></p></e>
      <e><p><l>belişandin<s n="vblex"/><s n="TD"/></l><r>incite<s n="vblex"/></r></p></e>
-     <e><p><l>berdan<s n="vblex"/><s n="TD"/></l><r>let<s n="vblex"/></r></p></e>
-     <e><p><l>berdan<s n="vblex"/><s n="TD"/></l><r>allow<s n="vblex"/></r></p></e>
-     <e><p><l>berdan<s n="vblex"/><s n="TD"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
-     <e><p><l>berdan<s n="vblex"/><s n="TD"/></l><r>leave<s n="vblex"/></r></p></e>
-     <e><p><l>berdan<s n="vblex"/><s n="TD"/></l><r>forsake<s n="vblex"/></r></p></e>
-     <e><p><l>berdan<s n="vblex"/><s n="TD"/></l><r>divorce<s n="vblex"/></r></p></e>
      <e><p><l>bersivandin<s n="vblex"/><s n="TD"/></l><r>respond<s n="vblex"/></r></p></e>
      <e><p><l>betilandin<s n="vblex"/><s n="TD"/></l><r>tire<s n="vblex"/></r></p></e>
      <e><p><l>birîn<s n="vblex"/><s n="TD"/></l><r>saw<s n="vblex"/></r></p></e>
