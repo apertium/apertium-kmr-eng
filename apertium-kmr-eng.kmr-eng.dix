@@ -271,6 +271,36 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>tişt<s n="n"/><s n="f"/></l><r>thing<s n="n"/></r></p></e>
+     <e><p><l>bilindahî<s n="n"/><s n="f"/></l><r>altitude<s n="n"/></r></p></e>
+     <e><p><l>xwendevan<s n="n"/><s n="f"/></l><r>reader<s n="n"/></r></p></e>
+     <e><p><l>xwendevan<s n="n"/><s n="m"/></l><r>reader<s n="n"/></r></p></e>
+     <e><p><l>derxistin<s n="n"/><s n="f"/></l><r>bring<b/>out<s n="n"/></r></p></e>
+     <e><p><l>derxistin<s n="n"/><s n="f"/></l><r>take<b/>out<s n="n"/></r></p></e>
+     <e><p><l>formul<s n="n"/><s n="f"/></l><r>formula<s n="n"/></r></p></e>
+     <e><p><l>werger<s n="n"/><s n="f"/></l><r>translation<s n="n"/></r></p></e>
+     <e><p><l>navber<s n="n"/><s n="f"/></l><r>middle<s n="n"/></r></p></e>
+     <e><p><l>şekir<s n="n"/><s n="m"/></l><r>sugar<s n="n"/></r></p></e>
+     <e><p><l>kurd<s n="n"/><s n="f"/></l><r>Kurd<s n="n"/></r></p></e>
+     <e><p><l>kurd<s n="n"/><s n="m"/></l><r>Kurd<s n="n"/></r></p></e>
+     <e><p><l>şax<s n="n"/><s n="f"/></l><r>horn<s n="n"/></r></p></e>
+     <e><p><l>şax<s n="n"/><s n="f"/></l><r>branch<s n="n"/></r></p></e>
+     <e><p><l>şax<s n="n"/><s n="f"/></l><r>part<s n="n"/></r></p></e>
+     <e><p><l>şax<s n="n"/><s n="f"/></l><r>piece<s n="n"/></r></p></e>
+     <e><p><l>masî<s n="n"/><s n="f"/></l><r>fish<s n="n"/></r></p></e>
+     <e><p><l>cins<s n="n"/><s n="f"/></l><r>class<s n="n"/></r></p></e>
+     <e><p><l>cins<s n="n"/><s n="m"/></l><r>class<s n="n"/></r></p></e>
+     <e><p><l>cins<s n="n"/><s n="f"/></l><r>type<s n="n"/></r></p></e>
+     <e><p><l>cins<s n="n"/><s n="m"/></l><r>type<s n="n"/></r></p></e>
+     <e><p><l>jînenîgarî<s n="n"/><s n="f"/></l><r>biography<s n="n"/></r></p></e>
+     <e><p><l>carî<s n="n"/><s n="f"/></l><r>repetition<s n="n"/></r></p></e>
+     <e><p><l>spanî<s n="n"/><s n="f"/></l><r>Spanish<s n="n"/></r></p></e>
+     <e><p><l>spanî<s n="n"/><s n="m"/></l><r>Spanish<s n="n"/></r></p></e>
+     <e><p><l>temamî<s n="n"/><s n="f"/></l><r>entirity<s n="n"/></r></p></e>
+     <e><p><l>nîşandan<s n="n"/><s n="f"/></l><r>showing<s n="n"/></r></p></e>
+     <e><p><l>rûsî<s n="n"/><s n="f"/></l><r>Russian<s n="n"/></r></p></e>
+     <e><p><l>rûsî<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
+     <e><p><l>riwek<s n="n"/><s n="f"/></l><r>plant<s n="n"/></r></p></e>
      <e><p><l>UTC<s n="n"/><s n="acr"/><s n="f"/></l><r>UTC<s n="n"/><s n="acr"/></r></p></e>
      <e><p><l>fahm<s n="n"/><s n="f"/></l><r>understanding<s n="n"/></r></p></e>
      <e><p><l>perwerdehî<s n="n"/><s n="f"/></l><r>education<s n="n"/></r></p></e>
@@ -9005,6 +9035,13 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Dîvrîgiya<s n="np"/><s n="top"/><s n="f"/></l><r>Divrigi<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Şemzînan<s n="np"/><s n="top"/><s n="f"/></l><r>Semdinli<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Sovyet<s n="np"/><s n="top"/><s n="f"/></l><r>Soviet<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Elkê<s n="np"/><s n="top"/><s n="f"/></l><r>Beytussebap<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Çinar<s n="np"/><s n="ant"/><s n="m"/></l><r>Cinar<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>von<s n="np"/><s n="ant"/><s n="m"/></l><r>von<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Pîrosa<s n="np"/><s n="top"/><s n="f"/></l><r>Bolucek<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>II<s n="np"/><s n="ant"/><s n="m"/></l><r>II<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>The<s n="np"/><s n="top"/><s n="f"/></l><r>The<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>New<s n="np"/><s n="top"/><s n="f"/></l><r>New<s n="np"/><s n="top"/></r></p></e>
@@ -9357,6 +9394,20 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>texmînî<s n="adj"/></l><r>estimatory<s n="adj"/></r></p></e>
+     <e><p><l>pakij<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
+     <e><p><l>çalak<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
+     <e><p><l>xizan<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+     <e><p><l>fêrî<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
+     <e><p><l>rojî<s n="adj"/></l><r>daily<s n="adj"/></r></p></e>
+     <e><p><l>kovî<s n="adj"/></l><r>wild<s n="adj"/></r></p></e>
+     <e><p><l>edebî<s n="adj"/></l><r>literary<s n="adj"/></r></p></e>
+     <e><p><l>danî<s n="adj"/></l><r>given<s n="adj"/></r></p></e>
+     <e><p><l>spanî<s n="adj"/></l><r>Spanish<s n="adj"/></r></p></e>
+     <e><p><l>xelas<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
+     <e><p><l>rûsî<s n="adj"/></l><r>Russian<s n="adj"/></r></p></e>
+     <e><p><l>xwezayî<s n="adj"/></l><r>natural<s n="adj"/></r></p></e>
+     <e><p><l>dehan<s n="adj"/></l><r>tenth<s n="adj"/></r></p></e>
      <e><p><l>pîr<s n="adj"/></l><r>old<s n="adj"/></r></p></e>
      <e><p><l>xilas<s n="adj"/></l><r>finished<s n="adj"/></r></p></e>
      <e><p><l>kevneşopî<s n="adj"/></l><r>traditional<s n="adj"/></r></p></e>
@@ -12471,6 +12522,10 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>destnîşan<b/>kirin<s n="vblex"/><s n="tv"/></l><r>determine<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>navkirin<s n="vblex"/><s n="tv"/></l><r>name<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>navkirin<s n="vblex"/><s n="tv"/></l><r>call<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>carî<b/>kirin<s n="vblex"/><s n="tv"/></l><r>repeat<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>kifşkirin<s n="vblex"/><s n="tv"/></l><r>clarify<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>kifşkirin<s n="vblex"/><s n="tv"/></l><r>reveal<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>rakirin<s n="vblex"/><s n="tv"/></l><r>raise<s n="n"/><s n="vblex"/></r></p></e>
