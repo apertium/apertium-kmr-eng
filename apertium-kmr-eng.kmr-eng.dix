@@ -85,6 +85,7 @@
      <!-- SECTION: Conjunctions -->
 
       <e><p><l>û<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+      <e><p><l>lê<b/>belê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>anjî<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
@@ -106,6 +107,8 @@
 
 
      <!-- SECTION: Adpositions -->
+      <e><p><l>bi<b/>qasî<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
+      <e><p><l>qasî<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
       <e><p><l>ve<s n="post"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>ve<s n="post"/></l><r></r></p></e>
       <e><p><l>ji<b/>bona<b/>ku<s n="pr"/></l><r>because<s n="cnjsub"/></r></p></e>
@@ -209,7 +212,7 @@
       <e><p><l>xwe<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>hev<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>çi<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p></e>
-
+      <e><p><l>kî<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>ew<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="tn"/></r></p></e>
      <e><p><l>ew<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="tn"/></r></p></e>
 
@@ -271,6 +274,8 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>hezar<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>
+     <e><p><l>hemî<s n="n"/><s n="f"/></l><r>whole<s n="n"/></r></p></e>
      <e><p><l>welatparêz<s n="n"/><s n="f"/></l><r>patriot<s n="n"/></r></p></e>
      <e><p><l>welatparêz<s n="n"/><s n="m"/></l><r>patriot<s n="n"/></r></p></e>
      <e><p><l>Google<s n="n"/><s n="f"/></l><r>Google<s n="n"/></r></p></e>
@@ -9453,6 +9458,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>salî<s n="adj"/></l><r>annual<s n="adj"/></r></p></e>
      <e><p><l>qanûnî<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
      <e><p><l>standard<s n="adj"/></l><r>standard<s n="adj"/></r></p></e>
      <e><p><l>paşîn<s n="adj"/></l><r>last<s n="adj"/></r></p></e>
@@ -12568,6 +12574,13 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>hema<s n="adv"/></l><r>approximately<s n="adv"/></r></p></e>
+     <e><p><l>hema<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+     <e><p><l>tev<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+     <e><p><l>tev<s n="adv"/></l><r>all<s n="adv"/></r></p></e>
+     <e><p><l>na<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+     <e><p><l>belê<s n="adv"/></l><r>yes<s n="adv"/></r></p></e>
+     <e><p><l>hemî<s n="adv"/></l><r>all<s n="adv"/></r></p></e>
      <e><p><l>çima<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
      <e><p><l>herdem<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
      <e><p><l>belkî<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
@@ -12617,6 +12630,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>pêve<b/>kirin<s n="vblex"/><s n="tv"/></l><r>insist<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>pêşketin<s n="vblex"/><s n="iv"/></l><r>progress<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>bawerkirin<s n="vblex"/><s n="tv"/></l><r>believe<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>bicihkirin<s n="vblex"/><s n="tv"/></l><r>place<s n="n"/><s n="vblex"/></r></p></e>
