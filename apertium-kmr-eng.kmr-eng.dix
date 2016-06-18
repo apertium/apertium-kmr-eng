@@ -271,6 +271,30 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>êşkence<s n="n"/><s n="f"/></l><r>torture<s n="n"/></r></p></e>
+     <e><p><l>berpirsiyar<s n="n"/><s n="f"/></l><r>investigation<s n="n"/></r></p></e>
+     <e><p><l>hejmartin<s n="n"/><s n="f"/></l><r>counting<s n="n"/></r></p></e>
+     <e><p><l>hijmar<s n="n"/><s n="f"/></l><r>edition<s n="n"/></r></p></e>
+     <e><p><l>hijmar<s n="n"/><s n="f"/></l><r>number<s n="n"/></r></p></e>
+     <e><p><l>îngilîz<s n="n"/><s n="f"/></l><r>British<s n="n"/></r></p></e>
+     <e><p><l>îngilîz<s n="n"/><s n="m"/></l><r>British<s n="n"/></r></p></e>
+     <e><p><l>pirsiyarî<s n="n"/><s n="f"/></l><r>questioning<s n="n"/></r></p></e>
+     <e><p><l>organ<s n="n"/><s n="f"/></l><r>organ<s n="n"/></r></p></e>
+     <e><p><l>serokwezîr<s n="n"/><s n="m"/></l><r>prime<b/>minister<s n="n"/></r></p></e>
+     <e><p><l>nivîsbarî<s n="n"/><s n="f"/></l><r>software<s n="n"/></r></p></e>
+     <e><p><l>norwêcî<s n="n"/><s n="f"/></l><r>Norwegian<s n="n"/></r></p></e>
+     <e><p><l>norwêcî<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/></r></p></e>
+     <e><p><l>Hawar<s n="n"/><s n="f"/></l><r>Hawar<s n="n"/></r></p></e>
+     <e><p><l>çep<s n="n"/><s n="f"/></l><r>left<s n="n"/></r></p></e>
+     <e><p><l>ISBN<s n="n"/><s n="acr"/><s n="f"/></l><r>ISBN<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>keyanî<s n="n"/><s n="f"/></l><r>kingdom<s n="n"/></r></p></e>
+     <e><p><l>zehmet<s n="n"/><s n="f"/></l><r>difficulty<s n="n"/></r></p></e>
+     <e><p><l>Diha<s n="n"/><s n="acr"/><s n="f"/></l><r>DIHA<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>med<s n="n"/><s n="f"/></l><r>Mede<s n="n"/></r></p></e>
+     <e><p><l>med<s n="n"/><s n="m"/></l><r>Mede<s n="n"/></r></p></e>
+     <e><p><l>xweda<s n="n"/><s n="m"/></l><r>God<s n="n"/></r></p></e>
+     <e><p><l>mîlyon<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
+     <e><p><l>kilam<s n="n"/><s n="f"/></l><r>song<s n="n"/></r></p></e>
      <e><p><l>tişt<s n="n"/><s n="f"/></l><r>thing<s n="n"/></r></p></e>
      <e><p><l>bilindahî<s n="n"/><s n="f"/></l><r>altitude<s n="n"/></r></p></e>
      <e><p><l>xwendevan<s n="n"/><s n="f"/></l><r>reader<s n="n"/></r></p></e>
@@ -9035,6 +9059,13 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Libnan<s n="np"/><s n="top"/><s n="f"/></l><r>Lebanon<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Gewirkî<s n="np"/><s n="ant"/><s n="m"/></l><r>Gewirkî<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Pîrhesinî<s n="np"/><s n="ant"/><s n="m"/></l><r>Pirhesini<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Huseyîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Hussein<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Berwarî<s n="np"/><s n="ant"/><s n="m"/></l><r>Berwari<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Berwarî<s n="np"/><s n="top"/><s n="f"/></l><r>Berwari<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Bardîz<s n="np"/><s n="top"/><s n="f"/></l><r>Senkaya<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Dîvrîgiya<s n="np"/><s n="top"/><s n="f"/></l><r>Divrigi<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Şemzînan<s n="np"/><s n="top"/><s n="f"/></l><r>Semdinli<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Sovyet<s n="np"/><s n="top"/><s n="f"/></l><r>Soviet<s n="np"/><s n="top"/></r></p></e>
@@ -9394,6 +9425,18 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>tropîk<s n="adj"/></l><r>tropical<s n="adj"/></r></p></e>
+     <e><p><l>amerîkan<s n="adj"/></l><r>American<s n="adj"/></r></p></e>
+     <e><p><l>deryayî<s n="adj"/></l><r>sea<s n="adj"/></r></p></e>
+     <e><p><l>deryayî<s n="adj"/></l><r>ocean<s n="adj"/></r></p></e>
+     <e><p><l>deryayî<s n="adj"/></l><r>marine<s n="adj"/></r></p></e>
+     <e><p><l>felsefî<s n="adj"/></l><r>philosophical<s n="adj"/></r></p></e>
+     <e><p><l>kîmyayî<s n="adj"/></l><r>chemical<s n="adj"/></r></p></e>
+     <e><p><l>otonom<s n="adj"/></l><r>autonomous<s n="adj"/></r></p></e>
+     <e><p><l>antîk<s n="adj"/></l><r>antique<s n="adj"/></r></p></e>
+     <e><p><l>norwêcî<s n="adj"/></l><r>Norwegian<s n="adj"/></r></p></e>
+     <e><p><l>zikmakî<s n="adj"/></l><r>hereditary<s n="adj"/></r></p></e>
+     <e><p><l>hemdem<s n="adj"/></l><r>contemporary<s n="adj"/></r></p></e>
      <e><p><l>texmînî<s n="adj"/></l><r>estimatory<s n="adj"/></r></p></e>
      <e><p><l>pakij<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
      <e><p><l>çalak<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
@@ -12479,6 +12522,9 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>pêşve<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
+     <e><p><l>zikmakî<s n="adv"/></l><r>hereditarily<s n="adv"/></r></p></e>
+     <e><p><l>îroyîn<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
      <e><p><l>herweha<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
      <e><p><l>seranser<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
      <e><p><l>carnan<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
@@ -12522,6 +12568,15 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>rawestandin<s n="vblex"/><s n="tv"/></l><r>stop<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>tomarkirin<s n="vblex"/><s n="tv"/></l><r>save<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>tomarkirin<s n="vblex"/><s n="tv"/></l><r>register<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>pêşxistin<s n="vblex"/><s n="tv"/></l><r>carry<b/>forward<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>texmînkirin<s n="vblex"/><s n="tv"/></l><r>estimate<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>texmînkirin<s n="vblex"/><s n="tv"/></l><r>guess<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>nasandin<s n="vblex"/><s n="tv"/></l><r>familiarise<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>nasandin<s n="vblex"/><s n="tv"/></l><r>introduce<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>berhevkirin<s n="vblex"/><s n="tv"/></l><r>compile<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>destnîşan<b/>kirin<s n="vblex"/><s n="tv"/></l><r>determine<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>navkirin<s n="vblex"/><s n="tv"/></l><r>name<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>navkirin<s n="vblex"/><s n="tv"/></l><r>call<s n="n"/><s n="vblex"/></r></p></e>
