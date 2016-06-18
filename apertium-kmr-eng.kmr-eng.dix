@@ -90,6 +90,7 @@
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>ango<s n="cnjadv"/></l><r>or<s n="cnjcoo"/></r></p></e>
+      <e><p><l>yanî<s n="cnjadv"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
 
@@ -198,7 +199,7 @@
      <e r="LR"><p><l>re<s n="post"/></l><r></r></p></e>
 
      <!-- SECTION: Pronouns -->
-
+     <e><p><l>herdu<s n="prn"/><s n="pl"/></l><r>both<s n="prn"/><s n="tn"/><s n="pl"/></r></p></e>
      <e r="LR"><p><l>ez<s n="prn"/><s n="pers"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
      <e r="LR"><p><l>em<s n="prn"/><s n="pers"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
      <e r="LR"><p><l>ew<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
@@ -220,7 +221,9 @@
       <e><p><l>hindek<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>hin<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>herdu<s n="det"/><s n="ind"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>çend<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
+
      <!-- SECTION: Numerals -->
 
      <e><p><l>yek<s n="num"/></l><r>one<s n="num"/></r></p></e>
@@ -8980,6 +8983,8 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>The<s n="np"/><s n="top"/><s n="f"/></l><r>The<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>New<s n="np"/><s n="top"/><s n="f"/></l><r>New<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>University<s n="np"/><s n="top"/><s n="f"/></l><r>University<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>San<s n="np"/><s n="ant"/><s n="m"/></l><r>San<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Wetsin<s n="np"/><s n="ant"/><s n="m"/></l><r>Watson<s n="np"/><s n="ant"/></r></p></e>
@@ -9329,6 +9334,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>teybetî<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
      <e><p><l>nivîsî<s n="adj"/></l><r>written<s n="adj"/></r></p></e>
      <e><p><l>wenda<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
      <e><p><l>navnetewî<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
@@ -12388,6 +12394,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>herweha<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
      <e><p><l>seranser<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
      <e><p><l>carnan<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
      <e><p><l>gellek<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
@@ -12430,6 +12437,15 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>wergerandin<s n="vblex"/><s n="tv"/></l><r>translate<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>derpêş<b/>kirin<s n="vblex"/><s n="tv"/></l><r>foresee<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>pêşber<b/>kirin<s n="vblex"/><s n="tv"/></l><r>allege<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>maç<b/>kirin<s n="vblex"/><s n="tv"/></l><r>kiss<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>şîret<b/>kirin<s n="vblex"/><s n="tv"/></l><r>advise<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>heter<b/>kirin<s n="vblex"/><s n="tv"/></l><r>bite<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>şil<b/>kirin<s n="vblex"/><s n="tv"/></l><r>wet<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>matkirin<s n="vblex"/><s n="tv"/></l><r>shock<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>peyda<b/>kirin<s n="vblex"/><s n="tv"/></l><r>create<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>raketin<s n="vblex"/><s n="iv"/></l><r>sleep<s n="vblex"/></r></p></e>
      <e><p><l>rabûn<s n="vblex"/><s n="iv"/></l><r>rise<s n="vblex"/></r></p></e>
      <e><p><l>hişyar<b/>bûn<s n="vblex"/><s n="iv"/></l><r>wake<s n="vblex"/></r></p></e>
