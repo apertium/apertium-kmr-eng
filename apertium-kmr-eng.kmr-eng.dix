@@ -277,6 +277,20 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>beşdar<s n="n"/><s n="m"/></l><r>partner<s n="n"/></r></p></e>
+     <e><p><l>Kürt<s n="n"/><s n="f"/></l><r>Kurd<s n="n"/></r></p></e>
+     <e><p><l>Kürt<s n="n"/><s n="m"/></l><r>Kurd<s n="n"/></r></p></e>
+     <e><p><l>serokkomar<s n="n"/><s n="m"/></l><r>President<s n="n"/></r></p></e>
+     <e><p><l>Manî<s n="n"/><s n="f"/></l><r>Manichaean<s n="n"/></r></p></e>
+     <e><p><l>Manî<s n="n"/><s n="m"/></l><r>Manichaean<s n="n"/></r></p></e>
+     <e><p><l>leşkerî<s n="n"/><s n="m"/></l><r>military<s n="n"/></r></p></e>
+     <e><p><l>xwûda<s n="n"/><s n="m"/></l><r>God<s n="n"/></r></p></e>
+     <e><p><l>çîya<s n="n"/><s n="m"/></l><r>mountain<s n="n"/></r></p></e>
+     <e><p><l>xoy<s n="n"/><s n="f"/></l><r>village<s n="n"/></r></p></e>
+     <e><p><l>rûs<s n="n"/><s n="f"/></l><r>Russian<s n="n"/></r></p></e>
+     <e><p><l>rûs<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
+     <e><p><l>dem<s n="n"/><s n="f"/></l><r>period<s n="n"/></r></p></e>
+     <e><p><l>rezber<s n="n"/><s n="f"/></l><r>september<s n="n"/></r></p></e>
      <e><p><l>hemwelatî<s n="n"/><s n="f"/></l><r>citizen<s n="n"/></r></p></e>
      <e><p><l>hemwelatî<s n="n"/><s n="m"/></l><r>citizen<s n="n"/></r></p></e>
      <e><p><l>HTML<s n="n"/><s n="acr"/><s n="f"/></l><r>HTML<s n="n"/><s n="acr"/></r></p></e>
@@ -9320,6 +9334,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>yewnan<s n="np"/><s n="top"/><s n="f"/></l><r>Greece<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Hikmet<s n="np"/><s n="ant"/><s n="m"/></l><r>Hikmet<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>İnönü<s n="np"/><s n="ant"/><s n="m"/></l><r>Inonu<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îrlenda<s n="np"/><s n="top"/><s n="f"/></l><r>Ireland<s n="np"/><s n="top"/></r></p></e>
@@ -10058,6 +10073,20 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>zîrek<s n="adj"/></l><r>talented<s n="adj"/></r></p></e>
+     <e><p><l>zîrek<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
+     <e><p><l>qenc<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
+     <e><p><l>qenc<s n="adj"/></l><r>nice<s n="adj"/></r></p></e>
+     <e><p><l>qenc<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+     <e><p><l>asûrî<s n="adj"/></l><r>Assyrian<s n="adj"/></r></p></e>
+     <e><p><l>erênî<s n="adj"/></l><r>suitable<s n="adj"/></r></p></e>
+     <e><p><l>girîng<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
+     <e><p><l>girîng<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+     <e><p><l>demekî<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
+     <e><p><l>bindest<s n="adj"/></l><r>dependent<s n="adj"/></r></p></e>
+     <e><p><l>bindest<s n="adj"/></l><r>captive<s n="adj"/></r></p></e>
+     <e><p><l>çendîn<s n="adj"/></l><r>multitudinous<s n="adj"/></r></p></e>
+     <e><p><l>xebitî<s n="adj"/></l><r>laborous<s n="adj"/></r></p></e>
      <e><p><l>holendî<s n="adj"/></l><r>Dutch<s n="adj"/></r></p></e>
      <e><p><l>jêrî<s n="adj"/></l><r>poisonous<s n="adj"/></r></p></e>
      <e><p><l>makedonî<s n="adj"/></l><r>Macedonian<s n="adj"/></r></p></e>
@@ -13246,6 +13275,9 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>zehf<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+     <e><p><l>zehf<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
+     <e><p><l>berçav<s n="adv"/></l><r>openly<s n="adv"/></r></p></e>
      <e><p><l>carina<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
      <e><p><l>hertimî<s n="adv"/></l><r>constantly<s n="adv"/></r></p></e>
      <e><p><l>hertimî<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
@@ -13311,6 +13343,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>rêzkirin<s n="vblex"/><s n="tv"/></l><r>align<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>qatilkirin<s n="vblex"/><s n="tv"/></l><r>kill<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>talankirin<s n="vblex"/><s n="tv"/></l><r>raid<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>dabeşkirin<s n="vblex"/><s n="tv"/></l><r>divide<s n="n"/><s n="vblex"/></r></p></e>
