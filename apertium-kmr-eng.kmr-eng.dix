@@ -83,7 +83,7 @@
      <e r="LR"><p><l>jî<s n="emph"/></l><r></r></p></e>
 
      <!-- SECTION: Conjunctions -->
-
+      <e><p><l>heger<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
       <e><p><l>û<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>lê<b/>belê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>lê<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
@@ -277,6 +277,18 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>qurban<s n="n"/><s n="f"/></l><r>sacrifice<s n="n"/></r></p></e>
+     <e><p><l>qurban<s n="n"/><s n="m"/></l><r>sacrifice<s n="n"/></r></p></e>
+     <e><p><l>qurban<s n="n"/><s n="f"/></l><r>victim<s n="n"/></r></p></e>
+     <e><p><l>qurban<s n="n"/><s n="m"/></l><r>victim<s n="n"/></r></p></e>
+     <e><p><l>nebûn<s n="n"/><s n="f"/></l><r>nonexistence<s n="n"/></r></p></e>
+     <e><p><l>cild<s n="n"/><s n="f"/></l><r>volume<s n="n"/></r></p></e>
+     <e><p><l>kulîlkdar<s n="n"/><s n="f"/></l><r>florist<s n="n"/></r></p></e>
+     <e><p><l>kulîlkdar<s n="n"/><s n="m"/></l><r>florist<s n="n"/></r></p></e>
+     <e><p><l>şaredarî<s n="n"/><s n="f"/></l><r>municipality<s n="n"/></r></p></e>
+     <e><p><l>dî<s n="n"/><s n="f"/></l><r>mother<s n="n"/></r></p></e>
+     <e><p><l>derbasî<s n="n"/><s n="f"/></l><r>passing<s n="n"/></r></p></e>
+     <e><p><l>bixwe<s n="n"/><s n="f"/></l><r>food<s n="n"/></r></p></e>
      <e><p><l>beşdar<s n="n"/><s n="m"/></l><r>partner<s n="n"/></r></p></e>
      <e><p><l>Kürt<s n="n"/><s n="f"/></l><r>Kurd<s n="n"/></r></p></e>
      <e><p><l>Kürt<s n="n"/><s n="m"/></l><r>Kurd<s n="n"/></r></p></e>
@@ -9334,6 +9346,16 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Sirşîw<s n="np"/><s n="top"/><s n="f"/></l><r>Sarshiv<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ûnis<s n="np"/><s n="ant"/><s n="m"/></l><r>Yunus<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Sêmêl<s n="np"/><s n="top"/><s n="f"/></l><r>Simele<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Qabîl<s n="np"/><s n="ant"/><s n="m"/></l><r>Cain<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Oltî<s n="np"/><s n="top"/><s n="f"/></l><r>Oltu<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Çêrmûg<s n="np"/><s n="top"/><s n="f"/></l><r>Cermik<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Habîl<s n="np"/><s n="ant"/><s n="m"/></l><r>Abel<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Xirabreşk<s n="np"/><s n="top"/><s n="f"/></l><r>Gobeklitepe<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Hezro<s n="np"/><s n="top"/><s n="f"/></l><r>Hazro<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Jindires<s n="np"/><s n="top"/><s n="f"/></l><r>Afrin<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>yewnan<s n="np"/><s n="top"/><s n="f"/></l><r>Greece<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Hikmet<s n="np"/><s n="ant"/><s n="m"/></l><r>Hikmet<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>İnönü<s n="np"/><s n="ant"/><s n="m"/></l><r>Inonu<s n="np"/><s n="ant"/></r></p></e>
@@ -10073,6 +10095,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>curbecur<s n="adj"/></l><r>various<s n="adj"/></r></p></e>
      <e><p><l>zîrek<s n="adj"/></l><r>talented<s n="adj"/></r></p></e>
      <e><p><l>zîrek<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
      <e><p><l>qenc<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
