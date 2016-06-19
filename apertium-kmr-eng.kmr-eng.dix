@@ -277,6 +277,9 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>xwar<s n="n"/><s n="f"/></l><r>wrong<s n="n"/></r></p></e>
+     <e><p><l>xwar<s n="n"/><s n="f"/></l><r>mistake<s n="n"/></r></p></e>
+     <e><p><l>nêzîk<s n="n"/><s n="m"/></l><r>vicinity<s n="n"/></r></p></e>
      <e><p><l>Siyûdî<s n="n"/><s n="m"/></l><r>Saudi<s n="n"/></r></p></e>
      <e><p><l>terk<s n="n"/><s n="f"/></l><r>abandonment<s n="n"/></r></p></e>
      <e><p><l>teslîm<s n="n"/><s n="f"/></l><r>surrendering<s n="n"/></r></p></e>
@@ -9875,6 +9878,8 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>nêr<s n="adj"/></l><r>mascunline<s n="adj"/></r></p></e>
+     <e><p><l>nexweş<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
      <e><p><l>teorîk<s n="adj"/></l><r>theoretical<s n="adj"/></r></p></e>
      <e><p><l>aciz<s n="adj"/></l><r>annoyed<s n="adj"/></r></p></e>
      <e><p><l>aciz<s n="adj"/></l><r>hopeless<s n="adj"/></r></p></e>
@@ -13045,6 +13050,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>carina<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
      <e><p><l>hertimî<s n="adv"/></l><r>constantly<s n="adv"/></r></p></e>
      <e><p><l>hertimî<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
      <e><p><l>şunda<s n="adv"/></l><r>backward<s n="adv"/></r></p></e>
