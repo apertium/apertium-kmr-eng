@@ -107,6 +107,9 @@
 
 
      <!-- SECTION: Adpositions -->
+      <e><p><l>derheqa<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+      <e><p><l>derheqê<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+      <e><p><l>ve<s n="post"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>bi<b/>qasî<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
       <e><p><l>qasî<s n="pr"/></l><r>as<s n="pr"/></r></p></e>
       <e><p><l>ve<s n="post"/></l><r>to<s n="pr"/></r></p></e>
@@ -274,6 +277,34 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Siyûdî<s n="n"/><s n="m"/></l><r>Saudi<s n="n"/></r></p></e>
+     <e><p><l>terk<s n="n"/><s n="f"/></l><r>abandonment<s n="n"/></r></p></e>
+     <e><p><l>teslîm<s n="n"/><s n="f"/></l><r>surrendering<s n="n"/></r></p></e>
+     <e><p><l>zarave<s n="n"/><s n="f"/></l><r>dialect<s n="n"/></r></p></e>
+     <e><p><l>Gulistan<s n="n"/><s n="f"/></l><r>Gulistan<s n="n"/></r></p></e>
+     <e><p><l>jînenîgar<s n="n"/><s n="f"/></l><r>biography<s n="n"/></r></p></e>
+     <e><p><l>hezkirin<s n="n"/><s n="f"/></l><r>liking<s n="n"/></r></p></e>
+     <e><p><l>hezkirin<s n="n"/><s n="f"/></l><r>love<s n="n"/></r></p></e>
+     <e><p><l>artiş<s n="n"/><s n="f"/></l><r>army<s n="n"/></r></p></e>
+     <e><p><l>elman<s n="n"/><s n="f"/></l><r>German<s n="n"/></r></p></e>
+     <e><p><l>elman<s n="n"/><s n="m"/></l><r>German<s n="n"/></r></p></e>
+     <e><p><l>Fars<s n="n"/><s n="f"/></l><r>Persian<s n="n"/></r></p></e>
+     <e><p><l>Fars<s n="n"/><s n="m"/></l><r>Persian<s n="n"/></r></p></e>
+     <e><p><l>şandin<s n="n"/><s n="f"/></l><r>sending<s n="n"/></r></p></e>
+     <e><p><l>damezrêner<s n="n"/><s n="f"/></l><r>founder<s n="n"/></r></p></e>
+     <e><p><l>damezrêner<s n="n"/><s n="m"/></l><r>founder<s n="n"/></r></p></e>
+     <e><p><l>wergêr<s n="n"/><s n="f"/></l><r>translation<s n="n"/></r></p></e>
+     <e><p><l>însan<s n="n"/><s n="f"/></l><r>human<s n="n"/></r></p></e>
+     <e><p><l>însan<s n="n"/><s n="m"/></l><r>human<s n="n"/></r></p></e>
+     <e><p><l>akincî<s n="n"/><s n="m"/></l><r>fighter<s n="n"/></r></p></e>
+     <e><p><l>belavbûn<s n="n"/><s n="f"/></l><r>broadcast<s n="n"/></r></p></e>
+     <e><p><l>belavbûn<s n="n"/><s n="f"/></l><r>publication<s n="n"/></r></p></e>
+     <e><p><l>dunya<s n="n"/><s n="m"/></l><r>world<s n="n"/></r></p></e>
+     <e><p><l>fermandarî<s n="n"/><s n="f"/></l><r>leadership<s n="n"/></r></p></e>
+     <e><p><l>cûre<s n="n"/><s n="m"/></l><r>class<s n="n"/></r></p></e>
+     <e><p><l>cûre<s n="n"/><s n="m"/></l><r>kind<s n="n"/></r></p></e>
+     <e><p><l>cûre<s n="n"/><s n="m"/></l><r>type<s n="n"/></r></p></e>
+     <e><p><l>rêbaz<s n="n"/><s n="f"/></l><r>method<s n="n"/></r></p></e>
      <e><p><l>cotkar<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
      <e><p><l>doktor<s n="n"/><s n="f"/></l><r>doctor<s n="n"/></r></p></e>
      <e><p><l>doktor<s n="n"/><s n="m"/></l><r>doctor<s n="n"/></r></p></e>
@@ -9236,6 +9267,26 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Endulus<s n="np"/><s n="top"/><s n="f"/></l><r>Andalusia<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Melik<s n="np"/><s n="ant"/><s n="m"/></l><r>Melik<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Nemrûd<s n="np"/><s n="ant"/><s n="m"/></l><r>Nimrod<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Orşelîm<s n="np"/><s n="top"/><s n="f"/></l><r>Jerusalem<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Umer<s n="np"/><s n="ant"/><s n="m"/></l><r>Omar<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ûrmiyê<s n="np"/><s n="top"/><s n="f"/></l><r>Urmiya<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Xeldûn<s n="np"/><s n="ant"/><s n="m"/></l><r>Khaldun<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Alexander<s n="np"/><s n="ant"/><s n="m"/></l><r>Alexander<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Edward<s n="np"/><s n="ant"/><s n="m"/></l><r>Edward<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Jung<s n="np"/><s n="ant"/><s n="m"/></l><r>Jung<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Resûl<s n="np"/><s n="ant"/><s n="m"/></l><r>Resul<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Şêxmûs<s n="np"/><s n="ant"/><s n="m"/></l><r>Shekhmus<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Şiyar<s n="np"/><s n="ant"/><s n="m"/></l><r>Shiyar<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>County<s n="np"/><s n="top"/><s n="f"/></l><r>County<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Baha<s n="np"/><s n="ant"/><s n="m"/></l><r>Baha<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Metîna<s n="np"/><s n="top"/><s n="f"/></l><r>Metina<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Qereyazî<s n="np"/><s n="top"/><s n="f"/></l><r>Karayazi<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Misircê<s n="np"/><s n="top"/><s n="f"/></l><r>Misirca<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Tergewer<s n="np"/><s n="top"/><s n="f"/></l><r>Targavar<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Astara<s n="np"/><s n="top"/><s n="f"/></l><r>Astara<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Cewad<s n="np"/><s n="ant"/><s n="m"/></l><r>Cavad<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Cigerxwîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Cigerxwîn<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Dersîm<s n="np"/><s n="top"/><s n="f"/></l><r>Dersim<s n="np"/><s n="top"/></r></p></e>
@@ -9824,6 +9875,14 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>teorîk<s n="adj"/></l><r>theoretical<s n="adj"/></r></p></e>
+     <e><p><l>aciz<s n="adj"/></l><r>annoyed<s n="adj"/></r></p></e>
+     <e><p><l>aciz<s n="adj"/></l><r>hopeless<s n="adj"/></r></p></e>
+     <e><p><l>aciz<s n="adj"/></l><r>weak<s n="adj"/></r></p></e>
+     <e><p><l>êrîşî<s n="adj"/></l><r>offensive<s n="adj"/></r></p></e>
+     <e><p><l>ferhengî<s n="adj"/></l><r>cultural<s n="adj"/></r></p></e>
+     <e><p><l>îlahî<s n="adj"/></l><r>divine<s n="adj"/></r></p></e>
+     <e><p><l>organîk<s n="adj"/></l><r>organic<s n="adj"/></r></p></e>
      <e><p><l>fermanî<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
      <e><p><l>xerîb<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
      <e><p><l>katalonî<s n="adj"/></l><r>Catalonian<s n="adj"/></r></p></e>
@@ -13050,6 +13109,10 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>veqetandin<s n="vblex"/><s n="tv"/></l><r>seperate<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>grind<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>break<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>shrink<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>nexşandin<s n="vblex"/><s n="tv"/></l><r>decorate<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>barkirin<s n="vblex"/><s n="tv"/></l><r>carry<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>pejirandin<s n="vblex"/><s n="tv"/></l><r>accept<s n="n"/><s n="vblex"/></r></p></e>
