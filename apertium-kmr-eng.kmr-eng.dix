@@ -218,7 +218,7 @@
 
 
      <!-- SECTION: Determiners -->
-
+      <e><p><l>çiqas<s n="det"/><s n="itg"/></l><r>how<b/>much<s n="det"/><s n="itg"/></r></p></e>
       <e><p><l>ev<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>ew<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>hindek<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
@@ -274,6 +274,49 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Asûr<s n="n"/><s n="f"/></l><r>Assyrian<s n="n"/></r></p></e>
+     <e><p><l>Asûr<s n="n"/><s n="m"/></l><r>Assyrian<s n="n"/></r></p></e>
+     <e><p><l>gerîlla<s n="n"/><s n="f"/></l><r>guerilla<s n="n"/></r></p></e>
+     <e><p><l>gerîlla<s n="n"/><s n="m"/></l><r>guerilla<s n="n"/></r></p></e>
+     <e><p><l>NÇM<s n="n"/><s n="acr"/><s n="f"/></l><r>NCM<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>Nûdem<s n="n"/><s n="f"/></l><r>Nûdem<s n="n"/></r></p></e>
+     <e><p><l>Sindî<s n="n"/><s n="f"/></l><r>Sindhi<s n="n"/></r></p></e>
+     <e><p><l>Sindî<s n="n"/><s n="m"/></l><r>Sindhi<s n="n"/></r></p></e>
+     <e><p><l>doktora<s n="n"/><s n="f"/></l><r>doctorate<s n="n"/></r></p></e>
+     <e><p><l>ezman<s n="n"/><s n="f"/></l><r>sky<s n="n"/></r></p></e>
+     <e><p><l>fêhm<s n="n"/><s n="f"/></l><r>understanding<s n="n"/></r></p></e>
+     <e><p><l>matematîkzan<s n="n"/><s n="f"/></l><r>mathematician<s n="n"/></r></p></e>
+     <e><p><l>matematîkzan<s n="n"/><s n="m"/></l><r>mathematician<s n="n"/></r></p></e>
+     <e><p><l>rock<s n="n"/><s n="f"/></l><r>rock<s n="n"/></r></p></e>
+     <e><p><l>mûzîk<s n="n"/><s n="f"/></l><r>music<s n="n"/></r></p></e>
+     <e><p><l>sazkirin<s n="n"/><s n="f"/></l><r>establishment<s n="n"/></r></p></e>
+     <e><p><l>sazkirin<s n="n"/><s n="f"/></l><r>founding<s n="n"/></r></p></e>
+     <e><p><l>belavkirin<s n="n"/><s n="f"/></l><r>broadcast<s n="n"/></r></p></e>
+     <e><p><l>belavkirin<s n="n"/><s n="f"/></l><r>publication<s n="n"/></r></p></e>
+     <e><p><l>mamosta<s n="n"/><s n="f"/></l><r>teacher<s n="n"/></r></p></e>
+     <e><p><l>mamosta<s n="n"/><s n="m"/></l><r>teacher<s n="n"/></r></p></e>
+     <e><p><l>xaçperest<s n="n"/><s n="f"/></l><r>christian<s n="n"/></r></p></e>
+     <e><p><l>xaçperest<s n="n"/><s n="m"/></l><r>christian<s n="n"/></r></p></e>
+     <e><p><l>zarava<s n="n"/><s n="f"/></l><r>dialect<s n="n"/></r></p></e>
+     <e><p><l>hesp<s n="n"/><s n="f"/></l><r>horse<s n="n"/></r></p></e>
+     <e><p><l>hesp<s n="n"/><s n="m"/></l><r>horse<s n="n"/></r></p></e>
+     <e><p><l>Rûs<s n="n"/><s n="f"/></l><r>Russian<s n="n"/></r></p></e>
+     <e><p><l>Rûs<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
+     <e><p><l>çareserkirin<s n="n"/><s n="f"/></l><r>solution<s n="n"/></r></p></e>
+     <e><p><l>pêşxistin<s n="n"/><s n="f"/></l><r>bringing<b/>forward<s n="n"/></r></p></e>
+     <e><p><l>qadaxa<s n="n"/><s n="f"/></l><r>ban<s n="n"/></r></p></e>
+     <e><p><l>qebûl<s n="n"/><s n="f"/></l><r>acceptance<s n="n"/></r></p></e>
+     <e><p><l>tîm<s n="n"/><s n="f"/></l><r>team<s n="n"/></r></p></e>
+     <e><p><l>xiristiyan<s n="n"/><s n="f"/></l><r>christian<s n="n"/></r></p></e>
+     <e><p><l>xiristiyan<s n="n"/><s n="m"/></l><r>christian<s n="n"/></r></p></e>
+     <e><p><l>kanûn<s n="n"/><s n="f"/></l><r>law<s n="n"/></r></p></e>
+     <e><p><l>terîqet<s n="n"/><s n="f"/></l><r>sufi<b/>order<s n="n"/></r></p></e>
+     <e><p><l>ciwanî<s n="n"/><s n="f"/></l><r>youth<s n="n"/></r></p></e>
+     <e><p><l>fermandar<s n="n"/><s n="m"/></l><r>commander<s n="n"/></r></p></e>
+     <e><p><l>nîvkad<s n="n"/><s n="f"/></l><r>hemisphere<s n="n"/></r></p></e>
+     <e><p><l>parlamenter<s n="n"/><s n="f"/></l><r>MP<s n="n"/></r></p></e>
+     <e><p><l>parlamenter<s n="n"/><s n="m"/></l><r>MP<s n="n"/></r></p></e>
+     <e><p><l>desthilatî<s n="n"/><s n="f"/></l><r>government<s n="n"/></r></p></e>
      <e><p><l>kamp<s n="n"/><s n="f"/></l><r>camp<s n="n"/></r></p></e>
      <e><p><l>kanal<s n="n"/><s n="f"/></l><r>channel<s n="n"/></r></p></e>
      <e><p><l>LGBT<s n="n"/><s n="acr"/><s n="f"/></l><r>LGBT<s n="n"/><s n="acr"/></r></p></e>
@@ -9133,6 +9176,29 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Augustus<s n="np"/><s n="ant"/><s n="m"/></l><r>Augustus<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Emîr<s n="np"/><s n="ant"/><s n="m"/></l><r>Amir<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Marie<s n="np"/><s n="ant"/><s n="f"/></l><r>Marie<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Pasîfîk<s n="np"/><s n="top"/><s n="f"/></l><r>Pacific<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Danîmarka<s n="np"/><s n="top"/><s n="f"/></l><r>Denmark<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Lozan<s n="np"/><s n="top"/><s n="f"/></l><r>Laussane<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Sîpan<s n="np"/><s n="ant"/><s n="m"/></l><r>Sipan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Taha<s n="np"/><s n="ant"/><s n="m"/></l><r>Taha<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>çîn<s n="np"/><s n="top"/><s n="f"/></l><r>China<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Uzun<s n="np"/><s n="ant"/><s n="m"/></l><r>Uzun<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Elezîz<s n="np"/><s n="top"/><s n="f"/></l><r>Alaziz<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Zana<s n="np"/><s n="ant"/><s n="m"/></l><r>Zana<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Gilgamêş<s n="np"/><s n="ant"/><s n="m"/></l><r>Gilgamesh<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Hitler<s n="np"/><s n="ant"/><s n="m"/></l><r>Hitler<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îştar<s n="np"/><s n="ant"/><s n="f"/></l><r>Ishtar<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>ewropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Rom<s n="np"/><s n="top"/><s n="f"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Roşan<s n="np"/><s n="ant"/><s n="f"/></l><r>Roshan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Wilhelm<s n="np"/><s n="ant"/><s n="m"/></l><r>Wilhelm<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Louis<s n="np"/><s n="ant"/><s n="m"/></l><r>Louis<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Mazda<s n="np"/><s n="ant"/><s n="m"/></l><r>Mazda<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Derwêş<s n="np"/><s n="ant"/><s n="m"/></l><r>Dervish<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ebdullah<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdullah<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Farqînî<s n="np"/><s n="ant"/><s n="m"/></l><r>Farqini<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Ferat<s n="np"/><s n="ant"/><s n="m"/></l><r>Ferat<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Georg<s n="np"/><s n="ant"/><s n="m"/></l><r>George<s n="np"/><s n="ant"/></r></p></e>
@@ -9589,6 +9655,19 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>Sindî<s n="adj"/></l><r>Sindhi<s n="adj"/></r></p></e>
+     <e><p><l>têkildar<s n="adj"/></l><r>related<s n="adj"/></r></p></e>
+     <e><p><l>biyolojîk<s n="adj"/></l><r>biological<s n="adj"/></r></p></e>
+     <e><p><l>germanî<s n="adj"/></l><r>German<s n="adj"/></r></p></e>
+     <e><p><l>lîberal<s n="adj"/></l><r>liberal<s n="adj"/></r></p></e>
+     <e><p><l>romayî<s n="adj"/></l><r>Roman<s n="adj"/></r></p></e>
+     <e><p><l>rêzimanî<s n="adj"/></l><r>grammatical<s n="adj"/></r></p></e>
+     <e><p><l>oldar<s n="adj"/></l><r>religious<s n="adj"/></r></p></e>
+     <e><p><l>baştirîn<s n="adj"/></l><r>best<s n="adj"/></r></p></e>
+     <e><p><l>şêrîn<s n="adj"/></l><r>sweet<s n="adj"/></r></p></e>
+     <e><p><l>Sokratesî<s n="adj"/></l><r>Socratic<s n="adj"/></r></p></e>
+     <e><p><l>polonî<s n="adj"/></l><r>Polish<s n="adj"/></r></p></e>
+     <e><p><l>şîrîn<s n="adj"/></l><r>sweet<s n="adj"/></r></p></e>
      <e><p><l>gay<s n="adj"/></l><r>gay<s n="adj"/></r></p></e>
      <e><p><l>dîyar<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
      <e><p><l>dîyar<s n="adj"/></l><r>known<s n="adj"/></r></p></e>
@@ -12784,6 +12863,19 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>parvekirin<s n="vblex"/><s n="tv"/></l><r>segment<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>parvekirin<s n="vblex"/><s n="tv"/></l><r>break<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>parvekirin<s n="vblex"/><s n="tv"/></l><r>divide<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>ceribandin<s n="vblex"/><s n="tv"/></l><r>experience<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>ceribandin<s n="vblex"/><s n="tv"/></l><r>test<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>ceribandin<s n="vblex"/><s n="tv"/></l><r>try<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>cezakirin<s n="vblex"/><s n="tv"/></l><r>penalize<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>cezakirin<s n="vblex"/><s n="tv"/></l><r>punish<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>fahmkirin<s n="vblex"/><s n="tv"/></l><r>understand<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>bidestxistin<s n="vblex"/><s n="tv"/></l><r>capture<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>rexnekirin<s n="vblex"/><s n="tv"/></l><r>criticize<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>lêkirin<s n="vblex"/><s n="tv"/></l><r>dress<s n="n"/><s n="vblex"/></r></p></e>
+     <e><p><l>lêkirin<s n="vblex"/><s n="tv"/></l><r>repair<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>binçavkirin<s n="vblex"/><s n="tv"/></l><r>arrest<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>standin<s n="vblex"/><s n="tv"/></l><r>take<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>fêmkirin<s n="vblex"/><s n="tv"/></l><r>understand<s n="n"/><s n="vblex"/></r></p></e>
