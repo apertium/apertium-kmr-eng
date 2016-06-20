@@ -279,6 +279,19 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Web<s n="n"/><s n="f"/></l><r>Web<s n="n"/></r></p></e>
+     <e><p><l>garis<s n="n"/><s n="f"/></l><r>corn<s n="n"/></r></p></e>
+     <e><p><l>hereket<s n="n"/><s n="f"/></l><r>movement<s n="n"/></r></p></e>
+     <e><p><l>dagir<s n="n"/><s n="f"/></l><r>occupation<s n="n"/></r></p></e>
+     <e><p><l>qedr<s n="n"/><s n="f"/></l><r>amount<s n="n"/></r></p></e>
+     <e><p><l>serjimar<s n="n"/><s n="f"/></l><r>population<s n="n"/></r></p></e>
+     <e><p><l>zorî<s n="n"/><s n="f"/></l><r>difficulty<s n="n"/></r></p></e>
+     <e><p><l>edîtorî<s n="n"/><s n="f"/></l><r>edition<s n="n"/></r></p></e>
+     <e><p><l>edîtorî<s n="n"/><s n="f"/></l><r>editing<s n="n"/></r></p></e>
+     <e><p><l>FC<s n="n"/><s n="acr"/><s n="f"/></l><r>FC<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>lîst<s n="n"/><s n="f"/></l><r>dance<s n="n"/></r></p></e>
+     <e><p><l>rojnamê<s n="n"/><s n="f"/></l><r>newspaper<s n="n"/></r></p></e>
+     <e><p><l>birayêt<s n="n"/><s n="f"/></l><r>brotherhood<s n="n"/></r></p></e>
      <e><p><l>parlamen<s n="n"/><s n="f"/></l><r>parliament<s n="n"/></r></p></e>
      <e><p><l>pişik<s n="n"/><s n="f"/></l><r>lung<s n="n"/></r></p></e>
      <e><p><l>sasanî<s n="n"/><s n="m"/></l><r>Sassanian<s n="n"/></r></p></e>
@@ -9478,6 +9491,17 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Mukriyanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Mukriyani<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Mîrza<s n="np"/><s n="ant"/><s n="m"/></l><r>Mirza<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Dogan<s n="np"/><s n="ant"/><s n="m"/></l><r>Dogan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Engels<s n="np"/><s n="ant"/><s n="m"/></l><r>Engels<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Muawiye<s n="np"/><s n="ant"/><s n="m"/></l><r>Muawiya<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>roma<s n="np"/><s n="top"/><s n="f"/></l><r>Rome<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>samî<s n="np"/><s n="ant"/><s n="m"/></l><r>Sami<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Bulbul<s n="np"/><s n="ant"/><s n="m"/></l><r>Bulbul<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Badîn<s n="np"/><s n="top"/><s n="f"/></l><r>Bahdinan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ebas<s n="np"/><s n="ant"/><s n="m"/></l><r>Abbas<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Xan<s n="np"/><s n="ant"/><s n="m"/></l><r>Khan<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Nils<s n="np"/><s n="ant"/><s n="m"/></l><r>Nils<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Qizil<s n="np"/><s n="top"/><s n="f"/></l><r>Kyzyl<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Smith<s n="np"/><s n="ant"/><s n="m"/></l><r>Smith<s n="np"/><s n="ant"/></r></p></e>
@@ -10380,6 +10404,12 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>tund<s n="adj"/></l><r>thick<s n="adj"/></r></p></e>
+     <e><p><l>tund<s n="adj"/></l><r>hard<s n="adj"/></r></p></e>
+     <e><p><l>tund<s n="adj"/></l><r>rude<s n="adj"/></r></p></e>
+     <e><p><l>etnîkî<s n="adj"/></l><r>ethnic<s n="adj"/></r></p></e>
+     <e><p><l>tevlîhevî<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
+     <e><p><l>Kurdish<s n="adj"/></l><r>Kurdish<s n="adj"/></r></p></e>
      <e><p><l>orjînal<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
      <e><p><l>pêncemîn<s n="adj"/></l><r>fifth<s n="adj"/></r></p></e>
      <e><p><l>swîsrî<s n="adj"/></l><r>Swiss<s n="adj"/></r></p></e>
@@ -13701,6 +13731,8 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>tevdan<s n="vblex"/><s n="tv"/></l><r>disembowel<s n="vblex"/></r></p></e>
+     <e><p><l>tevdan<s n="vblex"/><s n="tv"/></l><r>mix<s n="vblex"/></r></p></e>
      <e><p><l>xapandin<s n="vblex"/><s n="tv"/></l><r>decieve<s n="vblex"/></r></p></e>
      <e><p><l>wêrankirin<s n="vblex"/><s n="tv"/></l><r>destroy<s n="vblex"/></r></p></e>
      <e><p><l>xwepêşandin<s n="vblex"/><s n="tv"/></l><r>present<s n="vblex"/></r></p></e>
