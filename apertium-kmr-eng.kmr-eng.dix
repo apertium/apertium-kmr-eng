@@ -91,6 +91,7 @@
       <e><p><l>yan<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>ango<s n="cnjadv"/></l><r>or<s n="cnjcoo"/></r></p></e>
+      <e><p><l>qey<s n="cnjadv"/></l><r>as<b/>if<s n="cnjcoo"/></r></p></e>
       <e><p><l>yanî<s n="cnjadv"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>yan<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
       <e><p><l>an<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e>
@@ -278,6 +279,26 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>xwîndin<s n="n"/><s n="f"/></l><r>reading<s n="n"/></r></p></e>
+     <e><p><l>dirêjahî<s n="n"/><s n="f"/></l><r>length<s n="n"/></r></p></e>
+     <e><p><l>selete<s n="n"/><s n="f"/></l><r>salad<s n="n"/></r></p></e>
+     <e><p><l>ronakbîr<s n="n"/><s n="f"/></l><r>intellectual<s n="n"/></r></p></e>
+     <e><p><l>ronakbîr<s n="n"/><s n="m"/></l><r>intellectual<s n="n"/></r></p></e>
+     <e><p><l>zozan<s n="n"/><s n="f"/></l><r>plateau<s n="n"/></r></p></e>
+     <e><p><l>grîfon<s n="n"/><s n="f"/></l><r>gryphon<s n="n"/></r></p></e>
+     <e><p><l>nakokî<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
+     <e><p><l>sall<s n="n"/><s n="m"/></l><r>year<s n="n"/></r></p></e>
+     <e><p><l>guhandar<s n="n"/><s n="f"/></l><r>mammal<s n="n"/></r></p></e>
+     <e><p><l>guhandar<s n="n"/><s n="m"/></l><r>mammal<s n="n"/></r></p></e>
+     <e><p><l>apê<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
+     <e><p><l>çekdar<s n="n"/><s n="m"/></l><r>soldier<s n="n"/></r></p></e>
+     <e><p><l>lîstin<s n="n"/><s n="f"/></l><r>dancing<s n="n"/></r></p></e>
+     <e><p><l>zayîn<s n="n"/><s n="f"/></l><r>birth<s n="n"/></r></p></e>
+     <e><p><l>awarte<s n="n"/><s n="f"/></l><r>exception<s n="n"/></r></p></e>
+     <e><p><l>rûvî<s n="n"/><s n="f"/></l><r>groin<s n="n"/></r></p></e>
+     <e><p><l>eşîret<s n="n"/><s n="f"/></l><r>tribe<s n="n"/></r></p></e>
+     <e><p><l>demek<s n="n"/><s n="f"/></l><r>moment<s n="n"/></r></p></e>
+     <e><p><l>weznê<s n="n"/><s n="f"/></l><r>treasury<s n="n"/></r></p></e>
      <e><p><l>koç<s n="n"/><s n="f"/></l><r>migration<s n="n"/></r></p></e>
      <e><p><l>zêdeyî<s n="n"/><s n="f"/></l><r>multitude<s n="n"/></r></p></e>
      <e><p><l>zêdeyî<s n="n"/><s n="f"/></l><r>prosperity<s n="n"/></r></p></e>
@@ -9373,6 +9394,16 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Ester<s n="np"/><s n="ant"/><s n="f"/></l><r>Ester<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Giyadîn<s n="np"/><s n="top"/><s n="f"/></l><r>Diyadin<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Hezex<s n="np"/><s n="top"/><s n="f"/></l><r>Idil<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Max<s n="np"/><s n="ant"/><s n="m"/></l><r>Max<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Merwanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Marwanid<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Millkarîa<s n="np"/><s n="top"/><s n="f"/></l><r>Zaleh<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mamekî<s n="np"/><s n="top"/><s n="f"/></l><r>Tunceli<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mehsert<s n="np"/><s n="top"/><s n="f"/></l><r>Omerli<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ezirgan<s n="np"/><s n="top"/><s n="f"/></l><r>Erzincan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Norgeh<s n="np"/><s n="top"/><s n="f"/></l><r>Pazaryolu<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>World<s n="np"/><s n="top"/><s n="f"/></l><r>World<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>mîtanî<s n="np"/><s n="top"/><s n="f"/></l><r>Mitani<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Kerboran<s n="np"/><s n="top"/><s n="f"/></l><r>Kerboran<s n="np"/><s n="top"/></r></p></e>
@@ -10126,6 +10157,17 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>delal<s n="adj"/></l><r>dear<s n="adj"/></r></p></e>
+     <e><p><l>xemgîn<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
+     <e><p><l>xemgîn<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+     <e><p><l>feqîr<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+     <e><p><l>malbatî<s n="adj"/></l><r>familial<s n="adj"/></r></p></e>
+     <e><p><l>gey<s n="adj"/></l><r>gay<s n="adj"/></r></p></e>
+     <e><p><l>nizm<s n="adj"/></l><r>low<s n="adj"/></r></p></e>
+     <e><p><l>civatî<s n="adj"/></l><r>societal<s n="adj"/></r></p></e>
+     <e><p><l>civatî<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
+     <e><p><l>zindî<s n="adj"/></l><r>vibrant<s n="adj"/></r></p></e>
+     <e><p><l>zindî<s n="adj"/></l><r>live<s n="adj"/></r></p></e>
      <e><p><l>bes<s n="adj"/></l><r>enough<s n="adj"/></r></p></e>
      <e><p><l>tevayî<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
      <e><p><l>kevnar<s n="adj"/></l><r>antique<s n="adj"/></r></p></e>
@@ -13408,6 +13450,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>werkirin<s n="vblex"/><s n="tv"/></l><r>return<s n="vblex"/></r></p></e>
      <e><p><l>danîn<s n="vblex"/><s n="tv"/></l><r>put<b/>down<s n="vblex"/></r></p></e> 
      <e><p><l>danîn<s n="vblex"/><s n="tv"/></l><r>set<b/>down<s n="vblex"/></r></p></e> 
      <e><p><l>danîn<s n="vblex"/><s n="tv"/></l><r>lay<b/>down<s n="vblex"/></r></p></e> 
