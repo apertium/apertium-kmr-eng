@@ -221,6 +221,7 @@
 
 
      <!-- SECTION: Determiners -->
+      <e><p><l>kîjan<s n="det"/><s n="itg"/></l><r>which<s n="det"/><s n="itg"/></r></p></e>
       <e><p><l>çiqas<s n="det"/><s n="itg"/></l><r>how<b/>much<s n="det"/><s n="itg"/></r></p></e>
       <e><p><l>ev<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>ew<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
@@ -277,6 +278,21 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>koç<s n="n"/><s n="f"/></l><r>migration<s n="n"/></r></p></e>
+     <e><p><l>zêdeyî<s n="n"/><s n="f"/></l><r>multitude<s n="n"/></r></p></e>
+     <e><p><l>zêdeyî<s n="n"/><s n="f"/></l><r>prosperity<s n="n"/></r></p></e>
+     <e><p><l>hember<s n="n"/><s n="f"/></l><r>opposition<s n="n"/></r></p></e>
+     <e><p><l>koçber<s n="n"/><s n="f"/></l><r>immigrant<s n="n"/></r></p></e>
+     <e><p><l>koçber<s n="n"/><s n="m"/></l><r>immigrant<s n="n"/></r></p></e>
+     <e><p><l>cih<s n="n"/><s n="f"/></l><r>place<s n="n"/></r></p></e>
+     <e><p><l>niştecihên<s n="n"/><s n="f"/></l><r>resident<s n="n"/></r></p></e>
+     <e><p><l>niştecihên<s n="n"/><s n="m"/></l><r>resident<s n="n"/></r></p></e>
+     <e><p><l>şîrove<s n="n"/><s n="f"/></l><r>comment<s n="n"/></r></p></e>
+     <e><p><l>genim<s n="n"/><s n="f"/></l><r>wheat<s n="n"/></r></p></e>
+     <e><p><l>hundir<s n="n"/><s n="f"/></l><r>interior<s n="n"/></r></p></e>
+     <e><p><l>hundir<s n="n"/><s n="m"/></l><r>interior<s n="n"/></r></p></e>
+     <e><p><l>koçî<s n="n"/><s n="f"/></l><r>migrant<s n="n"/></r></p></e>
+     <e><p><l>koçî<s n="n"/><s n="m"/></l><r>migrant<s n="n"/></r></p></e>
      <e><p><l>kurmanc<s n="n"/><s n="f"/></l><r>Kurmanji<s n="n"/></r></p></e>
      <e><p><l>kurmanc<s n="n"/><s n="m"/></l><r>Kurmanji<s n="n"/></r></p></e>
      <e><p><l>Unit<s n="n"/><s n="f"/></l><r>Unit<s n="n"/></r></p></e>
@@ -10110,6 +10126,10 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>bes<s n="adj"/></l><r>enough<s n="adj"/></r></p></e>
+     <e><p><l>tevayî<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
+     <e><p><l>kevnar<s n="adj"/></l><r>antique<s n="adj"/></r></p></e>
+     <e><p><l>herwekî<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
      <e><p><l>çaremîn<s n="adj"/></l><r>fourth<s n="adj"/></r></p></e>
      <e><p><l>zêdetirî<s n="adj"/></l><r>majority<s n="adj"/></r></p></e>
      <e><p><l>şaş<s n="adj"/></l><r>shocked<s n="adj"/></r></p></e>
@@ -13317,6 +13337,8 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>hertim<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+     <e><p><l>bes<s n="adv"/></l><r>enough<s n="adv"/></r></p></e>
      <e><p><l>rasterast<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
      <e><p><l>zehf<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
      <e><p><l>zehf<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
@@ -13386,6 +13408,9 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>danîn<s n="vblex"/><s n="tv"/></l><r>put<b/>down<s n="vblex"/></r></p></e> 
+     <e><p><l>danîn<s n="vblex"/><s n="tv"/></l><r>set<b/>down<s n="vblex"/></r></p></e> 
+     <e><p><l>danîn<s n="vblex"/><s n="tv"/></l><r>lay<b/>down<s n="vblex"/></r></p></e> 
      <e><p><l>tevgerîn<s n="vblex"/><s n="iv"/></l><r>cooperate<s n="vblex"/></r></p></e> 
      <e><p><l>tevgerîn<s n="vblex"/><s n="iv"/></l><r>act<s n="vblex"/></r></p></e> 
      <e><p><l>ruhvegerîn<s n="vblex"/><s n="iv"/></l><r>return<b/>from<b/>death<s n="vblex"/></r></p></e>
