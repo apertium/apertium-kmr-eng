@@ -277,6 +277,17 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>kurmanc<s n="n"/><s n="f"/></l><r>Kurmanji<s n="n"/></r></p></e>
+     <e><p><l>kurmanc<s n="n"/><s n="m"/></l><r>Kurmanji<s n="n"/></r></p></e>
+     <e><p><l>Unit<s n="n"/><s n="f"/></l><r>Unit<s n="n"/></r></p></e>
+     <e><p><l>xirabê<s n="n"/><s n="f"/></l><r>ruins<s n="n"/></r></p></e>
+     <e><p><l>îngîlîzî<s n="n"/><s n="f"/></l><r>English<s n="n"/></r></p></e>
+     <e><p><l>îngîlîzî<s n="n"/><s n="m"/></l><r>English<s n="n"/></r></p></e>
+     <e><p><l>pêşkêşî<s n="n"/><s n="f"/></l><r>presentation<s n="n"/></r></p></e>
+     <e><p><l>seranser<s n="n"/><s n="m"/></l><r>entirity<s n="n"/></r></p></e>
+     <e><p><l>siwar<s n="n"/><s n="m"/></l><r>rider<s n="n"/></r></p></e>
+     <e><p><l>têkçûn<s n="n"/><s n="f"/></l><r>collapse<s n="n"/></r></p></e>
+     <e><p><l>têkçûn<s n="n"/><s n="f"/></l><r>defeat<s n="n"/></r></p></e>
      <e><p><l>qurban<s n="n"/><s n="f"/></l><r>sacrifice<s n="n"/></r></p></e>
      <e><p><l>qurban<s n="n"/><s n="m"/></l><r>sacrifice<s n="n"/></r></p></e>
      <e><p><l>qurban<s n="n"/><s n="f"/></l><r>victim<s n="n"/></r></p></e>
@@ -9346,6 +9357,10 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>World<s n="np"/><s n="top"/><s n="f"/></l><r>World<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>mîtanî<s n="np"/><s n="top"/><s n="f"/></l><r>Mitani<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Kerboran<s n="np"/><s n="top"/><s n="f"/></l><r>Kerboran<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Kopa<s n="np"/><s n="top"/><s n="f"/></l><r>Kopa<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Sirşîw<s n="np"/><s n="top"/><s n="f"/></l><r>Sarshiv<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Ûnis<s n="np"/><s n="ant"/><s n="m"/></l><r>Yunus<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Sêmêl<s n="np"/><s n="top"/><s n="f"/></l><r>Simele<s n="np"/><s n="top"/></r></p></e>
@@ -10095,6 +10110,10 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>çaremîn<s n="adj"/></l><r>fourth<s n="adj"/></r></p></e>
+     <e><p><l>zêdetirî<s n="adj"/></l><r>majority<s n="adj"/></r></p></e>
+     <e><p><l>şaş<s n="adj"/></l><r>shocked<s n="adj"/></r></p></e>
+     <e><p><l>şaş<s n="adj"/></l><r>crosseyed<s n="adj"/></r></p></e>
      <e><p><l>curbecur<s n="adj"/></l><r>various<s n="adj"/></r></p></e>
      <e><p><l>zîrek<s n="adj"/></l><r>talented<s n="adj"/></r></p></e>
      <e><p><l>zîrek<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
@@ -13298,6 +13317,7 @@
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
      <!-- SECTION: Adverbs -->
+     <e><p><l>rasterast<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
      <e><p><l>zehf<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
      <e><p><l>zehf<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
      <e><p><l>berçav<s n="adv"/></l><r>openly<s n="adv"/></r></p></e>
@@ -13366,6 +13386,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>zêdekirin<s n="vblex"/><s n="tv"/></l><r>increase<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>rêzkirin<s n="vblex"/><s n="tv"/></l><r>align<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>qatilkirin<s n="vblex"/><s n="tv"/></l><r>kill<s n="n"/><s n="vblex"/></r></p></e>
      <e><p><l>talankirin<s n="vblex"/><s n="tv"/></l><r>raid<s n="n"/><s n="vblex"/></r></p></e>
