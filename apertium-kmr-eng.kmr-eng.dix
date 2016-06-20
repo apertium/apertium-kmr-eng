@@ -279,6 +279,31 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>Sumer<s n="n"/><s n="m"/></l><r>Sumerian<s n="n"/></r></p></e>
+     <e><p><l>Sunî<s n="n"/><s n="m"/></l><r>Sunni<s n="n"/></r></p></e>
+     <e><p><l>Xezal<s n="n"/><s n="f"/></l><r>Xezal<s n="n"/></r></p></e>
+     <e><p><l>zeytûn<s n="n"/><s n="f"/></l><r>olive<s n="n"/></r></p></e>
+     <e><p><l>Akad<s n="n"/><s n="m"/></l><r>Akkadian<s n="n"/></r></p></e>
+     <e><p><l>bidestxistin<s n="n"/><s n="f"/></l><r>loss<s n="n"/></r></p></e>
+     <e><p><l>dolmeh<s n="n"/><s n="f"/></l><r>dolma<s n="n"/></r></p></e>
+     <e><p><l>General<s n="n"/><s n="m"/></l><r>General<s n="n"/></r></p></e>
+     <e><p><l>qezenç<s n="n"/><s n="f"/></l><r>profit<s n="n"/></r></p></e>
+     <e><p><l>balafir<s n="n"/><s n="f"/></l><r>plane<s n="n"/></r></p></e>
+     <e><p><l>doktorî<s n="n"/><s n="f"/></l><r>doctorate<s n="n"/></r></p></e>
+     <e><p><l>xwendegeh<s n="n"/><s n="f"/></l><r>library<s n="n"/></r></p></e>
+     <e><p><l>paqijkirin<s n="n"/><s n="f"/></l><r>cleaning<s n="n"/></r></p></e>
+     <e><p><l>qral<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
+     <e><p><l>qedexekirin<s n="n"/><s n="f"/></l><r>ban<s n="n"/></r></p></e>
+     <e><p><l>redaksiyon<s n="n"/><s n="f"/></l><r>redaction<s n="n"/></r></p></e>
+     <e><p><l>werzîş<s n="n"/><s n="f"/></l><r>sports<s n="n"/></r></p></e>
+     <e><p><l>werzîş<s n="n"/><s n="f"/></l><r>exercise<s n="n"/></r></p></e>
+     <e><p><l>RNA<s n="n"/><s n="acr"/><s n="f"/></l><r>RNA<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>sunnî<s n="n"/><s n="m"/></l><r>sunni<s n="n"/></r></p></e>
+     <e><p><l>Trakya<s n="n"/><s n="acr"/><s n="f"/></l><r>Thrace<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>UEFA<s n="n"/><s n="acr"/><s n="f"/></l><r>UEFA<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>Babîlî<s n="n"/><s n="m"/></l><r>Babylonian<s n="n"/></r></p></e>
+     <e><p><l>çapkirin<s n="n"/><s n="f"/></l><r>publication<s n="n"/></r></p></e>
+     <e><p><l>kelhûrî<s n="n"/><s n="m"/></l><r>Kalhuri<s n="n"/></r></p></e>
      <e><p><l>kulîlk<s n="n"/><s n="f"/></l><r>flower<s n="n"/></r></p></e>
      <e><p><l>Latîn<s n="n"/><s n="f"/></l><r>Latin<s n="n"/></r></p></e>
      <e><p><l>Latîn<s n="n"/><s n="m"/></l><r>Latin<s n="n"/></r></p></e>
@@ -9430,6 +9455,60 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Suleyman<s n="np"/><s n="ant"/><s n="m"/></l><r>Suleyman<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Yezîd<s n="np"/><s n="ant"/><s n="m"/></l><r>Yazid<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Alp<s n="np"/><s n="ant"/><s n="m"/></l><r>Alp<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Altan<s n="np"/><s n="ant"/><s n="m"/></l><r>Altan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Anderson<s n="np"/><s n="ant"/><s n="m"/></l><r>Anderson<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Antarktîka<s n="np"/><s n="top"/><s n="f"/></l><r>Antarctica<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Anthony<s n="np"/><s n="ant"/><s n="m"/></l><r>Anthony<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ataturk<s n="np"/><s n="ant"/><s n="m"/></l><r>Ataturk<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Bellam<s n="np"/><s n="ant"/><s n="m"/></l><r>Bellam<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ege<s n="np"/><s n="top"/><s n="f"/></l><r>Aegean<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Mongolya<s n="np"/><s n="top"/><s n="f"/></l><r>Mongolia<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Texas<s n="np"/><s n="top"/><s n="f"/></l><r>Texas<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Arjentîn<s n="np"/><s n="top"/><s n="f"/></l><r>Argentina<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Aydogan<s n="np"/><s n="ant"/><s n="m"/></l><r>Aydogan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Banks<s n="np"/><s n="ant"/><s n="m"/></l><r>Banks<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Bremen<s n="np"/><s n="top"/><s n="f"/></l><r>Bremen<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Che<s n="np"/><s n="ant"/><s n="m"/></l><r>Che<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Dilpak<s n="np"/><s n="ant"/><s n="m"/></l><r>Dilpak<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Gaia<s n="np"/><s n="ant"/><s n="f"/></l><r>Gaia<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Herbert<s n="np"/><s n="ant"/><s n="m"/></l><r>Herbert<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Küçük<s n="np"/><s n="ant"/><s n="m"/></l><r>Kucuk<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Meksîk<s n="np"/><s n="top"/><s n="f"/></l><r>Mexico<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Serhat<s n="np"/><s n="ant"/><s n="m"/></l><r>Serhat<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Siyamend<s n="np"/><s n="ant"/><s n="m"/></l><r>Siyamend<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Torosan<s n="np"/><s n="top"/><s n="f"/></l><r>Tauruses<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Valens<s n="np"/><s n="top"/><s n="f"/></l><r>Valencia<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Bedîuzzeman<s n="np"/><s n="ant"/><s n="m"/></l><r>Badiuzzaman<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Bêrîtan<s n="np"/><s n="ant"/><s n="m"/></l><r>Beritan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>celal<s n="np"/><s n="ant"/><s n="m"/></l><r>Celal<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Marmara<s n="np"/><s n="top"/><s n="f"/></l><r>Marmara<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Qadirî<s n="np"/><s n="ant"/><s n="m"/></l><r>Qadiri<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Arabkîr<s n="np"/><s n="top"/><s n="f"/></l><r>Arapgir<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Durmuş<s n="np"/><s n="ant"/><s n="m"/></l><r>Durmus<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Qedrî<s n="np"/><s n="ant"/><s n="m"/></l><r>Qedri<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Xaço<s n="np"/><s n="ant"/><s n="m"/></l><r>Xaco<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Zeynelabidîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Zeynelabidin<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Bexdad<s n="np"/><s n="top"/><s n="f"/></l><r>Baghdad<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Sedat<s n="np"/><s n="ant"/><s n="m"/></l><r>Sedat<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Süleyman<s n="np"/><s n="ant"/><s n="m"/></l><r>Suleyman<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Victor<s n="np"/><s n="ant"/><s n="m"/></l><r>Victor<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Abdurrahman<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdurrahman<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ahûra<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahura<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Alaska<s n="np"/><s n="top"/><s n="f"/></l><r>Alaska<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Anadolu<s n="np"/><s n="top"/><s n="f"/></l><r>Anatolia<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Burhan<s n="np"/><s n="ant"/><s n="m"/></l><r>Burhan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Cengîz<s n="np"/><s n="ant"/><s n="m"/></l><r>Cengiz<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ebdulla<s n="np"/><s n="ant"/><s n="m"/></l><r>historian<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Georges<s n="np"/><s n="ant"/><s n="m"/></l><r>Georges<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Hades<s n="np"/><s n="ant"/><s n="m"/></l><r>Hades<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Hamburg<s n="np"/><s n="top"/><s n="f"/></l><r>Hamburg<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Hemîd<s n="np"/><s n="ant"/><s n="m"/></l><r>Hamid<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Îsmet<s n="np"/><s n="ant"/><s n="m"/></l><r>Ismet<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Khan<s n="np"/><s n="ant"/><s n="m"/></l><r>Khan<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Metîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Metin<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Locke<s n="np"/><s n="ant"/><s n="m"/></l><r>Locke<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Louvre<s n="np"/><s n="top"/><s n="f"/></l><r>Louvre<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Manchester<s n="np"/><s n="top"/><s n="f"/></l><r>Manchester<s n="np"/><s n="top"/></r></p></e>
@@ -10240,6 +10319,19 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>Swîsreyî<s n="adj"/></l><r>Swiss<s n="adj"/></r></p></e>
+     <e><p><l>tarîxî<s n="adj"/></l><r>historical<s n="adj"/></r></p></e>
+     <e><p><l>aktîf<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
+     <e><p><l>asyayî<s n="adj"/></l><r>asian<s n="adj"/></r></p></e>
+     <e><p><l>heqîqî<s n="adj"/></l><r>authentic<s n="adj"/></r></p></e>
+     <e><p><l>heqîqî<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
+     <e><p><l>volkanîk<s n="adj"/></l><r>volcanic<s n="adj"/></r></p></e>
+     <e><p><l>mongolî<s n="adj"/></l><r>Mongolian<s n="adj"/></r></p></e>
+     <e><p><l>bulgarî<s n="adj"/></l><r>Bulgarian<s n="adj"/></r></p></e>
+     <e><p><l>kulturî<s n="adj"/></l><r>cultural<s n="adj"/></r></p></e>
+     <e><p><l>nîjadperest<s n="adj"/></l><r>racist<s n="adj"/></r></p></e>
+     <e><p><l>bîseksuel<s n="adj"/></l><r>bisexual<s n="adj"/></r></p></e>
+     <e><p><l>holandî<s n="adj"/></l><r>Dutch<s n="adj"/></r></p></e>
      <e><p><l>elektrîkî<s n="adj"/></l><r>electric<s n="adj"/></r></p></e>
      <e><p><l>eşkera<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>
      <e><p><l>helbestî<s n="adj"/></l><r>poetic<s n="adj"/></r></p></e>
@@ -13542,6 +13634,15 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>wêrankirin<s n="vblex"/><s n="tv"/></l><r>destroy<s n="vblex"/></r></p></e>
+     <e><p><l>xwepêşandin<s n="vblex"/><s n="tv"/></l><r>present<s n="vblex"/></r></p></e>
+     <e><p><l>xwepêşandin<s n="vblex"/><s n="tv"/></l><r>show<s n="vblex"/></r></p></e>
+     <e><p><l>pêşniyarkirin<s n="vblex"/><s n="tv"/></l><r>suggest<s n="vblex"/></r></p></e>
+     <e><p><l>guharandin<s n="vblex"/><s n="tv"/></l><r>change<s n="vblex"/></r></p></e>
+     <e><p><l>gerandin<s n="vblex"/><s n="tv"/></l><r>run<s n="vblex"/></r></p></e>
+     <e><p><l>hişkkirin<s n="vblex"/><s n="tv"/></l><r>dry<s n="vblex"/></r></p></e>
+     <e><p><l>neqişandin<s n="vblex"/><s n="tv"/></l><r>decorate<s n="vblex"/></r></p></e>
+     <e><p><l>dabeşandin<s n="vblex"/><s n="tv"/></l><r>divide<s n="vblex"/></r></p></e>
      <e><p><l>sirgûnkirin<s n="vblex"/><s n="tv"/></l><r>exile<s n="vblex"/></r></p></e>
      <e><p><l>daxistin<s n="vblex"/><s n="tv"/></l><r>lower<s n="vblex"/></r></p></e>
      <e><p><l>nîşankirin<s n="vblex"/><s n="tv"/></l><r>show<s n="vblex"/></r></p></e>
