@@ -12,6 +12,13 @@
     <or><match tags="n.*"/><match tags="prn.*"/></or>
     <match lemma="re" tags="post"/>
   </rule>
+  <rule weight="1.1">
+    <match lemma="ji" tags="pr"><select lemma="for" tags="pr"/></match>
+    <or><match tags="n.*"/><match tags="prn.*"/></or>
+    <match lemma="re" tags="post"/>
+    <match tags="*"/>
+    <match lemma="adet" tags="n.*"/>
+  </rule>
 
   <rule weight="1.0">
     <match lemma="li" tags="pr"><select lemma="at" tags="pr"/></match>
