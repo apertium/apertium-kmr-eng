@@ -6,6 +6,7 @@
     <sdef n="narr"      c="Narrative"/>
     <sdef n="abbr"     c="Abbreviation"/>
     <sdef n="n"     c="Noun"/>
+    <sdef n="preadv"     c="Preadverb"/>
     <sdef n="prn"  c=""/>
     <sdef n="GD"  c=""/>
     <sdef n="fut"  c="Future"/>
@@ -13739,6 +13740,9 @@
       <e><p><l>zuha<s n="adj"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
   
+     <!-- SECTION: Preadverbs -->
+     <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+
      <!-- SECTION: Adverbs -->
      <e><p><l>hertim<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
      <e><p><l>bes<s n="adv"/></l><r>enough<s n="adv"/></r></p></e>
