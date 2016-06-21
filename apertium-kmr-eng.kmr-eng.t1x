@@ -49,6 +49,9 @@
     <def-cat n="vaux">
 	    <cat-item tags="vaux.*"/>
     </def-cat>
+    <def-cat n="past">
+	    <cat-item tags="vblex.*.past.*"/>
+    </def-cat>
     <def-cat n="prog-past">
 	    <cat-item tags="vblex.*.prog.past.*"/>
     </def-cat>
@@ -105,6 +108,10 @@
       <attr-item tags="FD"/>
       <attr-item tags="obj"/>
       <attr-item tags="subj"/>
+    </def-attr>
+    <def-attr n="a_syn">
+      <attr-item tags="@dobj"/>
+      <attr-item tags="@nsubj"/>
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn.pers"/>
@@ -189,6 +196,7 @@
   </section-def-macros>
 
   <section-rules>
+
     <rule comment="REGLA: prog-past">
       <pattern>
         <pattern-item n="prog-past"/>
@@ -210,6 +218,29 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: past">
+      <pattern>
+        <pattern-item n="past"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_prog"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: pp-vaux">
       <pattern>
         <pattern-item n="vblex-pp"/>
@@ -253,7 +284,8 @@
         </choose>
         <choose>
           <when>
-            <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal></test>
+            <test><or><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal>
+                      <equal><clip pos="1" side="tl" part="a_syn"/><lit-tag v="@nsubj"/></equal></or></test>
             <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
             <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
@@ -263,10 +295,12 @@
             <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
         </choose>
+        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let>
         <out>
           <chunk name="pers" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_syn"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
