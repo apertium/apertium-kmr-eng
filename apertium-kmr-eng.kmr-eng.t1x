@@ -190,14 +190,14 @@
 
   <section-rules>
     <rule comment="REGLA: prog-past">
-	    <pattern>
-		<pattern-item n="prog-past"/>
-            </pattern>
-	    <action>
-	<let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
-	<let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
-	<let><clip pos="1" side="tl" part="a_prog"/><lit v=""/></let>
-	    <out>
+      <pattern>
+        <pattern-item n="prog-past"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_prog"/><lit v=""/></let>
+        <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
@@ -207,25 +207,25 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
-  </out>
-  </action>
+        </out>
+      </action>
     </rule>
-	  <rule comment="REGLA: pp-vaux">
-	    <pattern>
-                <pattern-item n="vblex-pp"/>
-		<pattern-item n="vaux"/>
-            </pattern>
-	    <action>
-	<let><clip pos="2" side="tl" part="a_verb"/><lit-tag v="vbhaver"/></let>
-	<let><clip pos="2" side="tl" part="a_prs"/><lit-tag v=""/></let>
-	<let><clip pos="2" side="tl" part="a_nbr"/><lit-tag v=""/></let>
-	    <out>
+    <rule comment="REGLA: pp-vaux">
+      <pattern>
+        <pattern-item n="vblex-pp"/>
+        <pattern-item n="vaux"/>
+      </pattern>
+      <action>
+        <let><clip pos="2" side="tl" part="a_verb"/><lit-tag v="vbhaver"/></let>
+        <let><clip pos="2" side="tl" part="a_prs"/><lit-tag v=""/></let>
+        <let><clip pos="2" side="tl" part="a_nbr"/><lit-tag v=""/></let>
+        <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
-	    <lu>
-	      <lit v="have"/>
+            <lu>
+              <lit v="have"/>
               <clip pos="2" side="tl" part="tags"/>
             </lu>
             <b/>
@@ -233,10 +233,10 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
-  </out>
-  </action>
+        </out>
+      </action>
     </rule>
-	  
+    
     <rule comment="REGLA: pron-pers">
       <pattern>
         <pattern-item n="pron-pers"/>
@@ -248,19 +248,19 @@
         <choose>
           <when>
             <test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></equal></test>
-                <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></let>
+            <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></let>
           </when>
-  </choose>
-  <choose>
-	  <when>
+        </choose>
+        <choose>
+          <when>
             <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal></test>
-                <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
-                <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
+            <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
           <when>
             <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="obl"/></equal></test>
-                <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="obj"/></let>
-                <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="obj"/></let>
+            <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
         </choose>
         <out>
@@ -312,20 +312,20 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
-	      <lit v="the"/><lit-tag v="det.def.sp"/>
+              <lit v="the"/><lit-tag v="det.def.sp"/>
             </lu>
             <b/>
             <lu>
               <get-case-from pos="2">
-                <clip pos="1" side="tl" part="lemh"/></get-case-from>
+              <clip pos="1" side="tl" part="lemh"/></get-case-from>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="a_nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
-      </lu>
-      <b/>
-      <lu>
-	      <lit v="of"/><lit-tag v="pr"/>
-      </lu>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="of"/><lit-tag v="pr"/>
+            </lu>
           </chunk>
         </out>
       </action>
@@ -340,8 +340,8 @@
         <choose>
           <when>
             <test><equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal></test>
-                <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
-                <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
+            <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
         </choose>
         <out>
@@ -361,7 +361,7 @@
     </rule>
 
 
-<!-- ^Nav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$-->
+    <!-- ^Nav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$-->
     <rule comment="REGLA: nom-con pron-obl">
       <pattern>
         <pattern-item n="nom-con"/>
@@ -371,7 +371,7 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit-tag v="obj"/></let>
         <let><clip pos="2" side="tl" part="a_case"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="lem"/>
-             <get-case-from pos="1"><clip pos="2" side="tl" part="lem"/></get-case-from></let>
+        <get-case-from pos="1"><clip pos="2" side="tl" part="lem"/></get-case-from></let>
         <call-macro n="conv-prn-poss1">
           <with-param pos="2"/>
         </call-macro>
@@ -386,7 +386,7 @@
             <b pos="1"/>
             <lu>
               <get-case-from pos="2">
-                <clip pos="1" side="tl" part="lemh"/></get-case-from>
+              <clip pos="1" side="tl" part="lemh"/></get-case-from>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="a_nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
@@ -396,7 +396,7 @@
       </action>
     </rule>
 
-<!-- ^heval<n><m><pl><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$ ^yê<con><mf><pl>$ ^kurd<n><m><sg><obl><def>$-->
+    <!-- ^heval<n><m><pl><con><def>$ ^ez<prn><pers><p1><mf><sg><obl>$ ^yê<con><mf><pl>$ ^kurd<n><m><sg><obl><def>$-->
 
     <rule comment="REGLA: nom-con pron-obl yê nom">
       <pattern>
@@ -409,7 +409,7 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit-tag v="obj"/></let>
         <let><clip pos="2" side="tl" part="a_case"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="lem"/>
-             <get-case-from pos="1"><clip pos="2" side="tl" part="lem"/></get-case-from></let>
+        <get-case-from pos="1"><clip pos="2" side="tl" part="lem"/></get-case-from></let>
         <call-macro n="conv-prn-poss1">
           <with-param pos="2"/>
         </call-macro>
@@ -431,7 +431,7 @@
             <b pos="2"/>
             <lu>
               <get-case-from pos="2">
-                <clip pos="1" side="tl" part="lemh"/></get-case-from>
+              <clip pos="1" side="tl" part="lemh"/></get-case-from>
               <clip pos="1" side="tl" part="a_nom"/>
               <clip pos="1" side="tl" part="a_nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
@@ -475,15 +475,15 @@
       </action>
     </rule>
 
-  <rule comment="REGLA: adjec">
+    <rule comment="REGLA: adjec">
       <pattern>
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-	      <choose>
-		      <when><test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal></test>
-			      <let><clip pos="1" side="tl" part="a_grau"/><lit v=""/></let></when>
-	</choose>
+        <choose>
+          <when><test><equal><clip pos="1" side="tl" part="a_grau"/><lit-tag v="pst"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_grau"/><lit v=""/></let></when>
+        </choose>
         <out>
           <chunk name="j" case="caseFirstWord">
             <tags>
@@ -497,7 +497,7 @@
       </action>
     </rule>
 
-<!-- -->
+    <!-- -->
 
     <rule comment="REGLA: di sala num">
       <pattern>
@@ -546,7 +546,7 @@
     </rule>
 
 
-<!-- -->
+    <!-- -->
 
     <rule comment="REGLA: vblex-neg">
       <pattern>
