@@ -9,6 +9,7 @@
     <sdef n="preadv"     c="Preadverb"/>
     <sdef n="prn"  c=""/>
     <sdef n="GD"  c=""/>
+    <sdef n="ND"  c=""/>
     <sdef n="fut"  c="Future"/>
     <sdef n="cnjcoo"  c=""/>
     <sdef n="cnjsub"  c=""/>
@@ -151,11 +152,12 @@
       <e><p><l>di<b/>navbera<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
       <e><p><l>di<b/>nav<s n="pr"/></l><r>inside<b/>of<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
-      <e><p><l>digel<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>di<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>through<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>digel<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>heta<s n="pr"/></l><r>as<b/>far<b/>as<s n="pr"/></r></p></e>
       <e><p><l>heta<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
       <e><p><l>ji<b/>bilî<s n="pr"/></l><r>aside<b/>from<s n="pr"/></r></p></e>
@@ -219,8 +221,9 @@
       <e><p><l>hev<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
       <e><p><l>çi<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>kî<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p></e>
-     <e><p><l>ew<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="tn"/></r></p></e>
-     <e><p><l>ew<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="tn"/></r></p></e>
+     <e r="LR"><p><l>ew<s n="prn"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>this<s n="prn"/><s n="dem"/>s n="ND"/></r></p></e>
+     <e r="LR"><p><l>ew<s n="prn"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>that<s n="prn"/><s n="dem"/><s n="ND"/></r></p></e>
+     <e r="LR"><p><l>ev<s n="prn"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>this<s n="prn"/><s n="dem"/><s n="ND"/></r></p></e>
 
 
      <!-- SECTION: Determiners -->
@@ -232,7 +235,7 @@
       <e><p><l>hin<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>her<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>herdu<s n="det"/><s n="ind"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
-      <e><p><l>çend<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>çend<s n="det"/><s n="qnt"/><s n="mf"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
 
      <!-- SECTION: Numerals -->
 
@@ -9785,6 +9788,7 @@
      <e><p><l>Geylanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Gilani<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Guatemala<s n="np"/><s n="top"/><s n="f"/></l><r>Guatemala<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Îngilistan<s n="np"/><s n="top"/><s n="f"/></l><r>England<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Ingilterê<s n="np"/><s n="top"/><s n="f"/></l><r>England<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Kerbela<s n="np"/><s n="top"/><s n="f"/></l><r>Karbala<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Kobanê<s n="np"/><s n="top"/><s n="f"/></l><r>Kobane<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Laurent<s n="np"/><s n="ant"/><s n="m"/></l><r>Laurent<s n="np"/><s n="ant"/></r></p></e>
@@ -9805,7 +9809,7 @@
      <e><p><l>Erdebîlî<s n="np"/><s n="ant"/><s n="m"/></l><r>Ardabili<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Erdelan<s n="np"/><s n="top"/><s n="f"/></l><r>Ardalan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Ergenekon<s n="np"/><s n="top"/><s n="f"/></l><r>Ergenekon<s n="np"/><s n="top"/></r></p></e>
-     <e><p><l>ezîz<s n="np"/><s n="ant"/><s n="m"/></l><r>Aziz<s n="np"/><s n="ant"/></r></p></e>
+     <!--<e><p><l>ezîz<s n="np"/><s n="ant"/><s n="m"/></l><r>Aziz<s n="np"/><s n="ant"/></r></p></e>--> <!-- FIXME -->
      <e><p><l>France<s n="np"/><s n="top"/><s n="f"/></l><r>France<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Gündüz<s n="np"/><s n="ant"/><s n="m"/></l><r>Gunduz<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îrak<s n="np"/><s n="top"/><s n="f"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
@@ -10130,7 +10134,7 @@
      <e><p><l>New<s n="np"/><s n="top"/><s n="f"/></l><r>New<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>University<s n="np"/><s n="top"/><s n="f"/></l><r>University<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>San<s n="np"/><s n="ant"/><s n="m"/></l><r>San<s n="np"/><s n="ant"/></r></p></e>
-     <e><p><l>Wetsin<s n="np"/><s n="ant"/><s n="m"/></l><r>Watson<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Wetsin<s n="np"/><s n="ant"/><s n="m"/></l><r>Watson<s n="np"/><s n="cog"/></r></p></e>
      <e><p><l>Şerlok<s n="np"/><s n="ant"/><s n="m"/></l><r>Sherlock<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
      <e><p><l>Rweylot<s n="np"/><s n="ant"/><s n="m"/></l><r>Roylott<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Stonêr<s n="np"/><s n="ant"/><s n="m"/></l><r>Stoner<s n="np"/><s n="ant"/></r></p></e>
