@@ -71,6 +71,9 @@
 
      <!-- SECTION: Abbreviations -->
       <e><p><l>z.<s n="abbr"/></l><r>born</r></p></e>
+      <e><p><l>e.<b/>s.<s n="abbr"/></l><r>pbuh<s n="abbr"/></r></p></e>
+      <e><p><l>m.<s n="abbr"/></l><r>died</r></p></e>
+      <e><p><l>b.<s n="abbr"/></l><r>ibn</r></p></e>
       <e><p><l>hwd<s n="abbr"/></l><r>etc.<s n="abbr"/></r></p></e>
       <e><p><l>km<s n="abbr"/></l><r>kilometer<s n="n"/><s n="pl"/></r></p></e>
       <e><p><l>m<s n="abbr"/></l><r>meter<s n="n"/><s n="pl"/></r></p></e>
@@ -284,6 +287,18 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>vegerî<s n="n"/><s n="f"/></l><r>return<s n="n"/></r></p></e>
+     <e><p><l>nas<s n="n"/><s n="f"/></l><r>knowledge<s n="n"/></r></p></e>
+     <e><p><l>nas<s n="n"/><s n="f"/></l><r>recognition<s n="n"/></r></p></e>
+     <e><p><l>mal<s n="n"/><s n="f"/></l><r>home<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="f"/></l><r>method<s n="n"/></r></p></e>
+     <e><p><l>awa<s n="n"/><s n="f"/></l><r>shape<s n="n"/></r></p></e>
+     <e><p><l>reşemî<s n="n"/><s n="f"/></l><r>february<s n="n"/></r></p></e>
+     <e><p><l>yekî<s n="n"/><s n="f"/></l><r>one<s n="n"/></r></p></e>
+     <e><p><l>yekî<s n="n"/><s n="m"/></l><r>one<s n="n"/></r></p></e>
+     <e><p><l>YN<s n="n"/><s n="acr"/><s n="f"/></l><r>UN<s n="n"/><s n="acr"/></r></p></e>
+     <e><p><l>Burjuvazî<s n="n"/><s n="f"/></l><r>bourgeoisie<s n="n"/></r></p></e>
+     <e><p><l>netew<s n="n"/><s n="f"/></l><r>nation<s n="n"/></r></p></e>
      <e><p><l>pêşkêşkirin<s n="n"/><s n="f"/></l><r>presentation<s n="n"/></r></p></e>
      <e><p><l>problem<s n="n"/><s n="f"/></l><r>problem<s n="n"/></r></p></e>
      <e><p><l>psîkoanalîz<s n="n"/><s n="f"/></l><r>psychoanalysis<s n="n"/></r></p></e>
@@ -9509,6 +9524,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Frensa<s n="np"/><s n="top"/><s n="f"/></l><r>France<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Nicolas<s n="np"/><s n="ant"/><s n="m"/></l><r>Nicolas<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Noşîrwan<s n="np"/><s n="ant"/><s n="m"/></l><r>Nechirvan<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Nûreddîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Nuredin<s n="np"/><s n="ant"/></r></p></e>
@@ -10481,6 +10497,14 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>gelêrî<s n="adj"/></l><r>anonymous<s n="adj"/></r></p></e>
+     <e><p><l>bêhempa<s n="adj"/></l><r>unique<s n="adj"/></r></p></e>
+     <e><p><l>bêhempa<s n="adj"/></l><r>unparalleled<s n="adj"/></r></p></e>
+     <e><p><l>zana<s n="adj"/></l><r>knowledgeable<s n="adj"/></r></p></e>
+     <e><p><l>zana<s n="adj"/></l><r>wise<s n="adj"/></r></p></e>
+     <e><p><l>ewil<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
+     <e><p><l>pirrnetewî<s n="adj"/></l><r>multinational<s n="adj"/></r></p></e>
+     <e><p><l>polîtîk<s n="adj"/></l><r>political<s n="adj"/></r></p></e>
      <e><p><l>esefnak<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
      <e><p><l>esefnak<s n="adj"/></l><r>sorry<s n="adj"/></r></p></e>
      <e><p><l>mihim<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
@@ -13749,6 +13773,16 @@
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
      <!-- SECTION: Adverbs -->
+     <e><p><l>hingî<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+     <e><p><l>ewqas<s n="adv"/></l><r>so<b/>much<s n="adv"/></r></p></e>
+     <e><p><l>ewqas<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+     <e><p><l>bidest<s n="adv"/></l><r>in<b/>hand<s n="adv"/></r></p></e>
+     <e><p><l>bicih<s n="adv"/></l><r>in<b/>place<s n="adv"/></r></p></e>
+     <e><p><l>hêj<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+     <e><p><l>hêj<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
+     <e><p><l>paş<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+     <e><p><l>bikar<s n="adv"/></l><r>to<b/>use<s n="adv"/></r></p></e>
+     <e><p><l>têde<s n="adv"/></l><r>within<s n="adv"/></r></p></e>
      <e><p><l>hertim<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
      <e><p><l>bes<s n="adv"/></l><r>enough<s n="adv"/></r></p></e>
      <e><p><l>rasterast<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
@@ -13820,6 +13854,8 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>kirîn<s n="vblex"/><s n="tv"/></l><r>buy<s n="vblex"/></r></p></e>
+     <e><p><l>bezîn<s n="vblex"/><s n="tv"/></l><r>run<s n="vblex"/></r></p></e>
      <e><p><l>dihewandin<s n="vblex"/><s n="tv"/></l><r>contain<s n="vblex"/></r></p></e>
      <e><p><l>qeydkirin<s n="vblex"/><s n="tv"/></l><r>register<s n="vblex"/></r></p></e>
      <e><p><l>qeydkirin<s n="vblex"/><s n="tv"/></l><r>save<s n="vblex"/></r></p></e>
