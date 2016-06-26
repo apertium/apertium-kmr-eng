@@ -287,6 +287,123 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>zava<s n="n"/><s n="m"/></l><r>groom<s n="n"/></r></p></e>
+     <e><p><l>bikarhêner<s n="n"/><s n="m"/></l><r>operator<s n="n"/></r></p></e>
+     <e><p><l>bikarhêner<s n="n"/><s n="m"/></l><r>user<s n="n"/></r></p></e>
+     <e><p><l>cin<s n="n"/><s n="m"/></l><r>demon<s n="n"/></r></p></e>
+     <e><p><l>giyan<s n="n"/><s n="f"/></l><r>spirit<s n="n"/></r></p></e>
+     <e><p><l>giyan<s n="n"/><s n="f"/></l><r>life<s n="n"/></r></p></e>
+     <e><p><l>hîv<s n="n"/><s n="f"/></l><r>moon<s n="n"/></r></p></e>
+     <e><p><l>keş<s n="n"/><s n="f"/></l><r>potshot<s n="n"/></r></p></e>
+     <e><p><l>lawik<s n="n"/><s n="m"/></l><r>boy<s n="n"/></r></p></e>
+     <e><p><l>lêzim<s n="n"/><s n="f"/></l><r>relative<s n="n"/></r></p></e>
+     <e><p><l>lêzim<s n="n"/><s n="m"/></l><r>relative<s n="n"/></r></p></e>
+     <e><p><l>malik<s n="n"/><s n="m"/></l><r>cell<s n="n"/></r></p></e>
+     <e><p><l>tac<s n="n"/><s n="m"/></l><r>crown<s n="n"/></r></p></e>
+     <e><p><l>tenduristî<s n="n"/><s n="f"/></l><r>health<s n="n"/></r></p></e>
+     <e><p><l>tirşik<s n="n"/><s n="f"/></l><r>casserole<s n="n"/></r></p></e>
+     <e><p><l>tirşik<s n="n"/><s n="f"/></l><r>stew<s n="n"/></r></p></e>
+     <e><p><l>xavî<s n="n"/><s n="f"/></l><r>scream<s n="n"/></r></p></e>
+     <e><p><l>xiyar<s n="n"/><s n="m"/></l><r>cucumber<s n="n"/></r></p></e>
+     <e><p><l>benî<s n="n"/><s n="f"/></l><r>captive<s n="n"/></r></p></e>
+     <e><p><l>benî<s n="n"/><s n="m"/></l><r>captive<s n="n"/></r></p></e>
+     <e><p><l>benî<s n="n"/><s n="f"/></l><r>pepperoni<s n="n"/></r></p></e>
+     <e><p><l>benî<s n="n"/><s n="m"/></l><r>pepperoni<s n="n"/></r></p></e>
+     <e><p><l>benî<s n="n"/><s n="f"/></l><r>captivity<s n="n"/></r></p></e>
+     <e><p><l>benî<s n="n"/><s n="m"/></l><r>captivity<s n="n"/></r></p></e>
+     <e><p><l>karsaz<s n="n"/><s n="m"/></l><r>businessman<s n="n"/></r></p></e>
+     <e><p><l>kereng<s n="n"/><s n="f"/></l><r>thistle<s n="n"/></r></p></e>
+     <e><p><l>kinc<s n="n"/><s n="f"/></l><r>laundry<s n="n"/></r></p></e>
+     <e><p><l>kinc<s n="n"/><s n="f"/></l><r>outfit<s n="n"/></r></p></e>
+     <e><p><l>kinc<s n="n"/><s n="f"/></l><r>clothing<s n="n"/></r></p></e>
+     <e><p><l>raperîn<s n="n"/><s n="f"/></l><r>revolt<s n="n"/></r></p></e>
+     <e><p><l>sîxurî<s n="n"/><s n="f"/></l><r>intelligence<s n="n"/></r></p></e>
+     <e><p><l>sîxurî<s n="n"/><s n="f"/></l><r>spying<s n="n"/></r></p></e>
+     <e><p><l>têgîn<s n="n"/><s n="f"/></l><r>term<s n="n"/></r></p></e>
+     <e><p><l>têgîn<s n="n"/><s n="f"/></l><r>concept<s n="n"/></r></p></e>
+     <e><p><l>xelet<s n="n"/><s n="f"/></l><r>error<s n="n"/></r></p></e>
+     <e><p><l>xelet<s n="n"/><s n="f"/></l><r>mistake<s n="n"/></r></p></e>
+     <e><p><l>xeter<s n="n"/><s n="f"/></l><r>danger<s n="n"/></r></p></e>
+     <e><p><l>Zebûr<s n="n"/><s n="f"/></l><r>Psalms<s n="n"/></r></p></e>
+     <e><p><l>behîv<s n="n"/><s n="m"/></l><r>almond<s n="n"/></r></p></e>
+     <e><p><l>ecem<s n="n"/><s n="m"/></l><r>foreigner<s n="n"/></r></p></e>
+     <e><p><l>ecem<s n="n"/><s n="m"/></l><r>Iranian<s n="n"/></r></p></e>
+     <e><p><l>faşîst<s n="n"/><s n="m"/></l><r>fascist<s n="n"/></r></p></e>
+     <e><p><l>hewceyî<s n="n"/><s n="f"/></l><r>requirement<s n="n"/></r></p></e>
+     <e><p><l>lay<s n="n"/><s n="f"/></l><r>region<s n="n"/></r></p></e>
+     <e><p><l>lay<s n="n"/><s n="f"/></l><r>side<s n="n"/></r></p></e>
+     <e><p><l>lib<s n="n"/><s n="f"/></l><r>unit<s n="n"/></r></p></e>
+     <e><p><l>mat<s n="n"/><s n="f"/></l><r>checkmate<s n="n"/></r></p></e>
+     <e><p><l>peyker<s n="n"/><s n="m"/></l><r>statue<s n="n"/></r></p></e>
+     <e><p><l>qencî<s n="n"/><s n="f"/></l><r>goodness<s n="n"/></r></p></e>
+     <e><p><l>rasteqîn<s n="n"/><s n="f"/></l><r>reality<s n="n"/></r></p></e>
+     <e><p><l>rêzanî<s n="n"/><s n="f"/></l><r>policy<s n="n"/></r></p></e>
+     <e><p><l>rêzanî<s n="n"/><s n="f"/></l><r>politics<s n="n"/></r></p></e>
+     <e><p><l>sitran<s n="n"/><s n="f"/></l><r>song<s n="n"/></r></p></e>
+     <e><p><l>zinar<s n="n"/><s n="m"/></l><r>stone<s n="n"/></r></p></e>
+     <e><p><l>zinar<s n="n"/><s n="m"/></l><r>rock<s n="n"/></r></p></e>
+     <e><p><l>ce<s n="n"/><s n="f"/></l><r>barley<s n="n"/></r></p></e>
+     <e><p><l>cîwar<s n="n"/><s n="f"/></l><r>region<s n="n"/></r></p></e>
+     <e><p><l>ciyawazî<s n="n"/><s n="f"/></l><r>seperation<s n="n"/></r></p></e>
+     <e><p><l>ciyawazî<s n="n"/><s n="f"/></l><r>difference<s n="n"/></r></p></e>
+     <e><p><l>dab<s n="n"/><s n="f"/></l><r>trap<s n="n"/></r></p></e>
+     <e><p><l>dawet<s n="n"/><s n="f"/></l><r>invitation<s n="n"/></r></p></e>
+     <e><p><l>dengdêr<s n="n"/><s n="f"/></l><r>vowel<s n="n"/></r></p></e>
+     <e><p><l>ewle<s n="n"/><s n="f"/></l><r>safety<s n="n"/></r></p></e>
+     <e><p><l>general<s n="n"/><s n="m"/></l><r>general<s n="n"/></r></p></e>
+     <e><p><l>karmend<s n="n"/><s n="m"/></l><r>employee<s n="n"/></r></p></e>
+     <e><p><l>karmend<s n="n"/><s n="m"/></l><r>administrator<s n="n"/></r></p></e>
+     <e><p><l>kutilk<s n="n"/><s n="f"/></l><r>meatball<s n="n"/></r></p></e>
+     <e><p><l>mazî<s n="n"/><s n="f"/></l><r>past<s n="n"/></r></p></e>
+     <e><p><l>mertal<s n="n"/><s n="m"/></l><r>shield<s n="n"/></r></p></e>
+     <e><p><l>salix<s n="n"/><s n="f"/></l><r>description<s n="n"/></r></p></e>
+     <e><p><l>şapik<s n="n"/><s n="f"/></l><r>bolero<s n="n"/></r></p></e>
+     <e><p><l>şervan<s n="n"/><s n="m"/></l><r>fighter<s n="n"/></r></p></e>
+     <e><p><l>şervan<s n="n"/><s n="m"/></l><r>warrior<s n="n"/></r></p></e>
+     <e><p><l>er<s n="n"/><s n="f"/></l><r>economy<s n="n"/></r></p></e>
+     <e><p><l>er<s n="n"/><s n="f"/></l><r>living<s n="n"/></r></p></e>
+     <e><p><l>govend<s n="n"/><s n="f"/></l><r>dance<s n="n"/></r></p></e>
+     <e><p><l>kargerî<s n="n"/><s n="f"/></l><r>administration<s n="n"/></r></p></e>
+     <e><p><l>keşe<s n="n"/><s n="m"/></l><r>priest<s n="n"/></r></p></e>
+     <e><p><l>kurik<s n="n"/><s n="m"/></l><r>child<s n="n"/></r></p></e>
+     <e><p><l>mêjû<s n="n"/><s n="f"/></l><r>history<s n="n"/></r></p></e>
+     <e><p><l>niştecih<s n="n"/><s n="m"/></l><r>resident<s n="n"/></r></p></e>
+     <e><p><l>pênûs<s n="n"/><s n="m"/></l><r>pen<s n="n"/></r></p></e>
+     <e><p><l>qesr<s n="n"/><s n="f"/></l><r>palace<s n="n"/></r></p></e>
+     <e><p><l>ban<s n="n"/><s n="m"/></l><r>roof<s n="n"/></r></p></e>
+     <e><p><l>kilor<s n="n"/><s n="f"/></l><r>pastry<s n="n"/></r></p></e>
+     <e><p><l>per<s n="n"/><s n="f"/></l><r>leaf<s n="n"/></r></p></e>
+     <e><p><l>per<s n="n"/><s n="f"/></l><r>feather<s n="n"/></r></p></e>
+     <e><p><l>per<s n="n"/><s n="f"/></l><r>wing<s n="n"/></r></p></e>
+     <e><p><l>Pûşper<s n="n"/><s n="f"/></l><r>June<s n="n"/></r></p></e>
+     <e><p><l>rovî<s n="n"/><s n="m"/></l><r>fox<s n="n"/></r></p></e>
+     <e><p><l>rovî<s n="n"/><s n="m"/></l><r>intestine<s n="n"/></r></p></e>
+     <e><p><l>tore<s n="n"/><s n="f"/></l><r>tradition<s n="n"/></r></p></e>
+     <e><p><l>aş<s n="n"/><s n="m"/></l><r>food<s n="n"/></r></p></e>
+     <e><p><l>aş<s n="n"/><s n="m"/></l><r>windmill<s n="n"/></r></p></e>
+     <e><p><l>dayî<s n="n"/><s n="f"/></l><r>flower<s n="n"/></r></p></e>
+     <e><p><l>fileh<s n="n"/><s n="m"/></l><r>peasant<s n="n"/></r></p></e>
+     <e><p><l>fileh<s n="n"/><s n="m"/></l><r>nonmuslim<s n="n"/></r></p></e>
+     <e><p><l>fileh<s n="n"/><s n="m"/></l><r>arab<s n="n"/></r></p></e>
+     <e><p><l>şîranî<s n="n"/><s n="f"/></l><r>dessert<s n="n"/></r></p></e>
+     <e><p><l>zîrekî<s n="n"/><s n="f"/></l><r>intelligence<s n="n"/></r></p></e>
+     <e><p><l>êkin<s n="n"/><s n="f"/></l><r>harvest<s n="n"/></r></p></e>
+     <e><p><l>geh<s n="n"/><s n="f"/></l><r>time<s n="n"/></r></p></e>
+     <e><p><l>geh<s n="n"/><s n="f"/></l><r>connection<s n="n"/></r></p></e>
+     <e><p><l>gerok<s n="n"/><s n="m"/></l><r>tourist<s n="n"/></r></p></e>
+     <e><p><l>gerok<s n="n"/><s n="m"/></l><r>traveler<s n="n"/></r></p></e>
+     <e><p><l>windakirin<s n="n"/><s n="f"/></l><r>loss<s n="n"/></r></p></e>
+     <e><p><l>kêf<s n="n"/><s n="f"/></l><r>enjoyment<s n="n"/></r></p></e>
+     <e><p><l>kêf<s n="n"/><s n="f"/></l><r>pleasure<s n="n"/></r></p></e>
+     <e><p><l>în<s n="n"/><s n="f"/></l><r>friday<s n="n"/></r></p></e>
+     <e><p><l>giş<s n="n"/><s n="f"/></l><r>whole<s n="n"/></r></p></e>
+     <e><p><l>ga<s n="n"/><s n="m"/></l><r>ox<s n="n"/></r></p></e>
+     <e><p><l>kuta<s n="n"/><s n="f"/></l><r>result<s n="n"/></r></p></e>
+     <e><p><l>kuta<s n="n"/><s n="f"/></l><r>ending<s n="n"/></r></p></e>
+     <e><p><l>fêkî<s n="n"/><s n="f"/></l><r>fruit<s n="n"/></r></p></e>
+     <e><p><l>cihû<s n="n"/><s n="m"/></l><r>jew<s n="n"/></r></p></e>
+     <e><p><l>xwê<s n="n"/><s n="f"/></l><r>salt<s n="n"/></r></p></e>
+     <e><p><l>pey<s n="n"/><s n="f"/></l><r>wake<s n="n"/></r></p></e>
      <e><p><l>made<s n="n"/><s n="f"/></l><r>stomach<s n="n"/></r></p></e>
      <e><p><l>mişk<s n="n"/><s n="m"/></l><r>rodent<s n="n"/></r></p></e>
      <e><p><l>mişk<s n="n"/><s n="m"/></l><r>mouse<s n="n"/></r></p></e>
@@ -9634,6 +9751,9 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Merîwan<s n="np"/><s n="top"/><s n="f"/></l><r>Merivan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Xaneqîn<s n="np"/><s n="top"/><s n="f"/></l><r>Khaneqin<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Pawe<s n="np"/><s n="top"/><s n="f"/></l><r>Pawe<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Mars<s n="np"/><s n="top"/><s n="f"/></l><r>Mars<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Xarpêt<s n="np"/><s n="top"/><s n="f"/></l><r>Harput<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Tîr<s n="np"/><s n="top"/><s n="f"/></l><r>Mercury<s n="np"/><s n="top"/></r></p></e>
@@ -10617,6 +10737,82 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>xwemalî<s n="adj"/></l><r>unique<s n="adj"/></r></p></e>
+     <e><p><l>xwemalî<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+     <e><p><l>aştîxwaz<s n="adj"/></l><r>unifying<s n="adj"/></r></p></e>
+     <e><p><l>aştîxwaz<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
+     <e><p><l>bextewar<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>gelemper<s n="adj"/></l><r>public<s n="adj"/></r></p></e>
+     <e><p><l>gelemper<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
+     <e><p><l>gotinî<s n="adj"/></l><r>spoken<s n="adj"/></r></p></e>
+     <e><p><l>gotinî<s n="adj"/></l><r>said<s n="adj"/></r></p></e>
+     <e><p><l>şermezar<s n="adj"/></l><r>shameful<s n="adj"/></r></p></e>
+     <e><p><l>tekane<s n="adj"/></l><r>unique<s n="adj"/></r></p></e>
+     <e><p><l>tekane<s n="adj"/></l><r>singular<s n="adj"/></r></p></e>
+     <e><p><l>watedar<s n="adj"/></l><r>meaningful<s n="adj"/></r></p></e>
+     <e><p><l>baldar<s n="adj"/></l><r>careful<s n="adj"/></r></p></e>
+     <e><p><l>cihêreng<s n="adj"/></l><r>unique<s n="adj"/></r></p></e>
+     <e><p><l>cihêreng<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+     <e><p><l>cihêreng<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+     <e><p><l>girover<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
+     <e><p><l>girover<s n="adj"/></l><r>spherical<s n="adj"/></r></p></e>
+     <e><p><l>kurdewarî<s n="adj"/></l><r>Kurdish<s n="adj"/></r></p></e>
+     <e><p><l>merd<s n="adj"/></l><r>brave<s n="adj"/></r></p></e>
+     <e><p><l>pevxistî<s n="adj"/></l><r>attached<s n="adj"/></r></p></e>
+     <e><p><l>pevxistî<s n="adj"/></l><r>planned<s n="adj"/></r></p></e>
+     <e><p><l>pevxistî<s n="adj"/></l><r>buttoned<s n="adj"/></r></p></e>
+     <e><p><l>serfiraz<s n="adj"/></l><r>honorable<s n="adj"/></r></p></e>
+     <e><p><l>serfiraz<s n="adj"/></l><r>successful<s n="adj"/></r></p></e>
+     <e><p><l>sofî<s n="adj"/></l><r>ascetic<s n="adj"/></r></p></e>
+     <e><p><l>têvel<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
+     <e><p><l>çewt<s n="adj"/></l><r>crooked<s n="adj"/></r></p></e>
+     <e><p><l>çewt<s n="adj"/></l><r>wrong<s n="adj"/></r></p></e>
+     <e><p><l>kêfxweş<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>kundir<s n="adj"/></l><r>incompetent<s n="adj"/></r></p></e>
+     <e><p><l>kundir<s n="adj"/></l><r>useless<s n="adj"/></r></p></e>
+     <e><p><l>nebinavkirî<s n="adj"/></l><r>unnamed<s n="adj"/></r></p></e>
+     <e><p><l>şad<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>wêran<s n="adj"/></l><r>ruinous<s n="adj"/></r></p></e>
+     <e><p><l>aram<s n="adj"/></l><r>patient<s n="adj"/></r></p></e>
+     <e><p><l>aram<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
+     <e><p><l>aram<s n="adj"/></l><r>quiet<s n="adj"/></r></p></e>
+     <e><p><l>girseyî<s n="adj"/></l><r>mass<s n="adj"/></r></p></e>
+     <e><p><l>pêkan<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
+     <e><p><l>pîs<s n="adj"/></l><r>dirty<s n="adj"/></r></p></e>
+     <e><p><l>serbilind<s n="adj"/></l><r>honorable<s n="adj"/></r></p></e>
+     <e><p><l>serbilind<s n="adj"/></l><r>proud<s n="adj"/></r></p></e>
+     <e><p><l>serxweş<s n="adj"/></l><r>drunk<s n="adj"/></r></p></e>
+     <e><p><l>tawanbar<s n="adj"/></l><r>accused<s n="adj"/></r></p></e>
+     <e><p><l>tazî<s n="adj"/></l><r>naked<s n="adj"/></r></p></e>
+     <e><p><l>têkel<s n="adj"/></l><r>cosmopolitan<s n="adj"/></r></p></e>
+     <e><p><l>têkel<s n="adj"/></l><r>mixed<s n="adj"/></r></p></e>
+     <e><p><l>têkel<s n="adj"/></l><r>conjoined<s n="adj"/></r></p></e>
+     <e><p><l>wend<s n="adj"/></l><r>brave<s n="adj"/></r></p></e>
+     <e><p><l>çêjdar<s n="adj"/></l><r>tasty<s n="adj"/></r></p></e>
+     <e><p><l>çêjdar<s n="adj"/></l><r>delicious<s n="adj"/></r></p></e>
+     <e><p><l>dilovan<s n="adj"/></l><r>merciful<s n="adj"/></r></p></e>
+     <e><p><l>dilovan<s n="adj"/></l><r>modest<s n="adj"/></r></p></e>
+     <e><p><l>heftem<s n="adj"/></l><r>seventh<s n="adj"/></r></p></e>
+     <e><p><l>hevşêwe<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
+     <e><p><l>organîze<s n="adj"/></l><r>organized<s n="adj"/></r></p></e>
+     <e><p><l>yekane<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
+     <e><p><l>yekane<s n="adj"/></l><r>single<s n="adj"/></r></p></e>
+     <e><p><l>zengîn<s n="adj"/></l><r>rich<s n="adj"/></r></p></e>
+     <e><p><l>zengîn<s n="adj"/></l><r>wealthy<s n="adj"/></r></p></e>
+     <e><p><l>berz<s n="adj"/></l><r>grand<s n="adj"/></r></p></e>
+     <e><p><l>berz<s n="adj"/></l><r>high<s n="adj"/></r></p></e>
+     <e><p><l>pûç<s n="adj"/></l><r>rotten<s n="adj"/></r></p></e>
+     <e><p><l>pûç<s n="adj"/></l><r>old<s n="adj"/></r></p></e>
+     <e><p><l>pûç<s n="adj"/></l><r>broken<s n="adj"/></r></p></e>
+     <e><p><l>vebirî<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
+     <e><p><l>vebirî<s n="adj"/></l><r>categorical<s n="adj"/></r></p></e>
+     <e><p><l>bijarte<s n="adj"/></l><r>elite<s n="adj"/></r></p></e>
+     <e><p><l>mûr<s n="adj"/></l><r>melancholy<s n="adj"/></r></p></e>
+     <e><p><l>birêz<s n="adj"/></l><r>honorable<s n="adj"/></r></p></e>
+     <e><p><l>pêncem<s n="adj"/></l><r>fifth<s n="adj"/></r></p></e>
+     <e><p><l>kor<s n="adj"/></l><r>blind<s n="adj"/></r></p></e>
+     <e><p><l>no<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+     <e><p><l>no<s n="adj"/></l><r>tyke<s n="adj"/></r></p></e>
      <e><p><l>kirêt<s n="adj"/></l><r>degenerate<s n="adj"/></r></p></e>
      <e><p><l>kirêt<s n="adj"/></l><r>ugly<s n="adj"/></r></p></e>
      <e><p><l>kirêt<s n="adj"/></l><r>dirty<s n="adj"/></r></p></e>
@@ -14043,6 +14239,11 @@
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
      <!-- SECTION: Adverbs -->
+     <e><p><l>tevde<s n="adv"/></l><r>totally<s n="adv"/></r></p></e>
+     <e><p><l>sibe<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+     <e><p><l>bihevra<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+     <e><p><l>geh<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+     <e><p><l>lewma<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
      <e><p><l>qe<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
      <e><p><l>bilez<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
      <e><p><l>bilez<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
@@ -14145,6 +14346,15 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>derkirin<s n="vblex"/><s n="tv"/></l><r>expel<s n="vblex"/></r></p></e>
+     <e><p><l>şermezar<b/>kirin<s n="vblex"/><s n="tv"/></l><r>condemn<s n="vblex"/></r></p></e>
+     <e><p><l>hewldan<s n="vblex"/><s n="tv"/></l><r>struggle<s n="vblex"/></r></p></e>
+     <e><p><l>pêçandin<s n="vblex"/><s n="tv"/></l><r>wrap<s n="vblex"/></r></p></e>
+     <e><p><l>pêçandin<s n="vblex"/><s n="tv"/></l><r>fold<s n="vblex"/></r></p></e>
+     <e><p><l>pevxistin<s n="vblex"/><s n="tv"/></l><r>edit<s n="vblex"/></r></p></e>
+     <e><p><l>pevxistin<s n="vblex"/><s n="tv"/></l><r>button<s n="vblex"/></r></p></e>
+     <e><p><l>erêkirin<s n="vblex"/><s n="tv"/></l><r>endorse<s n="vblex"/></r></p></e>
+     <e><p><l>erêkirin<s n="vblex"/><s n="tv"/></l><r>approve<s n="vblex"/></r></p></e>
      <e><p><l>jêkirin<s n="vblex"/><s n="tv"/></l><r>remove<s n="vblex"/></r></p></e>
      <e><p><l>jêkirin<s n="vblex"/><s n="tv"/></l><r>cut<b/>off<s n="vblex"/></r></p></e>
      <e><p><l>pêve<b/>kirin<s n="vblex"/><s n="tv"/></l><r>include<s n="vblex"/></r></p></e>
