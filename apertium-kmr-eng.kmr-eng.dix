@@ -287,6 +287,58 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>bîber<s n="n"/><s n="f"/></l><r>pepper<s n="n"/></r></p></e>
+     <e><p><l>bilbil<s n="n"/><s n="f"/></l><r>nightingale<s n="n"/></r></p></e>
+     <e><p><l>çaw<s n="n"/><s n="f"/></l><r>stick<s n="n"/></r></p></e>
+     <e><p><l>çaw<s n="n"/><s n="f"/></l><r>sapling<s n="n"/></r></p></e>
+     <e><p><l>cemed<s n="n"/><s n="f"/></l><r>frost<s n="n"/></r></p></e>
+     <e><p><l>cemed<s n="n"/><s n="f"/></l><r>ice<s n="n"/></r></p></e>
+     <e><p><l>çen<s n="n"/><s n="f"/></l><r>jaw<s n="n"/></r></p></e>
+     <e><p><l>civaknas<s n="n"/><s n="f"/></l><r>sociologist<s n="n"/></r></p></e>
+     <e><p><l>civaknas<s n="n"/><s n="m"/></l><r>sociologist<s n="n"/></r></p></e>
+     <e><p><l>çivîk<s n="n"/><s n="f"/></l><r>bird<s n="n"/></r></p></e>
+     <e><p><l>dabaş<s n="n"/><s n="f"/></l><r>subject<s n="n"/></r></p></e>
+     <e><p><l>dabaş<s n="n"/><s n="f"/></l><r>research<s n="n"/></r></p></e>
+     <e><p><l>daketin<s n="n"/><s n="f"/></l><r>descent<s n="n"/></r></p></e>
+     <e><p><l>dendik<s n="n"/><s n="f"/></l><r>seed<s n="n"/></r></p></e>
+     <e><p><l>derwêş<s n="n"/><s n="m"/></l><r>dervish<s n="n"/></r></p></e>
+     <e><p><l>fîl<s n="n"/><s n="m"/></l><r>elephant<s n="n"/></r></p></e>
+     <e><p><l>gihîştin<s n="n"/><s n="f"/></l><r>ripening<s n="n"/></r></p></e>
+     <e><p><l>gihîştin<s n="n"/><s n="f"/></l><r>maturing<s n="n"/></r></p></e>
+     <e><p><l>girîn<s n="n"/><s n="f"/></l><r>crying<s n="n"/></r></p></e>
+     <e><p><l>hişmendî<s n="n"/><s n="f"/></l><r>consciousness<s n="n"/></r></p></e>
+     <e><p><l>Îtalyan<s n="n"/><s n="f"/></l><r>Italian<s n="n"/></r></p></e>
+     <e><p><l>Îtalyan<s n="n"/><s n="m"/></l><r>Italian<s n="n"/></r></p></e>
+     <e><p><l>rawestin<s n="n"/><s n="f"/></l><r>wait<s n="n"/></r></p></e>
+     <e><p><l>rêhesin<s n="n"/><s n="f"/></l><r>track<s n="n"/></r></p></e>
+     <e><p><l>rêhesin<s n="n"/><s n="f"/></l><r>railroad<s n="n"/></r></p></e>
+     <e><p><l>selmandin<s n="n"/><s n="f"/></l><r>proof<s n="n"/></r></p></e>
+     <e><p><l>verês<s n="n"/><s n="f"/></l><r>spelling<s n="n"/></r></p></e>
+     <e><p><l>ken<s n="n"/><s n="f"/></l><r>laughter<s n="n"/></r></p></e>
+     <e><p><l>ken<s n="n"/><s n="f"/></l><r>laugh<s n="n"/></r></p></e>
+     <e><p><l>req<s n="n"/><s n="f"/></l><r>erection<s n="n"/></r></p></e>
+     <e><p><l>rizgarkirin<s n="n"/><s n="f"/></l><r>freeing<s n="n"/></r></p></e>
+     <e><p><l>rûxandin<s n="n"/><s n="f"/></l><r>damaging<s n="n"/></r></p></e>
+     <e><p><l>şîn<s n="n"/><s n="f"/></l><r>grief<s n="n"/></r></p></e>
+     <e><p><l>şîn<s n="n"/><s n="f"/></l><r>sorrow<s n="n"/></r></p></e>
+     <e><p><l>standin<s n="n"/><s n="f"/></l><r>taking<s n="n"/></r></p></e>
+     <e><p><l>veguhestin<s n="n"/><s n="f"/></l><r>passing<s n="n"/></r></p></e>
+     <e><p><l>veqetandin<s n="n"/><s n="f"/></l><r>seperation<s n="n"/></r></p></e>
+     <e><p><l>xerabûn<s n="n"/><s n="f"/></l><r>deterioration<s n="n"/></r></p></e>
+     <e><p><l>afirîn<s n="n"/><s n="f"/></l><r>creation<s n="n"/></r></p></e>
+     <e><p><l>darizandin<s n="n"/><s n="f"/></l><r>rule<s n="n"/></r></p></e>
+     <e><p><l>ferhengok<s n="n"/><s n="f"/></l><r>pocket<b/>dictionary<s n="n"/></r></p></e>
+     <e><p><l>hilanîn<s n="n"/><s n="f"/></l><r>hiding<s n="n"/></r></p></e>
+     <e><p><l>rawestan<s n="n"/><s n="f"/></l><r>waiting<s n="n"/></r></p></e>
+     <e><p><l>têketin<s n="n"/><s n="f"/></l><r>entry<s n="n"/></r></p></e>
+     <e><p><l>zan<s n="n"/><s n="f"/></l><r>birth<s n="n"/></r></p></e>
+     <e><p><l>biraştin<s n="n"/><s n="f"/></l><r>cooking<s n="n"/></r></p></e>
+     <e><p><l>bicihanîn<s n="n"/><s n="f"/></l><r>fulfillment<s n="n"/></r></p></e>
+     <e><p><l>peyivîn<s n="n"/><s n="f"/></l><r>conversation<s n="n"/></r></p></e>
+     <e><p><l>peyivîn<s n="n"/><s n="f"/></l><r>speech<s n="n"/></r></p></e>
+     <e><p><l>berg<s n="n"/><s n="f"/></l><r>cover<s n="n"/></r></p></e>
+     <e><p><l>berg<s n="n"/><s n="f"/></l><r>skin<s n="n"/></r></p></e>
+     <e><p><l>bijartin<s n="n"/><s n="f"/></l><r>choice<s n="n"/></r></p></e>
      <e><p><l>herikîn<s n="n"/><s n="f"/></l><r>flowing<s n="n"/></r></p></e>
      <e><p><l>karkirin<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
      <e><p><l>kifşkirin<s n="n"/><s n="f"/></l><r>revelation<s n="n"/></r></p></e>
@@ -11148,6 +11200,8 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>cûrbicûr<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
+     <e><p><l>demsalî<s n="adj"/></l><r>seasonal<s n="adj"/></r></p></e>
      <e><p><l>alîgir<s n="adj"/></l><r>lackey<s n="adj"/></r></p></e>
      <e><p><l>alîgir<s n="adj"/></l><r>imbalanced<s n="adj"/></r></p></e>
      <e><p><l>navîn<s n="adj"/></l><r>mediocre<s n="adj"/></r></p></e>
@@ -14820,6 +14874,9 @@
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
      <!-- SECTION: Adverbs -->
+     <e><p><l>hergav<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+     <e><p><l>nexwe<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+     <e><p><l>bitenê<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
      <e><p><l>tavilê<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
      <e><p><l>tavilê<s n="adv"/></l><r>instantly<s n="adv"/></r></p></e>
      <e><p><l>yekpare<s n="adv"/></l><r>wholly<s n="adv"/></r></p></e>
@@ -14952,6 +15009,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>ragihandin<s n="vblex"/><s n="tv"/></l><r>report<s n="vblex"/></r></p></e>
      <e><p><l>lêxistin<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
      <e><p><l>peywirdarkirin<s n="vblex"/><s n="tv"/></l><r>assign<s n="vblex"/></r></p></e>
      <e><p><l>peywirdarkirin<s n="vblex"/><s n="tv"/></l><r>commision<s n="vblex"/></r></p></e>
