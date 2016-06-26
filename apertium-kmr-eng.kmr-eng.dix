@@ -287,6 +287,67 @@
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>bacan<s n="n"/><s n="m"/></l><r>eggplant<s n="n"/></r></p></e>
+     <e><p><l>çêbûn<s n="n"/><s n="f"/></l><r>recovery<s n="n"/></r></p></e>
+     <e><p><l>çêbûn<s n="n"/><s n="f"/></l><r>healing<s n="n"/></r></p></e>
+     <e><p><l>payîn<s n="n"/><s n="f"/></l><r>waiting<s n="n"/></r></p></e>
+     <e><p><l>hilm<s n="n"/><s n="f"/></l><r>steam<s n="n"/></r></p></e>
+     <e><p><l>kalik<s n="n"/><s n="m"/></l><r>ancestor<s n="n"/></r></p></e>
+     <e><p><l>kalik<s n="n"/><s n="m"/></l><r>grandfather<s n="n"/></r></p></e>
+     <e><p><l>xistin<s n="n"/><s n="f"/></l><r>striking<s n="n"/></r></p></e>
+     <e><p><l>xistin<s n="n"/><s n="f"/></l><r>putting<s n="n"/></r></p></e>
+     <e><p><l>rûbar<s n="n"/><s n="f"/></l><r>river<s n="n"/></r></p></e>
+     <e><p><l>welat<s n="n"/><s n="f"/></l><r>country<s n="n"/></r></p></e>
+     <e><p><l>avanî<s n="n"/><s n="m"/></l><r>resident<s n="n"/></r></p></e>
+     <e><p><l>çûyîn<s n="n"/><s n="f"/></l><r>arrival<s n="n"/></r></p></e>
+     <e><p><l>serdan<s n="n"/><s n="f"/></l><r>visit<s n="n"/></r></p></e>
+     <e><p><l>sînor<s n="n"/><s n="f"/></l><r>border<s n="n"/></r></p></e>
+     <e><p><l>mirov<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
+     <e><p><l>rabûn<s n="n"/><s n="f"/></l><r>rising<s n="n"/></r></p></e>
+     <e><p><l>civîn<s n="n"/><s n="f"/></l><r>meeting<s n="n"/></r></p></e>
+     <e><p><l>kar<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
+     <e><p><l>kar<s n="n"/><s n="f"/></l><r>occupation<s n="n"/></r></p></e>
+     <e><p><l>kar<s n="n"/><s n="f"/></l><r>job<s n="n"/></r></p></e>
+     <e><p><l>gaz<s n="n"/><s n="f"/></l><r>hilltop<s n="n"/></r></p></e>
+     <e><p><l>gaz<s n="n"/><s n="f"/></l><r>gas<s n="n"/></r></p></e>
+     <e><p><l>kêmbûn<s n="n"/><s n="f"/></l><r>dwindling<s n="n"/></r></p></e>
+     <e><p><l>kêmbûn<s n="n"/><s n="f"/></l><r>reduction<s n="n"/></r></p></e>
+     <e><p><l>cîgir<s n="n"/><s n="m"/></l><r>representative<s n="n"/></r></p></e>
+     <e><p><l>feqî<s n="n"/><s n="m"/></l><r>seminary<b/>student<s n="n"/></r></p></e>
+     <e><p><l>yekbûn<s n="n"/><s n="f"/></l><r>unification<s n="n"/></r></p></e>
+     <e><p><l>bilindbûn<s n="n"/><s n="f"/></l><r>rise<s n="n"/></r></p></e>
+     <e><p><l>bûyîn<s n="n"/><s n="f"/></l><r>existence<s n="n"/></r></p></e>
+     <e><p><l>ket<s n="n"/><s n="f"/></l><r>clover<s n="n"/></r></p></e>
+     <e><p><l>derûdor<s n="n"/><s n="f"/></l><r>surroudings<s n="n"/></r></p></e>
+     <e><p><l>derûdor<s n="n"/><s n="f"/></l><r>region<s n="n"/></r></p></e>
+     <e><p><l>ewlekarî<s n="n"/><s n="f"/></l><r>security<s n="n"/></r></p></e>
+     <e><p><l>nevî<s n="n"/><s n="f"/></l><r>grandchild<s n="n"/></r></p></e>
+     <e><p><l>nevî<s n="n"/><s n="m"/></l><r>grandchild<s n="n"/></r></p></e>
+     <e><p><l>bendav<s n="n"/><s n="f"/></l><r>dam<s n="n"/></r></p></e>
+     <e><p><l>hiqûq<s n="n"/><s n="f"/></l><r>law<s n="n"/></r></p></e>
+     <e><p><l>qat<s n="n"/><s n="f"/></l><r>floor<s n="n"/></r></p></e>
+     <e><p><l>qat<s n="n"/><s n="f"/></l><r>level<s n="n"/></r></p></e>
+     <e><p><l>ban<s n="n"/><s n="f"/></l><r>roof<s n="n"/></r></p></e>
+     <e><p><l>bikir<s n="n"/><s n="m"/></l><r>buyer<s n="n"/></r></p></e>
+     <e><p><l>nûner<s n="n"/><s n="m"/></l><r>representative<s n="n"/></r></p></e>
+     <e><p><l>tîn<s n="n"/><s n="f"/></l><r>heat<s n="n"/></r></p></e>
+     <e><p><l>pî<s n="n"/><s n="f"/></l><r>limb<s n="n"/></r></p></e>
+     <e><p><l>pesn<s n="n"/><s n="f"/></l><r>pride<s n="n"/></r></p></e>
+     <e><p><l>hanîn<s n="n"/><s n="f"/></l><r>bringing<s n="n"/></r></p></e>
+     <e><p><l>rojev<s n="n"/><s n="f"/></l><r>agenda<s n="n"/></r></p></e>
+     <e><p><l>bihîstin<s n="n"/><s n="f"/></l><r>hearing<s n="n"/></r></p></e>
+     <e><p><l>têr<s n="n"/><s n="f"/></l><r>sack<s n="n"/></r></p></e>
+     <e><p><l>têkel<s n="n"/><s n="f"/></l><r>mixture<s n="n"/></r></p></e>
+     <e><p><l>heyam<s n="n"/><s n="f"/></l><r>period<s n="n"/></r></p></e>
+     <e><p><l>heyam<s n="n"/><s n="f"/></l><r>age<s n="n"/></r></p></e>
+     <e><p><l>hiştin<s n="n"/><s n="f"/></l><r>permission<s n="n"/></r></p></e>
+     <e><p><l>hiştin<s n="n"/><s n="f"/></l><r>abandonment<s n="n"/></r></p></e>
+     <e><p><l>wêr<s n="n"/><s n="f"/></l><r>courage<s n="n"/></r></p></e>
+     <e><p><l>dirûv<s n="n"/><s n="f"/></l><r>appearance<s n="n"/></r></p></e>
+     <e><p><l>veşartin<s n="n"/><s n="f"/></l><r>concealment<s n="n"/></r></p></e>
+     <e><p><l>veşartin<s n="n"/><s n="f"/></l><r>hiding<s n="n"/></r></p></e>
+     <e><p><l>çûn<s n="n"/><s n="f"/></l><r>arrival<s n="n"/></r></p></e>
+     <e><p><l>çûn<s n="n"/><s n="f"/></l><r>going<s n="n"/></r></p></e>
      <e><p><l>dûpişk<s n="n"/><s n="m"/></l><r>scorpion<s n="n"/></r></p></e>
      <e><p><l>êrîşkar<s n="n"/><s n="m"/></l><r>aggressor<s n="n"/></r></p></e>
      <e><p><l>girse<s n="n"/><s n="f"/></l><r>mass<s n="n"/></r></p></e>
@@ -10000,6 +10061,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Entab<s n="np"/><s n="top"/><s n="f"/></l><r>Antep<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Dîjle<s n="np"/><s n="top"/><s n="f"/></l><r>Dicle<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Mereş<s n="np"/><s n="top"/><s n="f"/></l><r>Maras<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Mako<s n="np"/><s n="top"/><s n="f"/></l><r>Maku<s n="np"/><s n="top"/></r></p></e>
