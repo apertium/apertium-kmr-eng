@@ -11316,6 +11316,7 @@
      <e><p><l>reformxwaz<s n="adj"/></l><r>reformist<s n="adj"/></r></p></e>
      <e><p><l>taktîkî<s n="adj"/></l><r>tactical<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
+     <e><p><l>şûnde<s n="adj"/></l><r>late<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>right<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>true<s n="adj"/></r></p></e>
      <e><p><l>berdar<s n="adj"/></l><r>fertile<s n="adj"/></r></p></e>
@@ -15144,13 +15145,16 @@
 
      <!-- SECTION: Verbs -->
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>contemplate<s n="vblex"/></r></p></e>
+     <e><p><l>şibîn<s n="vblex"/><s n="tv"/></l><r>resemble<s n="vblex"/></r></p></e>
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>evaluate<s n="vblex"/></r></p></e>
      <e><p><l>çikandin<s n="vblex"/><s n="tv"/></l><r>cut<b/>off<s n="vblex"/></r></p></e>
      <e><p><l>çikandin<s n="vblex"/><s n="tv"/></l><r>dry<b/>up<s n="vblex"/></r></p></e>
      <e><p><l>zewicîn<s n="vblex"/><s n="iv"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
      <e><p><l>mirin<s n="vblex"/><s n="iv"/></l><r>die<s n="vblex"/></r></p></e>
      <e><p><l>guherîn<s n="vblex"/><s n="iv"/></l><r>change<s n="vblex"/></r></p></e>
-     <e><p><l>herikin<s n="vblex"/><s n="iv"/></l><r>flow<s n="vblex"/></r></p></e>
+     <e><p><l>sekinîn<s n="vblex"/><s n="iv"/></l><r>stay<s n="vblex"/></r></p></e>
+     <e><p><l>sekinîn<s n="vblex"/><s n="iv"/></l><r>wait<s n="vblex"/></r></p></e>
+     <e><p><l>herikîn<s n="vblex"/><s n="iv"/></l><r>flow<s n="vblex"/></r></p></e>
      <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>arrive<s n="vblex"/></r></p></e>
      <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>ripen<s n="vblex"/></r></p></e>
      <e><p><l>teqezbûn<s n="vblex"/><s n="iv"/></l><r>be<b/>verified<s n="vblex"/></r></p></e>
@@ -15437,8 +15441,10 @@
      <e><p><l>bikaranîn<s n="vblex"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
      <e><p><l>anîn<s n="vblex"/><s n="tv"/></l><r>bring<s n="vblex"/></r></p></e>
      <e><p><l>karîn<s n="vblex"/><s n="tv"/></l><r>be<b/>able<b/>to<s n="vbmod"/></r></p></e>
-     <e><p><l>derketin<s n="vblex"/><s n="tv"/></l><r>go<b/>out<s n="vblex"/></r></p></e>
+     <e><p><l>derketin<s n="vblex"/><s n="iv"/></l><r>go<b/>out<s n="vblex"/></r></p></e>
      <e><p><l>naskirin<s n="vblex"/><s n="tv"/></l><r>recognize<s n="vblex"/></r></p></e>
+     <e><p><l>hêlan<s n="vblex"/><s n="tv"/></l><r>leave<s n="vblex"/></r></p></e>
+     <e><p><l>hêlan<s n="vblex"/><s n="tv"/></l><r>abandon<s n="vblex"/></r></p></e>
       <e><p><l>kuştin<s n="vblex"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
       <e><p><l>xwandin<s n="vblex"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>
       <e><p><l>nivîsandin<s n="vblex"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
