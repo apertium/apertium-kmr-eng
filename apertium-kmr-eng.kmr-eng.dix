@@ -284,12 +284,15 @@
      <e><p><l>heştsed<s n="num"/></l><r>eight<b/>hundred<s n="num"/></r></p></e>
      <e><p><l>nehsed<s n="num"/></l><r>nine<b/>hundred<s n="num"/></r></p></e>
      <e><p><l>hezar<s n="num"/></l><r>thousand<s n="num"/></r></p></e>
+     <e><p><l>bîst<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
      <e><p><l>milyon<s n="num"/></l><r>million<s n="num"/></r></p></e>
      <e><p><l>yekem<s n="num"/><s n="ord"/></l><r>first<s n="adj"/></r></p></e>
      <e><p><l>pencî<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
      <e><p><l>berpirsyarî<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
+     <e><p><l>dijî<s n="n"/><s n="f"/></l><r>controversy<s n="n"/></r></p></e>
+     <e><p><l>dijî<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
      <e><p><l>nêzîkbûn<s n="n"/><s n="f"/></l><r>proximity<s n="n"/></r></p></e>
      <e><p><l>rastkirin<s n="n"/><s n="f"/></l><r>correction<s n="n"/></r></p></e>
      <e><p><l>reformkirin<s n="n"/><s n="f"/></l><r>reforming<s n="n"/></r></p></e>
@@ -15144,7 +15147,12 @@
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>evaluate<s n="vblex"/></r></p></e>
      <e><p><l>çikandin<s n="vblex"/><s n="tv"/></l><r>cut<b/>off<s n="vblex"/></r></p></e>
      <e><p><l>çikandin<s n="vblex"/><s n="tv"/></l><r>dry<b/>up<s n="vblex"/></r></p></e>
+     <e><p><l>zewicîn<s n="vblex"/><s n="iv"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
+     <e><p><l>mirin<s n="vblex"/><s n="iv"/></l><r>die<s n="vblex"/></r></p></e>
      <e><p><l>guherîn<s n="vblex"/><s n="iv"/></l><r>change<s n="vblex"/></r></p></e>
+     <e><p><l>herikin<s n="vblex"/><s n="iv"/></l><r>flow<s n="vblex"/></r></p></e>
+     <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>arrive<s n="vblex"/></r></p></e>
+     <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>ripen<s n="vblex"/></r></p></e>
      <e><p><l>teqezbûn<s n="vblex"/><s n="iv"/></l><r>be<b/>verified<s n="vblex"/></r></p></e>
      <e><p><l>teqez<b/>kirin<s n="vblex"/><s n="tv"/></l><r>verify<s n="vblex"/></r></p></e>
      <e><p><l>rabûn<s n="vblex"/><s n="tv"/></l><r>wake<b/>up<s n="vblex"/></r></p></e>
