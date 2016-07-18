@@ -290,6 +290,20 @@
      <e><p><l>pencî<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>pîrek<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
+     <e><p><l>hevgirtin<s n="n"/><s n="f"/></l><r>unification<s n="n"/></r></p></e>
+     <e><p><l>berx<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e>
+     <e><p><l>berx<s n="n"/><s n="m"/></l><r>sheep<s n="n"/></r></p></e>
+     <e><p><l>cemser<s n="n"/><s n="m"/></l><r>pole<s n="n"/></r></p></e>
+     <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>shrine<s n="n"/></r></p></e>
+     <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>gate<s n="n"/></r></p></e>
+     <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>door<s n="n"/></r></p></e>
+     <e><p><l>keya<s n="n"/><s n="m"/></l><r>mayor<s n="n"/></r></p></e>
+     <e><p><l>mîrat<s n="n"/><s n="f"/></l><r>inheritance<s n="n"/></r></p></e>
+     <e><p><l>mîrat<s n="n"/><s n="f"/></l><r>remnant<s n="n"/></r></p></e>
+     <e><p><l>kargeh<s n="n"/><s n="f"/></l><r>workplace<s n="n"/></r></p></e>
+     <e><p><l>berd<s n="n"/><s n="m"/></l><r>stone<s n="n"/></r></p></e>
+     <e><p><l>serokomar<s n="n"/><s n="m"/></l><r>president<s n="n"/></r></p></e>
      <e><p><l>berpirsyarî<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
      <e><p><l>dijî<s n="n"/><s n="f"/></l><r>controversy<s n="n"/></r></p></e>
      <e><p><l>dijî<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
@@ -10316,6 +10330,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Rûhanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Rouhani<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îrland<s n="np"/><s n="top"/><s n="f"/></l><r>Ireland<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Entab<s n="np"/><s n="top"/><s n="f"/></l><r>Antep<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Dîjle<s n="np"/><s n="top"/><s n="f"/></l><r>Dicle<s n="np"/><s n="top"/></r></p></e>
@@ -11313,6 +11328,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>neteweperest<s n="adj"/></l><r>nationalist<s n="adj"/></r></p></e>
      <e><p><l>reformxwaz<s n="adj"/></l><r>reformist<s n="adj"/></r></p></e>
      <e><p><l>taktîkî<s n="adj"/></l><r>tactical<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
@@ -15009,6 +15025,7 @@
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
      <!-- SECTION: Adverbs -->
+     <e><p><l>vir<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
      <e><p><l>hergav<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
      <e><p><l>nexwe<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
      <e><p><l>bitenê<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
@@ -15144,6 +15161,7 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>cîbicî<b/>kirin<s n="vblex"/><s n="tv"/></l><r>implement<s n="vblex"/></r></p></e>
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>contemplate<s n="vblex"/></r></p></e>
      <e><p><l>şibîn<s n="vblex"/><s n="tv"/></l><r>resemble<s n="vblex"/></r></p></e>
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>evaluate<s n="vblex"/></r></p></e>
