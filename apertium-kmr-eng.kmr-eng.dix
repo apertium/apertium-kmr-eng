@@ -299,6 +299,7 @@
      <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>gate<s n="n"/></r></p></e>
      <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>door<s n="n"/></r></p></e>
      <e><p><l>keya<s n="n"/><s n="m"/></l><r>mayor<s n="n"/></r></p></e>
+     <e><p><l>asl<s n="n"/><s n="m"/></l><r>origin<s n="n"/></r></p></e>
      <e><p><l>mîrat<s n="n"/><s n="f"/></l><r>inheritance<s n="n"/></r></p></e>
      <e><p><l>mîrat<s n="n"/><s n="f"/></l><r>remnant<s n="n"/></r></p></e>
      <e><p><l>kargeh<s n="n"/><s n="f"/></l><r>workplace<s n="n"/></r></p></e>
@@ -10330,6 +10331,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Semzinan<s n="np"/><s n="top"/><s n="f"/></l><r>Semzinan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Rûhanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Rouhani<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îrland<s n="np"/><s n="top"/><s n="f"/></l><r>Ireland<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Entab<s n="np"/><s n="top"/><s n="f"/></l><r>Antep<s n="np"/><s n="top"/></r></p></e>
@@ -11065,6 +11067,7 @@
      <e><p><l>Diya<s n="np"/><s n="ant"/><s n="m"/></l><r>Diya<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Meryem<s n="np"/><s n="ant"/><s n="f"/></l><r>Meryem<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Diyarbekr<s n="np"/><s n="top"/><s n="f"/></l><r>Diyarbakir<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Miks<s n="np"/><s n="top"/><s n="f"/></l><r>Miks<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Hradiště<s n="np"/><s n="top"/><s n="f"/></l><r>Hradiště<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Pîran<s n="np"/><s n="top"/><s n="f"/></l><r>Dicle<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Şemrex<s n="np"/><s n="top"/><s n="f"/></l><r>Mazidagi<s n="np"/><s n="top"/></r></p></e>
@@ -15298,6 +15301,7 @@
      <e><p><l>bergerîn<s n="vblex"/><s n="iv"/></l><r>beg<s n="vblex"/></r></p></e>
      <e><p><l>libergerîn<s n="vblex"/><s n="iv"/></l><r>beg<s n="vblex"/></r></p></e>
      <e><p><l>jêgerîn<s n="vblex"/><s n="iv"/></l><r>give<b/>up<s n="vblex"/></r></p></e>
+     <e><p><l>ji<b/>dayîk<b/>bûn<s n="vblex"/><s n="iv"/></l><r>be<b/>born<s n="vblex"/></r></p></e>
      <e><p><l>wergerîn<s n="vblex"/><s n="iv"/></l><r>be<b/>turned<s n="vblex"/></r></p></e>
      <e><p><l>vegerîn<s n="vblex"/><s n="iv"/></l><r>return<s n="vblex"/></r></p></e>
      <e><p><l>gerîn<s n="vblex"/><s n="iv"/></l><r>wander<s n="vblex"/></r></p></e>

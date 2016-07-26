@@ -4,6 +4,11 @@
     <def-cat n="ant">
       <cat-item tags="np.ant.*"/>
     </def-cat>
+    <def-cat n="np-nom-adj">
+      <cat-item tags="np.*"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj.*"/>
+    </def-cat>
     <def-cat n="top">
       <cat-item tags="np.top.*"/>
     </def-cat>
@@ -19,6 +24,9 @@
     </def-cat>
     <def-cat n="di">
       <cat-item lemma="di" tags="pr"/>
+    </def-cat>
+    <def-cat n="pr">
+      <cat-item tags="pr"/>
     </def-cat>
     <def-cat n="sala">
       <cat-item lemma="sal" tags="n.f.sg.*"/>
@@ -52,6 +60,9 @@
     <def-cat n="yê">
       <cat-item tags="con.*"/>
     </def-cat>
+    <def-cat n="cop">
+      <cat-item tags="vbcop.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -69,6 +80,9 @@
     </def-cat>
     <def-cat n="vblex-neg">
       <cat-item tags="vblex.*.neg.*"/>
+    </def-cat>
+    <def-cat n="vblex-neg-past">
+      <cat-item tags="vblex.*.neg.past.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -719,6 +733,29 @@
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
+            <lu><lit v="not"/><lit-tag v="adv"/></lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: vblex-neg-past">
+      <pattern>
+        <pattern-item n="vblex-neg-past"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu><lit v="do"/><lit-tag v="vbdo"/><lit-tag v="past"/></lu>
+            <b/>
             <lu><lit v="not"/><lit-tag v="adv"/></lu>
             <b/>
             <lu>

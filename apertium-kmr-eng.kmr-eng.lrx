@@ -4,9 +4,20 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="pirtuk" tags="n.*"/>  
+    <match lemma="xwendin" tags="vblex.*"><select lemma="read" tags="vblex"/></match>
+</rule>
+
+  <rule weight="1.0">
     <match lemma="li" tags="pr"><select lemma="by" tags="pr"/></match>
     <match lemma="hêl" tags="n.*"/>  
 </rule>
+
+  <rule weight="1.0">
+    <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
+    <match lemma="*" tags="np.top.*"/>  
+</rule>
+
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="to" tags="pr"/></match>
     <or><match tags="n.*"/><match tags="prn.*"/></or>
