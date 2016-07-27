@@ -15,7 +15,13 @@
 
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
-    <match lemma="*" tags="np.top.*"/>  
+    <match tags="np.top.*"/>  
+</rule>
+
+
+  <rule weight="1.0">
+    <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
+    <match tags="n.*"/>  
 </rule>
 
   <rule weight="1.0">

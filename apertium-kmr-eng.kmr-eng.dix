@@ -217,6 +217,7 @@
      <e r="LR"><p><l>ez<s n="prn"/><s n="pers"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
      <e r="LR"><p><l>em<s n="prn"/><s n="pers"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
      <e r="LR"><p><l>ew<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
+     <e r="LR"><p><l>ew<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
      <e r="LR"><p><l>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
      <e r="LR"><p><l>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
      <e r="LR"><p><l>hûn<s n="prn"/><s n="pers"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p2"/></r></p></e>
@@ -294,6 +295,7 @@
      <e><p><l>hevgirtin<s n="n"/><s n="f"/></l><r>unification<s n="n"/></r></p></e>
      <e><p><l>berx<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e>
      <e><p><l>berx<s n="n"/><s n="m"/></l><r>sheep<s n="n"/></r></p></e>
+     <e><p><l>hukm<s n="n"/><s n="m"/></l><r>verdict<s n="n"/></r></p></e>
      <e><p><l>cemser<s n="n"/><s n="m"/></l><r>pole<s n="n"/></r></p></e>
      <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>shrine<s n="n"/></r></p></e>
      <e><p><l>dergeh<s n="n"/><s n="f"/></l><r>gate<s n="n"/></r></p></e>
@@ -5062,7 +5064,7 @@
       <e><p><l>hezare<s n="n"/><s n="f"/></l><r>millennium<s n="n"/></r></p></e>
       <e><p><l>hezarsal<s n="n"/><s n="f"/></l><r>millennium<s n="n"/></r></p></e>
       <e><p><l>hezim<s n="n"/><s n="f"/></l><r>digestion<s n="n"/></r></p></e>
-      <e><p><l>hêz<s n="n"/><s n="f"/></l><r>power<s n="n"/></r></p></e>
+      <e><p><l>hêz<s n="n"/><s n="f"/></l><r>force<s n="n"/></r></p></e>
       <e><p><l>hêz<s n="n"/><s n="f"/></l><r>strength<s n="n"/></r></p></e>
       <e><p><l>hicûm<s n="n"/><s n="f"/></l><r>attack<s n="n"/></r></p></e>
       <e><p><l>hidûd<s n="n"/><s n="m"/></l><r>border<s n="n"/></r></p></e>
@@ -11328,6 +11330,7 @@
       <e><p><l>Salih<s n="np"/><s n="ant"/><s n="m"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mesûd<s n="np"/><s n="ant"/><s n="m"/></l><r>Masoud<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Barzanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Barzani<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Wanlî<s n="np"/><s n="ant"/><s n="m"/></l><r>Wanli<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
@@ -11335,6 +11338,7 @@
      <e><p><l>reformxwaz<s n="adj"/></l><r>reformist<s n="adj"/></r></p></e>
      <e><p><l>taktîkî<s n="adj"/></l><r>tactical<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
+     <e><p><l>xeyabî<s n="adj"/></l><r>in<b/>absentia<s n="adv"/></r></p></e>
      <e><p><l>şûnde<s n="adj"/></l><r>late<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>right<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>true<s n="adj"/></r></p></e>
@@ -15180,6 +15184,8 @@
      <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>ripen<s n="vblex"/></r></p></e>
      <e><p><l>teqezbûn<s n="vblex"/><s n="iv"/></l><r>be<b/>verified<s n="vblex"/></r></p></e>
      <e><p><l>teqez<b/>kirin<s n="vblex"/><s n="tv"/></l><r>verify<s n="vblex"/></r></p></e>
+     <e><p><l>hewldan<s n="vblex"/><s n="tv"/></l><r>try<s n="vblex"/></r></p></e>
+     <e><p><l>hewldan<s n="vblex"/><s n="tv"/></l><r>attempt<s n="vblex"/></r></p></e>
      <e><p><l>rabûn<s n="vblex"/><s n="tv"/></l><r>wake<b/>up<s n="vblex"/></r></p></e>
      <e><p><l>ragihandin<s n="vblex"/><s n="tv"/></l><r>report<s n="vblex"/></r></p></e>
      <e><p><l>lêxistin<s n="vblex"/><s n="tv"/></l><r>beat<s n="vblex"/></r></p></e>
@@ -15501,6 +15507,7 @@
       <e><p><l>qewimin<s n="vblex"/><s n="iv"/></l><r>form<s n="vblex"/></r></p></e>
 
       <e><p><l>çûn<s n="vblex"/><s n="iv"/></l><r>go<s n="vblex"/></r></p></e>
+      <e><p><l>derçûn<s n="vblex"/><s n="iv"/></l><r>come<b/>out<s n="vblex"/></r></p></e>
 
       <e><p><l>hatin<s n="vblex"/><s n="iv"/></l><r>come<s n="vblex"/></r></p></e>
 
