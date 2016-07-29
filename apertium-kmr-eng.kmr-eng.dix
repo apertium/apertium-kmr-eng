@@ -11330,6 +11330,7 @@
       <e><p><l>Salih<s n="np"/><s n="ant"/><s n="m"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mesûd<s n="np"/><s n="ant"/><s n="m"/></l><r>Masoud<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Barzanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Barzani<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Xanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Xani<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Wanlî<s n="np"/><s n="ant"/><s n="m"/></l><r>Wanli<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
@@ -15618,6 +15619,7 @@
      <e><p><l>—<s n="guio"/></l><r>—<s n="guio"/></r></p></e>
      <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
      <e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
+     <e><re>[0-9]+'?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
 
    </section>
 

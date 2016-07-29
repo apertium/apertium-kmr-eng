@@ -40,6 +40,9 @@
     <def-cat n="nom-con">
       <cat-item tags="n.*.*.con.*"/>
     </def-cat>
+    <def-cat n="nom-obl">
+      <cat-item tags="n.*.*.obl.*"/>
+    </def-cat>
     <def-cat n="pron-obl">
       <cat-item tags="prn.pers.*.*.*.obl"/>
       <cat-item lemma="xwe" tags="prn.ref.*"/>
@@ -71,6 +74,9 @@
     </def-cat>
     <def-cat n="vaux">
 	    <cat-item tags="vaux.*"/>
+    </def-cat>
+    <def-cat n="narr">
+	    <cat-item tags="vblex.*.narr.*"/>
     </def-cat>
     <def-cat n="past">
 	    <cat-item tags="vblex.*.past.*"/>
@@ -116,6 +122,9 @@
       <attr-item tags="np.top"/>
       <attr-item tags="np.cog"/>
     </def-attr>
+    <def-attr n="a_narr">
+      <attr-item tags="narr"/>
+    </def-attr>
     <def-attr n="a_verb">
       <attr-item tags="vbser"/>
       <attr-item tags="vbhaver"/>
@@ -142,8 +151,10 @@
     </def-attr>
     <def-attr n="a_syn">
       <attr-item tags="@dobj"/>
+      <attr-item tags="@nmod:dat"/>
       <attr-item tags="@nsubj"/>
     </def-attr>
+
     <def-attr n="a_prn">
       <attr-item tags="prn.pers"/>
     </def-attr>
@@ -157,6 +168,7 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="prep"/>
     <def-var n="last-subj"/>
   </section-def-vars>
 
@@ -307,6 +319,28 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: narr">
+      <pattern>
+        <pattern-item n="narr"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_narr"/><lit v="past"/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: past">
       <pattern>
@@ -378,6 +412,8 @@
       </action>
     </rule>
 
+<!--    <rule comment="REGLA: nom-obl">
+    </rule> -->
 
     
     <rule comment="REGLA: pron-pers">
@@ -529,6 +565,42 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: obl">
+      <pattern>
+        <pattern-item n="nom-obl"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_syn"/><lit-tag v="@nmod:dat"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
+            <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+            <let><var n="prep"/><lit v="to"/></let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+		<var n="prep"/>
+            </lu>
+            <lu>
+              <lit v="the"/><lit-tag v="det.def.sp"/>
+            </lu>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: nom">
