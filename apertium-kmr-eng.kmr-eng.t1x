@@ -326,7 +326,7 @@
       <action>
         <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_narr"/><lit v="past"/></let>
+        <let><clip pos="1" side="tl" part="a_narr"/><lit-tag v="past"/></let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -576,7 +576,7 @@
             <test><equal><clip pos="1" side="tl" part="a_syn"/><lit-tag v="@nmod:dat"/></equal></test>
             <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
             <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
-            <let><var n="prep"/><lit v="to"/></let>
+            <let><var n="prep"/><concat><lit v="to"/><lit-tag v="pr"/></concat></let>
           </when>
         </choose>
         <out>
@@ -587,9 +587,12 @@
             <lu>
 		<var n="prep"/>
             </lu>
+		<b/>
             <lu>
               <lit v="the"/><lit-tag v="det.def.sp"/>
+
             </lu>
+		<b/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
