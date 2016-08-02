@@ -10335,6 +10335,8 @@
      <!-- SECTION: Proper nouns-->
      <e><p><l>Semzinan<s n="np"/><s n="top"/><s n="f"/></l><r>Semzinan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Rûhanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Rouhani<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Ferho<s n="np"/><s n="ant"/><s n="m"/></l><r>Ferho<s n="np"/><s n="ant"/></r></p></e>
+     <e><p><l>Simko<s n="np"/><s n="ant"/><s n="m"/></l><r>Simko<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Îrland<s n="np"/><s n="top"/><s n="f"/></l><r>Ireland<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Entab<s n="np"/><s n="top"/><s n="f"/></l><r>Antep<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Dîjle<s n="np"/><s n="top"/><s n="f"/></l><r>Dicle<s n="np"/><s n="top"/></r></p></e>
@@ -11054,7 +11056,8 @@
      <e><p><l>Kirmaşan<s n="np"/><s n="top"/><s n="f"/></l><r>Kermanshah<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Marx<s n="np"/><s n="ant"/><s n="m"/></l><r>Marx<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Stalîn<s n="np"/><s n="ant"/><s n="m"/></l><r>Stalin<s n="np"/><s n="ant"/></r></p></e>
-     <e><p><l>Barzan<s n="np"/><s n="top"/><s n="f"/></l><r>Barzan<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Barzanî<s n="np"/><s n="top"/><s n="f"/></l><r>Barzani<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Medenî<s n="np"/><s n="top"/><s n="f"/></l><r>Medeni<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Celal<s n="np"/><s n="ant"/><s n="m"/></l><r>Celal<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Serhed<s n="np"/><s n="ant"/><s n="m"/></l><r>Serhad<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Hegel<s n="np"/><s n="ant"/><s n="m"/></l><r>Hegel<s n="np"/><s n="ant"/></r></p></e>
