@@ -58,6 +58,12 @@
     <match lemma="ve" tags="post"/>
   </rule>
 
+  <rule weight="1.1">
+    <match lemma="li ber" tags="pr"><select lemma="in front of" tags="pr"/></match>
+    <match lemma="ser" tags="n.*"/>
+  </rule>
+
+
   <rule weight="1.0">
     <match lemma="li ser" tags="pr"><select lemma="on" tags="pr"/></match>
     <match lemma="pist" tags="n.*"/>

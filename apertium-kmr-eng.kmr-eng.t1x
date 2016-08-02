@@ -193,6 +193,7 @@
                              <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
                   <let><var n="last-subj"/><lit-tag v="p3.GD.sg"/></let></when>
             <when><test><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p2"/></equal></test>
+                  <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sp"/></let>
                   <let><var n="last-subj"/><lit-tag v="p2.mf.sp"/></let></when>
           </choose>
         </when>
