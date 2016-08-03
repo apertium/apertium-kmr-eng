@@ -78,6 +78,9 @@
     <def-cat n="nom-ind">
 	    <cat-item tags="n.*.ind.*"/>
     </def-cat>
+    <def-cat n="pri">
+	    <cat-item tags="vblex.*.pri.*"/>
+    </def-cat>
     <def-cat n="narr">
 	    <cat-item tags="vblex.*.narr.*"/>
     </def-cat>
@@ -128,6 +131,9 @@
     <def-attr n="a_narr">
       <attr-item tags="narr"/>
     </def-attr>
+    <def-attr n="a_pri">
+      <attr-item tags="pri"/>
+    </def-attr>
     <def-attr n="a_verb">
       <attr-item tags="vbser"/>
       <attr-item tags="vbhaver"/>
@@ -172,6 +178,7 @@
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="prep"/>
+    <def-var n="determiner"/>
     <def-var n="last-subj"/>
   </section-def-vars>
 
@@ -276,6 +283,35 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="REGLA: pri">
+      <pattern>
+        <pattern-item n="pri"/>
+      </pattern>
+      <action>
+	<choose>
+	<when>
+<test><not><and><equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal><equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal></and></not></test>
+	<let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let><let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+	</when>
+	</choose>
+
+        <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: vblex-neg-past">
       <pattern>
@@ -323,6 +359,7 @@
         </out>
       </action>
     </rule>
+
     <rule comment="REGLA: narr">
       <pattern>
         <pattern-item n="narr"/>
@@ -575,6 +612,7 @@
         <pattern-item n="nom-obl"/>
       </pattern>
       <action>
+        <let><var n="prep"/><lit v=""/></let> 
         <choose>
           <when>
             <test><equal><clip pos="1" side="tl" part="a_syn"/><lit-tag v="@nmod:dat"/></equal></test>

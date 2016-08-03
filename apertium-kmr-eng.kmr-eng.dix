@@ -291,6 +291,8 @@
      <e><p><l>pencî<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>fars<s n="n"/><s n="m"/></l><r>persian<s n="n"/></r></p></e>
+     <e><p><l>kral<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
      <e><p><l>pîrek<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
      <e><p><l>hevgirtin<s n="n"/><s n="f"/></l><r>unification<s n="n"/></r></p></e>
      <e><p><l>berx<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e>
@@ -10333,6 +10335,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Kûruş<s n="np"/><s n="ant"/><s n="m"/></l><r>Cyrus<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Semzinan<s n="np"/><s n="top"/><s n="f"/></l><r>Semzinan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Rûhanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Rouhani<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Ferho<s n="np"/><s n="ant"/><s n="m"/></l><r>Ferho<s n="np"/><s n="ant"/></r></p></e>
