@@ -618,7 +618,7 @@
             <test><equal><clip pos="1" side="tl" part="a_syn"/><lit-tag v="@nmod:dat"/></equal></test>
             <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
             <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
-            <let><var n="prep"/><concat><lit v="to"/><lit-tag v="pr"/></concat></let>
+            <let><var n="prep"/><concat><lit v="to"/><lit-tag v="pr"/><b/></concat></let>
           </when>
         </choose>
         <out>
@@ -629,7 +629,6 @@
             <lu>
 		<var n="prep"/>
             </lu>
-		<b/>
             <lu>
               <lit v="the"/><lit-tag v="det.def.sp"/>
             </lu>
