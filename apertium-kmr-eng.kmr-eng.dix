@@ -291,10 +291,16 @@
      <e><p><l>pencî<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>pêre<s n="n"/><s n="m"/></l><r>money<s n="n"/></r></p></e>
+     <e><p><l>meymûn<s n="n"/><s n="m"/></l><r>monkey<s n="n"/></r></p></e>
+     <e><p><l>tamîrat<s n="n"/><s n="m"/></l><r>repair<s n="n"/></r></p></e>
+     <e><p><l>tûl<s n="n"/><s n="f"/></l><r>veil<s n="n"/></r></p></e>
+     <e><p><l>îş<s n="n"/><s n="m"/></l><r>business<s n="n"/></r></p></e>
      <e><p><l>musîbet<s n="n"/><s n="m"/></l><r>tragedy<s n="n"/></r></p></e>
      <e><p><l>fars<s n="n"/><s n="m"/></l><r>persian<s n="n"/></r></p></e>
      <e><p><l>kral<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
      <e><p><l>pîrek<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
+     <e><p><l>banû<s n="n"/><s n="f"/></l><r>lady<s n="n"/></r></p></e>
      <e><p><l>hevgirtin<s n="n"/><s n="f"/></l><r>unification<s n="n"/></r></p></e>
      <e><p><l>berx<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e>
      <e><p><l>berx<s n="n"/><s n="m"/></l><r>sheep<s n="n"/></r></p></e>
@@ -10337,6 +10343,9 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Sarî<s n="np"/><s n="top"/><s n="f"/></l><r>Surrey<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Stokmoran<s n="np"/><s n="top"/><s n="f"/></l><r>Stoke<b/>Moran<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>Cûlya<s n="np"/><s n="ant"/><s n="f"/></l><r>Julia<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Kûruş<s n="np"/><s n="ant"/><s n="m"/></l><r>Cyrus<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Semzinan<s n="np"/><s n="top"/><s n="f"/></l><r>Semzinan<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Rûhanî<s n="np"/><s n="ant"/><s n="m"/></l><r>Rouhani<s n="np"/><s n="ant"/></r></p></e>
@@ -11344,6 +11353,7 @@
 
      <!-- SECTION: Adjectives -->
      <e><p><l>xemxwar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+     <e><p><l>ciwan<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
      <e><p><l>neteweperest<s n="adj"/></l><r>nationalist<s n="adj"/></r></p></e>
      <e><p><l>reformxwaz<s n="adj"/></l><r>reformist<s n="adj"/></r></p></e>
      <e><p><l>taktîkî<s n="adj"/></l><r>tactical<s n="adj"/></r></p></e>
