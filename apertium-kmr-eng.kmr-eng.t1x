@@ -186,6 +186,19 @@
   </section-def-vars>
 
   <section-def-macros>
+    <def-macro n="set-deter1" npar="1">
+      <let><var n="determiner"/><lit v=""/></let>
+      <choose>
+            <when><test><and><equal><clip pos="1" side="sl" part="a_def"/><lit-tag v="ind"/></equal>
+                             <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+                  <let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/></concat></let></when>
+            <when><test><and><equal><clip pos="1" side="sl" part="a_def"/><lit-tag v="ind"/></equal>
+                             <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></and></test>
+                  <let><var n="determiner"/><concat><lit v="some"/><lit-tag v="det.qnt.sp"/></concat></let></when>
+            <when><test><equal><clip pos="1" side="sl" part="a_def"/><lit-tag v="def"/></equal></test>
+                  <let><var n="determiner"/><concat><lit v="the"/><lit-tag v="det.def.sp"/></concat></let></when>
+      </choose>
+    </def-macro>
     <def-macro n="set-subj1" npar="1">
       <choose>
         <when><test><equal><clip pos="1" side="sl" part="a_prn"/><lit-tag v="prn.pers"/></equal></test>
@@ -456,10 +469,6 @@
       </action>
     </rule>
 
-<!--    <rule comment="REGLA: nom-obl">
-    </rule> -->
-
-    
     <rule comment="REGLA: pron-pers">
       <pattern>
         <pattern-item n="pron-pers"/>
@@ -579,39 +588,6 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: ind-pl">
-      <pattern>
-        <pattern-item n="nom-ind-pl"/>
-      </pattern>
-      <action>
-        <choose>
-          <when>
-            <test><equal><clip pos="1" side="tl" part="a_def"/><lit-tag v="ind"/></equal></test>
-            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
-            <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
-          </when>
-        </choose>
-        <out>
-          <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-            <lu>
-              <lit v="some"/><lit-tag v="det.qnt.sp"/>
-            </lu>
-            <b/>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_nom"/>
-              <clip pos="1" side="tl" part="a_nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
 
     <rule comment="REGLA: nom">
       <pattern>
@@ -657,18 +633,16 @@
             <let><var n="prep"/><concat><lit v="to"/><lit-tag v="pr"/><b/></concat></let>
           </when>
         </choose>
+        <call-macro n="set-deter1">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
-          <chunk name="n" case="caseFirstWord">
+          <chunk name="p_d_n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
-            <lu>
-		<var n="prep"/>
-            </lu>
-            <lu>
-              <lit v="the"/><lit-tag v="det.def.sp"/>
-            </lu>
-		<b/>
+            <lu><var n="prep"/></lu><b/>
+            <lu><var n="determiner"/></lu><b/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
@@ -694,11 +668,15 @@
             <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
           </when>
         </choose>
+        <call-macro n="set-deter1">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
+            <lu><var n="determiner"/></lu><b/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
