@@ -291,6 +291,7 @@
      <e><p><l>pencî<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>musîbet<s n="n"/><s n="m"/></l><r>tragedy<s n="n"/></r></p></e>
      <e><p><l>fars<s n="n"/><s n="m"/></l><r>persian<s n="n"/></r></p></e>
      <e><p><l>kral<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
      <e><p><l>pîrek<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
@@ -11342,6 +11343,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>xemxwar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
      <e><p><l>neteweperest<s n="adj"/></l><r>nationalist<s n="adj"/></r></p></e>
      <e><p><l>reformxwaz<s n="adj"/></l><r>reformist<s n="adj"/></r></p></e>
      <e><p><l>taktîkî<s n="adj"/></l><r>tactical<s n="adj"/></r></p></e>
@@ -15040,6 +15042,7 @@
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
      <!-- SECTION: Adverbs -->
+     <e><p><l>walê<s n="adv"/></l><r>by<b/>God<s n="adv"/></r></p></e>
      <e><p><l>vir<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
      <e><p><l>hergav<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
      <e><p><l>nexwe<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
