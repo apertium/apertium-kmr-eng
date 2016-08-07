@@ -75,8 +75,11 @@
     <def-cat n="vaux">
 	    <cat-item tags="vaux.*"/>
     </def-cat>
+    <def-cat n="nom-ind-pl">
+	    <cat-item tags="n.*.pl.*.ind.*"/>
+    </def-cat>
     <def-cat n="nom-ind">
-	    <cat-item tags="n.*.ind.*"/>
+	    <cat-item tags="n.*.sg.*.ind.*"/>
     </def-cat>
     <def-cat n="pri">
 	    <cat-item tags="vblex.*.pri.*"/>
@@ -575,6 +578,39 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: ind-pl">
+      <pattern>
+        <pattern-item n="nom-ind-pl"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test><equal><clip pos="1" side="tl" part="a_def"/><lit-tag v="ind"/></equal></test>
+            <let><clip pos="1" side="tl" part="a_func"/><lit-tag v="subj"/></let>
+            <let><clip pos="1" side="tl" part="a_case"/><lit v=""/></let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <lit v="some"/><lit-tag v="det.qnt.sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: nom">
