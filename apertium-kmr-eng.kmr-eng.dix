@@ -291,6 +291,8 @@
      <e><p><l>pencî<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
 
      <!-- SECTION: Nouns -->
+     <e><p><l>nufus<s n="n"/><s n="f"/></l><r>population<s n="n"/></r></p></e>
+     <e><p><l>mikafat<s n="n"/><s n="f"/></l><r>reward<s n="n"/></r></p></e>
      <e><p><l>pêre<s n="n"/><s n="m"/></l><r>money<s n="n"/></r></p></e>
      <e><p><l>meymûn<s n="n"/><s n="m"/></l><r>monkey<s n="n"/></r></p></e>
      <e><p><l>tamîrat<s n="n"/><s n="m"/></l><r>repair<s n="n"/></r></p></e>
@@ -11352,6 +11354,7 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
+     <e><p><l>bihemil<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
      <e><p><l>xemxwar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
      <e><p><l>ciwan<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
      <e><p><l>neteweperest<s n="adj"/></l><r>nationalist<s n="adj"/></r></p></e>
@@ -15189,6 +15192,8 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>heşifandin<s n="vblex"/><s n="tv"/></l><r>scatter<s n="vblex"/></r></p></e>
+     <e><p><l>heşifandin<s n="vblex"/><s n="tv"/></l><r>spread<s n="vblex"/></r></p></e>
      <e><p><l>cîbicî<b/>kirin<s n="vblex"/><s n="tv"/></l><r>implement<s n="vblex"/></r></p></e>
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>contemplate<s n="vblex"/></r></p></e>
      <e><p><l>şibîn<s n="vblex"/><s n="tv"/></l><r>resemble<s n="vblex"/></r></p></e>
