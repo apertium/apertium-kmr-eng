@@ -6,6 +6,7 @@
     <sdef n="narr"      c="Narrative"/>
     <sdef n="abbr"     c="Abbreviation"/>
     <sdef n="n"     c="Noun"/>
+    <sdef n="ij"     c="Interjection"/>
     <sdef n="preadv"     c="Preadverb"/>
     <sdef n="prn"  c=""/>
     <sdef n="GD"  c=""/>
@@ -241,6 +242,12 @@
       <e><p><l>her<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>herdu<s n="det"/><s n="ind"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>çend<s n="det"/><s n="qnt"/><s n="mf"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
+
+
+     <!-- SECTION: Interjections -->
+      <e><p><l>merheba<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
+      <e r="LR"><p><l>silav<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
+      <e r="LR"><p><l>rojbaş<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
 
      <!-- SECTION: Numerals -->
 
