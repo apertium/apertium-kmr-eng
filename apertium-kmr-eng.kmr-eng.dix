@@ -10348,6 +10348,7 @@
       <e><p><l>dîwan<s n="n"/><s n="f"/></l><r>anthology<s n="n"/></r></p></e> <!-- collected works-->
 
      <!-- SECTION: Proper nouns-->
+     <e><p><l>Hêlên<s n="np"/><s n="ant"/><s n="f"/></l><r>Helen<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Nazê<s n="np"/><s n="ant"/><s n="f"/></l><r>Naze<s n="np"/><s n="ant"/></r></p></e>
      <e><p><l>Sarî<s n="np"/><s n="top"/><s n="f"/></l><r>Surrey<s n="np"/><s n="top"/></r></p></e>
      <e><p><l>Stokmoran<s n="np"/><s n="top"/><s n="f"/></l><r>Stoke<b/>Moran<s n="np"/><s n="top"/></r></p></e>
@@ -15196,7 +15197,9 @@
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
+     <e><p><l>spas<b/>kirin<s n="vblex"/><s n="tv"/></l><r>thank<s n="vblex"/></r></p></e>
      <e><p><l>heşifandin<s n="vblex"/><s n="tv"/></l><r>scatter<s n="vblex"/></r></p></e>
+     <e><p><l>reciftin<s n="vblex"/><s n="iv"/></l><r>shudder<s n="vblex"/></r></p></e>
      <e><p><l>heşifandin<s n="vblex"/><s n="tv"/></l><r>spread<s n="vblex"/></r></p></e>
      <e><p><l>cîbicî<b/>kirin<s n="vblex"/><s n="tv"/></l><r>implement<s n="vblex"/></r></p></e>
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>contemplate<s n="vblex"/></r></p></e>
@@ -15205,6 +15208,7 @@
      <e><p><l>nirxandin<s n="vblex"/><s n="tv"/></l><r>evaluate<s n="vblex"/></r></p></e>
      <e><p><l>çikandin<s n="vblex"/><s n="tv"/></l><r>cut<b/>off<s n="vblex"/></r></p></e>
      <e><p><l>çikandin<s n="vblex"/><s n="tv"/></l><r>dry<b/>up<s n="vblex"/></r></p></e>
+     <e><p><l>bihîstin<s n="vblex"/><s n="tv"/></l><r>hear<s n="vblex"/></r></p></e>
      <e><p><l>zewicîn<s n="vblex"/><s n="iv"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
      <e><p><l>mirin<s n="vblex"/><s n="iv"/></l><r>die<s n="vblex"/></r></p></e>
      <e><p><l>guherîn<s n="vblex"/><s n="iv"/></l><r>change<s n="vblex"/></r></p></e>
