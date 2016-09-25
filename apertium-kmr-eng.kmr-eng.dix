@@ -2067,8 +2067,8 @@
      <e><p><l>firsend<s n="n"/></l><r>opportunity<s n="n"/></r></p></e>
      <e><p><l>firsend<s n="n"/></l><r>chance<s n="n"/></r></p></e>
      <e><p><l>diyar<s n="n"/></l><r>up<s n="n"/></r></p></e>
-<!--  <e><p><l>diyar<s n="n"/></l><r>homeland<s n="n"/></r></p></e>
-     <e><p><l>diyar<s n="n"/></l><r>country<s n="n"/></r></p></e> -->
+     <e><p><l>diyar<s n="n"/></l><r>homeland<s n="n"/></r></p></e>
+     <e><p><l>diyar<s n="n"/></l><r>country<s n="n"/></r></p></e>
      <e><p><l>aştî<s n="n"/></l><r>peace<s n="n"/></r></p></e>
      <e><p><l>alîkar<s n="n"/></l><r>helper<s n="n"/></r></p></e>
      <e><p><l>referandom<s n="n"/></l><r>referandum<s n="n"/></r></p></e>
@@ -11366,7 +11366,6 @@
       <e><p><l>Tîrêj<s n="np"/><s n="al"/><s n="f"/></l><r>Tîrêj<s n="np"/><s n="al"/></r></p></e>
 
      <!-- SECTION: Adjectives -->
-     <e><p><l>diyar<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
      <e><p><l>bihemil<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
      <e><p><l>xemxwar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
      <e><p><l>ciwan<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
