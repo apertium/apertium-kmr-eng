@@ -82,7 +82,11 @@
 	    <cat-item tags="n.*.sg.*.ind.*"/>
     </def-cat>
     <def-cat n="pri">
-	    <cat-item tags="vblex.*.pri.*"/>
+	    <cat-item tags="vblex.pri.*"/>
+	    <cat-item tags="vbser.pri.*"/>
+	    <cat-item tags="vbhaver.pri.*"/>
+	    <cat-item tags="vaux.pri.*"/>
+	    <cat-item tags="vbcop.pri.*"/>
     </def-cat>
     <def-cat n="narr">
 	    <cat-item tags="vblex.*.narr.*"/>
@@ -304,22 +308,44 @@
         <pattern-item n="pri"/>
       </pattern>
       <action>
-	<choose>
-	<when>
-<test><not><and><equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal><equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal></and></not></test>
-	<let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let><let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
-	</when>
-	</choose>
-<!--
+        <choose>
+         <when>
+           <test>
+             <and>
+              <equal>
+                 <clip pos="1" side="sl" part="a_verb"/><lit-tag v="vbcop"/>
+              </equal>
+              <equal>
+                 <clip pos="1" side="sl" part="a_prs"/><lit-tag v="p1"/>
+              </equal>
+            </and>
+           </test>
+           <let><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p1"/></let>
+           <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></let>
+      	</when>
+        <otherwise>
+       <choose>
+       <when>
+       <test>
+        <not>
+        <and>
+        <equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal>
+        <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal>
+       </and>
+       </not>
+       </test>
         <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>-->
+	</when>
+	</choose>
+       </otherwise>
+	</choose>
+        <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
-            <b/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>

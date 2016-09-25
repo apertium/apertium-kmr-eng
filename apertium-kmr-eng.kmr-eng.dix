@@ -10156,8 +10156,8 @@
       <e><p><l>zar<s n="n"/><s n="m"/></l><r>language<s n="n"/></r></p></e>
       <e><p><l>zarokatî<s n="n"/><s n="f"/></l><r>childhood<s n="n"/></r></p></e>
       <e><p><l>zarokatî<s n="n"/><s n="f"/></l><r>youth<s n="n"/></r></p></e>
-      <e><p><l>zaroktî, zarotî<s n="n"/><s n="f"/></l><r>childhood<s n="n"/></r></p></e>
-      <e><p><l>zaroktî, zarotî<s n="n"/><s n="f"/></l><r>youth<s n="n"/></r></p></e>
+<!--      <e><p><l>zaroktî, zarotî<s n="n"/><s n="f"/></l><r>childhood<s n="n"/></r></p></e>
+      <e><p><l>zaroktî, zarotî<s n="n"/><s n="f"/></l><r>youth<s n="n"/></r></p></e>-->
       <e><p><l>zarrokistan<s n="n"/><s n="f"/></l><r>*creche<s n="n"/></r></p></e>
       <e><p><l>zarrokistan<s n="n"/><s n="f"/></l><r>*créche<s n="n"/></r></p></e>
       <e><p><l>zarrokistan<s n="n"/><s n="f"/></l><r>kindergarten<s n="n"/></r></p></e>
@@ -15524,8 +15524,8 @@
       <e><p><l>bûn<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
       <e><p><l>bûn<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
 
-      <e><p><l>hebûn<s n="vbhaver"/></l><r>there<b/>be<s n="vblex"/></r></p></e>
-      <e><p><l>hebûn<s n="vbhaver"/></l><r>exist<s n="vblex"/></r></p></e>
+      <e r="RL"><p><l>hebûn<s n="vbhaver"/></l><r>there<b/>be<s n="vblex"/></r></p></e>
+      <e r="RL"><p><l>hebûn<s n="vbhaver"/></l><r>exist<s n="vblex"/></r></p></e>
       <e><p><l>hebûn<s n="vbhaver"/></l><r>have<s n="vblex"/></r></p></e>
 
       <e><p><l>kirin<s n="vblex"/><s n="tv"/></l><r>do<s n="vblex"/></r></p></e>
