@@ -338,9 +338,10 @@
         <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
 	</when>
 	</choose>
-       </otherwise>
-	</choose>
+<!--    <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let> 
         <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>
+-->
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -353,6 +354,27 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: pri-p3">
+      <pattern>
+        <pattern-item n="pri"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: vblex-neg-past">
