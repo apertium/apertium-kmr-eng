@@ -135,6 +135,9 @@
       <attr-item tags="np.top"/>
       <attr-item tags="np.cog"/>
     </def-attr>
+    <def-attr n="a_cop">
+      <attr-item tags="@cop"/>
+    </def-attr>
     <def-attr n="a_narr">
       <attr-item tags="narr"/>
     </def-attr>
@@ -372,6 +375,33 @@
             <b/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/><lit-tag v="vblex"/><lit-tag v="inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: adj-cop">
+      <pattern>
+        <pattern-item n="adjec"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+<!--    <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let> -->
+        <let><clip pos="2" side="tl" part="a_pri"/><lit-tag v="pres"/></let> 
+        <let><clip pos="1" side="tl" part="a_grau"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_cop"/><lit v=""/></let> 
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
