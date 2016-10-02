@@ -237,11 +237,6 @@
       <e><p><l>çend<s n="det"/><s n="qnt"/><s n="mf"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
 
 
-     <!-- SECTION: Interjections -->
-      <e><p><l>merheba<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
-      <e r="LR"><p><l>silav<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
-      <e r="LR"><p><l>rojbaş<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
-
      <!-- SECTION: Numerals -->
 
      <e><p><l>yek<s n="num"/></l><r>one<s n="num"/></r></p></e>
@@ -15263,7 +15258,7 @@
      <e><p><l>karkirin<s n="vblex"/><s n="tv"/></l><r>work<s n="vblex"/></r></p></e>
      <e><p><l>koçkirin<s n="vblex"/><s n="tv"/></l><r>emigrate<s n="vblex"/></r></p></e>
      <e><p><l>koçkirin<s n="vblex"/><s n="tv"/></l><r>migrate<s n="vblex"/></r></p></e>
-     <e><p><l>organîzekirin<s n="vblex"/><s n="tv"/></l><r>organize<s n="vblex"/></r></p></e>
+     <e><p><l>organîzekirin<s n="vblex"/><s n="tv"/></l><r>organise<s n="vblex"/></r></p></e>
      <e><p><l>pêşandan<s n="vblex"/><s n="tv"/></l><r>display<s n="vblex"/></r></p></e>
      <e><p><l>refandin<s n="vblex"/><s n="tv"/></l><r>patch<s n="vblex"/></r></p></e>
      <e><p><l>şayesandin<s n="vblex"/><s n="tv"/></l><r>describe<s n="vblex"/></r></p></e>
@@ -15272,7 +15267,7 @@
      <e><p><l>têxistin<s n="vblex"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
      <e><p><l>zeliqandin<s n="vblex"/><s n="tv"/></l><r>paste<s n="vblex"/></r></p></e>
      <e><p><l>zewicandin<s n="vblex"/><s n="tv"/></l><r>marry<s n="vblex"/></r></p></e>
-     <e><p><l>birêxistinkirin<s n="vblex"/><s n="tv"/></l><r>organize<s n="vblex"/></r></p></e>
+     <e><p><l>birêxistinkirin<s n="vblex"/><s n="tv"/></l><r>organise<s n="vblex"/></r></p></e>
      <e><p><l>daleqandin<s n="vblex"/><s n="tv"/></l><r>hang<s n="vblex"/></r></p></e>
      <e><p><l>fêm<b/>kirin<s n="vblex"/><s n="tv"/></l><r>understand<s n="vblex"/></r></p></e>
      <e><p><l>reşandin<s n="vblex"/><s n="tv"/></l><r>spread<s n="vblex"/></r></p></e>
@@ -15383,18 +15378,18 @@
      <e><p><l>komkirin<s n="vblex"/><s n="tv"/></l><r>gather<s n="vblex"/></r></p></e>
      <e><p><l>rûxandin<s n="vblex"/><s n="tv"/></l><r>destroy<s n="vblex"/></r></p></e>
      <e><p><l>rûxandin<s n="vblex"/><s n="tv"/></l><r>damage<s n="vblex"/></r></p></e>
-     <e><p><l>birêxistin<s n="vblex"/><s n="tv"/></l><r>organize<s n="vblex"/></r></p></e>
+     <e><p><l>birêxistin<s n="vblex"/><s n="tv"/></l><r>organise<s n="vblex"/></r></p></e>
      <e><p><l>parvekirin<s n="vblex"/><s n="tv"/></l><r>segment<s n="vblex"/></r></p></e>
      <e><p><l>parvekirin<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
      <e><p><l>parvekirin<s n="vblex"/><s n="tv"/></l><r>divide<s n="vblex"/></r></p></e>
      <e><p><l>ceribandin<s n="vblex"/><s n="tv"/></l><r>experience<s n="vblex"/></r></p></e>
      <e><p><l>ceribandin<s n="vblex"/><s n="tv"/></l><r>test<s n="vblex"/></r></p></e>
      <e><p><l>ceribandin<s n="vblex"/><s n="tv"/></l><r>try<s n="vblex"/></r></p></e>
-     <e><p><l>cezakirin<s n="vblex"/><s n="tv"/></l><r>penalize<s n="vblex"/></r></p></e>
+     <e><p><l>cezakirin<s n="vblex"/><s n="tv"/></l><r>penalise<s n="vblex"/></r></p></e>
      <e><p><l>cezakirin<s n="vblex"/><s n="tv"/></l><r>punish<s n="vblex"/></r></p></e>
      <e><p><l>fahmkirin<s n="vblex"/><s n="tv"/></l><r>understand<s n="vblex"/></r></p></e>
      <e><p><l>bidestxistin<s n="vblex"/><s n="tv"/></l><r>capture<s n="vblex"/></r></p></e>
-     <e><p><l>rexnekirin<s n="vblex"/><s n="tv"/></l><r>criticize<s n="vblex"/></r></p></e>
+     <e><p><l>rexnekirin<s n="vblex"/><s n="tv"/></l><r>criticise<s n="vblex"/></r></p></e>
      <e><p><l>lêkirin<s n="vblex"/><s n="tv"/></l><r>dress<s n="vblex"/></r></p></e>
      <e><p><l>lêkirin<s n="vblex"/><s n="tv"/></l><r>repair<s n="vblex"/></r></p></e>
      <e><p><l>binçavkirin<s n="vblex"/><s n="tv"/></l><r>arrest<s n="vblex"/></r></p></e>
@@ -15475,13 +15470,13 @@
      <e><p><l>meşandin<s n="vblex"/><s n="tv"/></l><r>perform<s n="vblex"/></r></p></e>
      <e><p><l>meşandin<s n="vblex"/><s n="tv"/></l><r>carry<b/>out<s n="vblex"/></r></p></e>
      <e><p><l>destpêkirin<s n="vblex"/><s n="tv"/></l><r>begin<s n="vblex"/></r></p></e>
-     <e><p><l>lidarxistin<s n="vblex"/><s n="tv"/></l><r>organize<s n="vblex"/></r></p></e>
+     <e><p><l>lidarxistin<s n="vblex"/><s n="tv"/></l><r>organise<s n="vblex"/></r></p></e>
      <e><p><l>pêşkêş<b/>kirin<s n="vblex"/><s n="tv"/></l><r>present<s n="vblex"/></r></p></e>
      <e><p><l>pejirandin<s n="vblex"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>
      <e><p><l>kişandin<s n="vblex"/><s n="tv"/></l><r>draw<s n="vblex"/></r></p></e>
      <e><p><l>kişandin<s n="vblex"/><s n="tv"/></l><r>pull<s n="vblex"/></r></p></e>
      <e><p><l>xebitandin<s n="vblex"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
-     <e><p><l>xebitandin<s n="vblex"/><s n="tv"/></l><r>utilize<s n="vblex"/></r></p></e>
+     <e><p><l>xebitandin<s n="vblex"/><s n="tv"/></l><r>utilise<s n="vblex"/></r></p></e>
      <e><p><l>çapkirin<s n="vblex"/><s n="tv"/></l><r>print<s n="vblex"/></r></p></e>
      <e><p><l>firotin<s n="vblex"/><s n="tv"/></l><r>sell<s n="vblex"/></r></p></e>
      <e><p><l>hejmartin<s n="vblex"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
@@ -15491,7 +15486,7 @@
      <e><p><l>damezrandin<s n="vblex"/><s n="tv"/></l><r>establish<s n="vblex"/></r></p></e>
      <e><p><l>damezrandin<s n="vblex"/><s n="tv"/></l><r>create<s n="vblex"/></r></p></e>
      <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>oversee<s n="vblex"/></r></p></e>
-     <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>finalize<s n="vblex"/></r></p></e>
+     <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>finalise<s n="vblex"/></r></p></e>
      <e><p><l>qedandin<s n="vblex"/><s n="tv"/></l><r>finish<s n="vblex"/></r></p></e>
      <e><p><l>derxistin<s n="vblex"/><s n="tv"/></l><r>bring<b/>out<s n="vblex"/></r></p></e>
      <e><p><l>derxistin<s n="vblex"/><s n="tv"/></l><r>take<b/>out<s n="vblex"/></r></p></e>
@@ -15508,9 +15503,10 @@
      <e><p><l>anîn<s n="vblex"/><s n="tv"/></l><r>bring<s n="vblex"/></r></p></e>
      <e><p><l>bikaranîn<s n="vblex"/><s n="tv"/></l><r>use<s n="vblex"/></r></p></e>
      <e><p><l>anîn<s n="vblex"/><s n="tv"/></l><r>bring<s n="vblex"/></r></p></e>
-     <e><p><l>karîn<s n="vblex"/><s n="tv"/></l><r>be<b/>able<b/>to<s n="vbmod"/></r></p></e>
-     <e><p><l>derketin<s n="vblex"/><s n="iv"/></l><r>go<b/>out<s n="vblex"/></r></p></e>
-     <e><p><l>naskirin<s n="vblex"/><s n="tv"/></l><r>recognize<s n="vblex"/></r></p></e>
+     <e><p><l>karîn<s n="vblex"/><s n="tv"/></l><r>be<g><b/>able<b/>to</g><s n="vbmod"/></r></p></e>
+     <e><p><l>karîn<s n="vblex"/><s n="tv"/></l><r>can<s n="vbmod"/></r></p></e>
+     <e><p><l>derketin<s n="vblex"/><s n="iv"/></l><r>go<g><b/>out</g><s n="vblex"/></r></p></e>
+     <e><p><l>naskirin<s n="vblex"/><s n="tv"/></l><r>recognise<s n="vblex"/></r></p></e>
      <e><p><l>hêlan<s n="vblex"/><s n="tv"/></l><r>leave<s n="vblex"/></r></p></e>
      <e><p><l>hêlan<s n="vblex"/><s n="tv"/></l><r>abandon<s n="vblex"/></r></p></e>
       <e><p><l>kuştin<s n="vblex"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
@@ -15749,6 +15745,18 @@
      <e><p><l>xeniqîn<s n="vblex"/><s n="TD"/></l><r>drown<s n="vblex"/></r></p></e>
      <e><p><l>xirxirandin<s n="vblex"/><s n="TD"/></l><r>tug<s n="vblex"/></r></p></e>
      <e><p><l>zewicîn<s n="vblex"/><s n="TD"/></l><r>marry<s n="vblex"/></r></p></e>
+
+     <!-- SECTION: Interjections -->
+      <e><p><l>merheba<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
+      <e><p><l>bi<b/>xatirê<b/>te<s n="ij"/></l><r>goodbye<s n="ij"/></r></p></e>
+      <e><p><l>bibaxişîne<s n="ij"/></l><r>excuse<b/>me<s n="ij"/></r></p></e>
+      <e><p><l>bibore<s n="ij"/></l><r>excuse<b/>me<s n="ij"/></r></p></e>
+      <e><p><l>dembaş<s n="ij"/></l><r>good<b/>morning<s n="ij"/></r></p></e>
+      <e><p><l>êvarbaş<s n="ij"/></l><r>good<b/>evening<s n="ij"/></r></p></e>
+      <e><p><l>oxir<b/>be<s n="ij"/></l><r>goodbye<s n="ij"/></r></p></e>
+      <e r="LR"><p><l>silav<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
+      <e r="LR"><p><l>rojbaş<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
+
 
      <!-- SECTION: Abbreviations -->
       <e><p><l>z.<s n="abbr"/></l><r>born</r></p></e>

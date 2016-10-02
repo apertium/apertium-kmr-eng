@@ -71,6 +71,9 @@
     <def-cat n="yê">
       <cat-item tags="con.*"/>
     </def-cat>
+    <def-cat n="karîn-neg">
+      <cat-item tags="vblex.*.neg.*"/>
+    </def-cat>
     <def-cat n="cop">
       <cat-item tags="vbcop.*"/>
     </def-cat>
@@ -93,6 +96,11 @@
     <def-cat n="cop-pri">
 	    <cat-item tags="vbser.pri.*"/>
 	    <cat-item tags="vbcop.pri.*"/>
+    </def-cat>
+    <def-cat n="prs">
+	    <cat-item tags="vblex.*.prs.*"/>
+	    <cat-item tags="vbhaver.prs.*"/>
+	    <cat-item tags="vaux.prs.*"/>
     </def-cat>
     <def-cat n="pri">
 	    <cat-item tags="vblex.*.pri.*"/>
@@ -374,6 +382,44 @@
 
   <section-rules>
 
+    <rule comment="REGLA: karîn-neg prs">
+      <pattern>
+        <pattern-item n="karîn-neg"/>
+        <pattern-item n="prs"/>
+      </pattern>
+      <action>
+        <call-macro n="f_conj1">
+          <with-param pos="1"/>
+        </call-macro>
+        <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let>
+        <out>
+          <chunk name="mod_v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_tns"/></tag>
+              <tag><clip pos="1" side="sl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="sl" part="a_nbr"/></tag>
+            </tags>
+            <lu><lit v="can"/><lit-tag v="vbmod"/>
+                <clip pos="1" side="tl" part="a_tns"/>
+                <clip pos="1" side="tl" part="a_prs"/>
+                <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu><lit v="not"/><lit-tag v="adv"/></lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/><lit-tag v="inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: vblex-neg">
       <pattern>
         <pattern-item n="vblex-neg"/>
@@ -634,6 +680,7 @@
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="sl" part="a_syn"/></tag>
               <tag><clip pos="1" side="sl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
               <tag><clip pos="1" side="sl" part="a_nbr"/></tag>
             </tags>
             <lu>
