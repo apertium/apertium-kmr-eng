@@ -29,6 +29,28 @@
 
 
   <section-def-attrs>
+    <def-attr n="a_syn">
+      <attr-item tags="@dobj"/>
+      <attr-item tags="@nmod:dat"/>
+      <attr-item tags="@nmod:poss"/>
+      <attr-item tags="@nsubj"/>
+      <attr-item tags="@amod"/>
+      <attr-item tags="@punct"/>
+      <attr-item tags="@det"/>
+      <attr-item tags="@cc"/>
+      <attr-item tags="@cop"/>
+      <attr-item tags="@amod"/>
+    </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="COP"/>
+    </def-attr>
+    <def-attr n="a_prs">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
+
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="sp"/>
@@ -48,7 +70,21 @@
           <test><equal><clip pos="2" part="a_nbr"/><lit-tag v="ND"/></equal></test>
           <let><clip pos="2" part="a_nbr"/><clip pos="1" part="a_nbr"/></let>
         </when>
+        <when>
+          <!-- Min[2] sar e[1]. | To.me[2] cold is[1] | I[2] am[1] cold -->
+          <test>
+            <and>
+              <not><and><equal><clip pos="1" part="a_nbr"/><clip pos="2" part="a_nbr"/></equal>
+                         <equal><clip pos="1" part="a_prs"/><clip pos="2" part="a_prs"/></equal></and></not>
+              <equal><clip pos="2" part="a_syn"/><lit-tag v="@nmod:dat"/></equal>
+              <equal><clip pos="1" part="a_verb"/><lit-tag v="COP"/></equal>
+            </and>
+          </test>
+          <let><clip pos="1" part="a_nbr"/><clip pos="2" part="a_nbr"/></let>
+          <let><clip pos="1" part="a_prs"/><clip pos="2" part="a_prs"/></let>
+        </when>
       </choose>
+
     </def-macro>
   </section-def-macros>
 
@@ -67,6 +103,40 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: PERS SA COP">
+      <pattern>
+        <pattern-item n="PERS"/>
+        <pattern-item n="SA"/>
+        <pattern-item n="COP"/>
+      </pattern>
+      <action>
+        <call-macro n="f_agr2">
+          <with-param pos="3"/>
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: SN SA SV">
       <pattern>

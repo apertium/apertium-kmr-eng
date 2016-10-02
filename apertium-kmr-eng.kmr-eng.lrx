@@ -121,6 +121,10 @@
   </rule>
 
   <rule weight="1.1">
+    <match lemma="sar" tags="adj.*"><select lemma="cold" tags="adj.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
     <match lemma="goşt" tags="n.*"><select lemma="meat" tags="n.*"/></match>
   </rule>
 
