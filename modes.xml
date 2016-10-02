@@ -38,7 +38,6 @@
       <program name="lt-proc $1">
         <file name="kmr-eng.autogen.bin"/>
       </program>
-
       <program name="lt-proc -p">
         <file name="kmr-eng.autopgen.bin"/>
       </program>

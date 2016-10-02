@@ -117,10 +117,25 @@
   </rule>
 
   <rule weight="1.1">
+    <match lemma="derman" tags="n.*"><select lemma="medication" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
     <match lemma="goşt" tags="n.*"><select lemma="meat" tags="n.*"/></match>
   </rule>
+
   <rule weight="1.1">
     <match lemma="mêr" tags="n.*"><select lemma="husband" tags="n.*"/></match>
+    <match tags="prn.pers.*"/>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="jin" tags="n.*"><select lemma="wife" tags="n.*"/></match>
+    <match tags="prn.pers.*"/>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="keç" tags="n.*"><select lemma="daughter" tags="n.*"/></match>
     <match tags="prn.pers.*"/>
   </rule>
 </rules>

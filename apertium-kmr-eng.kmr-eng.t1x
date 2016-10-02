@@ -894,8 +894,10 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
-              <lit v="a"/><lit-tag v="det.ind.sg"/>
+              <get-case-from pos="1"><lit v="a"/></get-case-from>
+                                     <lit-tag v="det.ind.sg"/>
             </lu>
+            <b/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
