@@ -79,6 +79,43 @@
     </pipeline>
   </mode>
 
+  <mode name="kmr-eng-nocg" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kmr-eng.automorf.bin"/>
+      </program>
+
+      <program name="apertium-tagger -g $2">
+        <file name="kmr-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kmr-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="kmr-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kmr-eng.kmr-eng.t1x"/>
+        <file name="kmr-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-kmr-eng.kmr-eng.t2x"/>
+        <file name="kmr-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-kmr-eng.kmr-eng.t3x"/>
+        <file name="kmr-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="kmr-eng.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="kmr-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="kmr-eng-morph" install="no">
     <pipeline>
       <program name="lt-proc -w">
@@ -304,6 +341,41 @@
       <program name="cg-proc -w">
         <file name="eng-kmr.rlx.bin"/>
       </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-kmr.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-kmr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="eng-kmr.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kmr-eng.eng-kmr.t1x"/>
+        <file name="eng-kmr.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-kmr-eng.eng-kmr.t2x"/>
+        <file name="eng-kmr.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-kmr-eng.eng-kmr.t3x"/>
+        <file name="eng-kmr.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="eng-kmr.autogen.bin"/>
+      </program>
+
+    </pipeline>
+  </mode>
+
+  <mode name="eng-kmr-nocg" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-kmr.automorf.bin"/>
+      </program>
+
       <program name="apertium-tagger -g $2">
         <file name="eng-kmr.prob"/>
       </program>

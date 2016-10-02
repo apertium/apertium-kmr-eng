@@ -132,7 +132,6 @@
       <e><p><l>bêyî<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
       <e><p><l>bêy<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
       <e><p><l>bo<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
-      <e><p><l>bi<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>bi<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
       <e><p><l>bi<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
       <e><p><l>bi<s n="pr"/></l><r>in<s n="pr"/></r></p></e> <!-- bi kurdî -->
@@ -158,6 +157,7 @@
       <e><p><l>digel<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>heta<s n="pr"/></l><r>as<b/>far<b/>as<s n="pr"/></r></p></e>
       <e><p><l>heta<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
+      <e><p><l>heya<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
       <e><p><l>ji<b/>bilî<s n="pr"/></l><r>aside<b/>from<s n="pr"/></r></p></e>
       <e><p><l>ji<b/>bilî<s n="pr"/></l><r>other<b/>than<s n="pr"/></r></p></e>
       <e><p><l>ji<b/>bo<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
@@ -907,8 +907,8 @@
      <e><p><l>benî<s n="n"/><s n="m"/></l><r>captivity<s n="n"/></r></p></e>
      <e><p><l>karsaz<s n="n"/><s n="m"/></l><r>businessman<s n="n"/></r></p></e>
      <e><p><l>kereng<s n="n"/><s n="f"/></l><r>thistle<s n="n"/></r></p></e>
-     <e><p><l>kinc<s n="n"/><s n="f"/></l><r>laundry<s n="n"/></r></p></e>
-     <e><p><l>kinc<s n="n"/><s n="f"/></l><r>outfit<s n="n"/></r></p></e>
+     <e r="RL"><p><l>kinc<s n="n"/><s n="f"/></l><r>laundry<s n="n"/></r></p></e>
+     <e r="RL"><p><l>kinc<s n="n"/><s n="f"/></l><r>outfit<s n="n"/></r></p></e>
      <e><p><l>kinc<s n="n"/><s n="f"/></l><r>clothing<s n="n"/></r></p></e>
      <e><p><l>raperîn<s n="n"/><s n="f"/></l><r>revolt<s n="n"/></r></p></e>
      <e><p><l>sîxurî<s n="n"/><s n="f"/></l><r>intelligence<s n="n"/></r></p></e>
@@ -2483,10 +2483,9 @@
       <e><p><l>balîf<s n="n"/><s n="m"/></l><r>pillow<s n="n"/></r></p></e>
       <e><p><l>balînî<s n="n"/><s n="f"/></l><r>*Balinesian<s n="n"/></r></p></e>
       <e><p><l>balkon<s n="n"/><s n="f"/></l><r>balcony<s n="n"/></r></p></e>
-      <e><p><l>bal<s n="n"/><s n="f"/></l><r>attention<s n="n"/></r></p></e>
       <e><p><l>bal<s n="n"/><s n="f"/></l><r>mind<s n="n"/></r></p></e>
       <e><p><l>bal<s n="n"/><s n="f"/></l><r>thought<s n="n"/></r></p></e>
-      <e><p><l>bal<s n="n"/><s n="f"/></l><r>wing<s n="n"/></r></p></e>
+      <e><p><l>bal<s n="n"/><s n="f"/></l><r>attention<s n="n"/></r></p></e>
       <e><p><l>balolk<s n="n"/><s n="f"/></l><r>*burrito<s n="n"/></r></p></e>
       <e><p><l>balolk<s n="n"/><s n="f"/></l><r>wrap<s n="n"/></r></p></e>
       <e><p><l>balon<s n="n"/><s n="f"/></l><r>*ballon<s n="n"/></r></p></e>
@@ -6003,8 +6002,8 @@
       <e><p><l>komirr<s n="n"/><s n="f"/></l><r>coal<s n="n"/></r></p></e>
       <e><p><l>komîte<s n="n"/><s n="f"/></l><r>committee<s n="n"/></r></p></e>
       <e><p><l>komkujî<s n="n"/><s n="f"/></l><r>massacre<s n="n"/></r></p></e>
-      <e><p><l>kom<s n="n"/><s n="f"/></l><r>group<s n="n"/></r></p></e>
       <e><p><l>kom<s n="n"/><s n="f"/></l><r>pile<s n="n"/></r></p></e>
+      <e><p><l>kom<s n="n"/><s n="f"/></l><r>group<s n="n"/></r></p></e>
       <e><p><l>kompanya<s n="n"/><s n="f"/></l><r>company<s n="n"/></r></p></e>
       <e><p><l>kompanya<s n="n"/><s n="f"/></l><r>concern<s n="n"/></r></p></e>
       <e><p><l>kompanya<s n="n"/><s n="f"/></l><r>corporation<s n="n"/></r></p></e>
@@ -7232,7 +7231,7 @@
       <e><p><l>otoban<s n="n"/><s n="f"/></l><r>*expressway<s n="n"/></r></p></e>
       <e><p><l>otoban<s n="n"/><s n="f"/></l><r>*freeway<s n="n"/></r></p></e>
       <e><p><l>otoban<s n="n"/><s n="f"/></l><r>motorway<s n="n"/></r></p></e>
-      <e><p><l>otobûs<s n="n"/><s n="f"/></l><r>*buss<s n="n"/></r></p></e>
+      <e><p><l>otobûs<s n="n"/><s n="f"/></l><r>bus<s n="n"/></r></p></e>
       <e><p><l>otomobîl<s n="n"/><s n="f"/></l><r>car<s n="n"/></r></p></e>
       <e><p><l>otomobîl<s n="n"/><s n="f"/></l><r>transport<s n="n"/></r></p></e>
       <e><p><l>otomobîl<s n="n"/><s n="f"/></l><r>vehicle<s n="n"/></r></p></e>
@@ -8996,7 +8995,7 @@
       <e><p><l>sivikî<s n="n"/><s n="f"/></l><r>*lightness<s n="n"/></r></p></e>
       <e><p><l>sivîlîzasyon<s n="n"/><s n="f"/></l><r>civilisation<s n="n"/></r></p></e>
       <e><p><l>sivîlîzasyon<s n="n"/><s n="f"/></l><r>*civilization<s n="n"/></r></p></e>
-      <e><p><l>şîv<s n="n"/><s n="f"/></l><r>sunset<s n="n"/></r></p></e>
+      <e><p><l>şîv<s n="n"/><s n="f"/></l><r>dinner<s n="n"/></r></p></e>
       <e><p><l>sivnik<s n="n"/><s n="f"/></l><r>*broom<s n="n"/></r></p></e>
       <e><p><l>siwal<s n="n"/><s n="f"/></l><r>inquiry<s n="n"/></r></p></e>
       <e><p><l>siwal<s n="n"/><s n="f"/></l><r>query<s n="n"/></r></p></e>
@@ -15216,7 +15215,7 @@
      <e><p><l>sekinîn<s n="vblex"/><s n="iv"/></l><r>wait<s n="vblex"/></r></p></e>
      <e><p><l>herikîn<s n="vblex"/><s n="iv"/></l><r>flow<s n="vblex"/></r></p></e>
      <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>arrive<s n="vblex"/></r></p></e>
-     <e><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>ripen<s n="vblex"/></r></p></e>
+     <e r="RL"><p><l>gihîştin<s n="vblex"/><s n="iv"/></l><r>ripen<s n="vblex"/></r></p></e>
      <e><p><l>teqezbûn<s n="vblex"/><s n="iv"/></l><r>be<b/>verified<s n="vblex"/></r></p></e>
      <e><p><l>teqez<b/>kirin<s n="vblex"/><s n="tv"/></l><r>verify<s n="vblex"/></r></p></e>
      <e><p><l>hewldan<s n="vblex"/><s n="tv"/></l><r>try<s n="vblex"/></r></p></e>
@@ -15520,9 +15519,9 @@
 
       <e r="RL"><p><l>hebûn<s n="vbhaver"/></l><r>there<b/>be<s n="vblex"/></r></p></e>
       <e r="RL"><p><l>hebûn<s n="vbhaver"/></l><r>exist<s n="vblex"/></r></p></e>
-      <e><p><l>hebûn<s n="vbhaver"/></l><r>have<s n="vblex"/></r></p></e>
+      <e><p><l>hebûn<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
 
-      <e><p><l>kirin<s n="vblex"/><s n="tv"/></l><r>do<s n="vblex"/></r></p></e>
+      <e><p><l>kirin<s n="vblex"/><s n="tv"/></l><r>do<s n="vaux"/></r></p></e>
       <e><p><l>kirin<s n="vblex"/><s n="tv"/></l><r>make<s n="vblex"/></r></p></e>
       <e><p><l>dîtin<s n="vblex"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
 
