@@ -119,5 +119,9 @@
   <rule weight="1.1">
     <match lemma="goşt" tags="n.*"><select lemma="meat" tags="n.*"/></match>
   </rule>
+  <rule weight="1.1">
+    <match lemma="mêr" tags="n.*"><select lemma="husband" tags="n.*"/></match>
+    <match tags="prn.pers.*"/>
+  </rule>
 </rules>
 

@@ -11363,10 +11363,10 @@
 
      <!-- SECTION: Adjectives -->
      <e><p><l>bihemil<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
-     <e><p><l>ducanî<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
-     <e><p><l>xemxwar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+     <e><p><l>xemxwar<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>ciwan<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
      <e><p><l>neteweperest<s n="adj"/></l><r>nationalist<s n="adj"/></r></p></e>
+     <e><p><l>ducanî<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
      <e><p><l>reformxwaz<s n="adj"/></l><r>reformist<s n="adj"/></r></p></e>
      <e><p><l>taktîkî<s n="adj"/></l><r>tactical<s n="adj"/></r></p></e>
      <e><p><l>teqez<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
@@ -11514,7 +11514,7 @@
      <e><p><l>bisêhr<s n="adj"/></l><r>magical<s n="adj"/></r></p></e>
      <e><p><l>dehemîn<s n="adj"/></l><r>tenth<s n="adj"/></r></p></e>
      <e><p><l>derbasdar<s n="adj"/></l><r>valid<s n="adj"/></r></p></e>
-     <e><p><l>dilgeş<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>dilgeş<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>dirî<s n="adj"/></l><r>thorny<s n="adj"/></r></p></e>
      <e><p><l>egîd<s n="adj"/></l><r>brave<s n="adj"/></r></p></e>
      <e><p><l>gêj<s n="adj"/></l><r>dazed<s n="adj"/></r></p></e>
@@ -11566,7 +11566,7 @@
      <e><p><l>xwemalî<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
      <e><p><l>aştîxwaz<s n="adj"/></l><r>unifying<s n="adj"/></r></p></e>
      <e><p><l>aştîxwaz<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
-     <e><p><l>bextewar<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>bextewar<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>gelemper<s n="adj"/></l><r>public<s n="adj"/></r></p></e>
      <e><p><l>gelemper<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
      <e><p><l>gotinî<s n="adj"/></l><r>spoken<s n="adj"/></r></p></e>
@@ -11592,11 +11592,11 @@
      <e><p><l>têvel<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
      <e><p><l>çewt<s n="adj"/></l><r>crooked<s n="adj"/></r></p></e>
      <e><p><l>çewt<s n="adj"/></l><r>wrong<s n="adj"/></r></p></e>
-     <e><p><l>kêfxweş<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>kêfxweş<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>kundir<s n="adj"/></l><r>incompetent<s n="adj"/></r></p></e>
      <e><p><l>kundir<s n="adj"/></l><r>useless<s n="adj"/></r></p></e>
      <e><p><l>nebinavkirî<s n="adj"/></l><r>unnamed<s n="adj"/></r></p></e>
-     <e><p><l>şad<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>şad<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>wêran<s n="adj"/></l><r>ruinous<s n="adj"/></r></p></e>
      <e><p><l>aram<s n="adj"/></l><r>patient<s n="adj"/></r></p></e>
      <e><p><l>aram<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
@@ -11743,7 +11743,7 @@
      <e><p><l>nêz<s n="adj"/></l><r>close<s n="adj"/></r></p></e>
      <e><p><l>nêz<s n="adj"/></l><r>adjacent<s n="adj"/></r></p></e>
      <e><p><l>şa<s n="adj"/></l><r>cheerful<s n="adj"/></r></p></e>
-     <e><p><l>şa<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+     <e><p><l>şa<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>çepgir<s n="adj"/></l><r>leftist<s n="adj"/></r></p></e>
      <e><p><l>demî<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
      <e><p><l>hevbeş<s n="adj"/></l><r>equivalent<s n="adj"/></r></p></e>
@@ -11796,7 +11796,7 @@
      <e><p><l>ewil<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
      <e><p><l>pirrnetewî<s n="adj"/></l><r>multinational<s n="adj"/></r></p></e>
      <e><p><l>polîtîk<s n="adj"/></l><r>political<s n="adj"/></r></p></e>
-     <e><p><l>esefnak<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+     <e><p><l>esefnak<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>esefnak<s n="adj"/></l><r>sorry<s n="adj"/></r></p></e>
      <e><p><l>mihim<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
      <e><p><l>orijînal<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
@@ -11841,7 +11841,7 @@
      <e><p><l>rojhelatî<s n="adj"/></l><r>eastern<s n="adj"/></r></p></e>
      <e><p><l>delal<s n="adj"/></l><r>dear<s n="adj"/></r></p></e>
      <e><p><l>xemgîn<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
-     <e><p><l>xemgîn<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+     <e><p><l>xemgîn<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>feqîr<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
      <e><p><l>malbatî<s n="adj"/></l><r>familial<s n="adj"/></r></p></e>
      <e><p><l>gey<s n="adj"/></l><r>gay<s n="adj"/></r></p></e>
@@ -12165,9 +12165,9 @@
      <e><p><l>sereke<s n="adj"/></l><r>major<s n="adj"/></r></p></e>
      <e><p><l>sereke<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>
      <e><p><l>sereke<s n="adj"/></l><r>main<s n="adj"/></r></p></e>
-      <e><p><l>xembar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+      <e><p><l>xembar<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>xembar<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
-      <e><p><l>xemdar<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+      <e><p><l>xemdar<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>xemdar<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>
       <e><p><l>xirab<s n="adj"/></l><r>destroyed<s n="adj"/></r></p></e>
       <e><p><l>dudil<s n="adj"/></l><r>hesitant<s n="adj"/></r></p></e>
