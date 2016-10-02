@@ -9,6 +9,10 @@
       <cat-item tags="n.*"/>
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="cnjcoo">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjcoo.*"/>
+    </def-cat>
     <def-cat n="top">
       <cat-item tags="np.top.*"/>
     </def-cat>
@@ -37,6 +41,9 @@
     <def-cat n="nom-con-def">
       <cat-item tags="n.*.*.con.def"/>
     </def-cat>
+    <def-cat n="nom-obl-def-poss">
+      <cat-item tags="n.*.*.obl.def.@nmod:poss"/>
+    </def-cat>
     <def-cat n="nom-con">
       <cat-item tags="n.*.*.con.*"/>
     </def-cat>
@@ -45,6 +52,7 @@
     </def-cat>
     <def-cat n="pron-obl">
       <cat-item tags="prn.pers.*.*.*.obl"/>
+      <cat-item tags="prn.pers.*.obl.@nmod:poss"/>
       <cat-item lemma="xwe" tags="prn.ref.*"/>
     </def-cat>
     <def-cat n="pron-dem">
@@ -68,6 +76,7 @@
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
+      <cat-item tags="sent.*"/>
     </def-cat>
     <def-cat n="vblex-pp">
 	    <cat-item tags="vblex.*.pp"/>
@@ -141,6 +150,12 @@
     <def-attr n="a_narr">
       <attr-item tags="narr"/>
     </def-attr>
+    <def-attr n="a_tns">
+      <attr-item tags="pri"/>
+      <attr-item tags="pii"/>
+      <attr-item tags="past"/>
+      <attr-item tags="pres"/>
+    </def-attr>
     <def-attr n="a_pri">
       <attr-item tags="pri"/>
     </def-attr>
@@ -171,7 +186,12 @@
     <def-attr n="a_syn">
       <attr-item tags="@dobj"/>
       <attr-item tags="@nmod:dat"/>
+      <attr-item tags="@nmod:poss"/>
       <attr-item tags="@nsubj"/>
+      <attr-item tags="@punct"/>
+      <attr-item tags="@det"/>
+      <attr-item tags="@cc"/>
+      <attr-item tags="@cop"/>
       <attr-item tags="@amod"/>
     </def-attr>
 
@@ -304,14 +324,8 @@
         </when>
       </choose>
     </def-macro>
-  </section-def-macros>
 
-  <section-rules>
-    <rule comment="REGLA: pri">
-      <pattern>
-        <pattern-item n="pri"/>
-      </pattern>
-      <action>
+    <def-macro n="f_conj1" npar="1">
         <choose>
          <when>
            <test>
@@ -331,12 +345,8 @@
        <choose>
        <when>
        <test>
-        <not>
-        <and>
-        <equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal>
-        <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal>
-       </and>
-       </not>
+        <not><and><equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal>
+             <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal></and></not>
        </test>
         <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
@@ -345,6 +355,57 @@
        </otherwise>
 	</choose>
         <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>
+
+    </def-macro>
+  </section-def-macros>
+
+  <section-rules>
+
+    <rule comment="REGLA: vblex-neg">
+      <pattern>
+        <pattern-item n="vblex-neg"/>
+      </pattern>
+      <action>
+        <call-macro n="f_conj1">
+          <with-param pos="1"/>
+        </call-macro>
+        <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_tns"/></tag>
+              <tag><clip pos="1" side="sl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="sl" part="a_nbr"/></tag>
+            </tags>
+            <lu><lit v="do"/><lit-tag v="vaux"/>
+                <clip pos="1" side="tl" part="a_tns"/>
+                <clip pos="1" side="tl" part="a_prs"/>
+                <clip pos="1" side="tl" part="a_nbr"/>
+            </lu>
+            <b/>
+            <lu><lit v="not"/><lit-tag v="adv"/></lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/><lit-tag v="inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: pri">
+      <pattern>
+        <pattern-item n="pri"/>
+      </pattern>
+      <action>
+        <call-macro n="f_conj1">
+          <with-param pos="1"/>
+        </call-macro>
+        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -381,34 +442,6 @@
         </out>
       </action>
     </rule>
-
-    <rule comment="REGLA: adj-cop">
-      <pattern>
-        <pattern-item n="adjec"/>
-        <pattern-item n="cop"/>
-      </pattern>
-      <action>
-        <let><clip pos="1" side="tl" part="a_grau"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_cop"/><lit v=""/></let> 
-        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let> 
-        <out>
-          <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-		<b/>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
 
     <rule comment="REGLA: prog-past">
       <pattern>
@@ -673,7 +706,7 @@
     </rule>
 
 
-    <rule comment="REGLA: nom">
+    <rule comment="REGLA: nom-con-def">
       <pattern>
         <pattern-item n="nom-con-def"/>
       </pattern>
@@ -702,6 +735,46 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom-con-def">
+      <pattern>
+        <pattern-item n="nom-con-def"/>
+        <pattern-item n="nom-obl-def-poss"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="det-nom-of-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <lit v="the"/><lit-tag v="det.def.sp"/>
+            </lu>
+            <b/>
+            <lu>
+              <get-case-from pos="2">
+              <clip pos="1" side="tl" part="lemh"/></get-case-from>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="of"/><lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="a_nbr"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: obl">
       <pattern>
@@ -825,7 +898,9 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+              <get-case-from pos="1">
+              <clip pos="2" side="tl" part="lem"/></get-case-from>
+              <clip pos="2" side="tl" part="tags"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -989,22 +1064,17 @@
       </action>
     </rule>
 
-
-    <!-- -->
-
-    <rule comment="REGLA: vblex-neg">
+    <rule comment="REGLA: CNJCOO">
       <pattern>
-        <pattern-item n="vblex-neg"/>
+        <pattern-item n="cnjcoo"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let> 
         <out>
-          <chunk name="v" case="caseFirstWord">
+          <chunk name="cc" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="CC"/></tag>
             </tags>
-            <lu><lit v="not"/><lit-tag v="adv"/></lu>
-            <b/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
@@ -1014,11 +1084,15 @@
     </rule>
 
 
+    <!-- -->
+
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
       <action>
+        <let><clip pos="1" side="tl" part="a_syn"/><lit v=""/></let> 
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
@@ -1031,6 +1105,7 @@
         </out>
       </action>
     </rule>
+
   </section-rules>
 </transfer>
 

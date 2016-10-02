@@ -115,5 +115,9 @@
     <match lemma="kurdî" tags="n.*"/>
     <match lemma="axaftin" tags="vblex.*"/>
   </rule>
+
+  <rule weight="1.1">
+    <match lemma="goşt" tags="n.*"><select lemma="meat" tags="n.*"/></match>
+  </rule>
 </rules>
 

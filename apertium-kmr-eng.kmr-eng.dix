@@ -16,6 +16,7 @@
     <sdef n="cnjsub"  c=""/>
     <sdef n="cnjadv"  c=""/>
     <sdef n="np"  c=""/>
+    <sdef n="qst"  c=""/>
     <sdef n="det"  c=""/>
     <sdef n="vaux"  c=""/>
     <sdef n="neg"  c=""/>
@@ -70,18 +71,10 @@
 
    <section id="main" type="standard">
 
-     <!-- SECTION: Abbreviations -->
-      <e><p><l>z.<s n="abbr"/></l><r>born</r></p></e>
-      <e><p><l>e.<b/>s.<s n="abbr"/></l><r>pbuh<s n="abbr"/></r></p></e>
-      <e><p><l>m.<s n="abbr"/></l><r>died</r></p></e>
-      <e><p><l>b.<s n="abbr"/></l><r>ibn</r></p></e>
-      <e><p><l>hwd<s n="abbr"/></l><r>etc.<s n="abbr"/></r></p></e>
-      <e><p><l>km<s n="abbr"/></l><r>kilometer<s n="n"/><s n="pl"/></r></p></e>
-      <e><p><l>m<s n="abbr"/></l><r>meter<s n="n"/><s n="pl"/></r></p></e>
-
      <!-- SECTION: Miscellaneous -->
      <e r="LR"><p><l>br</l><r></r></p></e>
      <e r="LR"><p><l>z</l><r></r></p></e>
+     <e r="LR"><p><l>gelo<s n="qst"/></l><r></r></p></e>
      <e r="LR"><p><l>yê<s n="con"/><s n="m"/><s n="sg"/></l><r></r></p></e>
      <e r="LR"><p><l>yê<s n="con"/><s n="mf"/><s n="pl"/></l><r></r></p></e>
      <e r="LR"><p><l>yê<s n="con"/><s n="f"/><s n="sg"/></l><r></r></p></e>
@@ -11896,7 +11889,7 @@
      <e><p><l>estetîk<s n="adj"/></l><r>aesthetic<s n="adj"/></r></p></e>
      <e><p><l>hemdemî<s n="adj"/></l><r>contemporary<s n="adj"/></r></p></e>
      <e><p><l>nêr<s n="adj"/></l><r>mascunline<s n="adj"/></r></p></e>
-     <e><p><l>nexweş<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
+     <e><p><l>nexweş<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>teorîk<s n="adj"/></l><r>theoretical<s n="adj"/></r></p></e>
      <e><p><l>aciz<s n="adj"/></l><r>annoyed<s n="adj"/></r></p></e>
      <e><p><l>aciz<s n="adj"/></l><r>hopeless<s n="adj"/></r></p></e>
@@ -15755,5 +15748,16 @@
      <e><p><l>xeniqîn<s n="vblex"/><s n="TD"/></l><r>drown<s n="vblex"/></r></p></e>
      <e><p><l>xirxirandin<s n="vblex"/><s n="TD"/></l><r>tug<s n="vblex"/></r></p></e>
      <e><p><l>zewicîn<s n="vblex"/><s n="TD"/></l><r>marry<s n="vblex"/></r></p></e>
+
+     <!-- SECTION: Abbreviations -->
+      <e><p><l>z.<s n="abbr"/></l><r>born</r></p></e>
+      <e><p><l>e.<b/>s.<s n="abbr"/></l><r>pbuh<s n="abbr"/></r></p></e>
+      <e><p><l>m.<s n="abbr"/></l><r>died</r></p></e>
+      <e><p><l>b.<s n="abbr"/></l><r>ibn</r></p></e>
+      <e><p><l>hwd<s n="abbr"/></l><r>etc.<s n="abbr"/></r></p></e>
+      <e><p><l>km<s n="abbr"/></l><r>kilometre<s n="n"/><s n="pl"/></r></p></e>
+      <e><p><l>m<s n="abbr"/></l><r>metre<s n="n"/><s n="pl"/></r></p></e>
+
+
   </section>
 </dictionary>
