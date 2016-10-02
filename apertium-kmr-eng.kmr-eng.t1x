@@ -345,16 +345,26 @@
            <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></let>
       	</when>
         <otherwise>
-       <choose>
-       <when>
-       <test>
-        <not><and><equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal>
-             <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal></and></not>
-       </test>
-        <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
-	</when>
-	</choose>
+           <choose>
+           <when>
+           <test>
+            <not><and><equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal>
+                 <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal></and></not>
+           </test>
+            <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+            <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+    	</when>
+           <when>
+           <test>
+            <and><equal><clip pos="1" side="tl" part="a_tns"/><lit-tag v="past"/></equal>
+                 <not><equal caseless="yes"><clip pos="1" side="tl" part="lem"/><lit v="be"/></equal></not></and>
+           </test>
+            <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+            <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+    	</when>
+
+
+    	</choose>
        </otherwise>
 	</choose>
         <let><clip pos="1" side="tl" part="a_pri"/><lit-tag v="pres"/></let>
