@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <postchunk>
   <section-def-cats>
+    <def-cat n="default">
+      <cat-item name="pers"/>
+      <cat-item name="n"/>
+    </def-cat>
     <def-cat n="sent">
-      <cat-item name="punt"/>
+      <cat-item name="sent"/>
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="nbr">
+    <def-attr n="a_nbr">
       <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="ND"/>
+    </def-attr>
+    <def-attr n="a_cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="obl"/>
+      <attr-item tags="CD"/>
     </def-attr>
   </section-def-attrs>
 
@@ -17,6 +28,25 @@
   </section-def-vars>
 
   <section-rules>
+    <rule comment="DEFAULT:">
+      <pattern>
+        <pattern-item n="default"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test><equal><clip pos="1" part="a_cas"/><lit-tag v="CD"/></equal></test>
+            <let><clip pos="1" part="a_cas"/><lit-tag v="nom"/></let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="CHUNK:">
       <pattern>
         <pattern-item n="sent"/>
