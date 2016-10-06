@@ -4,6 +4,16 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
+    </def-cat>
+    <def-cat n="pr">
+      <cat-item tags="pr"/>
+    </def-cat>
+    <def-cat n="nom">
+      <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+    </def-cat>
     <def-cat n="cop">
       <cat-item tags="vbser.*"/>
     </def-cat>
@@ -16,9 +26,6 @@
     </def-cat>
     <def-cat n="prpers">
       <cat-item lemma="prpers" tags="prn.*"/>
-    </def-cat>
-    <def-cat n="nom">
-      <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -34,6 +41,11 @@
       <attr-item tags="m"/>
       <attr-item tags="f"/>
       <attr-item tags="GD"/>
+    </def-attr>
+     <def-attr n="a_def">
+      <attr-item tags="def"/>
+      <attr-item tags="det"/>
+      <attr-item tags="dem"/>
     </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
@@ -109,6 +121,57 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: det-nom">
+	<pattern>
+	<pattern-item n="det"/>
+	<pattern-item n="nom"/>
+	</pattern>
+	<action>
+	<let><clip pos="2" side="tl" part="whole"/><concat><clip pos="2" side="tl" part="whole"/><lit-tag v="obl"/></concat></let>
+	<let><clip pos="2" side="tl" part="a_def"/><clip pos="2" side="tl" part="a_def"/></let>
+	<out>
+          <chunk name="det-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+             <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+             <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+	</out>
+	</action>
+    </rule>
+ 
+ 
+    <rule comment="REGLA: pr-nom">
+	<pattern>
+	<pattern-item n="pr"/>
+	<pattern-item n="nom"/>
+	</pattern>
+	<action>
+	<let><clip pos="2" side="tl" part="whole"/><concat><clip pos="2" side="tl" part="whole"/><lit-tag v="obl.def"/></concat></let>
+	<out>
+          <chunk name="pr-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SADV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_def"/></tag>
+            </tags>
+            <lu>
+             <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+             <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+	</out>
+	</action>
+    </rule>
  
     <rule comment="REGLA: prpers">
       <pattern>
@@ -124,7 +187,7 @@
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+             <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
