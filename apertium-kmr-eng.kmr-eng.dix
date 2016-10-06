@@ -13,6 +13,8 @@
     <sdef n="ND"  c=""/>
     <sdef n="fut"  c="Future"/>
     <sdef n="cnjcoo"  c=""/>
+    <sdef n="obj"  c=""/>
+    <sdef n="subj"  c=""/>
     <sdef n="cnjsub"  c=""/>
     <sdef n="cnjadv"  c=""/>
     <sdef n="np"  c=""/>
@@ -214,6 +216,8 @@
      <e r="LR"><p><l>ew<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p3"/><s n="GD"/></r></p></e>
      <e r="LR"><p><l>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
      <e r="LR"><p><l>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e r="RL"><p><l>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+     <e r="RL"><p><l>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
      <e r="LR"><p><l>hûn<s n="prn"/><s n="pers"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="FD"/><s n="p2"/></r></p></e>
      
       <e><p><l>xwe<s n="prn"/><s n="ref"/><s n="mf"/><s n="sp"/></l><r>own<s n="adj"/></r></p></e>
