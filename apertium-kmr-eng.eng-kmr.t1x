@@ -29,16 +29,26 @@
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
+    <def-attr n="a_gen">
+      <attr-item tags="mf"/>
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="GD"/>
+    </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
+      <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="a_prs">
       <attr-item tags="p1"/>
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
     </def-attr>
     <def-attr n="a_tns">
+      <attr-item tags="prs"/>
+      <attr-item tags="pri"/>
       <attr-item tags="pres"/>
       <attr-item tags="inf"/>
       <attr-item tags="past"/>
@@ -55,11 +65,13 @@
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
+    <def-macro n="f_conj1" npar="1">
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pres"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pri"/></let>
+        </when>
+      </choose>
     </def-macro>
   </section-def-macros>
 
@@ -98,23 +110,43 @@
       </action>
     </rule>
  
-    <rule comment="REGLA: prn-vbmod">
+    <rule comment="REGLA: prpers">
       <pattern>
         <pattern-item n="prpers"/>
-        <pattern-item n="vbmod"/>
       </pattern>
       <action>
         <out>
-          <chunk name="" case="caseFirstWord">
+          <chunk name="pers" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SV.MOD"/></tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
-		<b/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+ 
+    <rule comment="REGLA: vbmod">
+      <pattern>
+        <pattern-item n="vbmod"/>
+      </pattern>
+      <action>
+        <call-macro n="f_conj1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="can" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV.MOD.PD.ND"/></tag>
+            </tags>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="whole"/><lit-tag v="3.4"/>
             </lu>
           </chunk>
         </out>
@@ -141,13 +173,4 @@
     </rule>
   </section-rules>
 </transfer>
-
-<!--
-Resources:
-    http://wiki.apertium.org/wiki/Chunking:_A_full_example
-    http://wiki.apertium.org/wiki/Chunking
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
-    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
-    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
--->
 

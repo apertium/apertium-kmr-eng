@@ -536,6 +536,32 @@
     </pipeline>
   </mode>
 
+  <mode name="eng-kmr-chunker" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-kmr.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-kmr.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-kmr.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-kmr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-kmr-eng.eng-kmr.t1x"/>
+        <file name="eng-kmr.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+
   <mode name="eng-kmr-transfer" install="no">
     <pipeline>
       <program name="lt-proc -w">
