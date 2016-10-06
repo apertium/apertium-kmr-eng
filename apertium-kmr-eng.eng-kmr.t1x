@@ -42,10 +42,15 @@
       <attr-item tags="f"/>
       <attr-item tags="GD"/>
     </def-attr>
-     <def-attr n="a_def">
+    <def-attr n="a_def">
       <attr-item tags="def"/>
       <attr-item tags="det"/>
       <attr-item tags="dem"/>
+    </def-attr>
+    <def-attr n="a_trnv">
+      <attr-item tags="iv"/>
+      <attr-item tags="tv"/>
+      <attr-item tags="TD"/>
     </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
@@ -185,9 +190,10 @@
               <tag><clip pos="1" side="tl" part="a_prs"/></tag>
               <tag><clip pos="1" side="tl" part="a_gen"/></tag>
               <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+              <tag><lit-tag v="CD"/></tag>
             </tags>
             <lu>
-             <clip pos="1" side="tl" part="whole"/>
+             <clip pos="1" side="tl" part="whole"/><lit-tag v="5"/>
             </lu>
           </chunk>
         </out>
@@ -206,10 +212,13 @@
         <out>
           <chunk name="can" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SV.MOD.PD.ND"/></tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_trnv"/></tag>
+              <tag><clip pos="1" side="tl" part="a_tns"/></tag>
+              <tag><lit-tag v="PD.ND"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/><lit-tag v="3.4"/>
+              <clip pos="1" side="tl" part="whole"/><lit-tag v="4.5"/>
             </lu>
           </chunk>
         </out>

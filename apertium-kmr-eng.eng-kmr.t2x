@@ -22,6 +22,20 @@
       <attr-item tags="p3"/>
       <attr-item tags="PD"/>
     </def-attr>
+    <def-attr n="a_trnv">
+      <attr-item tags="iv"/>
+      <attr-item tags="tv"/>
+      <attr-item tags="TD"/>
+    </def-attr>
+    <def-attr n="a_tns">
+      <attr-item tags="pri"/>
+      <attr-item tags="prs"/>
+    </def-attr>
+    <def-attr n="a_cas">
+      <attr-item tags="obl"/>
+      <attr-item tags="nom"/>
+      <attr-item tags="CD"/>
+    </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -34,6 +48,24 @@
   </section-def-vars>
 
   <section-def-macros>
+
+    <def-macro n="f_val2" npar="2"> <!-- pos="1" = SV, pos="2" = SN -->
+      <choose>
+        <when>
+          <test><and><equal><clip pos="2" part="a_cas"/><lit-tag v="CD"/></equal>
+                     <equal><clip pos="1" part="a_trnv"/><lit-tag v="iv"/></equal>
+                     <equal><clip pos="1" part="a_tns"/><lit-tag v="pri"/></equal></and></test>
+          <let><clip pos="2" part="a_cas"/><lit-tag v="nom"/></let>
+        </when>
+        <when>
+          <test><and><equal><clip pos="2" part="a_cas"/><lit-tag v="CD"/></equal>
+                     <equal><clip pos="1" part="a_trnv"/><lit-tag v="tv"/></equal>
+                     <equal><clip pos="1" part="a_tns"/><lit-tag v="pri"/></equal></and></test>
+          <let><clip pos="2" part="a_cas"/><lit-tag v="nom"/></let>
+        </when>
+      </choose>
+    </def-macro>
+
     <def-macro n="f_agr2" npar="2">
       <choose>
         <when>
@@ -57,10 +89,8 @@
         <pattern-item n="SV"/>
       </pattern>
       <action>
-        <call-macro n="f_agr2">
-          <with-param pos="1"/>
-          <with-param pos="2"/>
-        </call-macro>
+        <call-macro n="f_agr2"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <call-macro n="f_val2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
