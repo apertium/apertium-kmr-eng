@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="cop">
+      <cat-item tags="vbser.*"/>
+    </def-cat>
+    <def-cat n="prpers">
+      <cat-item lemma="prpers" tags="prn.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -12,6 +21,24 @@
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_prs">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+    <def-attr n="a_tns">
+      <attr-item tags="pres"/>
+      <attr-item tags="past"/>
+    </def-attr>
+    <def-attr n="a_vform">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbmod"/>
     </def-attr>
   </section-def-attrs>
 
@@ -29,6 +56,42 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: prn-adj-cop">
+      <pattern>
+        <pattern-item n="prpers"/>
+        <pattern-item n="cop"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="whole"/><concat><clip pos="1" side="tl" part="whole"/><lit-tag v="nom"/></concat></let>
+        <let><clip pos="2" side="tl" part="a_tns"/><lit-tag v="pri"/></let>
+        <let><clip pos="3" side="tl" part="whole"/><concat><clip pos="3" side="tl" part="whole"/><lit-tag v="pst"/></concat></let>
+        <let><clip pos="2" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_nbr"/></let>
+        <let><clip pos="2" side="tl" part="a_prs"/><clip pos="1" side="tl" part="a_prs"/></let>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+ 
+
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
