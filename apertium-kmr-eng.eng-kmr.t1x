@@ -4,6 +4,11 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="det-def-ind">
+      <cat-item tags="det.def.*"/>
+      <cat-item tags="det.ind.*"/>
+      <cat-item tags="det.qnt.sp"/>
+    </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
@@ -126,6 +131,52 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: cop">
+	<pattern>
+	<pattern-item n="cop"/>
+	</pattern>
+	<action>
+        <call-macro n="f_conj1">
+          <with-param pos="1"/>
+        </call-macro>
+	<out>
+          <chunk name="det-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+             <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+             <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+	</out>
+	</action>
+    </rule>
+ 
+    <rule comment="REGLA: det-def-ind-nom">
+	<pattern>
+	<pattern-item n="det-def-ind"/>
+	<pattern-item n="nom"/>
+	</pattern>
+	<action>
+	<let><clip pos="2" side="tl" part="a_def"/><clip pos="1" side="sl" part="a_def"/></let>
+	<out>
+          <chunk name="det-nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+             <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+	</out>
+	</action>
+    </rule>
+ 
 
     <rule comment="REGLA: det-nom">
 	<pattern>
