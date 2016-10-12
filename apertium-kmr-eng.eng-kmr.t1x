@@ -94,7 +94,16 @@
           <let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pri"/></let>
         </when>
       </choose>
-    </def-macro>
+  </def-macro>
+
+     <def-macro n="f_pers1" npar="1">
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p3"/></equal></test>
+          <let><clip pos="1" side="tl" part="lem"/><lit v="ew"/></let>
+        </when>
+      </choose>
+  </def-macro>
   </section-def-macros>
 
   <section-rules>
@@ -140,17 +149,14 @@
         <call-macro n="f_conj1">
           <with-param pos="1"/>
         </call-macro>
+        <let><clip pos="1" side="tl" part="a_form"/><lit-tag v="vbcop"/></let>
 	<out>
-          <chunk name="det-nom" case="caseFirstWord">
+          <chunk name="cop" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-		<b/>
-            <lu>
-             <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
 	</out>
@@ -233,7 +239,10 @@
       <pattern>
         <pattern-item n="prpers"/>
       </pattern>
-      <action>
+      <action>   
+     <call-macro n="f_pers1">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="pers" case="caseFirstWord">
             <tags>
