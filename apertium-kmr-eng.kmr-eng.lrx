@@ -18,7 +18,6 @@
     <match tags="np.top.*"/>  
 </rule>
 
-
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
     <match tags="n.*"/>  
@@ -129,11 +128,6 @@
   </rule>
 
   <rule weight="1.1">
-    <match lemma="mêr" tags="n.*"><select lemma="husband" tags="n.*"/></match>
-    <match tags="prn.pers.*"/>
-  </rule>
-
-  <rule weight="1.1">
     <match lemma="jin" tags="n.*"><select lemma="wife" tags="n.*"/></match>
     <match tags="prn.pers.*"/>
   </rule>
@@ -141,6 +135,46 @@
   <rule weight="1.1">
     <match lemma="keç" tags="n.*"><select lemma="daughter" tags="n.*"/></match>
     <match tags="prn.pers.*"/>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="kovar" tags="n.*"><select lemma="magazine" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="kulindok" tags="n.*"><select lemma="zucchini" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="lîstik" tags="n.*"><select lemma="play" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="loterî" tags="n.*"><select lemma="lottery" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="maç" tags="n.*"><select lemma="match" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="makîne" tags="n.*"><select lemma="machine" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="mak" tags="n.*"><select lemma="mother" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="maldarî" tags="n.*"><select lemma="affluence" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="mereq" tags="n.*"><select lemma="interest" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="mêş" tags="n.*"><select lemma="fly" tags="n.*"/></match>
   </rule>
 </rules>
 
