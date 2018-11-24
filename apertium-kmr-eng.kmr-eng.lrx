@@ -4,23 +4,24 @@
   </rule>
 
   <rule weight="1.0">
-    <match lemma="pirtuk" tags="n.*"/>  
+    <match lemma="pirtuk" tags="n.*"/>
     <match lemma="xwendin" tags="vblex.*"><select lemma="read" tags="vblex"/></match>
 </rule>
 
   <rule weight="1.0">
     <match lemma="li" tags="pr"><select lemma="by" tags="pr"/></match>
-    <match lemma="hêl" tags="n.*"/>  
+    <match lemma="hêl" tags="n.*"/>
 </rule>
 
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
-    <match tags="np.top.*"/>  
+    <match tags="np.top.*"/>
 </rule>
+
 
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
-    <match tags="n.*"/>  
+    <match tags="n.*"/>
 </rule>
 
   <rule weight="1.0">
@@ -125,6 +126,11 @@
 
   <rule weight="1.1">
     <match lemma="goşt" tags="n.*"><select lemma="meat" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.1">
+    <match lemma="mêr" tags="n.*"><select lemma="husband" tags="n.*"/></match>
+    <match tags="prn.pers.*"/>
   </rule>
 
   <rule weight="1.1">
