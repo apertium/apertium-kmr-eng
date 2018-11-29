@@ -15061,8 +15061,6 @@
       <e><p><l>zû<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zuha<s n="adj"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
-      <e><p><l>jin<s n="adj"/></l><r>female<s n="adj"/></r></p></e>
-      <e><p><l>sor<s n="adj"/></l><r>purple<s n="adj"/></r></p></e>
 
      <!-- SECTION: Preadverbs -->
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
@@ -15376,9 +15374,11 @@
      <e><p><l>koçberkirin<s n="vblex"/><s n="tv"/></l><r>migrate<s n="vblex"/></r></p></e>
      <e><p><l>kontrolkirin<s n="vblex"/><s n="tv"/></l><r>control<s n="vblex"/></r></p></e>
      <e><p><l>veqetandin<s n="vblex"/><s n="tv"/></l><r>seperate<s n="vblex"/></r></p></e>
+<!--
      <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>grind<s n="vblex"/></r></p></e>
      <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
      <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>shrink<s n="vblex"/></r></p></e>
+-->
      <e><p><l>nexşandin<s n="vblex"/><s n="tv"/></l><r>decorate<s n="vblex"/></r></p></e>
      <e><p><l>barkirin<s n="vblex"/><s n="tv"/></l><r>carry<s n="vblex"/></r></p></e>
      <e><p><l>pejirandin<s n="vblex"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>

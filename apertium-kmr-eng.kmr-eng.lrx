@@ -144,7 +144,7 @@
     <match lemma="keç" tags="n.*"><select lemma="daughter" tags="n.*"/></match>
     <match tags="prn.pers.*"/>
   </rule>
-    
+
   <rule weight="1.1">
     <match lemma="za" tags="n.*"><select lemma="son" tags="n.*"/>
     </match>
@@ -199,10 +199,10 @@
 	</rule>
 
   <rule weight="1.1">
+   	<match lemma="goşt" tags="n.*"/>
 	  <match lemma="hûrkirî" tags="adj.*">
 	    <select lemma="ground" tags="adj.*"/>
 	  </match>
-   	<match lemma="goşt" tags="n.*"/>
 	</rule>
 
   <rule weight="1.1">
