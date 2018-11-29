@@ -8410,7 +8410,7 @@
       <e><p><l>şagirt<s n="n"/><s n="m"/></l><r>*apprentice<s n="n"/></r></p></e>
       <e><p><l>şagirt<s n="n"/><s n="m"/></l><r>pupil<s n="n"/></r></p></e>
       <e><p><l>şahberrû<s n="n"/><s n="f"/></l><r>chestnut<s n="n"/></r></p></e>
-      <e><p><l>şahberrû<s n="n"/><s n="f"/></l><r>*marron<s n="n"/></r></p></e>
+      <e><p><l>şahberrû<s n="n"/><s n="f"/></l><r>marron<s n="n"/></r></p></e>
       <e><p><l>şahîd<s n="n"/><s n="m"/></l><r>witness<s n="n"/></r></p></e>
       <e><p><l>şahî<s n="n"/><s n="f"/></l><r>*gladness<s n="n"/></r></p></e>
       <e><p><l>şahî<s n="n"/><s n="f"/></l><r>happiness<s n="n"/></r></p></e>
@@ -8639,7 +8639,7 @@
       <e><p><l>seqetî<s n="n"/><s n="f"/></l><r>*infirmity<s n="n"/></r></p></e>
       <e><p><l>seqf<s n="n"/><s n="m"/></l><r>ceiling<s n="n"/></r></p></e>
       <e><p><l>seqf<s n="n"/><s n="m"/></l><r>roof<s n="n"/></r></p></e>
-      <e><p><l>şeq<s n="n"/><s n="f"/></l><r>*crotch<s n="n"/></r></p></e>
+      <e><p><l>şeq<s n="n"/><s n="f"/></l><r>crotch<s n="n"/></r></p></e>
       <e><p><l>şeq<s n="n"/><s n="f"/></l><r>fork<s n="n"/></r></p></e>
       <e><p><l>şeq<s n="n"/><s n="f"/></l><r>prong<s n="n"/></r></p></e>
       <e><p><l>sera<s n="n"/><s n="f"/></l><r>*glasshouse<s n="n"/></r></p></e>
@@ -9062,6 +9062,7 @@
       <e><p><l>sorgul<s n="n"/><s n="f"/></l><r>rose<s n="n"/></r></p></e>
       <e><p><l>sorgûm<s n="n"/><s n="m"/></l><r>*sorghum<s n="n"/></r></p></e>
       <e><p><l>sor<s n="n"/><s n="m"/></l><r>red<s n="n"/></r></p></e>
+      <e><p><l>sor<s n="n"/><s n="m"/></l><r>blag<s n="n"/></r></p></e>
       <e><p><l>şorreş<s n="n"/><s n="f"/></l><r>revolution<s n="n"/></r></p></e>
       <e><p><l>sortî<s n="n"/><s n="f"/></l><r>*sortie<s n="n"/></r></p></e>
       <e><p><l>sosin<s n="n"/><s n="f"/></l><r>iris<s n="n"/></r></p></e>
@@ -11964,6 +11965,7 @@
      <e><p><l>eşkere<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>
      <e><p><l>eşkere<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
      <e><p><l>nerm<s n="adj"/></l><r>suitable<s n="adj"/></r></p></e>
+     <e><p><l>nerm<s n="adj"/></l><r>tender<s n="adj"/></r></p></e>
      <e><p><l>nerm<s n="adj"/></l><r>soft<s n="adj"/></r></p></e>
      <e><p><l>tropîk<s n="adj"/></l><r>tropical<s n="adj"/></r></p></e>
      <e><p><l>amerîkan<s n="adj"/></l><r>American<s n="adj"/></r></p></e>
@@ -14721,7 +14723,6 @@
       <e><p><l>teng<s n="adj"/></l><r>narrow<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>tenha<s n="adj"/></l><r>alone<s n="adj"/></r></p></e>
       <e><p><l>teorîk<s n="adj"/></l><r>theoretical<s n="adj"/></r></p></e>
-      <e><p><l>teorîk<s n="adj"/></l><r>*theoric<s n="adj"/></r></p></e>
       <e><p><l>têper<s n="adj"/></l><r>*transitive<s n="adj"/></r></p></e>
       <e><p><l>terkexem<s n="adj"/></l><r>careless<s n="adj"/></r></p></e>
       <e><p><l>terkexem<s n="adj"/></l><r>disinterested<s n="adj"/></r></p></e>
@@ -15060,7 +15061,9 @@
       <e><p><l>zû<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zuha<s n="adj"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
-  
+      <e><p><l>jin<s n="adj"/></l><r>female<s n="adj"/></r></p></e>
+      <e><p><l>sor<s n="adj"/></l><r>purple<s n="adj"/></r></p></e>
+
      <!-- SECTION: Preadverbs -->
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
@@ -15200,6 +15203,8 @@
       <e><p><l>êdî<s n="adv"/></l><r>from<b/>now<b/>on<s n="adv"/></r></p></e>
       <e><p><l>êdî<s n="adv"/></l><r>any<b/>more<s n="adv"/></r></p></e>
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
+      <e><p><l>tuxwa<s n="adv"/></l><r>for<b/>God's<b/>sake<s n="adv"/></r></p></e>
+      <e><p><l>tuxwa<s n="adv"/></l><r>please<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
      <e><p><l>spas<b/>kirin<s n="vblex"/><s n="tv"/></l><r>thank<s n="vblex"/></r></p></e>
@@ -15645,6 +15650,7 @@
      <e><p><l>zivirandin<s n="vblex"/><s n="tv"/></l><r>turn<g><b/>around</g><s n="vblex"/></r></p></e>
      <e><p><l>weşandin<s n="vblex"/><s n="tv"/></l><r>publish<s n="vblex"/></r></p></e>
      <e><p><l>avakirin<s n="vblex"/><s n="tv"/></l><r>build<s n="vblex"/></r></p></e>
+
      <!-- SECTION: Interjections -->
 
      <!-- SECTION: Punctuation -->

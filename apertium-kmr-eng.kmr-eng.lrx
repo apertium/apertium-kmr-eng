@@ -6,23 +6,23 @@
   <rule weight="1.0">
     <match lemma="pirtuk" tags="n.*"/>
     <match lemma="xwendin" tags="vblex.*"><select lemma="read" tags="vblex"/></match>
-</rule>
+  </rule>
 
   <rule weight="1.0">
     <match lemma="li" tags="pr"><select lemma="by" tags="pr"/></match>
     <match lemma="hêl" tags="n.*"/>
-</rule>
+  </rule>
 
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
     <match tags="np.top.*"/>
-</rule>
+  </rule>
 
 
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="from" tags="pr"/></match>
     <match tags="n.*"/>
-</rule>
+  </rule>
 
   <rule weight="1.0">
     <match lemma="ji" tags="pr"><select lemma="to" tags="pr"/></match>
@@ -73,9 +73,11 @@
     <match lemma="bi" tags="pr"><select lemma="with" tags="pr"/></match>
   </rule>
 
+
   <rule weight="1.0">
     <match lemma="jin" tags="n.*"><select lemma="woman" tags="n.*"/></match>
   </rule>
+
 
   <rule weight="1.0">
     <match lemma="serok" tags="n.*"><select lemma="president" tags="n.*"/></match>
@@ -142,45 +144,93 @@
     <match lemma="keç" tags="n.*"><select lemma="daughter" tags="n.*"/></match>
     <match tags="prn.pers.*"/>
   </rule>
-
+    
   <rule weight="1.1">
-    <match lemma="kovar" tags="n.*"><select lemma="magazine" tags="n.*"/></match>
+    <match lemma="za" tags="n.*"><select lemma="son" tags="n.*"/>
+    </match>
+    <match tags="prn.pers.*"/>
   </rule>
 
   <rule weight="1.1">
-    <match lemma="kulindok" tags="n.*"><select lemma="zucchini" tags="n.*"/></match>
-  </rule>
+	  <match lemma="bi" tags="pr.*">
+	    <select lemma="in" tags="pr.*"/>
+	  </match>
+     <or>
+	    <match lemma="Frensî"/>
+	    <match lemma="Inglîzî"/>
+	    <match lemma="Spanî"/>
+	    <match lemma="Tirkî"/>
+     </or>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="lîstik" tags="n.*"><select lemma="play" tags="n.*"/></match>
-  </rule>
+	  <match lemma="di" tags="pr.*">
+	    <select lemma="in" tags="pr.*"/>
+	  </match>
+   	<match tags="np.*"/>
+	</rule>		
 
   <rule weight="1.1">
-    <match lemma="loterî" tags="n.*"><select lemma="lottery" tags="n.*"/></match>
-  </rule>
+	  <match lemma="ji" tags="pr.*">
+	    <select lemma="in" tags="pr.*"/>
+	  </match>
+   	<match tags="np.*"/>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="maç" tags="n.*"><select lemma="match" tags="n.*"/></match>
-  </rule>
+	  <match lemma="li ser" tags="pr.*">
+	    <select lemma="on" tags="pr.*"/>
+	  </match>
+   	<match tags="maseyê"/>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="makîne" tags="n.*"><select lemma="machine" tags="n.*"/></match>
-  </rule>
+	  <match lemma="goşt" tags="n.*">
+	    <select lemma="meat" tags="n.*"/>
+	  </match>
+   	<match lemma="hûrkirî" tags="adj.*"/>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="mak" tags="n.*"><select lemma="mother" tags="n.*"/></match>
-  </rule>
+   	<match lemma="mekteb" tags="n.*"/>
+	  <match lemma="lajwerdî" tags="adj.*">
+	    <select lemma="metallurgical" tags="adj.*"/>
+	  </match>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="maldarî" tags="n.*"><select lemma="affluence" tags="n.*"/></match>
-  </rule>
+	  <match lemma="hûrkirî" tags="adj.*">
+	    <select lemma="ground" tags="adj.*"/>
+	  </match>
+   	<match lemma="goşt" tags="n.*"/>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="mereq" tags="n.*"><select lemma="interest" tags="n.*"/></match>
-  </rule>
+	  <match lemma="fizîk" tags="adj.*">
+	    <select lemma="physics" tags="adj.*"/>
+	  </match>
+   	<match lemma="matematîkî" tags="n.*"/>
+   	<match lemma="teorîk" tags="adj.*"/>
+	</rule>
 
   <rule weight="1.1">
-    <match lemma="mêş" tags="n.*"><select lemma="fly" tags="n.*"/></match>
-  </rule>
+	  <match lemma="eql" tags="n.*">
+	    <select lemma="reason" tags="n.*"/>
+	  </match>
+   	<match lemma="sereke" tags="adj"/>
+	</rule>
+
+  <rule weight="1.1">
+   	<match lemma="gil" tags="n.*"/>
+	  <match lemma="nerm" tags="adj.*">
+	    <select lemma="soft" tags="adj.*"/>
+	  </match>
+	</rule>
+
+  <rule weight="1.1">
+   	<match lemma="goşt" tags="n.*"/>
+	  <match lemma="nerm" tags="adj.*">
+	    <select lemma="tender" tags="adj.*"/>
+	  </match>
+	</rule>
 </rules>
-
