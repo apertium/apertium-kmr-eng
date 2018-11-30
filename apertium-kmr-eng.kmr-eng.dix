@@ -9062,7 +9062,6 @@
       <e><p><l>sorgul<s n="n"/><s n="f"/></l><r>rose<s n="n"/></r></p></e>
       <e><p><l>sorgûm<s n="n"/><s n="m"/></l><r>*sorghum<s n="n"/></r></p></e>
       <e><p><l>sor<s n="n"/><s n="m"/></l><r>red<s n="n"/></r></p></e>
-      <e><p><l>sor<s n="n"/><s n="m"/></l><r>blag<s n="n"/></r></p></e>
       <e><p><l>şorreş<s n="n"/><s n="f"/></l><r>revolution<s n="n"/></r></p></e>
       <e><p><l>sortî<s n="n"/><s n="f"/></l><r>*sortie<s n="n"/></r></p></e>
       <e><p><l>sosin<s n="n"/><s n="f"/></l><r>iris<s n="n"/></r></p></e>
@@ -11965,7 +11964,6 @@
      <e><p><l>eşkere<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>
      <e><p><l>eşkere<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
      <e><p><l>nerm<s n="adj"/></l><r>suitable<s n="adj"/></r></p></e>
-     <e><p><l>nerm<s n="adj"/></l><r>tender<s n="adj"/></r></p></e>
      <e><p><l>nerm<s n="adj"/></l><r>soft<s n="adj"/></r></p></e>
      <e><p><l>tropîk<s n="adj"/></l><r>tropical<s n="adj"/></r></p></e>
      <e><p><l>amerîkan<s n="adj"/></l><r>American<s n="adj"/></r></p></e>
@@ -15201,8 +15199,6 @@
       <e><p><l>êdî<s n="adv"/></l><r>from<b/>now<b/>on<s n="adv"/></r></p></e>
       <e><p><l>êdî<s n="adv"/></l><r>any<b/>more<s n="adv"/></r></p></e>
       <e><p><l>êdî<s n="adv"/></l><r>no<b/>more<s n="adv"/></r></p></e>
-      <e><p><l>tuxwa<s n="adv"/></l><r>for<b/>God's<b/>sake<s n="adv"/></r></p></e>
-      <e><p><l>tuxwa<s n="adv"/></l><r>please<s n="adv"/></r></p></e>
 
      <!-- SECTION: Verbs -->
      <e><p><l>spas<b/>kirin<s n="vblex"/><s n="tv"/></l><r>thank<s n="vblex"/></r></p></e>
@@ -15374,11 +15370,9 @@
      <e><p><l>koçberkirin<s n="vblex"/><s n="tv"/></l><r>migrate<s n="vblex"/></r></p></e>
      <e><p><l>kontrolkirin<s n="vblex"/><s n="tv"/></l><r>control<s n="vblex"/></r></p></e>
      <e><p><l>veqetandin<s n="vblex"/><s n="tv"/></l><r>seperate<s n="vblex"/></r></p></e>
-<!--
      <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>grind<s n="vblex"/></r></p></e>
      <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>break<s n="vblex"/></r></p></e>
      <e><p><l>hûrkirin<s n="vblex"/><s n="tv"/></l><r>shrink<s n="vblex"/></r></p></e>
--->
      <e><p><l>nexşandin<s n="vblex"/><s n="tv"/></l><r>decorate<s n="vblex"/></r></p></e>
      <e><p><l>barkirin<s n="vblex"/><s n="tv"/></l><r>carry<s n="vblex"/></r></p></e>
      <e><p><l>pejirandin<s n="vblex"/><s n="tv"/></l><r>accept<s n="vblex"/></r></p></e>

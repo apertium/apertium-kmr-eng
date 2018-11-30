@@ -222,15 +222,9 @@
 
   <rule weight="1.1">
    	<match lemma="gil" tags="n.*"/>
-	  <match lemma="nerm" tags="adj.*">
-	    <select lemma="soft" tags="adj.*"/>
-	  </match>
-	</rule>
-
-  <rule weight="1.1">
    	<match lemma="goşt" tags="n.*"/>
 	  <match lemma="nerm" tags="adj.*">
-	    <select lemma="tender" tags="adj.*"/>
+	    <select lemma="soft" tags="adj.*"/>
 	  </match>
 	</rule>
 </rules>
