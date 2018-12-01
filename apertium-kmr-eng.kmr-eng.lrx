@@ -164,6 +164,18 @@
 	</rule>
 
   <rule weight="1.1">
+	  <match lemma="bi" tags="pr.*">
+	    <select lemma="with" tags="pr.*"/>
+	  </match>
+     <or>
+	    <match lemma="hiştin"/>
+	    <match lemma="şidet"/>
+      <match lemma="wêr"/> 
+      <match tags="prn.pers.*"/>
+     </or>
+	</rule>
+
+  <rule weight="1.1">
 	  <match lemma="di" tags="pr.*">
 	    <select lemma="in" tags="pr.*"/>
 	  </match>
