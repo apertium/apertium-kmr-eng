@@ -70,11 +70,6 @@
   </rule>
 
   <rule weight="1.0">
-    <match lemma="bi" tags="pr"><select lemma="with" tags="pr"/></match>
-  </rule>
-
-
-  <rule weight="1.0">
     <match lemma="jin" tags="n.*"><select lemma="woman" tags="n.*"/></match>
   </rule>
 
