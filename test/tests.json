@@ -1,0 +1,14 @@
+{
+    "eng-kmr-pending": {
+        "input": "eng-kmr-pending-input.txt",
+        "mode": "eng-kmr"
+    },
+    "kmr-eng-pending": {
+        "input": "kmr-eng-pending-input.txt",
+        "mode": "kmr-eng"
+    },
+    "kmr-eng-regression": {
+        "input": "kmr-eng-regression-input.txt",
+        "mode": "kmr-eng"
+    }
+}

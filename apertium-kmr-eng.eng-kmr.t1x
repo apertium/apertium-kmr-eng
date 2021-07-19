@@ -121,7 +121,7 @@
         <let><clip pos="2" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_nbr"/></let>
         <let><clip pos="2" side="tl" part="a_prs"/><clip pos="1" side="tl" part="a_prs"/></let>
         <out>
-          <chunk name="" case="caseFirstWord">
+          <chunk name="default" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>

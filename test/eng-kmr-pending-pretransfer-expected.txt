@@ -1,0 +1,722 @@
+[-cVMdYpBQP14#0] ^*It$ ^be<vbser><pres><p3><sg>$ ^not<adv>$ ^possible<adj>$ ^for<pr>$ ^*the$ ^baby<n><sg>$ ^to<pr>$ ^have<vbhaver><inf>$ ^*breastmilk$^.<sent>$
+[/-cVMdYpBQP14]
+[-hIFh87w0jIX#0] ^Excuse me<ij>$^.<sent>$
+[/-hIFh87w0jIX]
+[-j-zyqWzyXti#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^all<adv>$ ^well<n><sg>$^?.<sent>$
+[/-j-zyqWzyXti]
+[-m52LQ3cM5y-#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^scare<vblex><past>$^.<sent>$
+[/-m52LQ3cM5y-]
+[05FcCX7HfY8Z#0] ^one<num><sg>$ ^hour<n><sg>$^.<sent>$
+[/05FcCX7HfY8Z]
+[0M5xCx5tGAAH#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^speak<vblex><inf>$^..<sent>$
+[/0M5xCx5tGAAH]
+[0VE7GrIBvwOg#0] ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$´^*t$ ^urinate<vblex><inf>$^.<sent>$
+[/0VE7GrIBvwOg]
+[0XJQdg004cRk#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^chest<n><sg>$ ^pain<n><sg>$^.<sent>$
+[/0XJQdg004cRk]
+[0ZF2OnGtUNV0#0] ^Blanket<n><pl>$ ^be<vbser><pres>$ ^*over$ ^there<adv>$^.<sent>$
+[/0ZF2OnGtUNV0]
+[0oycUn0WO8_X#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*colic$ ^pain<n><sg>$ ^in<pr>$ ^*my$ ^side<n><sg>$^.<sent>$
+[/0oycUn0WO8_X]
+[10Uvls6hRf9Q#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*bipolar$ ^*disorder$^.<sent>$
+[/10Uvls6hRf9Q]
+[146osc8gSsOG#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^leave<vblex><inf>$ ^*the$ ^island<n><sg>$ ^without<pr>$ ^*the$ ^Registration<n><sg>$ ^Document<n><sg>$^?.<sent>$
+[/146osc8gSsOG]
+[1JMjiTMelK3x#0] ^*my$ ^daughter<n><sg>$^.<sent>$
+[/1JMjiTMelK3x]
+[1aew9lL_9tP1#0] ^Can<vbmod><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^help<n><sg>$ ^clean<adj><sint>$ ^*up$^?.<sent>$
+[/1aew9lL_9tP1]
+[2I_Mr3XkTXBp#0] ^Can<vbmod><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^write<vblex><inf>$ ^that<cnjsub>$ ^*down$ ^for<pr>$ ^prpers<prn><obj><p1><mf><sg>$^?.<sent>$
+[/2I_Mr3XkTXBp]
+[2lRb0VTnxjAR#0] ^Good evening<ij>$^.<sent>$
+[/2lRb0VTnxjAR]
+[2vZiceexAxPR#0] ^*Chai$ ^will<n><sg>$ ^be<vbser><inf>$ ^serve<vblex><pp>$^.<sent>$
+[/2vZiceexAxPR]
+[30Ba9D8oP3zk#0] ^*Deportation$ ^to<pr>$ ^Turkey<np><top><sg>$^.<sent>$
+[/30Ba9D8oP3zk]
+[35J2hZLLGucN#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^be<vbser><pp>$ ^take<vblex><ger>$ ^this<det><dem><sg>$ ^medication<n><sg>$ ^for<pr>$ ^year<n><pl>$^.<sent>$
+[/35J2hZLLGucN]
+[39U_rIbrzoEL#0] ^Do<vaux><past>$ ^prpers<prn><subj><p2><mf><sp>$ ^take<vblex><inf>$ ^*a$ ^*photograph$ ^on<pr>$ ^*your$ ^*phone$ ^*of$ ^*your$ ^Greek<adj>$ ^*documentation$^?.<sent>$
+[/39U_rIbrzoEL]
+[39rvclf7DkUE#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*diarrhoea$^.<sent>$
+[/39rvclf7DkUE]
+[3Tzl3L2PRqxH#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^be<vbser><pp>$ ^*raped$^.<sent>$
+[/3Tzl3L2PRqxH]
+[3wT-s_MxqncE#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^sick<adj><sint>$^.<sent>$
+[/3wT-s_MxqncE]
+[3xbJf5tDuapT#0] ^City<n><sg>$^.<sent>$
+[/3xbJf5tDuapT]
+[41IurcoHyVAd#0] ^Good morning<ij>$^.<sent>$
+[/41IurcoHyVAd]
+[4C50qnWzlB8L#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^*a$ ^*phone$ ^or<cnjcoo>$ ^*viber$ ^number<n><sg>$ ^*of$ ^*the$ ^person<n><sg>$ ^*missing$^?.<sent>$
+[/4C50qnWzlB8L]
+[4DdOBy88_UtC#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^*stung$ ^by<pr>$ ^*an$ ^insect<n><sg>$^.<sent>$
+[/4DdOBy88_UtC]
+[4VPOW5JQjGJt#0] ^CLOTHES<n><pl>$ ^*DISTRIBUTION$^.<sent>$
+[/4VPOW5JQjGJt]
+[4mEXAzKKotKp#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^never<adv>$ ^have<vbhaver><past>$ ^this<det><dem><sg>$ ^pain<n><sg>$ ^before<pr>$^.<sent>$
+[/4mEXAzKKotKp]
+[4nyYbXrO25ax#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^cold<n><sg>$^.<sent>$
+[/4nyYbXrO25ax]
+[4ux0ssdgfJrr#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$ ^pork<n><sg>$^.<sent>$
+[/4ux0ssdgfJrr]
+[518SM4WvfK_b#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^food<n><sg>$^,<cm>$ ^coffee<n><sg>$^,<cm>$ ^tea<n><sg>$^?.<sent>$
+[/518SM4WvfK_b]
+[5Q4qohsQp8ye#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*wheezing$^.<sent>$
+[/5Q4qohsQp8ye]
+[5RYvF6juuSrP#0] ^DO<vaux><inf>$ ^NOT<adv>$ ^ADD<vblex><inf>$ ^WATER<n><sg>$ ^TO<pr>$ ^THIS<det><dem><sg>$ ^PRODUCT<n><sg>$^.<sent>$
+[/5RYvF6juuSrP]
+[5SGF3jYsUOga#0] ^Do<vaux><pres><p3><sg>$ ^*anyone$ ^in<pr>$ ^*your$ ^group<n><sg>$ ^*require$ ^*medical$ ^attention<n><sg>$^?.<sent>$
+[/5SGF3jYsUOga]
+[63cb9i1vMWmy#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^child<n><pl>$ ^with<pr>$ ^prpers<prn><obj><p2><mf><sp>$^?.<sent>$
+[/63cb9i1vMWmy]
+[6DCyxFCYrgSr#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^stomach<n><sg>$ ^ache<vblex><inf>$^.<sent>$
+[/6DCyxFCYrgSr]
+[76OXPQl2TS8F#0] ^Both<det><ind><pl>$ ^*of$ ^*them$ ^have<vbhaver><inf>$ ^*a$ ^similar<adj>$ ^*pricing$ ^policy<n><sg>$^:.<sent>$
+[/76OXPQl2TS8F]
+[77uA9ajcXAyz#0] ^*The$ ^pain<n><sg>$ ^*started$ ^*gradually$^.<sent>$
+[/77uA9ajcXAyz]
+[7AsQaAr_OJ9y#0] ^IMPORTANT<adj>$ ^WARNING<n><sg>$^:<sent>$ ^*A$ ^mother<n><sg>$^have<vbhaver><pres><p3><sg>$ ^*breastmilk$ ^be<vbser><pres><p3><sg>$ ^*the$ ^good<adj><sint><sup>$ ^food<n><sg>$ ^for<pr>$ ^*her$ ^*infant$^.<sent>$
+[/7AsQaAr_OJ9y]
+[7TjQfxS68p1_#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^bite<vblex><pp>$^.<sent>$
+[/7TjQfxS68p1_]
+[7U5R0Q6mLHHg#0] ^Airport<n><sg>$^.<sent>$
+[/7U5R0Q6mLHHg]
+[7Ugg4-_QVJL7#0] ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$ ^not<adv>$ ^see<vblex><inf>$^.<sent>$
+[/7Ugg4-_QVJL7]
+[7WJ4pzhe7uZb#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^thirsty<adj><sint>$^.<sent>$
+[/7WJ4pzhe7uZb]
+[7kJ9qxGgl3-X#0] ^As<pr>$ ^*of$ ^5<num>$^*th$ ^*of$ ^June<n><sg>$ ^and<cnjcoo>$ ^until<pr>$ ^*the$ ^end<n><sg>$ ^*of$ ^*the$ ^*Ramadan$ ^Period<n><sg>$^,<cm>$ ^on<pr>$ ^5<num>$^*th$ ^*of$ ^*July$^,<cm>$ ^breakfast<n><sg>$ ^will<n><sg>$ ^be<vbser><inf>$ ^serve<vblex><pp>$ ^with<pr>$ ^dinner<n><sg>$ ^at<pr>$ ^19.00<num>$^,<cm>$ ^*while$ ^lunch<n><sg>$ ^will<n><sg>$ ^be<vbser><inf>$ ^serve<vblex><pp>$ ^as<pr>$ ^usual<adj>$^.<sent>$
+[/7kJ9qxGgl3-X]
+[7sZKLpDySLXB#0] ^Prpers<prn><subj><p1><mf><sg>$ ^vomit<n><sg>$ ^*up$ ^all<adv>$ ^food<n><sg>$ ^and<cnjcoo>$ ^drink<n><pl>$^.<sent>$
+[/7sZKLpDySLXB]
+[80mHn8BkAKxI#0] ^*my$ ^baby<n><sg>$^.<sent>$
+[/80mHn8BkAKxI]
+[83hnxOJ1Kg0J#0] ^*Chios$ – ^*Kavala$^.<sent>$
+[/83hnxOJ1Kg0J]
+[8QpYCK8YgCCx#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*bleeding$^.<sent>$
+[/8QpYCK8YgCCx]
+[8Yu7eo2Ps3qC#0] ^*elderly$ ^person<n><pl>$^,<cm>$^.<sent>$
+[/8Yu7eo2Ps3qC]
+[8iGw5cgrRTDN#0] ^Coffee<n><sg>$^.<sent>$
+[/8iGw5cgrRTDN]
+[9-Fp8ky1d1p8#0] ^*My$ ^child<n><sg>$ ^have<vbhaver><pres><p3><sg>$ ^*a$ ^*sore$ ^cough<vblex><pres>$^.<sent>$
+[/9-Fp8ky1d1p8]
+[9Rvq1IjhS2Vq#0] ^Thanks<n><pl>$^.<sent>$
+[/9Rvq1IjhS2Vq]
+[9Uh-1LNTpR1S#0] ^*Somebody$ ^hit<vblex><past>$ ^prpers<prn><obj><p1><mf><sg>$^.<sent>$
+[/9Uh-1LNTpR1S]
+[9exNQZvzEqVE#0] ^Do<vaux><inf>$ ^not<adv>$ ^use<vblex><inf>$ ^*a$ ^bottle<n><sg>$^.<sent>$ ^Use<vblex><pres>$ ^*a$ ^clean<adj><sint>$ ^cup<n><sg>$^.<sent>$
+[/9exNQZvzEqVE]
+[9xq4uhekUzr0#0] ^*My$ ^heart<n><sg>$ ^beat<n><pl>$ ^*irregular$^.<sent>$
+[/9xq4uhekUzr0]
+[A0JMzPeEdYn0#0] ^*My$ ^.<sent>$ ^be<vbser><pres><p3><sg>$ ^*paralysed$^.<sent>$
+[/A0JMzPeEdYn0]
+[A1X5OltON2gd#0] ^Prpers<prn><subj><p1><mf><sg>$ ^take<vblex><pres>$ ^this<det><dem><sg>$ ^medication<n><sg>$ ^every<det><ind><sg>$ ^day<n><sg>$^.<sent>$
+[/A1X5OltON2gd]
+[A3uCHOYT4bh6#0] ^Do<vaux><pres><p3><sg>$ ^*anyone$ ^in<pr>$ ^*your$ ^group<n><sg>$ ^speak<vblex><pres>$ ^English<adj>$^?.<sent>$
+[/A3uCHOYT4bh6]
+[A6Y5THW2exH3#0] ^Clothing<n><sg>$ ^(<lpar>$^only<adv>$ ^for<pr>$ ^wet<vblex><pp>$ ^person<n><pl>$^)<rpar>$^.<sent>$
+[/A6Y5THW2exH3]
+[AMmMQxY8yJyh#0] ^Criterion<n><pl>$ ^for<pr>$ ^Subsidiary<adj>$ ^Protection<n><sg>$^.<sent>$
+[/AMmMQxY8yJyh]
+[AV0rFQSebrbT#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$’^*t$ ^know<vblex><pres>$^.<sent>$
+[/AV0rFQSebrbT]
+[AmRMAvNzDNtH#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^*a$ ^*photograph$ ^*of$ ^Greek<adj>$ ^document<n><pl>$^?.<sent>$
+[/AmRMAvNzDNtH]
+[AtndzyHwbI-F#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$'^*t$ ^speak<vblex><pres>$ ^(<lpar>$^English<adj>$^)<rpar>$ ^very<preadv>$ ^well<n><sg>$^.<sent>$
+[/AtndzyHwbI-F]
+[AwNShgKk_uKC#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^headache<n><sg>$^.<sent>$
+[/AwNShgKk_uKC]
+[B5JxnBTVebiC#0] ^Be<vbser><imp>$ ^part<n><sg>$ ^*of$ ^*the$ ^*relocation$ ^process<n><sg>$ ^but<cnjcoo>$ ^prpers<prn><obj><p2><mf><sp>$ ^be<vbser><pres>$ ^at<pr>$ ^*the$ ^end<n><sg>$ ^*of$ ^*the$ ^line<n><sg>$^.<sent>$
+[/B5JxnBTVebiC]
+[BFlxh5DNmRxg#0] ^*It$ ^hurt<vblex><pres><p3><sg>$ ^here<adv>$^.<sent>$
+[/BFlxh5DNmRxg]
+[BNxmouqPYFsN#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^able<adj><sint>$ ^to<pr>$ ^write<vblex><inf>$ ^*your$ ^name<n><sg>$^?.<sent>$
+[/BNxmouqPYFsN]
+[Bl3hcHUoGQqE#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$’^*t$ ^understand<vblex><pres>$^.<sent>$
+[/Bl3hcHUoGQqE]
+[By01VJ-Bkp9P#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^want<vblex><inf>$ ^to<pr>$ ^stay<vblex><inf>$ ^in<pr>$ ^*the$ ^child<n><pl>$ ^and<cnjcoo>$ ^family<n><pl>$' ^centre<n><sg>$ ^*tonight$^?.<sent>$
+[/By01VJ-Bkp9P]
+[C75gSBpxaTUB#0] ^What<prn><itg><mf><sp>$ ^happen<vblex><past>$^?.<sent>$
+[/C75gSBpxaTUB]
+[CFjALpIWyYUO#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^pregnant<adj>$^.<sent>$
+[/CFjALpIWyYUO]
+[CTLOQtkvAhgo#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^share<n><sg>$ ^*your$ ^information<n><sg>$ ^with<pr>$ ^*my$ ^colleague<n><pl>$ ^at<pr>$ ^*the$ ^next<adj>$ ^train<n><sg>$ ^stop<vblex><inf>$ ^so<adv>$ ^prpers<prn><subj><p1><mf><pl>$ ^can<vbmod><pres>$ ^*provide$ ^service<n><pl>$ ^for<pr>$ ^prpers<prn><obj><p2><mf><sp>$ ^there<adv>$^?.<sent>$
+[/CTLOQtkvAhgo]
+[Cpi1pZJX41eG#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><past>$ ^*a$ ^cold<n><sg>$ ^*sweat$^.<sent>$
+[/Cpi1pZJX41eG]
+[D-howE2Py_Xr#0] ^Ask<vblex><imp>$ ^for<pr>$ ^*a$ ^translator<n><sg>$ ^to<pr>$ ^*discuss$ ^family<n><sg>$ ^issue<n><pl>$^.<sent>$
+[/D-howE2Py_Xr]
+[D5eUOhxQnUGF#0] ^Be<vbser><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^hurt<vblex><past>$^?.<sent>$
+[/D5eUOhxQnUGF]
+[DC-34x6GqlIx#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^sad<adj><sint>$^.<sent>$
+[/DC-34x6GqlIx]
+[DOPvRI4vmIpN#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^speak<vblex><inf>$ ^English<adj>$^?.<sent>$
+[/DOPvRI4vmIpN]
+[DUk1Nz6k1DXN#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^help<n><sg>$ ^prpers<prn><obj><p2><mf><sp>$ ^clean<adj><sint>$^?.<sent>$
+[/DUk1Nz6k1DXN]
+[DcsrjRqNgep1#0] ^*Once$ ^prpers<prn><subj><p2><mf><sp>$ ^start<n><sg>$ ^use<vblex><ger>$ ^this<det><dem><sg>$ ^milk<n><sg>$ ^*it$ ^*might$ ^not<adv>$ ^be<vbser><inf>$ ^easy<adj><sint>$ ^to<pr>$ ^start<n><sg>$ ^*breastfeeding$ ^again<adv>$^.<sent>$
+[/DcsrjRqNgep1]
+[DtGfvYUDNtBq#0] ^*My$ ^urine<n><sg>$ ^smell<n><pl>$ ^bad<adj><sint>$^.<sent>$
+[/DtGfvYUDNtBq]
+[Du3TneOZvIoF#0] ^*My$ ^.<sent>$ ^be<vbser><pres><p3><sg>$ ^weak<adj><sint>$^.<sent>$
+[/Du3TneOZvIoF]
+[E1EMi3tFcGmT#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^*temperature$^.<sent>$
+[/E1EMi3tFcGmT]
+[E6_9CGQeRN8x#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^*raped$^.<sent>$
+[/E6_9CGQeRN8x]
+[EAho--SC7yUz#0] ^This<det><dem><sg>$ ^product<n><sg>$ ^*must$ ^not<adv>$ ^be<vbser><inf>$ ^use<vblex><pp>$ ^after<pr>$ ^date<n><sg>$ ^print<vblex><pp>$ ^at<pr>$ ^*the$ ^bottom<n><sg>$ ^*of$ ^*the$ ^tin<n><sg>$\/^pack<n><sg>$^.<sent>$
+[/EAho--SC7yUz]
+[EAsRVvHJqusl#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^to<pr>$ ^*photocopy$ ^*a$ ^document<n><sg>$^?.<sent>$
+[/EAsRVvHJqusl]
+[ECP43oD9yk7u#0] ^DO<vaux><inf>$ ^NOT<adv>$ ^cut<vblex><pp>$ ^open<adj>$ ^*the$ ^wound<n><sg>$ ^*of$ ^try<vblex><inf>$ ^to<pr>$ ^remove<vblex><inf>$ ^*the$ ^*venom$^.<sent>$
+[/ECP43oD9yk7u]
+[EfiSikrcaGWb#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^understand<vblex><inf>$ ^this<det><dem><sg>$ ^language<n><sg>$^?.<sent>$
+[/EfiSikrcaGWb]
+[Ek6yc_mgpHDj#0] ^Prpers<prn><subj><p2><mf><sp>$ ^be<vbser><pres>$ ^*welcome$^.<sent>$
+[/Ek6yc_mgpHDj]
+[EvZOiehCrUrW#0] ^Deck<n><sg>$^:<sent>$ € ^41,5<num>$^.<sent>$
+[/EvZOiehCrUrW]
+[FTT1cvb-yvOd#0] ^Criterion<n><pl>$ ^for<pr>$ ^*Humanitarian$ ^*Residency$ ^*permit$^.<sent>$
+[/FTT1cvb-yvOd]
+[FWmILbCd7Rzg#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^to<pr>$ ^*access$ ^*a$ ^*computer$^?.<sent>$
+[/FWmILbCd7Rzg]
+[Fh7UvUiyzKKx#0] ^There<adv>$ ^be<vbser><pres><p3><sg>$ ^*a$ ^*medical$ ^reason<n><sg>$ ^not<adv>$ ^to<pr>$ ^*breastfeed$^.<sent>$
+[/Fh7UvUiyzKKx]
+[Fx1swm7y8dKP#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^know<vblex><inf>$ ^which<det><itg><sp>$ ^group<n><sg>$ ^prpers<prn><subj><p2><mf><sp>$ ^be<vbser><pres>$ ^in<pr>$^?.<sent>$
+[/Fx1swm7y8dKP]
+[GE_dWfKFIf1F#0] ^Prpers<prn><subj><p1><mf><sg>$ ^think<vblex><pres>$ ^about<pr>$ ^suicide<n><sg>$^.<sent>$
+[/GE_dWfKFIf1F]
+[GbgJ9QOY6EvK#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^*frightened$^.<sent>$
+[/GbgJ9QOY6EvK]
+[GsY7tFUB2RnR#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^cough<vblex><ger>$ ^*up$ ^*sputum$^.<sent>$
+[/GsY7tFUB2RnR]
+[Gyxo2wCba4gs#0] ^Do<vaux><past>$ ^prpers<prn><subj><p2><mf><sp>$ ^try<vblex><inf>$ ^to<pr>$ ^move<n><sg>$ ^to<pr>$ ^*another$ ^part<n><sg>$ ^*of$ ^*your$ ^country<n><sg>$ ^to<pr>$ ^*avoid$ ^*your$ ^problem<n><pl>$^?.<sent>$
+[/Gyxo2wCba4gs]
+[H8UUTWU1XHb2#0] ^Do<vaux><past>$ ^*the$ ^police<n><pl>$ ^*tell$ ^prpers<prn><obj><p2><mf><sp>$ ^to<pr>$ ^take<vblex><inf>$ ^*a$ ^train<n><sg>$^?.<sent>$
+[/H8UUTWU1XHb2]
+[HT68pYBjUbNl#0] ^Buy<vblex><imp>$ ^ticket<n><pl>$ ^in<pr>$ ^advance<n><sg>$^.<sent>$
+[/HT68pYBjUbNl]
+[HynyAf8ohbkP#0] ^This<det><dem><sg>$ ^be<vbser><pres><p3><sg>$ ^*my$ ^medication<n><sg>$^.<sent>$
+[/HynyAf8ohbkP]
+[Hz9VIgZKQjRB#0] ^Prpers<prn><subj><p2><mf><sp>$ ^understand<vblex><pres>$ ^all<adv>$ ^*the$ ^instruction<n><pl>$^.<sent>$
+[/Hz9VIgZKQjRB]
+[I814kWwU5yzd#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*freezing$^.<sent>$
+[/I814kWwU5yzd]
+[IB6kPZKa2QmR#0] ‘^*Serious$ ^harm<n><sg>$’ ^means<n><pl>$^:.<sent>$
+[/IB6kPZKa2QmR]
+[IKeVUbcuQyJb#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^cough<vblex><ger>$ ^*up$ ^blood<n><sg>$^.<sent>$
+[/IKeVUbcuQyJb]
+[IVKULBdpuglB#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*asthma$^.<sent>$
+[/IVKULBdpuglB]
+[IkHRoRheNqom#0] ^*Where$ ^can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^fill<vblex><inf>$ ^this<det><dem><sg>$ ^*prescription$^?.<sent>$
+[/IkHRoRheNqom]
+[IsDAyQSw_nlx#0] ^*my$ ^child<n><pl>$^.<sent>$
+[/IsDAyQSw_nlx]
+[ItRFhBxAkOdu#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^pain<n><sg>$ ^when<cnjadv>$ ^urinate<vblex><ger>$^.<sent>$
+[/ItRFhBxAkOdu]
+[Iv9YBpx_lRwO#0] ^*Where$ ^be<vbser><pres><p3><sg>$ ^*the$ ^toilet<n><sg>$^?.<sent>$
+[/Iv9YBpx_lRwO]
+[JKshymwdP0RY#0] ^Do<vaux><inf>$ ^not<adv>$ ^charge<n><sg>$ ^*your$ ^*phone$ ^here<adv>$^.<sent>$
+[/JKshymwdP0RY]
+[JZR7S3uHLWYR#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^to<pr>$ ^sleep<vblex><inf>$^.<sent>$
+[/JZR7S3uHLWYR]
+[JifMvYbsWM1T#0] ^Be<vbser><pres><p3><sg>$ ^this<det><dem><sg>$ ^food<n><sg>$ ^Halal<adj>$^?.<sent>$
+[/JifMvYbsWM1T]
+[K2h9timLYp07#0] ^Goodbye<ij>$^.<sent>$
+[/K2h9timLYp07]
+[KOPLmrEZP_rP#0] ^*It$ ^be<vbser><pres><p3><sg>$ ^*a$ ^sharp<adj><sint>$ ^pain<n><sg>$^.<sent>$
+[/KOPLmrEZP_rP]
+[Kn7iWMHz3E47#0] ^*It$ ^hurt<vblex><pres><p3><sg>$ ^when<cnjadv>$ ^Prpers<prn><subj><p1><mf><sg>$ ^*touch$ ^*it$^.<sent>$
+[/Kn7iWMHz3E47]
+[Kp14QA6SSt7Y#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^hungry<adj><sint>$^.<sent>$
+[/Kp14QA6SSt7Y]
+[LA0SYTIOa6Pf#0] ^Do<vaux><past>$ ^*the$ ^police<n><pl>$ ^*tell$ ^prpers<prn><obj><p2><mf><sp>$ ^to<pr>$ ^take<vblex><inf>$ ^*a$ ^*taxi$^?.<sent>$
+[/LA0SYTIOa6Pf]
+[LBrFN0b3-4dS#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^want<vblex><inf>$ ^*a$ ^lawyer<n><sg>$^?.<sent>$
+[/LBrFN0b3-4dS]
+[LK10Zi_j4SYl#0] ^Do<vaux><pres><p3><sg>$ ^*the$ ^beach<n><sg>$ ^need<n><sg>$ ^clean<adj><sint>$ ^*up$^?.<sent>$
+[/LK10Zi_j4SYl]
+[LQbJ3yoRplh-#0] ^*Departure$ ^*Point$^.<sent>$
+[/LQbJ3yoRplh-]
+[LWsH5LxNcIHX#0] ^Do<vaux><past>$ ^prpers<prn><obj><p2><mf><sp>$ ^pay<n><sg>$ ^more<adv>$ ^*than$ ^*the$ ^state<vblex><pp>$ ^price<n><sg>$^?.<sent>$
+[/LWsH5LxNcIHX]
+[LYvX2btfhbpk#0] ^Hello<ij>$^.<sent>$
+[/LYvX2btfhbpk]
+[M6969AW8Ne6j#0] ^*It$ ^*gets$ ^bad<adj><sint><comp>$ ^when<cnjadv>$ ^Prpers<prn><subj><p1><mf><sg>$ ^lie# down<vblex><pres>$^.<sent>$
+[/M6969AW8Ne6j]
+[MHfKv6hdFmP6#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*constipation$^.<sent>$
+[/MHfKv6hdFmP6]
+[MR4uCNH3tHeK#0] ^*Where$ ^be<vbser><pres><p3><sg>$^.?.<sent>$
+[/MR4uCNH3tHeK]
+[MdnmzcosMrDl#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^have<vbhaver><past>$ ^this<det><dem><sg>$ ^pain<n><sg>$ ^before<pr>$^.<sent>$
+[/MdnmzcosMrDl]
+[MiR9N3SLM5Wp#0] ^*Where$ ^can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^*pray$^?.<sent>$
+[/MiR9N3SLM5Wp]
+[MiZA9rxSkU95#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^difficulty<n><sg>$ ^breathing<n><sg>$^.<sent>$
+[/MiZA9rxSkU95]
+[MqQJXTYakU_c#0] ^*My$ ^.<sent>$ ^be<vbser><pres><p3><sg>$ ^*tingling$^.<sent>$
+[/MqQJXTYakU_c]
+[MqZmBAgGtg8-#0] ^*It$ ^be<vbser><pres><p3><sg>$ ^*a$ ^*dull$ ^pain<n><sg>$^.<sent>$
+[/MqZmBAgGtg8-]
+[N1D-qcQf_0NC#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^*sore$ ^throat<n><sg>$^.<sent>$
+[/N1D-qcQf_0NC]
+[NKA0kPBBNPhW#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*HIV$^.<sent>$
+[/NKA0kPBBNPhW]
+[Np5pm40Gt6Xg#0] ^Prpers<prn><subj><p1><mf><sg>$ ^fall<vblex><past>$ ^from<pr>$ ^*a$ ^height<n><sg>$^.<sent>$
+[/Np5pm40Gt6Xg]
+[NyL9kvZue7Sk#0] ^Come<vblex><imp>$ ^*over$ ^here<adv>$^!.<sent>$
+[/NyL9kvZue7Sk]
+[OA_qEEphhc34#0] ^*Arrange$ ^*a$ ^meet<vblex><pprs>$ ^*point$^.<sent>$
+[/OA_qEEphhc34]
+[OXRPGgfVUDcM#0] ^Do<vaux><past>$ ^prpers<prn><obj><p2><mf><sp>$ ^*receive$ ^*a$ ^blanket<n><sg>$ ^or<cnjcoo>$ ^warm<adj><sint>$ ^clothing<n><sg>$^?.<sent>$
+[/OXRPGgfVUDcM]
+[Oat03cLfkJ_j#0] ^*The$ ^pain<n><sg>$ ^*started$ ^here<adv>$ ^and<cnjcoo>$ ^go<vblex><pres><p3><sg>$ ^to<pr>$ ^here<adv>$^.<sent>$
+[/Oat03cLfkJ_j]
+[OhX_Us3-3G7d#0] ^What<prn><itg><mf><sp>$ ^time<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*it$^?.<sent>$
+[/OhX_Us3-3G7d]
+[OmdFNWS6MxPR#0] ^Currency<n><sg>$ ^exchange<n><sg>$ ^at<pr>$ ^*Chios$ ^Bank<n><sg>$^.<sent>$
+[/OmdFNWS6MxPR]
+[OseQxnKUg-0M#0] ^Prpers<prn><subj><p1><mf><sg>$ ^will<n><sg>$ ^be<vbser><inf>$ ^back<n><sg>$ ^*soon$^.<sent>$
+[/OseQxnKUg-0M]
+[Osjy5AR5OCt6#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^*ill$^.<sent>$
+[/Osjy5AR5OCt6]
+[Ou_v_BbiOaB8#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^able<adj><sint>$ ^to<pr>$ ^write<vblex><inf>$ ^*the$ ^name<n><sg>$ ^*of$ ^*the$ ^person<n><sg>$ ^*missing$^?.<sent>$
+[/Ou_v_BbiOaB8]
+[P8jGXK3fILYV#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^sad<adj><sint>$^.<sent>$
+[/P8jGXK3fILYV]
+[PDX1YxBhT7jC#0] ^Asylum<n><sg>$ ^in<pr>$ ^Greece<np><top><sg>$^.<sent>$
+[/PDX1YxBhT7jC]
+[PS3xHP3zJpjK#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^epilepsy<n><sg>$^.<sent>$
+[/PS3xHP3zJpjK]
+[PttgwO7mmpUC#0] ^This<det><dem><sg>$ ^be<vbser><pres><p3><sg>$ ^*my$ ^mother<n><sg>$^.<sent>$
+[/PttgwO7mmpUC]
+[Pyqj9juGsrTH#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^feeling<n><sg>$ ^*dizzy$^?.<sent>$
+[/Pyqj9juGsrTH]
+[Pz8vpPURUWEm#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^*planning$ ^to<pr>$ ^*apply$ ^for<pr>$ ^asylum<n><sg>$ ^in<pr>$ ^*fYR$ ^Macedonia<np><top><sg>$^?.<sent>$
+[/Pz8vpPURUWEm]
+[Q3_ZY0KO0hZ1#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^happy<adj><sint>$^.<sent>$
+[/Q3_ZY0KO0hZ1]
+[Q5HMqE9Xm-7a#0] ^*It$ ^already<adv>$ ^have<vbhaver><pres><p3><sg>$ ^pure<adj><sint>$ ^water<n><sg>$ ^add<vblex><past>$^:<sent>$ ^*it$ ^be<vbser><pres><p3><sg>$ ^not<adv>$ ^necessary<adj>$ ^to<pr>$ ^add<vblex><inf>$ ^water<n><sg>$^.<sent>$
+[/Q5HMqE9Xm-7a]
+[QCwokCp1xEwb#0] ^Clothes<n><pl>$ ^ONLY<adv>$ ^for<pr>$ ^wet<vblex><pp>$ ^person<n><pl>$^.<sent>$
+[/QCwokCp1xEwb]
+[QIF35yWmRpnE#0] ^*Hold$ ^*your$ ^baby<n><sg>$ ^close<adj><sint>$ ^to<pr>$ ^prpers<prn><subj><p2><mf><sp>$ ^and<cnjcoo>$ ^let<vblex><past>$ ^*him$\/^*her$ ^*sip$ ^*slowly$^.<sent>$
+[/QIF35yWmRpnE]
+[QLpUP5lD1ixJ#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^*any$ ^*other$ ^*documentation$ ^that<cnjsub>$ ^show<n><pl>$ ^*your$ ^*nationality$^?.<sent>$
+[/QLpUP5lD1ixJ]
+[Qp1M8qdt6Ojg#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^*feel$ ^comfortable<adj>$ ^stay<vblex><subs>$ ^at<pr>$ ^this<det><dem><sg>$ ^*site$ ^today<adv>$^?.<sent>$
+[/Qp1M8qdt6Ojg]
+[QrN-8lZOubaR#0] ^Be<vbser><pres>$ ^this<det><dem><pl>$ ^*your$ ^child<n><pl>$^?.<sent>$
+[/QrN-8lZOubaR]
+[QspVqdJVIiD_#0] ^*Where$ ^be<vbser><pres><p3><sg>$ ^*the$ ^subway<n><sg>$\/^underground<adj>$^?.<sent>$
+[/QspVqdJVIiD_]
+[R5jfHFJpgyDe#0] ^Prpers<prn><subj><p1><mf><sg>$ ^like<pr>$ ^prpers<prn><obj><p2><mf><sp>$^.<sent>$
+[/R5jfHFJpgyDe]
+[R5mF1seGJLwF#0] ^Do<vaux><pres><p3><sg>$ ^*the$ ^person<n><sg>$ ^*missing$ ^have<vbhaver><inf>$ ^*your$ ^*phone$ ^or<cnjcoo>$ ^*viber$ ^number<n><sg>$^?.<sent>$
+[/R5mF1seGJLwF]
+[RAA3e58r74YK#0] ^Do<vaux><inf>$ ^not<adv>$ ^*keep$ ^*leftover$ ^milk<n><sg>$ ^for<pr>$ ^more<adv>$ ^*than$ ^1<num>$ ^hour<n><sg>$ – ^*it$ ^will<n><sg>$ ^*become$ ^unclean<adj>$ ^and<cnjcoo>$ ^unsafe<adj>$^.<sent>$
+[/RAA3e58r74YK]
+[RHHd1xBeGCaI#0] ^Do<vaux><inf>$ ^not<adv>$ ^smoke<n><sg>$ ^inside<n><sg>$^.<sent>$
+[/RHHd1xBeGCaI]
+[RKRmJTWcHYfk#0] ^Church<n><sg>$^.<sent>$
+[/RKRmJTWcHYfk]
+[RLRTbT0f6PL1#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*bleeding$ ^from<pr>$ ^*my$ ^anus<n><sg>$^.<sent>$
+[/RLRTbT0f6PL1]
+[RPO87-xOmbbm#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^*medical$ ^attention<n><sg>$^?.<sent>$
+[/RPO87-xOmbbm]
+[RV1OYe3gvx8X#0] ^*The$ ^pain<n><sg>$ ^*started$ ^*suddenly$^.<sent>$
+[/RV1OYe3gvx8X]
+[RZ1nvQlrmLt0#0] ^Come<vblex><imp>$ ^back<adv>$ ^to<pr>$ ^*UNHCR$ ^tent<n><sg>$ ^(<lpar>$^few<adj><sint>$ ^hour<n><pl>$^)<rpar>$^.<sent>$
+[/RZ1nvQlrmLt0]
+[RarAZAGzPqXb#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^unconscious<adj>$^.<sent>$
+[/RarAZAGzPqXb]
+[S39AB8yOpqW1#0] ^*My$ ^..<sent>$ ^*feels$ ^*numb$^.<sent>$
+[/S39AB8yOpqW1]
+[SDQRdSubwRdi#0] ^Because<cnjsub>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^*a$ ^well<n><sg>$^-<guio>$^found<vblex><pp>$ ^fear<n><sg>$^:.<sent>$
+[/SDQRdSubwRdi]
+[SpO4wI6DDzM7#0] ^This<det><dem><sg>$ ^milk<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*sufficient$ ^for<pr>$ ^all<adv>$ ^need<n><pl>$ ^*of$ ^*a$ ^baby<n><sg>$ ^until<pr>$ ^*the$ ^age<n><sg>$ ^*of$ ^six<num><pl>$ ^(<lpar>$^6<num>$^)<rpar>$ ^month<n><pl>$^.<sent>$
+[/SpO4wI6DDzM7]
+[StVpfEBdkpY7#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^help<n><sg>$^?.<sent>$
+[/StVpfEBdkpY7]
+[StkjxDPLPBDj#0] ^There<adv>$ ^be<vbser><pres><p3><sg>$ ^blood<n><sg>$ ^in<pr>$ ^*my$ ^*faeces$^.<sent>$
+[/StkjxDPLPBDj]
+[SzMOFAGY8zvk#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^want<vblex><inf>$ ^to<pr>$ ^speak<vblex><inf>$ ^*privately$ ^with<pr>$ ^*a$ ^translator<n><sg>$^?.<sent>$
+[/SzMOFAGY8zvk]
+[T-xJF9N40DCr#0] ^Airplane<n><pl>$^:.<sent>$
+[/T-xJF9N40DCr]
+[Tqy7WRKzUkOP#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^*please$ ^take<vblex><inf>$ ^*your$ ^name<n><sg>$ ^so<adv>$ ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$ ^check<n><sg>$ ^*the$ ^database<n><sg>$^?.<sent>$
+[/Tqy7WRKzUkOP]
+[U-pb2fpjliyw#0] ^*Don$’^*t$ ^worry<n><sg>$^.<sent>$
+[/U-pb2fpjliyw]
+[U3sfshkQeAdq#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^more<adv>$ ^*of$ ^this<det><dem><sg>$ ^medication<n><sg>$^.<sent>$
+[/U3sfshkQeAdq]
+[UC_-wr73enJj#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^share<n><sg>$ ^*your$ ^information<n><sg>$ ^with<pr>$ ^*my$ ^colleague<n><pl>$ ^in<pr>$ ^Serbia<np><top><sg>$ ^so<adv>$ ^prpers<prn><subj><p1><mf><pl>$ ^can<vbmod><pres>$ ^*provide$ ^service<n><pl>$ ^for<pr>$ ^prpers<prn><obj><p2><mf><sp>$ ^there<adv>$^?.<sent>$
+[/UC_-wr73enJj]
+[Uk4OiUXSkDVQ#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^to<pr>$ ^make<vblex><inf>$ ^*a$ ^*phone$ ^call<n><sg>$^.<sent>$
+[/Uk4OiUXSkDVQ]
+[UkgDq7bDiYJs#0] ^Can<vbmod><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^show<vblex><inf>$ ^prpers<prn><obj><p1><mf><pl>$ ^*the$ ^*GPS$ ^spot<n><sg>$ ^on<pr>$ ^*your$ ^*phone$ ^to<pr>$ ^find<vblex><inf>$ ^*the$ ^*others$^!.<sent>$
+[/UkgDq7bDiYJs]
+[UqCmjgalygTp#0] ^Bus<n><sg>$ ^fare<n><sg>$ ^be<vbser><pres><p3><sg>$ ^3<num>$ ^*euros$^.<sent>$
+[/UqCmjgalygTp]
+[V15Z8xG6v1ck#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*diabetic$^.<sent>$
+[/V15Z8xG6v1ck]
+[VO28fuRJr2VZ#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p3><sg>$ ^*stabbed$\/ ^cut<vblex><pp>$ ^with<pr>$ ^*a$ ^knife<n><sg>$^.<sent>$
+[/VO28fuRJr2VZ]
+[VO7AsGXpkakT#0] ^*Where$ ^can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^buy<vblex><inf>$_____^?.<sent>$
+[/VO7AsGXpkakT]
+[VYCsRxrH6-Ih#0] ^Do<vaux><past>$ ^prpers<prn><subj><p2><mf><sp>$ ^see<vblex><inf>$ ^*any$ ^refugee<n><pl>$^?.<sent>$
+[/VYCsRxrH6-Ih]
+[VoiUENPrU677#0] ^*Emergency$ ^Clothing<n><sg>$ ^Centre<n><sg>$^.<sent>$
+[/VoiUENPrU677]
+[Vtj0DlXf57Ig#0] ^Call<n><sg>$ ^and<cnjcoo>$ ^*notify$ ^*XXX$ ^*upon$ ^arrival<n><sg>$^.<sent>$
+[/Vtj0DlXf57Ig]
+[Vxurrl8D1LqX#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^to<pr>$ ^see<vblex><inf>$ ^*a$ ^doctor<n><sg>$^.<sent>$
+[/Vxurrl8D1LqX]
+[W8FOaV899hEg#0] ^Suitable<adj>$ ^from<pr>$ ^Birth<n><sg>$^.<sent>$
+[/W8FOaV899hEg]
+[WA0SI0H7pDJh#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^money<n><sg>$ ^to<pr>$ ^purchase<n><sg>$ ^*your$ ^ticket<n><pl>$^?.<sent>$
+[/WA0SI0H7pDJh]
+[WUl4WSU43Fiq#0] ^*INFANT$ ^FORMULA<n><sg>$^.<sent>$
+[/WUl4WSU43Fiq]
+[WhtkFD1cIyYa#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^*fever$^.<sent>$
+[/WhtkFD1cIyYa]
+[WiBO1h12TM-O#0] ^*The$ ^pain<n><sg>$ ^be<vbser><pres><p3><sg>$ ^there<adv>$ ^all<adv>$ ^*the$ ^time<n><sg>$^.<sent>$
+[/WiBO1h12TM-O]
+[WncCOb15lAh2#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^*dizzy$^.<sent>$
+[/WncCOb15lAh2]
+[X1RwsdOyenLK#0] ^Prpers<prn><subj><p1><mf><sg>$ ^urinate<vblex><pres>$ ^every<det><ind><sg>$ ^hour<n><sg>$^.<sent>$
+[/X1RwsdOyenLK]
+[X31Zui041spu#0] ^BOTTLE<n><pl>$ ^AND<cnjcoo>$ ^UNCLEAN<adj>$ ^CUP<n><pl>$ ^CAN<vbmod><pres>$ ^MAKE<vblex><inf>$ ^*YOUR$ ^CHILD<n><sg>$ ^SICK<adj><sint>$^!.<sent>$
+[/X31Zui041spu]
+[XFHqdSAedKyH#0] ^*My$ ^child<n><sg>$ ^be<vbser><pres><p3><sg>$ ^hungry<adj><sint>$^.<sent>$
+[/XFHqdSAedKyH]
+[XgXbAolH_LiT#0] ^Charge<n><sg>$ ^*your$ ^*phone$ ^in<pr>$ ^big<adj><sint>$ ^tent<n><pl>$ ^or<cnjcoo>$ ^*ICT$ ^centre<n><sg>$^.<sent>$
+[/XgXbAolH_LiT]
+[XkYZM3zni2v8#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^stomach<n><sg>$ ^ache<vblex><inf>$^.<sent>$
+[/XkYZM3zni2v8]
+[Xu71QZBKx1iI#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*would$ ^like<pr>$ ^*an$ ^appointment<n><sg>$^.<sent>$
+[/Xu71QZBKx1iI]
+[XzZ0JOq2QfKY#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^*insulin$^.<sent>$
+[/XzZ0JOq2QfKY]
+[YWyXdLfrEb_I#0] ^This<det><dem><sg>$ ^be<vbser><pres><p3><sg>$ ^*my$ ^husband<n><sg>$^.<sent>$
+[/YWyXdLfrEb_I]
+[YwKNfGdoL7b2#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$ ^*access$ ^to<pr>$ ^*a$ ^*phone$^?.<sent>$
+[/YwKNfGdoL7b2]
+[Yx4OC5PwuyRM#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^have<vbhaver><ger>$ ^*an$ ^*allergic$ ^reaction<n><sg>$^.<sent>$
+[/Yx4OC5PwuyRM]
+[Z2bwn9xesmqe#0] ^*Please$^.<sent>$
+[/Z2bwn9xesmqe]
+[Z4KbKnWWnu6m#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^diabetes<n><sg>$^.<sent>$
+[/Z4KbKnWWnu6m]
+[Z4uubif23DFo#0] ^*my$ ^son<n><sg>$^.<sent>$
+[/Z4uubif23DFo]
+[ZClm7gcYjQ1l#0] ^Prpers<prn><subj><p1><mf><sg>$ ^hear<vblex><pres>$ ^voice<n><pl>$ ^when<cnjadv>$ ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^alone<adj>$^.<sent>$
+[/ZClm7gcYjQ1l]
+[ZDtI0BjZey3d#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^go<vblex><inf>$ ^to<pr>$ ^*a$ ^*hotel$^?.<sent>$
+[/ZDtI0BjZey3d]
+[Za540wqIRwUc#0] ^Do<vaux><inf>$ ^not<adv>$ ^light<adj><sint>$ ^fire<n><pl>$ ^inside<n><sg>$^.<sent>$
+[/Za540wqIRwUc]
+[ZdvYvlJV7sTL#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^share<n><sg>$ ^information<n><sg>$ ^to<pr>$ ^*UNHCR$ ^*Tabernovce$^?.<sent>$
+[/ZdvYvlJV7sTL]
+[ZpcBYs1FgjJV#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^feeling<n><sg>$ ^very<preadv>$ ^cold<adj><sint>$^?.<sent>$
+[/ZpcBYs1FgjJV]
+[_7Aavp-_SRZV#0] ^Do<vaux><past>$ ^prpers<prn><obj><p2><mf><sp>$ ^*receive$ ^MACEDONIA<np><top><sg>$ ^document<n><pl>$^?.<sent>$
+[/_7Aavp-_SRZV]
+[_bcvWqv4EsL0#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^be<vbser><pp>$ ^sick<adj><sint>$^.<sent>$
+[/_bcvWqv4EsL0]
+[_f4WrCf_jE6y#0] ^Do<vaux><past>$ ^*they$ ^help<n><sg>$^?.<sent>$
+[/_f4WrCf_jE6y]
+[_kh36AKZ6SBY#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^tuberculosis<n><sg>$^.<sent>$
+[/_kh36AKZ6SBY]
+[_oHGSBNVOv_D#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^write<vblex><inf>$ ^*your$ ^name<n><sg>$ ^for<pr>$ ^*your$ ^family<n><sg>$^?.<sent>$
+[/_oHGSBNVOv_D]
+[_taQH3EM1Dkf#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^*the$ ^volume<n><sg>$ ^loud<adj><sint><comp>$^?.<sent>$
+[/_taQH3EM1Dkf]
+[aGJ2y4tp5v5u#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><past>$ ^*a$ ^*seizure$^.<sent>$
+[/aGJ2y4tp5v5u]
+[aajjvUSl9xfc#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^*an$ ^ambulance<n><sg>$^.<sent>$
+[/aajjvUSl9xfc]
+[aoydLveTTf38#0] ^Be<vbser><imp>$ ^Careful<adj>$^.<sent>$ ^*Don$’^*t$ ^leave<vblex><pres>$ ^*the$ ^kid<n><pl>$ ^*approaching$^.<sent>$ ^Only<adj>$ ^*adults$^.<sent>$
+[/aoydLveTTf38]
+[atCnSvL4MmXo#0] ^Do<vaux><past>$ ^*the$ ^police<n><pl>$ ^*tell$ ^prpers<prn><obj><p2><mf><sp>$ ^to<pr>$ ^take<vblex><inf>$ ^*a$ ^coach<n><sg>$^?.<sent>$
+[/atCnSvL4MmXo]
+[bFI_xuFQSt_9#0] ^What<prn><itg><mf><sp>$ ^be<vbser><pres><p3><sg>$ ^*your$ ^name<n><sg>$^?.<sent>$
+[/bFI_xuFQSt_9]
+[bPL7OVYRJTQN#0] ^one<num><sg>$ ^month<n><sg>$^.<sent>$
+[/bPL7OVYRJTQN]
+[bUqyajrL0-Pk#0] ^Can<vbmod><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^read<vblex><inf>$ ^this<det><dem><sg>$ ^language<n><sg>$^?.<sent>$
+[/bUqyajrL0-Pk]
+[c-EcRQeXm9fM#0] ^*It$ ^will<n><sg>$ ^not<adv>$ ^protect<vblex><inf>$ ^*your$ ^baby<n><sg>$ ^against<pr>$ ^infection<n><pl>$^.<sent>$
+[/c-EcRQeXm9fM]
+[c95PtN_P9iM2#0] ^*Audio$ ^announcement<n><pl>$ ^have<vbhaver><pres>$ ^more<adv>$ ^information<n><sg>$^.<sent>$
+[/c95PtN_P9iM2]
+[cB9t1VW5actr#0] ^Do<vaux><past>$ ^that<cnjsub>$ ^help<n><sg>$^?.<sent>$
+[/cB9t1VW5actr]
+[cKcStojKOz0n#0] ^*Apply$ ^for<pr>$ ^asylum<n><sg>$^.<sent>$
+[/cKcStojKOz0n]
+[cLatZfI0WUiG#0] ^*An$ ^*approximate$ ^*pricing$ ^be<vbser><pres><p3><sg>$^:.<sent>$
+[/cLatZfI0WUiG]
+[cMg3nHhsAiCj#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^like<pr>$ ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^be<vbser><ger>$ ^*watched$^.<sent>$
+[/cMg3nHhsAiCj]
+[chTAFoLIkbsq#0] ^Help<n><sg>$^!.<sent>$
+[/chTAFoLIkbsq]
+[cp106njscflr#0] ^Be<vbser><pres>$ ^there<adv>$ ^life<n><sg>$ ^jacket<n><pl>$ ^on<pr>$ ^*the$ ^shore<n><sg>$^?.<sent>$
+[/cp106njscflr]
+[d5vt1tt0Wj-e#0] ^*a$ ^group<n><sg>$ ^*shall$ ^be<vbser><inf>$ ^consider<vblex><pp>$ ^to<pr>$ ^form<vblex><inf>$ ^*a$ ^particular<adj>$ ^social<adj>$ ^group<n><sg>$ ^*where$ ^in<pr>$ ^particular<adj>$^:.<sent>$
+[/d5vt1tt0Wj-e]
+[dLVFrZpmXOFH#0] ^This<det><dem><sg>$ ^be<vbser><pres><p3><sg>$ ^*my$ ^father<n><sg>$^.<sent>$
+[/dLVFrZpmXOFH]
+[dTBNuV_zLaHh#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^cough<vblex><inf>$^.<sent>$
+[/dTBNuV_zLaHh]
+[ddcTDAj4z3ZR#0] ^Can<vbmod><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^call<vblex><inf>$ ^when<cnjadv>$ ^prpers<prn><subj><p2><mf><sp>$ ^see<vblex><pres>$ ^*a$ ^raft<n><sg>$^?.<sent>$
+[/ddcTDAj4z3ZR]
+[dgfa7LGPa8co#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^*injured$^.<sent>$
+[/dgfa7LGPa8co]
+[dhMqjNPRSCDI#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$’^*t$ ^eat<vblex><pres>$ ^meat<n><sg>$ ^and<cnjcoo>$ ^fish<n><sg>$^.<sent>$
+[/dhMqjNPRSCDI]
+[dn9mI7WBdDvH#0] ^*Consult$ ^*a$ ^doctor<n><sg>$ ^before<pr>$ ^prpers<prn><subj><p2><mf><sp>$ ^stop<vblex><inf>$ ^*breastfeeding$ ^or<cnjcoo>$ ^before<pr>$ ^prpers<prn><subj><p2><mf><sp>$ ^give<vblex><pres>$ ^*any$ ^*breastmilk$ ^substitute<n><sg>$ ^to<pr>$ ^*your$ ^baby<n><sg>$^.<sent>$
+[/dn9mI7WBdDvH]
+[dztk5Ruz4kwR#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$'^*t$ ^*feel$ ^well<n><sg>$ ^.<sent>$
+[/dztk5Ruz4kwR]
+[eKQUn7Ul7pzk#0] ^*Wipe$ ^and<cnjcoo>$ ^shake<vblex><inf>$ ^*the$ ^packet<n><sg>$ ^before<pr>$ ^open<vblex><subs>$^.<sent>$
+[/eKQUn7Ul7pzk]
+[eQuY-2YJysgH#0] ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$ ^not<adv>$ ^speak<vblex><inf>$^.<sent>$
+[/eQuY-2YJysgH]
+[f-_G3GR2z92q#0] ^*Where$ ^can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^take<vblex><inf>$ ^*a$ ^shower<n><sg>$^?.<sent>$
+[/f-_G3GR2z92q]
+[f-rVGHiVH4eO#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^know<vblex><inf>$ ^who<prn><itg><mf><sp>$ ^*your$ ^group<n><sg>$ ^leader<n><sg>$ ^be<vbser><pres><p3><sg>$^?.<sent>$
+[/f-rVGHiVH4eO]
+[f1te3mHsvpet#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^cold<n><sg>$^.<sent>$
+[/f1te3mHsvpet]
+[fAdk1Jb1YJj5#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*chronic$ ^*bronchitis$^.<sent>$
+[/fAdk1Jb1YJj5]
+[fIXXy3Wl8kJ1#0] ^Can<vbmod><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^hear<vblex><inf>$ ^this<det><dem><sg>$ ^*recording$^?.<sent>$
+[/fIXXy3Wl8kJ1]
+[fJiJsXQmrevQ#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^in<pr>$ ^*labour$^.<sent>$
+[/fJiJsXQmrevQ]
+[fVs3JT4rdE-g#0] ^very<preadv>$ ^*soon$^.<sent>$
+[/fVs3JT4rdE-g]
+[f_MYMYtugNHm#0] ^*My$ ^period<n><pl>$ ^finish<vblex><pp>$^,<cm>$ ^but<cnjcoo>$ ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*bleeding$ ^again<adv>$^.<sent>$
+[/f_MYMYtugNHm]
+[flvkRqj5-TXc#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*leukaemia$^.<sent>$
+[/flvkRqj5-TXc]
+[frauVXMJyk6W#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^*discharge$ ^from<pr>$ ^*my$ ^vagina<n><sg>$^.<sent>$
+[/frauVXMJyk6W]
+[g6G4bvLct1yf#0] ^Use<vblex><imp>$ ^this<det><dem><sg>$ ^milk<n><sg>$ ^only<adv>$ ^*if$^:.<sent>$
+[/g6G4bvLct1yf]
+[g6_bhgXZiXtV#0] ^*Apply$ ^for<pr>$ ^*relocation$ ^to<pr>$ ^Europe<np><top><sg>$^.<sent>$
+[/g6_bhgXZiXtV]
+[g8HAVQxvCJto#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^pregnant<adj>$ ^and<cnjcoo>$ ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*bleeding$^.<sent>$
+[/g8HAVQxvCJto]
+[gPrFJQkxVQXl#0] ^*My$ ^child<n><sg>$ ^have<vbhaver><pres><p3><sg>$ ^*a$ ^*sore$ ^throat<n><sg>$^.<sent>$
+[/gPrFJQkxVQXl]
+[gR64G50R1lo2#0] ^chicken<n><sg>$
+[/gR64G50R1lo2]
+[gTu_7uLkHWhV#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*allergic$ ^to<pr>$…^.<sent>$
+[/gTu_7uLkHWhV]
+[hDH7UU5WjGey#0] ^Do<vaux><inf>$ ^not<adv>$ ^leave<vblex><inf>$ ^*belongings$ ^*unattended$^.<sent>$
+[/hDH7UU5WjGey]
+[hEU8Kz6otdYW#0] ^*The$ ^pain<n><sg>$ ^come<vblex><pres><p3><sg>$ ^and<cnjcoo>$ ^go<vblex><pres><p3><sg>$^.<sent>$
+[/hEU8Kz6otdYW]
+[hRaW19UuEVhS#0] ^There<adv>$ ^be<vbser><pres><p3><sg>$ ^blood<n><sg>$ ^in<pr>$ ^*my$ ^urine<n><sg>$^.<sent>$
+[/hRaW19UuEVhS]
+[hTCr4L1yq4LS#0] ^*Duration$^:<sent>$ ^When<cnjadv>$ ^prpers<prn><subj><p2><mf><sp>$ ^be<vbser><pres>$ ^describe<vblex><ger>$ ^thing<n><pl>$ ^that<cnjsub>$ ^happen<vblex><past>$ ^to<pr>$ ^prpers<prn><obj><p2><mf><sp>$^,<cm>$ ^include<vblex><imp>$ ^how<adv><itg>$ ^long<adj><sint>$ ^this<det><dem><pl>$ ^thing<n><pl>$ ^*lasted$^.<sent>$
+[/hTCr4L1yq4LS]
+[hWnvxO1aYnMU#0] ^Thank<vblex><imp>$ ^prpers<prn><obj><p2><mf><sp>$^.<sent>$
+[/hWnvxO1aYnMU]
+[hrNWGxKGAbjL#0] ^Come<vblex><imp>$ ^back<adv>$ ^to<pr>$ ^*UNHCR$ ^tent<n><sg>$ ^(<lpar>$^1<num>$ ^hour<n><sg>$^)<rpar>$^.<sent>$
+[/hrNWGxKGAbjL]
+[huTy0MmshOEv#0] ^Do<vaux><inf>$ ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^to<pr>$ ^be<vbser><inf>$ ^*admitted$ ^to<pr>$ ^*the$ ^hospital<n><sg>$^?.<sent>$
+[/huTy0MmshOEv]
+[iDX0TI6GWWU8#0] ^Do<vaux><inf>$ ^not<adv>$ ^*pour$ ^*the$ ^milk<n><sg>$ ^*into$ ^*his$\/^*her$ ^mouth<n><sg>$^.<sent>$ ^Let<vblex><imp>$ ^*the$ ^baby<n><sg>$ ^take<vblex><inf>$ ^as<pr>$ ^much<adv>$ ^as<pr>$ ^*he$ \/ ^*she$ ^want<vblex><pres><p3><sg>$^.<sent>$
+[/iDX0TI6GWWU8]
+[iHMuL_5h9R7R#0] ^Also<adv>$ ^explain<vblex><imp>$ ^*if$ ^prpers<prn><subj><p2><mf><sp>$ ^try<vblex><past>$ ^to<pr>$ ^leave<vblex><inf>$ ^*your$ ^country<n><sg>$ ^but<cnjcoo>$ ^can<vbmod><past>$ ^not<adv>$ ^and<cnjcoo>$ ^what<prn><itg><mf><sp>$ ^stop<vblex><past>$ ^prpers<prn><obj><p2><mf><sp>$^.<sent>$
+[/iHMuL_5h9R7R]
+[iJcBz93-kg6A#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^*depressed$^.<sent>$
+[/iJcBz93-kg6A]
+[ieHebhbc0m5P#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^want<vblex><inf>$ ^*a$ ^translator<n><sg>$^?.<sent>$
+[/ieHebhbc0m5P]
+[iuzMG9nUiKCJ#0] ^*Where$ ^be<vbser><pres><p3><sg>$ ^*the$ ^bathroom<n><sg>$^?.<sent>$
+[/iuzMG9nUiKCJ]
+[j34kzX_ZwxXR#0] ^*Chios$ – ^*Pireas$ ^(<lpar>$^Athens<np><top><sg>$^)<rpar>$^.<sent>$
+[/j34kzX_ZwxXR]
+[jA6cjltjgcBx#0] ^This<det><dem><sg>$ ^milk<n><sg>$ ^be<vbser><pres><p3><sg>$ ^similar<adj>$ ^to<pr>$ ^that<det><dem><sg>$ ^*of$ ^all<adv>$ ^*other$ ^*brands$ ^*of$ ^ready<adj><sint>$^-<guio>$^make<vblex><pp>$ ^formula<n><pl>$ ^for<pr>$ ^sale<n><sg>$^.<sent>$
+[/jA6cjltjgcBx]
+[jBFJD-7f8CC-#0] ^one<num><sg>$ ^day<n><sg>$^.<sent>$
+[/jBFJD-7f8CC-]
+[jQeP1javnydO#0] ^*My$ ^heart<n><sg>$ ^beat<n><pl>$ ^fast<n><sg>$^.<sent>$
+[/jQeP1javnydO]
+[jmJaOyEIEfRk#0] ^Prpers<prn><subj><p2><mf><sp>$ ^have<vbhaver><pres>$ ^to<pr>$ ^wait<vblex><inf>$^.<sent>$
+[/jmJaOyEIEfRk]
+[jv9PFY-S-Gqv#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^to<pr>$ ^take<vblex><inf>$ ^*a$ ^shower<n><sg>$^.<sent>$
+[/jv9PFY-S-Gqv]
+[jvgVMUwjOqtM#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^to<pr>$ ^*scan$ ^*a$ ^document<n><sg>$^?.<sent>$
+[/jvgVMUwjOqtM]
+[k5NdZSdg7x4Q#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$'^*t$ ^drink<n><sg>$ ^alcohol<n><sg>$^.<sent>$
+[/k5NdZSdg7x4Q]
+[k6DaOA0QjTp6#0] ^After<pr>$ ^six<num><pl>$ ^month<n><pl>$^,<cm>$ ^*he$\/^*she$ ^*should$ ^also<adv>$ ^start<n><sg>$ ^to<pr>$ ^*receive$ ^*other$ ^food<n><pl>$^.<sent>$
+[/k6DaOA0QjTp6]
+[k80CqVkntef_#0] ^Like<pr>$ ^all<adv>$ ^artificial<adj>$ ^formula<n><pl>$ ^this<det><dem><sg>$ ^milk<n><sg>$ ^do<vaux><pres><p3><sg>$ ^not<adv>$ ^contain<vblex><inf>$ ^*the$ ^living<adj>$ ^*antibodies$ ^which<det><itg><sp>$ ^be<vbser><pres>$ ^in<pr>$ ^mother<n><sg>$^have<vbhaver><pres><p3><sg>$ ^milk<n><sg>$^.<sent>$
+[/k80CqVkntef_]
+[k_aTscixQ_zT#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><past><p1><sg>$ ^hit<vblex><pp>$ ^by<pr>$ ^*a$ ^car<n><sg>$^.<sent>$
+[/k_aTscixQ_zT]
+[kjgPiDma-wik#0] ^*Chios$ – ^*Thessaloniki$^.<sent>$
+[/kjgPiDma-wik]
+[lH5JaLS9eZfT#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^have<vbhaver><inf>$^..<sent>$
+[/lH5JaLS9eZfT]
+[lPS6W1Dkm4L8#0] ^This<det><dem><sg>$ ^be<vbser><pres><p3><sg>$ ^*my$ ^brother<n><sg>$^.<sent>$
+[/lPS6W1Dkm4L8]
+[lUVe2Yot133i#0] ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$ ^not<adv>$ ^*flex$ ^*my$ ^neck<n><sg>$^.<sent>$
+[/lUVe2Yot133i]
+[lekOFoFb5Koe#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^to<pr>$ ^go<vblex><inf>$ ^to<pr>$ ^*the$ ^hospital<n><sg>$^.<sent>$
+[/lekOFoFb5Koe]
+[likOHXYwowvz#0] ^*Cabins$ ^(<lpar>$^4<num>$^-<guio>$^bed<n><sg>$ ^or<cnjcoo>$ ^2<num>$^-<guio>$^bed<n><sg>$^)<rpar>$^:<sent>$ € ^61<num>$ ^-<guio>$ € ^81,5<num>$^.<sent>$
+[/likOHXYwowvz]
+[ljJdDpvW9KTQ#0] ^INSTRUCTION<n><pl>$^.<sent>$
+[/ljJdDpvW9KTQ]
+[ljZDDl39wxUQ#0] ^*Chios$ ^-<guio>$ ^Athens<np><top><sg>$^.<sent>$
+[/ljZDDl39wxUQ]
+[mBS-OJtwT7hr#0] ^*Depending$ ^on<pr>$ ^*the$ ^circumstance<n><pl>$ ^in<pr>$ ^*the$ ^country<n><sg>$ ^*of$ ^origin<n><sg>$^,<cm>$ ^*a$ ^particular<adj>$ ^social<adj>$ ^group<n><sg>$ ^*might$ ^include<vblex><pres>$ ^*a$ ^group<n><sg>$ ^*based$ ^on<pr>$ ^*a$ ^common<adj>$ ^characteristic<n><sg>$ ^*of$ ^*sexual$ ^*orientation$^.<sent>$ ^.<sent>$
+[/mBS-OJtwT7hr]
+[mIMyvwEIK6GK#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^share<n><sg>$ ^information<n><sg>$ ^to<pr>$ ^*UNHCR$ ^Serbia<np><top><sg>$^?.<sent>$
+[/mIMyvwEIK6GK]
+[mN2FxmEOmdla#0] ^Bus<n><sg>$ ^stop<vblex><inf>$^.<sent>$
+[/mN2FxmEOmdla]
+[mQ5fNzccqyPs#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*might$ ^be<vbser><inf>$ ^pregnant<adj>$^.<sent>$
+[/mQ5fNzccqyPs]
+[mR4IuQWwIaNI#0] ^Do<vaux><inf>$ ^not<adv>$ ^board<n><sg>$ ^train<n><sg>$ ^*if$ ^*your$ ^family<n><sg>$ ^be<vbser><pres>$ ^*missing$ ^document<n><pl>$^.<sent>$
+[/mR4IuQWwIaNI]
+[mSaC1UB3bhyc#0] ^*Pour$ ^*the$ ^content<n><pl>$ ^*into$ ^*a$ ^clean<adj><sint>$ ^cup<n><sg>$^.<sent>$
+[/mSaC1UB3bhyc]
+[m_bqK42sigaG#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*a$ ^*vegetarian$^.<sent>$
+[/m_bqK42sigaG]
+[nUNGqsmVbjbX#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^*a$ ^doctor<n><sg>$^?.<sent>$
+[/nUNGqsmVbjbX]
+[niwlKrSD_QtY#0] ^*the$ ^day<n><sg>$ ^after<pr>$ ^tomorrow<adv>$^.<sent>$
+[/niwlKrSD_QtY]
+[nrETNXgXORyI#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^schizophrenia<n><sg>$^.<sent>$
+[/nrETNXgXORyI]
+[nsoDRw2c8BJx#0] ^Can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^write<vblex><inf>$ ^*your$ ^number<n><sg>$ ^for<pr>$ ^*your$ ^family<n><sg>$^?.<sent>$
+[/nsoDRw2c8BJx]
+[o1Xh6o6vgbxF#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><past>$ ^*a$ ^*myocardial$ ^*infarction$^.<sent>$
+[/o1Xh6o6vgbxF]
+[ouGM2sNmHJEv#0] ^next<adj>$ ^week<n><sg>$^.<sent>$
+[/ouGM2sNmHJEv]
+[p58sgdnFTEJb#0] ^Do<vaux><past>$ ^prpers<prn><subj><p2><mf><sp>$ ^try<vblex><inf>$ ^to<pr>$ ^do<vaux><inf>$ ^*anything$ ^to<pr>$ ^stop<vblex><inf>$ ^*the$ ^problem<n><pl>$ ^that<cnjsub>$ ^happen<vblex><past>$ ^to<pr>$ ^prpers<prn><obj><p2><mf><sp>$ ^in<pr>$ ^*your$ ^country<n><sg>$ ^and<cnjcoo>$ ^what<prn><itg><mf><sp>$ ^happen<vblex><past>$^?.<sent>$
+[/p58sgdnFTEJb]
+[pYr5zl4p6OK0#0] ^*Where$ ^be<vbser><pres><p3><sg>$ ^*the$ ^registration<n><sg>$ ^centre<n><sg>$^?.<sent>$
+[/pYr5zl4p6OK0]
+[pa_SlAzgFS3h#0] ^Dry<adj><sint>$ ^sock<n><pl>$^.<sent>$
+[/pa_SlAzgFS3h]
+[privFzKXVctd#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^*feel$ ^comfortable<adj>$ ^stay<vblex><subs>$ ^in<pr>$ ^this<det><dem><sg>$ ^tent<n><sg>$ ^*tonight$^?.<sent>$
+[/privFzKXVctd]
+[q8CNsB0NqmH4#0] ^*It$ ^*gets$ ^bad<adj><sint><comp>$ ^when<cnjadv>$ ^Prpers<prn><subj><p1><mf><sg>$ ^stand<n><sg>$ ^*up$^.<sent>$
+[/q8CNsB0NqmH4]
+[q8LpX1W2JqJT#0] ^Bank<n><sg>$^.<sent>$
+[/q8LpX1W2JqJT]
+[q95_Box_nP5b#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^*chronic$ ^depression<n><sg>$^.<sent>$
+[/q95_Box_nP5b]
+[qBLu4ak9R-US#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*bleeding$ ^between<pr>$ ^*my$ ^period<n><pl>$^.<sent>$
+[/qBLu4ak9R-US]
+[qN9DBNpHGnUm#0] ^Date<n><pl>$ ^and<cnjcoo>$ ^Time<n><pl>$^:<sent>$ ^When<cnjadv>$ ^thing<n><pl>$ ^happen<vblex><past>$^.<sent>$
+[/qN9DBNpHGnUm]
+[qc-pPSSzvnKm#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^cancer<n><sg>$^.<sent>$
+[/qc-pPSSzvnKm]
+[qywqV2DLHcAc#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^cold<n><sg>$^?.<sent>$
+[/qywqV2DLHcAc]
+[r3SgJCb-PG_z#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*feel$ ^sick<adj><sint>$^.<sent>$
+[/r3SgJCb-PG_z]
+[rruTPdItSDzt#0] ^*My$ ^child<n><sg>$ ^be<vbser><pres><p3><sg>$ ^sick<adj><sint>$^.<sent>$
+[/rruTPdItSDzt]
+[s7Q0OGfjZRnp#0] ^Bakery<n><sg>$^.<sent>$
+[/s7Q0OGfjZRnp]
+[sE9p5E8lYera#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^from<pr>$^..<sent>$
+[/sE9p5E8lYera]
+[sG9PR_bit8I6#0] ^Do<vaux><inf>$ ^prpers<prn><obj><p2><mf><sp>$ ^*feel$ ^comfortable<adj>$ ^stay<vblex><subs>$ ^at<pr>$ ^this<det><dem><sg>$ ^*site$ ^*tonight$^?.<sent>$
+[/sG9PR_bit8I6]
+[sKnVg9c3wgPk#0] ^Child<n><pl>$^have<vbhaver><pres><p3><sg>$ ^clothes<n><pl>$ ^and<cnjcoo>$ ^shoe<n><pl>$ ^be<vbser><pres>$ ^*over$ ^there<adv>$^.<sent>$
+[/sKnVg9c3wgPk]
+[sLQZTqkxoSaB#0] ^*Additional$ ^Information<n><sg>$^.<sent>$
+[/sLQZTqkxoSaB]
+[sL_HBGnjWZZ7#0] ^Do<vaux><past>$ ^prpers<prn><subj><p2><mf><sp>$ ^try<vblex><inf>$ ^to<pr>$ ^*get$ ^help<n><sg>$ ^from<pr>$ ^*your$ ^government<n><sg>$^,<cm>$ ^*the$ ^police<n><pl>$ ^or<cnjcoo>$ ^*anyone$ ^*else$^?.<sent>$
+[/sL_HBGnjWZZ7]
+[sLlksDn39_4a#0] ^There<adv>$ ^be<vbser><pres><p3><sg>$ ^blood<n><sg>$ ^in<pr>$ ^*my$ ^vomit<n><sg>$^.<sent>$
+[/sLlksDn39_4a]
+[sZZeHNVO0Yoc#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^information<n><sg>$ ^on<pr>$ ^*the$ ^train<n><sg>$ ^arrival<n><sg>$ ^time<n><sg>$^?.<sent>$
+[/sZZeHNVO0Yoc]
+[swPpHGXZpQgb#0] ^Criterion<n><pl>$ ^for<pr>$ ^Refugee<n><sg>$ ^Status<n><sg>$^.<sent>$
+[/swPpHGXZpQgb]
+[swWgW45NLNNE#0] ^Wash<n><sg>$ ^*your$ ^hand<n><pl>$ ^with<pr>$ ^soap<n><sg>$ ^and<cnjcoo>$ ^water<n><sg>$^.<sent>$
+[/swWgW45NLNNE]
+[sykq2o7RJgdP#0] ^*Please$ ^help<n><sg>$ ^prpers<prn><obj><p1><mf><sg>$^!.<sent>$
+[/sykq2o7RJgdP]
+[tDq6nE50lfHh#0] ^Be<vbser><pres>$ ^prpers<prn><subj><p2><mf><sp>$ ^wet<adj><sint>$^?.<sent>$
+[/tDq6nE50lfHh]
+[tRwyo2x1aaeM#0] ^Do<vaux><inf>$ ^not<adv>$ ^leave<vblex><inf>$ ^without<pr>$ ^*your$ ^document<n><pl>$^.<sent>$
+[/tRwyo2x1aaeM]
+[tUSD4dCLXWX0#0] ^Prpers<prn><subj><p1><mf><sg>$ ^last<adj><ord>$ ^have<vbhaver><past>$ ^sex<n><sg>$ ^2<num>$ ^day<n><pl>$ ^*ago$^.<sent>$
+[/tUSD4dCLXWX0]
+[tqXFYeE_w6K0#0] ^*Accomodation$^.<sent>$
+[/tqXFYeE_w6K0]
+[u0Ua6BswCLAS#0] ^Do<vaux><inf>$ ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><inf>$ ^*somewhere$ ^to<pr>$ ^stay<vblex><inf>$ ^*tonight$^?.<sent>$
+[/u0Ua6BswCLAS]
+[uJyrkR4T35Ue#0] ^How<adv><itg>$ ^long<adj><sint>$ ^do<vaux><pres>$ ^prpers<prn><subj><p1><mf><pl>$ ^have<vbhaver><inf>$ ^to<pr>$ ^wait<vblex><inf>$ ^here<adv>$^?.<sent>$
+[/uJyrkR4T35Ue]
+[uV1Knjxoza8R#0] ^*Keep$ ^in<pr>$ ^*a$ ^cool<adj><sint>$^,<cm>$ ^dry<adj><sint>$ ^place<n><sg>$ ^with<pr>$ ^*the$ ^lid<n><sg>$ ^*tightly$ ^close<vblex><pp>$^.<sent>$
+[/uV1Knjxoza8R]
+[v0T_7ao2WcxO#0] ^approve<vblex><pp>$^.<sent>$
+[/v0T_7ao2WcxO]
+[vRAgJar8tn00#0] ^When<cnjadv>$ ^do<vaux><inf>$ ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^to<pr>$ ^come<vblex><inf>$ ^back<adv>$^?.<sent>$
+[/vRAgJar8tn00]
+[vT2zB0x9TbS2#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^*discharge$ ^from<pr>$ ^*my$ ^*urethra$^.<sent>$
+[/vT2zB0x9TbS2]
+[vTEJ_GYYoEJW#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^not<adv>$ ^have<vbhaver><past>$ ^sex<n><sg>$ ^for<pr>$ ^*a$ ^long<adj><sint>$ ^time<n><sg>$^.<sent>$
+[/vTEJ_GYYoEJW]
+[vVNk6UQNPTzX#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^*ill$^.<sent>$
+[/vVNk6UQNPTzX]
+[veyPWlfreR4F#0] ^*Where$ ^be<vbser><pres><p3><sg>$ ^room<n><sg>$ ^number<n><sg>$ ____^?.<sent>$
+[/veyPWlfreR4F]
+[vjfGyiJ0GmE4#0] ^Child<n><pl>$ ^Playground<n><sg>$^.<sent>$
+[/vjfGyiJ0GmE4]
+[w0AvVZIxpGhd#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><inf>$ ^*a$ ^*nosebleed$^.<sent>$
+[/w0AvVZIxpGhd]
+[x9ZR51bquijB#0] ^*My$ ^name<n><sg>$ ^be<vbser><pres><p3><sg>$^..<sent>$
+[/x9ZR51bquijB]
+[xNvLLACF_8eZ#0] ^*my$ ^wife<n><sg>$^.<sent>$
+[/xNvLLACF_8eZ]
+[xP8oBT2cOS_l#0] ^Be<vbser><pres>$ ^prpers<prn><obj><p2><mf><sp>$ ^*planning$ ^to<pr>$ ^stay<vblex><inf>$ ^here<adv>$ ^in<pr>$ ^*fYR$ ^Macedonia<np><top><sg>$^?.<sent>$
+[/xP8oBT2cOS_l]
+[xQGPPCaC6Der#0] ^*My$ ^name<n><sg>$ ^be<vbser><pres><p3><sg>$ ^..<sent>$
+[/xQGPPCaC6Der]
+[xbZhurUzUjTa#0] ^Dry<adj><sint>$ ^trousers<n><pl>$^.<sent>$
+[/xbZhurUzUjTa]
+[xhCaNL883AHK#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*don$’^*t$ ^have<vbhaver><inf>$ ^*any$ ^money<n><sg>$^.<sent>$
+[/xhCaNL883AHK]
+[xtRcgly2jofo#0] ^Prpers<prn><subj><p1><mf><sg>$ ^need<vblex><pres>$ ^*a$ ^doctor<n><sg>$^.<sent>$
+[/xtRcgly2jofo]
+[xwdDxFPXvv8Y#0] ^DO<vaux><inf>$ ^NOT<adv>$ ^Try<vblex><inf>$ ^to<pr>$ ^capture<vblex><inf>$ ^*the$ ^snake<n><sg>$^.<sent>$
+[/xwdDxFPXvv8Y]
+[xxyhlLaCyKUW#0] ^*Where$ ^can<vbmod><pres>$ ^Prpers<prn><subj><p1><mf><sg>$ ^find<vblex><inf>$____^?.<sent>$
+[/xxyhlLaCyKUW]
+[xy3z-ICzA-ww#0] ^Prpers<prn><subj><p1><mf><sg>$ ^*fainted$^.<sent>$
+[/xy3z-ICzA-ww]
+[y54b7W-znoMp#0] ^DO<vaux><inf>$ ^NOT<adv>$ ^put<vblex><inf>$ ^*anything$ ^tight<adj><sint>$ ^around<pr>$^,<cm>$ ^*such$ ^as<pr>$ ^*a$ ^*tourniquet$^.<sent>$
+[/y54b7W-znoMp]
+[yFLW6ibjKC6u#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^be<vbser><pp>$ ^shake<vblex><ger>$^.<sent>$
+[/yFLW6ibjKC6u]
+[yL3vwQonxDfz#0] ^*Based$ ^on<pr>$ ^one<num><sg>$ ^or<cnjcoo>$ ^more<adv>$ ^*of$ ^*the$ ^*following$ ^reason<n><pl>$^:.<sent>$
+[/yL3vwQonxDfz]
+[ysdN0270GpCZ#0] ^This<det><dem><sg>$ ^be<vbser><pres><p3><sg>$ ^*my$ ^sister<n><sg>$^.<sent>$
+[/ysdN0270GpCZ]
+[yvg4ts9SQgBe#0] ^*Emergency$ ^*Exit$^.<sent>$
+[/yvg4ts9SQgBe]
+[z-DhBK1e3M9D#0] ^Prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^heart<n><sg>$ ^*failure$^.<sent>$
+[/z-DhBK1e3M9D]
+[zLf0J44P8in4#0] ^Come<vblex><imp>$ ^back<adv>$ ^to<pr>$ ^*UNHCR$ ^tent<n><sg>$ ^(<lpar>$^morning<n><sg>$^)<rpar>$^.<sent>$
+[/zLf0J44P8in4]
+[zO-RIPfVewlx#0] ^Prpers<prn><subj><p2><mf><sp>$ ^have<vbhaver><pres>$ ^*access$ ^to<pr>$ ^clean<adj><sint>$ ^cup<n><pl>$^.<sent>$
+[/zO-RIPfVewlx]
+[zdsTseZB0L6p#0] ^Prpers<prn><subj><p1><mf><sg>$ ^fall<vblex><past>$ ^*down$^.<sent>$
+[/zdsTseZB0L6p]

@@ -1,0 +1,70 @@
+[-NtdsTqAlNBu#0] ^Zarok<n><f><sg><con><def>/Child<n><f><sg><con><def>/Kid<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^birçî<adj><pst>/hungry<adj><sint><pst>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/-NtdsTqAlNBu]
+[0NcAXUP6cp2f#0] ^Roj<n><f><sg><nom><ind>/Day<n><sg><nom><ind>$^.<sent><@punct>/.<sent><@punct>$
+[/0NcAXUP6cp2f]
+[2d16SoeH41eg#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^xemgîn<adj><pst>/sad<adj><sint><pst>/Worried<adj><pst>/sorrowful<adj><pst>$ ^bûn<vbcop><pri><p1><sg><@cop>/be<vbser><pri><p1><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/2d16SoeH41eg]
+[2xGD5ZmgUfQ6#0] ^Keç<n><f><sg><con><def>/Girl<n><sg><con><def>/Daughter<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>/.<sent><@punct>$
+[/2xGD5ZmgUfQ6]
+[4gySDkYeQe7n#0] ^Zarok<n><m><sg><con><def>/Child<n><m><sg><con><def>/Kid<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^nexweş<adj><pst>/sick<adj><sint><pst>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/4gySDkYeQe7n]
+[6cly7QDzXpT7#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^zanîn<vblex><tv><neg><pri><p1><sg>/know<vblex><neg><pri><p1><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/6cly7QDzXpT7]
+[9vGPj7f7aPCo#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^karîn<vblex><tv><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>/be# able to<vbmod><neg><pri><p1><sg>$ ^dîtin<vblex><tv><prs><p1><sg>/see<vblex><prs><p1><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/9vGPj7f7aPCo]
+[BBERBvj-qlan#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^mêr<n><m><sg><con><def>/man<n><sg><con><def>/husband<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/BBERBvj-qlan]
+[CByR46B9JVoR#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^nexweş<adj><pst>/sick<adj><sint><pst>$ ^bûn<vbcop><pri><p1><sg><@cop>/be<vbser><pri><p1><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/CByR46B9JVoR]
+[ErWM_3uzRQ3b#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^dayîk<n><f><sg><con><def>/mother<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/ErWM_3uzRQ3b]
+[F8-cSlW0SVN3#0] ^Jin<n><f><sg><con><def>/Wife<n><sg><con><def>/Woman<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>/.<sent><@punct>$
+[/F8-cSlW0SVN3]
+[FNW7vSHWQBFV#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^goştê beraz<n><m><sg><obl><def><@obj>/pork<n><sg><obl><def><@obj>$ ^xwarin<vblex><tv><neg><pri><p1><sg>/eat<vblex><neg><pri><p1><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/FNW7vSHWQBFV]
+[FtA4YrilgbCs#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^karîn<vblex><tv><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>/be# able to<vbmod><neg><pri><p1><sg>$ ^axaftin<vblex><iv><prs><p1><sg>/speak<vblex><prs><p1><sg>/talk<vblex><prs><p1><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/FtA4YrilgbCs]
+[Io-ZlPw47BiN#0] ^Bibaxişîne<ij>/Excuse me<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/Io-ZlPw47BiN]
+[LAjv5eOUh-Sw#0] ^hefte<n><f><sg><con><def>/week<n><sg><con><def>$ ^bê<adj><pst><@amod>/next<adj><pst><@amod>$^.<sent><@punct>/.<sent><@punct>$
+[/LAjv5eOUh-Sw]
+[LOfM6eGUeWn-#0] ^Êvarbaş<ij>/Good evening<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/LOfM6eGUeWn-]
+[MqTyeQlRuDPg#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^kêfxweş<adj><pst>/happy<adj><sint><pst>$ ^bûn<vbcop><pri><p1><sg><@cop>/be<vbser><pri><p1><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/MqTyeQlRuDPg]
+[N8Rtt5J5B87V#0] ^Bibore<ij>/Excuse me<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/N8Rtt5J5B87V]
+[S1NYb-OKPiI9#0] ^Saet<n><f><sg><nom><ind>/Hour<n><sg><nom><ind>$^.<sent><@punct>/.<sent><@punct>$
+[/S1NYb-OKPiI9]
+[Sr3F86QPU-03#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^alkol<n><f><sg><nom><def>/alcohol<n><sg><nom><def>$ ^*venaxwim/*venaxwim$^.<sent><@punct>/.<sent><@punct>$
+[/Sr3F86QPU-03]
+[VLXO3V0Y7H5O#0] ^Zarok<n><m><pl><con><def>/Child<n><m><pl><con><def>/Kid<n><m><pl><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>/.<sent><@punct>$
+[/VLXO3V0Y7H5O]
+[VtS4U0qSR2XJ#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^bav<n><m><sg><con><def>/father<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/VtS4U0qSR2XJ]
+[bip79wRZnUqG#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^xweh<n><f><sg><con><def>/sister<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/bip79wRZnUqG]
+[cSZorQgkSmyB#0] ^Bi xatirê te<ij>/Goodbye<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/cSZorQgkSmyB]
+[c_kkyc3MissQ#0] ^meh<n><f><sg><nom><ind>/month<n><sg><nom><ind>$^.<sent><@punct>/.<sent><@punct>$
+[/c_kkyc3MissQ]
+[cjAKD1F9aSxW#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^dî<n><f><sg><con><def>/mother<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/cjAKD1F9aSxW]
+[d40maQqvcVNv#0] ^Dembaş<ij>/Good morning<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/d40maQqvcVNv]
+[e9K5sNp25Iae#0] ^Law<n><m><sg><con><def>/Son<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>/.<sent><@punct>$
+[/e9K5sNp25Iae]
+[g942T3GlnvpT#0] ^Rojbaş<ij>/Hello<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/g942T3GlnvpT]
+[hmZ2onSSa6q7#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^xwişk<n><f><sg><con><def>/sister<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/hmZ2onSSa6q7]
+[jJx_tC_CTizi#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^goşt<n><m><sg><obl><def><@obj>/flesh<n><sg><obl><def><@obj>/meat<n><sg><obl><def><@obj>$ ^û<cnjcoo><@cc>/and<cnjcoo><@cc>$ ^masî<n><f><sg><nom><def>/fish<n><sg><nom><def>$ ^xwarin<vblex><tv><neg><pri><p1><sg>/eat<vblex><neg><pri><p1><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/jJx_tC_CTizi]
+[jd5Kth08R2bK#0] ^Ez<prn><pers><p1><mf><sg><obl><@nsubj>/Prpers<prn><FD><p1><mf><sg><obl><@nsubj>$ ^fêm kirin<vblex><tv><neg><past><p3><sg>/understand<vblex><neg><past><p3><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/jd5Kth08R2bK]
+[k3OEOcl-ae1C#0] ^Ez<prn><pers><p1><mf><sg><nom>/Prpers<prn><FD><p1><mf><sg><nom>$ ^ketin<vblex><iv><past><p1><sg>/fall<vblex><past><p1><sg>/get# angry<vblex><past><p1><sg>/come# to light<vblex><past><p1><sg>$^.<sent><@punct>/.<sent><@punct>$
+[/k3OEOcl-ae1C]
+[t4Cdc52prplR#0] ^Oxir be<ij>/Goodbye<ij>$^.<sent><@punct>/.<sent><@punct>$
+[/t4Cdc52prplR]
+[zXwfNDRuK8il#0] ^Ev<prn><dem><mf><sp><nom>/This<prn><dem><mf><ND><nom>$ ^bira<n><m><sg><con><def>/brother<n><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>/prpers<prn><FD><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>/be<vbser><pri><p3><sg><@cop>$^.<sent><@punct>/.<sent><@punct>$
+[/zXwfNDRuK8il]

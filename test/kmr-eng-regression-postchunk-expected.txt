@@ -1,0 +1,70 @@
+[-NtdsTqAlNBu#0] ^My<det><pos><sp>$ ^child<n><sg>$ ^be<vbser><pres><p3><sg>$ ^hungry<adj><sint>$^.<sent>$
+[/-NtdsTqAlNBu]
+[0NcAXUP6cp2f#0] ^a<det><ind><sg>$ ^Day<n><sg>$^.<sent>$
+[/0NcAXUP6cp2f]
+[2d16SoeH41eg#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^sad<adj><sint>$^.<sent>$
+[/2d16SoeH41eg]
+[2xGD5ZmgUfQ6#0] ^My<det><pos><sp>$ ^daughter<n><sg>$^.<sent>$
+[/2xGD5ZmgUfQ6]
+[4gySDkYeQe7n#0] ^My<det><pos><sp>$ ^child<n><sg>$ ^be<vbser><pres><p3><sg>$ ^sick<adj><sint>$^.<sent>$
+[/4gySDkYeQe7n]
+[6cly7QDzXpT7#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vaux><pres>$ ^not<adv>$ ^know<vblex><inf>$^.<sent>$
+[/6cly7QDzXpT7]
+[9vGPj7f7aPCo#0] ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$ ^not<adv>$ ^see<vblex><inf>$^.<sent>$
+[/9vGPj7f7aPCo]
+[BBERBvj-qlan#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^husband<n><sg>$^.<sent>$
+[/BBERBvj-qlan]
+[CByR46B9JVoR#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^sick<adj><sint>$^.<sent>$
+[/CByR46B9JVoR]
+[ErWM_3uzRQ3b#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^mother<n><sg>$^.<sent>$
+[/ErWM_3uzRQ3b]
+[F8-cSlW0SVN3#0] ^My<det><pos><sp>$ ^wife<n><sg>$^.<sent>$
+[/F8-cSlW0SVN3]
+[FNW7vSHWQBFV#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$  ^the<det><def><sp>$ ^pork<n><sg>$^.<sent>$
+[/FNW7vSHWQBFV]
+[FtA4YrilgbCs#0] ^Prpers<prn><subj><p1><mf><sg>$ ^can<vbmod><pres>$ ^not<adv>$ ^speak<vblex><inf>$^.<sent>$
+[/FtA4YrilgbCs]
+[Io-ZlPw47BiN#0] ^Excuse me<ij>$^.<sent>$
+[/Io-ZlPw47BiN]
+[LAjv5eOUh-Sw#0] ^next<adj>$ ^week<n><sg>$^.<sent>$
+[/LAjv5eOUh-Sw]
+[LOfM6eGUeWn-#0] ^Good evening<ij>$^.<sent>$
+[/LOfM6eGUeWn-]
+[MqTyeQlRuDPg#0] ^Prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^happy<adj><sint>$^.<sent>$
+[/MqTyeQlRuDPg]
+[N8Rtt5J5B87V#0] ^Excuse me<ij>$^.<sent>$
+[/N8Rtt5J5B87V]
+[S1NYb-OKPiI9#0] ^a<det><ind><sg>$ ^Hour<n><sg>$^.<sent>$
+[/S1NYb-OKPiI9]
+[Sr3F86QPU-03#0] ^Prpers<prn><subj><p1><mf><sg>$ ^the<det><def><sp>$ ^alcohol<n><sg>$ ^*venaxwim$^.<sent>$
+[/Sr3F86QPU-03]
+[VLXO3V0Y7H5O#0] ^My<det><pos><sp>$ ^child<n><pl>$^.<sent>$
+[/VLXO3V0Y7H5O]
+[VtS4U0qSR2XJ#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^father<n><sg>$^.<sent>$
+[/VtS4U0qSR2XJ]
+[bip79wRZnUqG#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^sister<n><sg>$^.<sent>$
+[/bip79wRZnUqG]
+[cSZorQgkSmyB#0] ^Goodbye<ij>$^.<sent>$
+[/cSZorQgkSmyB]
+[c_kkyc3MissQ#0] ^a<det><ind><sg>$ ^month<n><sg>$^.<sent>$
+[/c_kkyc3MissQ]
+[cjAKD1F9aSxW#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^mother<n><sg>$^.<sent>$
+[/cjAKD1F9aSxW]
+[d40maQqvcVNv#0] ^Good morning<ij>$^.<sent>$
+[/d40maQqvcVNv]
+[e9K5sNp25Iae#0] ^My<det><pos><sp>$ ^son<n><sg>$^.<sent>$
+[/e9K5sNp25Iae]
+[g942T3GlnvpT#0] ^Hello<ij>$^.<sent>$
+[/g942T3GlnvpT]
+[hmZ2onSSa6q7#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^sister<n><sg>$^.<sent>$
+[/hmZ2onSSa6q7]
+[jJx_tC_CTizi#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$  ^the<det><def><sp>$ ^meat<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^fish<n><sg>$^.<sent>$
+[/jJx_tC_CTizi]
+[jd5Kth08R2bK#0] ^Prpers<prn><subj><p1><mf><sg>$ ^do<vaux><past>$ ^not<adv>$ ^understand<vblex><inf>$^.<sent>$
+[/jd5Kth08R2bK]
+[k3OEOcl-ae1C#0] ^Prpers<prn><subj><p1><mf><sg>$  ^fall<vblex><past>$^.<sent>$
+[/k3OEOcl-ae1C]
+[t4Cdc52prplR#0] ^Goodbye<ij>$^.<sent>$
+[/t4Cdc52prplR]
+[zXwfNDRuK8il#0] ^This<prn><dem><mf><sg>$ ^be<vbser><pres><p3><sg>$ ^my<det><pos><sp>$ ^brother<n><sg>$^.<sent>$
+[/zXwfNDRuK8il]

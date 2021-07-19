@@ -1,0 +1,722 @@
+[-cVMdYpBQP14#0] ^*It/*It$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^not<adv>/ne<adv><neg>$ ^possible<adj>/gengaz<adj>/mihtemel<adj>/mimkin<adj>/pêkan<adj>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*the/*the$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*breastmilk/*breastmilk$^.<sent>/.<sent>$
+[/-cVMdYpBQP14]
+[-hIFh87w0jIX#0] ^Excuse me<ij>/Bibore<ij>/Bibaxişîne<ij>$^.<sent>/.<sent>$
+[/-hIFh87w0jIX]
+[-j-zyqWzyXti#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^all<adv>/tev<adv>/hemî<adv>$ ^well<n><sg>/bîr<n><f><sg>/çal<n><f><sg>$^?.<sent>/?.<sent>$
+[/-j-zyqWzyXti]
+[-m52LQ3cM5y-#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^scare<vblex><past>/tirsandin<vblex><tv><past>$^.<sent>/.<sent>$
+[/-m52LQ3cM5y-]
+[05FcCX7HfY8Z#0] ^one<num><sg>/yek<num><sg>$ ^hour<n><sg>/saet<n><f><sg>/sa'et<n><f><sg>/demjimêr<n><f><sg>$^.<sent>/.<sent>$
+[/05FcCX7HfY8Z]
+[0M5xCx5tGAAH#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^speak<vblex><inf>/axaftin<vblex><iv><inf>$^..<sent>/..<sent>$
+[/0M5xCx5tGAAH]
+[0VE7GrIBvwOg#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$´^*t/*t$ ^urinate<vblex><inf>/mîstin<vblex><TD><inf>$^.<sent>/.<sent>$
+[/0VE7GrIBvwOg]
+[0XJQdg004cRk#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^chest<n><sg>/def<n><f><sg>/beden<n><m><sg>$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$^.<sent>/.<sent>$
+[/0XJQdg004cRk]
+[0ZF2OnGtUNV0#0] ^Blanket<n><pl>/Betenî<n><m><pl>/Orxan<n><m><pl>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^*over/*over$ ^there<adv>/wir<adv>$^.<sent>/.<sent>$
+[/0ZF2OnGtUNV0]
+[0oycUn0WO8_X#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*colic/*colic$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*my/*my$ ^side<n><sg>/rex<n><m><sg>/alî<n><f><sg>/alî<n><m><sg>/nik<n><f><sg>/hêl<n><f><sg>/lay<n><f><sg>/kenar<n><f><sg>/kêlek<n><f><sg>/layen<n><m><sg>/tenişt<n><f><sg>$^.<sent>/.<sent>$
+[/0oycUn0WO8_X]
+[10Uvls6hRf9Q#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*bipolar/*bipolar$ ^*disorder/*disorder$^.<sent>/.<sent>$
+[/10Uvls6hRf9Q]
+[146osc8gSsOG#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^leave<vblex><inf>/hêlan<vblex><tv><inf>/berdan<vblex><tv><inf>/terikandin<vblex><tv><inf>$ ^*the/*the$ ^island<n><sg>/girav<n><f><sg>$ ^without<pr>/bêî<pr>/bêy<pr>/bêyî<pr>$ ^*the/*the$ ^Registration<n><sg>/Tescîl<n><f><sg>/Tomarkirin<n><f><sg>$ ^Document<n><sg>/Belge<n><f><sg>/Dokument<n><f><sg>/Belgename<n><f><sg>$^?.<sent>/?.<sent>$
+[/146osc8gSsOG]
+[1JMjiTMelK3x#0] ^*my/*my$ ^daughter<n><sg>/dot<n><f><sg>/keç<n><f><sg>$^.<sent>/.<sent>$
+[/1JMjiTMelK3x]
+[1aew9lL_9tP1#0] ^Can<vbmod><inf>/Karîn<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$ ^clean<adj><sint>/pakîze<adj>/pak<adj>/puxt<adj>/temîz<adj>$ ^*up/*up$^?.<sent>/?.<sent>$
+[/1aew9lL_9tP1]
+[2I_Mr3XkTXBp#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^write<vblex><inf>/nivîsin<vblex><tv><inf>/nivîsîn<vblex><tv><inf>/honandin<vblex><tv><inf>/nivîsandin<vblex><tv><inf>$ ^that<cnjsub>/ku<cnjsub>$ ^*down/*down$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^prpers<prn><obj><p1><mf><sg>/ez<prn><pers><p1><mf><sg>$^?.<sent>/?.<sent>$
+[/2I_Mr3XkTXBp]
+[2lRb0VTnxjAR#0] ^Good evening<ij>/Êvarbaş<ij>$^.<sent>/.<sent>$
+[/2lRb0VTnxjAR]
+[2vZiceexAxPR#0] ^*Chai/*Chai$ ^will<n><sg>/vîn<n><f><sg>/hemd<n><m><sg>/hosî<n><f><sg>/îrade<n><f><sg>/wesyet<n><f><sg>/wesiyetname<n><f><sg>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^serve<vblex><pp>/servîskirin<vblex><tv><pp>$^.<sent>/.<sent>$
+[/2vZiceexAxPR]
+[30Ba9D8oP3zk#0] ^*Deportation/*Deportation$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^Turkey<np><top><sg>/Rom<np><top><f><sg>/Turkey<np><top><f><sg>/Tirkiye<np><top><f><sg>/Tirkîye<np><top><f><sg>/Türkiye<np><top><f><sg>/tirkiya<np><top><f><sg>/tirkiyê<np><top><f><sg>$^.<sent>/.<sent>$
+[/30Ba9D8oP3zk]
+[35J2hZLLGucN#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^be<vbser><pp>/bûn<vbcop><pp>/bûn<vaux><pp>$ ^take<vblex><ger>/birin<vblex><tv><ger>/girtin<vblex><tv><ger>/standin<vblex><tv><ger>/wergirtin<vblex><tv><ger>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^medication<n><sg>/derman<n><m><sg>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^year<n><pl>/sal<n><f><pl>/sall<n><m><pl>$^.<sent>/.<sent>$
+[/35J2hZLLGucN]
+[39U_rIbrzoEL#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*a/*a$ ^*photograph/*photograph$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^*your/*your$ ^*phone/*phone$ ^*of/*of$ ^*your/*your$ ^Greek<adj>/grekî<adj>$ ^*documentation/*documentation$^?.<sent>/?.<sent>$
+[/39U_rIbrzoEL]
+[39rvclf7DkUE#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*diarrhoea/*diarrhoea$^.<sent>/.<sent>$
+[/39rvclf7DkUE]
+[3Tzl3L2PRqxH#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^be<vbser><pp>/bûn<vbcop><pp>/bûn<vaux><pp>$ ^*raped/*raped$^.<sent>/.<sent>$
+[/3Tzl3L2PRqxH]
+[3wT-s_MxqncE#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^sick<adj><sint>/nexweş<adj>$^.<sent>/.<sent>$
+[/3wT-s_MxqncE]
+[3xbJf5tDuapT#0] ^City<n><sg>/Şar<n><f><sg>/Îl<n><f><sg>/City<n><f><sg>/Bajar<n><sg>/Bajar<n><m><sg>/Bajarr<n><m><sg>/Şaristan<n><sg>$^.<sent>/.<sent>$
+[/3xbJf5tDuapT]
+[41IurcoHyVAd#0] ^Good morning<ij>/Dembaş<ij>$^.<sent>/.<sent>$
+[/41IurcoHyVAd]
+[4C50qnWzlB8L#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*phone/*phone$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^*viber/*viber$ ^number<n><sg>/nimre<n><f><sg>/reqem<n><f><sg>/jimar<n><f><sg>/hêjmar<n><f><sg>/hejmar<n><f><sg>/hijmar<n><f><sg>/jimare<n><f><sg>$ ^*of/*of$ ^*the/*the$ ^person<n><sg>/meriv<n><m><sg>/mirov<n><f><sg>/kes<n><sg>$ ^*missing/*missing$^?.<sent>/?.<sent>$
+[/4C50qnWzlB8L]
+[4DdOBy88_UtC#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p1><sg>/bûn<vbcop><past><p1><sg>/bûn<vaux><past><p1><sg>$ ^*stung/*stung$ ^by<pr>/li<pr>/di<pr>$ ^*an/*an$ ^insect<n><sg>/kêz<n><f><sg>$^.<sent>/.<sent>$
+[/4DdOBy88_UtC]
+[4VPOW5JQjGJt#0] ^CLOTHES<n><pl>/BERG<n><m>$ ^*DISTRIBUTION/*DISTRIBUTION$^.<sent>/.<sent>$
+[/4VPOW5JQjGJt]
+[4mEXAzKKotKp#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^never<adv>/hîç<adv>/qe<adv>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^before<pr>/li ber<pr>/berî<pr>$^.<sent>/.<sent>$
+[/4mEXAzKKotKp]
+[4nyYbXrO25ax#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^cold<n><sg>/zekem<n><f><sg>/serma<n><f><sg>/nezle<n><f><sg>/persîv<n><f><sg>$^.<sent>/.<sent>$
+[/4nyYbXrO25ax]
+[4ux0ssdgfJrr#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^do<vaux><pres>/kirin<vblex><tv><pres>$ ^not<adv>/ne<adv><neg>$ ^eat<vblex><inf>/xwarin<vblex><tv><inf>$ ^pork<n><sg>/goştê beraz<n><m><sg>/goştê berazî<n><m><sg>$^.<sent>/.<sent>$
+[/4ux0ssdgfJrr]
+[518SM4WvfK_b#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^food<n><sg>/aş<n><m><sg>/çer<n><f><sg>/risq<n><m><sg>/gida<n><f><sg>/hepo<n><m><sg>/bixwe<n><f><sg>/xwarin<n><f><sg>$^,<cm>/,<cm>$ ^coffee<n><sg>/qehwe<n><f><sg>$^,<cm>/,<cm>$ ^tea<n><sg>/çay<n><f><sg>$^?.<sent>/?.<sent>$
+[/518SM4WvfK_b]
+[5Q4qohsQp8ye#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*wheezing/*wheezing$^.<sent>/.<sent>$
+[/5Q4qohsQp8ye]
+[5RYvF6juuSrP#0] ^DO<vaux><inf>/KIRIN<vblex><tv><inf>$ ^NOT<adv>/NE<adv><neg>$ ^ADD<vblex><inf>/PÊVE KIRIN<vblex><tv><inf>$ ^WATER<n><sg>/AV<n><f><sg>$ ^TO<pr>/VE<post>/BA<pr>/JI<pr>/LI<pr>/SER<pr>$ ^THIS<det><dem><sg>/EV<det><dem><sg>$ ^PRODUCT<n><sg>/BERHEM<n><f><sg>/BERHEM<n><m><sg>$^.<sent>/.<sent>$
+[/5RYvF6juuSrP]
+[5SGF3jYsUOga#0] ^Do<vaux><pres><p3><sg>/Kirin<vblex><tv><pres><p3><sg>$ ^*anyone/*anyone$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*your/*your$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^*require/*require$ ^*medical/*medical$ ^attention<n><sg>/pax<n><f><sg>/bal<n><f><sg>/dîn<n><f><sg>/sexbêrî<n><f><sg>/gurdarî<n><f><sg>$^?.<sent>/?.<sent>$
+[/5SGF3jYsUOga]
+[63cb9i1vMWmy#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^child<n><pl>/zarok<n><pl>/kurik<n><m><pl>/mindal<n><m><pl>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$^?.<sent>/?.<sent>$
+[/63cb9i1vMWmy]
+[6DCyxFCYrgSr#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^stomach<n><sg>/made<n><f><sg>$ ^ache<vblex><inf>/êşîn<vblex><iv><inf>$^.<sent>/.<sent>$
+[/6DCyxFCYrgSr]
+[76OXPQl2TS8F#0] ^Both<det><ind><pl>/Herdu<det><ind><pl>$ ^*of/*of$ ^*them/*them$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^similar<adj>/hemta<adj>/herwekî<adj>/hevşib<adj>/hevşêwe<adj>/wekhev<adj>$ ^*pricing/*pricing$ ^policy<n><sg>/rêzanî<n><f><sg>$^:.<sent>/:.<sent>$
+[/76OXPQl2TS8F]
+[77uA9ajcXAyz#0] ^*The/*The$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^*started/*started$ ^*gradually/*gradually$^.<sent>/.<sent>$
+[/77uA9ajcXAyz]
+[7AsQaAr_OJ9y#0] ^IMPORTANT<adj>/LAZIM<adj>/GIRÎNG<adj>/MIHIM<adj>/KIRITÎK<adj>$ ^WARNING<n><sg>/QEWÎTÎ<n><f><sg>/ÎNZAR<n><f><sg>/ÎKAZ<n><f><sg>/ÎXTAR<n><f><sg>/NESÎBET<n><f><sg>$^:<sent>/:<sent>$ ^*A/*A$ ^mother<n><sg>/mak<n><f><sg>/dayîk<n><f><sg>/dayik<n><m><sg>/dî<n><f><sg>$^have<vbhaver><pres><p3><sg>/hebûn<vbhaver><pres><p3><sg>$ ^*breastmilk/*breastmilk$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*the/*the$ ^good<adj><sint><sup>/baş<adj><sup>/rind<adj><sup>/çak<adj><sup>/qenc<adj><sup>$ ^food<n><sg>/aş<n><m><sg>/çer<n><f><sg>/risq<n><m><sg>/gida<n><f><sg>/hepo<n><m><sg>/bixwe<n><f><sg>/xwarin<n><f><sg>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*her/*her$ ^*infant/*infant$^.<sent>/.<sent>$
+[/7AsQaAr_OJ9y]
+[7TjQfxS68p1_#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p1><sg>/bûn<vbcop><past><p1><sg>/bûn<vaux><past><p1><sg>$ ^bite<vblex><pp>/heter kirin<vblex><tv><pp>$^.<sent>/.<sent>$
+[/7TjQfxS68p1_]
+[7U5R0Q6mLHHg#0] ^Airport<n><sg>/Firrgeh<n><f><sg>/Balafirgeh<n><f><sg>$^.<sent>/.<sent>$
+[/7U5R0Q6mLHHg]
+[7Ugg4-_QVJL7#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^not<adv>/ne<adv><neg>$ ^see<vblex><inf>/dîtin<vblex><tv><inf>/dîtin<vblex><TD><inf>$^.<sent>/.<sent>$
+[/7Ugg4-_QVJL7]
+[7WJ4pzhe7uZb#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^thirsty<adj><sint>/tî<adj><sint>$^.<sent>/.<sent>$
+[/7WJ4pzhe7uZb]
+[7kJ9qxGgl3-X#0] ^As<pr>/Qasî<pr>/Bi qasî<pr>$ ^*of/*of$ ^5<num>/5<num>$^*th/*th$ ^*of/*of$ ^June<n><sg>/Pûşper<n><f><sg>/pûşber<n><f><sg>/xezîran<n><f><sg>/Pûşperê<n><f><sg>/Hezîran<n><f><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^until<pr>/heya<pr>/heta<pr>/ta<pr>$ ^*the/*the$ ^end<n><sg>/paşî<n><f><sg>/dawî<n><f><sg>/kuta<n><f><sg>/kuta<n><m><sg>/merz<n><m><sg>/hidûd<n><m><sg>/sinor<n><m><sg>/sînor<n><m><sg>/aqûbet<n><f><sg>/serencam<n><f><sg>$ ^*of/*of$ ^*the/*the$ ^*Ramadan/*Ramadan$ ^Period<n><sg>/Mudet<n><m><sg>/Heyam<n><f><sg>/Dem<n><f><sg>/Serdem<n><f><sg>$^,<cm>/,<cm>$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^5<num>/5<num>$^*th/*th$ ^*of/*of$ ^*July/*July$^,<cm>/,<cm>$ ^breakfast<n><sg>/taşt<n><f><sg>/taşt<n><m><sg>/qeretûn<n><f><sg>/qehwaltî<n><f><sg>/xurînî<n><f><sg>$ ^will<n><sg>/vîn<n><f><sg>/hemd<n><m><sg>/hosî<n><f><sg>/îrade<n><f><sg>/wesyet<n><f><sg>/wesiyetname<n><f><sg>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^serve<vblex><pp>/servîskirin<vblex><tv><pp>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^dinner<n><sg>/şîv<n><f><sg>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^19.00<num>/19.00<num>$^,<cm>/,<cm>$ ^*while/*while$ ^lunch<n><sg>/navroj<n><f><sg>/firavîn<n><f><sg>$ ^will<n><sg>/vîn<n><f><sg>/hemd<n><m><sg>/hosî<n><f><sg>/îrade<n><f><sg>/wesyet<n><f><sg>/wesiyetname<n><f><sg>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^serve<vblex><pp>/servîskirin<vblex><tv><pp>$ ^as<pr>/qasî<pr>/bi qasî<pr>$ ^usual<adj>/giştî<adj>/hertimî<adj>/gelemper<adj>$^.<sent>/.<sent>$
+[/7kJ9qxGgl3-X]
+[7sZKLpDySLXB#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^vomit<n><sg>/verişîn<n><f><sg>/vereşîn<n><f><sg>$ ^*up/*up$ ^all<adv>/tev<adv>/hemî<adv>$ ^food<n><sg>/aş<n><m><sg>/çer<n><f><sg>/risq<n><m><sg>/gida<n><f><sg>/hepo<n><m><sg>/bixwe<n><f><sg>/xwarin<n><f><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^drink<n><pl>/vexwarin<n><f><pl>$^.<sent>/.<sent>$
+[/7sZKLpDySLXB]
+[80mHn8BkAKxI#0] ^*my/*my$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$^.<sent>/.<sent>$
+[/80mHn8BkAKxI]
+[83hnxOJ1Kg0J#0] ^*Chios/*Chios$ – ^*Kavala/*Kavala$^.<sent>/.<sent>$
+[/83hnxOJ1Kg0J]
+[8QpYCK8YgCCx#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*bleeding/*bleeding$^.<sent>/.<sent>$
+[/8QpYCK8YgCCx]
+[8Yu7eo2Ps3qC#0] ^*elderly/*elderly$ ^person<n><pl>/meriv<n><m><pl>/mirov<n><f><pl>/kes<n><pl>$^,<cm>/,<cm>$^.<sent>/.<sent>$
+[/8Yu7eo2Ps3qC]
+[8iGw5cgrRTDN#0] ^Coffee<n><sg>/Qehwe<n><f><sg>$^.<sent>/.<sent>$
+[/8iGw5cgrRTDN]
+[9-Fp8ky1d1p8#0] ^*My/*My$ ^child<n><sg>/zarok<n><sg>/kurik<n><m><sg>/mindal<n><m><sg>$ ^have<vbhaver><pres><p3><sg>/hebûn<vbhaver><pres><p3><sg>$ ^*a/*a$ ^*sore/*sore$ ^cough<vblex><pres>/kuxîn<vblex><iv><pres>$^.<sent>/.<sent>$
+[/9-Fp8ky1d1p8]
+[9Rvq1IjhS2Vq#0] ^Thanks<n><pl>/Şikir<n><f>/Spas<n><f>$^.<sent>/.<sent>$
+[/9Rvq1IjhS2Vq]
+[9Uh-1LNTpR1S#0] ^*Somebody/*Somebody$ ^hit<vblex><past>/lêxistin<vblex><TD><past>$ ^prpers<prn><obj><p1><mf><sg>/ez<prn><pers><p1><mf><sg>$^.<sent>/.<sent>$
+[/9Uh-1LNTpR1S]
+[9exNQZvzEqVE#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^use<vblex><inf>/bikaranîn<vblex><tv><inf>/xebitandin<vblex><tv><inf>$ ^*a/*a$ ^bottle<n><sg>/botl<n><f><sg>$^.<sent>/.<sent>$ ^Use<vblex><pres>/Bikaranîn<vblex><tv><pres>/Xebitandin<vblex><tv><pres>$ ^*a/*a$ ^clean<adj><sint>/pakîze<adj>/pak<adj>/puxt<adj>/temîz<adj>$ ^cup<n><sg>/kas<n><f><sg>/kûp<n><f><sg>/fincan<n><f><sg>$^.<sent>/.<sent>$
+[/9exNQZvzEqVE]
+[9xq4uhekUzr0#0] ^*My/*My$ ^heart<n><sg>/dil<n><m><sg>/xatir<n><m><sg>$ ^beat<n><pl>/kutan<n><f><pl>$ ^*irregular/*irregular$^.<sent>/.<sent>$
+[/9xq4uhekUzr0]
+[A0JMzPeEdYn0#0] ^*My/*My$ ^.<sent>/.<sent>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*paralysed/*paralysed$^.<sent>/.<sent>$
+[/A0JMzPeEdYn0]
+[A1X5OltON2gd#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^take<vblex><pres>/birin<vblex><tv><pres>/girtin<vblex><tv><pres>/standin<vblex><tv><pres>/wergirtin<vblex><tv><pres>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^medication<n><sg>/derman<n><m><sg>$ ^every<det><ind><sg>/her<det><ind><sg>$ ^day<n><sg>/roj<n><f><sg>$^.<sent>/.<sent>$
+[/A1X5OltON2gd]
+[A3uCHOYT4bh6#0] ^Do<vaux><pres><p3><sg>/Kirin<vblex><tv><pres><p3><sg>$ ^*anyone/*anyone$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*your/*your$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^speak<vblex><pres>/axaftin<vblex><iv><pres>$ ^English<adj>/îngilîzî<adj>$^?.<sent>/?.<sent>$
+[/A3uCHOYT4bh6]
+[A6Y5THW2exH3#0] ^Clothing<n><sg>/Berg<n><m><sg>/Belgih<n><m><sg>/Kinc<n><f><sg>/Çek<n><f><sg>/Cil<n><m><sg>$ ^(<lpar>/(<lpar>$^only<adv>/tenê<adv>/bitenê<adv>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^wet<vblex><pp>/şil kirin<vblex><tv><pp>$ ^person<n><pl>/meriv<n><m><pl>/mirov<n><f><pl>/kes<n><pl>$^)<rpar>/)<rpar>$^.<sent>/.<sent>$
+[/A6Y5THW2exH3]
+[AMmMQxY8yJyh#0] ^Criterion<n><pl>/Pîvan<n><f><pl>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^Subsidiary<adj>/Jêrîn<adj>$ ^Protection<n><sg>/Sitar<n><f><sg>/Parastin<n><f><sg>/Berrevanî<n><f><sg>/Defans<n><f><sg>/Berhingarî<n><f><sg>$^.<sent>/.<sent>$
+[/AMmMQxY8yJyh]
+[AV0rFQSebrbT#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$’^*t/*t$ ^know<vblex><pres>/zanîn<vblex><tv><pres>/nasîn<vblex><TD><pres>$^.<sent>/.<sent>$
+[/AV0rFQSebrbT]
+[AmRMAvNzDNtH#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*photograph/*photograph$ ^*of/*of$ ^Greek<adj>/grekî<adj>$ ^document<n><pl>/belge<n><f><pl>/dokument<n><f><pl>/belgename<n><f><pl>$^?.<sent>/?.<sent>$
+[/AmRMAvNzDNtH]
+[AtndzyHwbI-F#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$'^*t/*t$ ^speak<vblex><pres>/axaftin<vblex><iv><pres>$ ^(<lpar>/(<lpar>$^English<adj>/îngilîzî<adj>$^)<rpar>/)<rpar>$ ^very<preadv>/gelek<preadv>$ ^well<n><sg>/bîr<n><f><sg>/çal<n><f><sg>$^.<sent>/.<sent>$
+[/AtndzyHwbI-F]
+[AwNShgKk_uKC#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^headache<n><sg>/serêş<n><f><sg>/serêşî<n><f><sg>/bêzarî<n><f><sg>$^.<sent>/.<sent>$
+[/AwNShgKk_uKC]
+[B5JxnBTVebiC#0] ^Be<vbser><imp>/Bûn<vbcop><imp>/Bûn<vaux><imp>$ ^part<n><sg>/alî<n><m><sg>/beş<n><sg>/qet<n><f><sg>/deq<n><f><sg>/şax<n><f><sg>$ ^*of/*of$ ^*the/*the$ ^*relocation/*relocation$ ^process<n><sg>/pêvajo<n><f><sg>/prose<n><f><sg>/doman<n><f><sg>$ ^but<cnjcoo>/lê<cnjcoo>/lê belê<cnjcoo>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^*the/*the$ ^end<n><sg>/paşî<n><f><sg>/dawî<n><f><sg>/kuta<n><f><sg>/kuta<n><m><sg>/merz<n><m><sg>/hidûd<n><m><sg>/sinor<n><m><sg>/sînor<n><m><sg>/aqûbet<n><f><sg>/serencam<n><f><sg>$ ^*of/*of$ ^*the/*the$ ^line<n><sg>/hed<n><f><sg>/rêz<n><f><sg>/xet<n><f><sg>/xêz<n><f><sg>$^.<sent>/.<sent>$
+[/B5JxnBTVebiC]
+[BFlxh5DNmRxg#0] ^*It/*It$ ^hurt<vblex><pres><p3><sg>/êşandin<vblex><tv><pres><p3><sg>$ ^here<adv>/vir<adv>$^.<sent>/.<sent>$
+[/BFlxh5DNmRxg]
+[BNxmouqPYFsN#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^able<adj><sint>/kara<adj>/tiwana<adj>/bişiyan<adj>/bizever<adj>/bitaqet<adj>/pêçêbûyî<adj>/muqtedîr<adj>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^write<vblex><inf>/nivîsin<vblex><tv><inf>/nivîsîn<vblex><tv><inf>/honandin<vblex><tv><inf>/nivîsandin<vblex><tv><inf>$ ^*your/*your$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$^?.<sent>/?.<sent>$
+[/BNxmouqPYFsN]
+[Bl3hcHUoGQqE#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$’^*t/*t$ ^understand<vblex><pres>/fahmkirin<vblex><tv><pres>/fêm kirin<vblex><tv><pres>/fêmkirin<vblex><tv><pres>/fêhmkirin<vblex><tv><pres>$^.<sent>/.<sent>$
+[/Bl3hcHUoGQqE]
+[By01VJ-Bkp9P#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^want<vblex><inf>/xwestin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^stay<vblex><inf>/man<vblex><iv><inf>/sekinîn<vblex><iv><inf>/sekinîn<vblex><TD><inf>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*the/*the$ ^child<n><pl>/zarok<n><pl>/kurik<n><m><pl>/mindal<n><m><pl>$ ^and<cnjcoo>/û<cnjcoo>$ ^family<n><pl>/famîle<n><pl>/ocax<n><f><pl>/malbat<n><f><pl>$' ^centre<n><sg>/navend<n><sg>/merkez<n><f><sg>$ ^*tonight/*tonight$^?.<sent>/?.<sent>$
+[/By01VJ-Bkp9P]
+[C75gSBpxaTUB#0] ^What<prn><itg><mf><sp>/Çi<prn><itg><mf><sp>$ ^happen<vblex><past>/qewimin<vblex><iv><past>$^?.<sent>/?.<sent>$
+[/C75gSBpxaTUB]
+[CFjALpIWyYUO#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^pregnant<adj>/avis<adj>/bardar<adj>/bihemil<adj>/ducanî<adj>$^.<sent>/.<sent>$
+[/CFjALpIWyYUO]
+[CTLOQtkvAhgo#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^share<n><sg>/beş<n><sg>/maf<n><m><sg>/par<n><f><sg>/pişk<n><f><sg>$ ^*your/*your$ ^information<n><sg>/hay<n><f><sg>/agadarî<n><f><sg>/agahî<n><f><sg>/agahdarî<n><m><sg>/enformasyon<n><f><sg>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^*my/*my$ ^colleague<n><pl>/hevkar<n><m><pl>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^*the/*the$ ^next<adj>/bê<adj>/piştî<adj>$ ^train<n><sg>/trên<n><f><sg>/tirên<n><f><sg>$ ^stop<vblex><inf>/rawestandin<vblex><tv><inf>$ ^so<adv>/wisa<adv>/wilo<adv>/ewqas<adv>/lewre<adv>$ ^prpers<prn><subj><p1><mf><pl>/ez<prn><pers><p1><mf><pl>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^*provide/*provide$ ^service<n><pl>/raje<n><f><pl>/xizmet<n><f><pl>/xidmet<n><f><pl>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^there<adv>/wir<adv>$^?.<sent>/?.<sent>$
+[/CTLOQtkvAhgo]
+[Cpi1pZJX41eG#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^*a/*a$ ^cold<n><sg>/zekem<n><f><sg>/serma<n><f><sg>/nezle<n><f><sg>/persîv<n><f><sg>$ ^*sweat/*sweat$^.<sent>/.<sent>$
+[/Cpi1pZJX41eG]
+[D-howE2Py_Xr#0] ^Ask<vblex><imp>/Pirsîn<vblex><TD><imp>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*a/*a$ ^translator<n><sg>/tercuman<n><m><sg>/wer bûn divan<n><m><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*discuss/*discuss$ ^family<n><sg>/famîle<n><sg>/ocax<n><f><sg>/malbat<n><f><sg>$ ^issue<n><pl>/arîşe<n><f><pl>/hejmar<n><f><pl>$^.<sent>/.<sent>$
+[/D-howE2Py_Xr]
+[D5eUOhxQnUGF#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^hurt<vblex><past>/êşandin<vblex><tv><past>$^?.<sent>/?.<sent>$
+[/D5eUOhxQnUGF]
+[DC-34x6GqlIx#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^sad<adj><sint>/dama<adj>/melûl<adj>/xemdar<adj>/xembar<adj>/xemgîn<adj>/esefnak<adj>/bikeser<adj>/xemxwar<adj>$^.<sent>/.<sent>$
+[/DC-34x6GqlIx]
+[DOPvRI4vmIpN#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^speak<vblex><inf>/axaftin<vblex><iv><inf>$ ^English<adj>/îngilîzî<adj>$^?.<sent>/?.<sent>$
+[/DOPvRI4vmIpN]
+[DUk1Nz6k1DXN#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^clean<adj><sint>/pakîze<adj>/pak<adj>/puxt<adj>/temîz<adj>$^?.<sent>/?.<sent>$
+[/DUk1Nz6k1DXN]
+[DcsrjRqNgep1#0] ^*Once/*Once$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^start<n><sg>/ibtida<n><f><sg>/sereta<n><m><sg>/bidayet<n><f><sg>/destpêk<n><f><sg>/ewlewiyet<n><f><sg>/înisiyatîv<n><f><sg>/dest pê kirin<n><f><sg>$ ^use<vblex><ger>/bikaranîn<vblex><tv><ger>/xebitandin<vblex><tv><ger>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^*it/*it$ ^*might/*might$ ^not<adv>/ne<adv><neg>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^easy<adj><sint>/rehet<adj>/hêsan<adj>/gengaz<adj>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^start<n><sg>/ibtida<n><f><sg>/sereta<n><m><sg>/bidayet<n><f><sg>/destpêk<n><f><sg>/ewlewiyet<n><f><sg>/înisiyatîv<n><f><sg>/dest pê kirin<n><f><sg>$ ^*breastfeeding/*breastfeeding$ ^again<adv>/dîsan<adv>/dîsa<adv>/dubare<adv>/cardin<adv>$^.<sent>/.<sent>$
+[/DcsrjRqNgep1]
+[DtGfvYUDNtBq#0] ^*My/*My$ ^urine<n><sg>/mîz<n><f><sg>/îdrar<n><f><sg>/destava zirav<n><f><sg>$ ^smell<n><pl>/bêhn<n><f><pl>/bên<n><f><pl>$ ^bad<adj><sint>/bed<adj>/neçak<adj>/xebîs<adj>/xirab<adj>$^.<sent>/.<sent>$
+[/DtGfvYUDNtBq]
+[Du3TneOZvIoF#0] ^*My/*My$ ^.<sent>/.<sent>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^weak<adj><sint>/bêhal<adj>/bêzar<adj>/qels<adj>/sist<adj>/liyan<adj>$^.<sent>/.<sent>$
+[/Du3TneOZvIoF]
+[E1EMi3tFcGmT#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*temperature/*temperature$^.<sent>/.<sent>$
+[/E1EMi3tFcGmT]
+[E6_9CGQeRN8x#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p1><sg>/bûn<vbcop><past><p1><sg>/bûn<vaux><past><p1><sg>$ ^*raped/*raped$^.<sent>/.<sent>$
+[/E6_9CGQeRN8x]
+[EAho--SC7yUz#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^product<n><sg>/berhem<n><f><sg>/berhem<n><m><sg>$ ^*must/*must$ ^not<adv>/ne<adv><neg>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^use<vblex><pp>/bikaranîn<vblex><tv><pp>/xebitandin<vblex><tv><pp>$ ^after<pr>/piştî<pr>/li pey<pr>$ ^date<n><sg>/qesp<n><f><sg>/xurme<n><f><sg>/jivan<n><f><sg>/randevû<n><f><sg>/hevdîtin<n><f><sg>$ ^print<vblex><pp>/çapkirin<vblex><tv><pp>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^*the/*the$ ^bottom<n><sg>/bin<n><m><sg>$ ^*of/*of$ ^*the/*the$ ^tin<n><sg>/pîl<n><m><sg>/teneke<n><f><sg>$\/^pack<n><sg>/col<n><m><sg>/revde<n><m><sg>/buxçik<n><f><sg>$^.<sent>/.<sent>$
+[/EAho--SC7yUz]
+[EAsRVvHJqusl#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*photocopy/*photocopy$ ^*a/*a$ ^document<n><sg>/belge<n><f><sg>/dokument<n><f><sg>/belgename<n><f><sg>$^?.<sent>/?.<sent>$
+[/EAsRVvHJqusl]
+[ECP43oD9yk7u#0] ^DO<vaux><inf>/KIRIN<vblex><tv><inf>$ ^NOT<adv>/NE<adv><neg>$ ^cut<vblex><pp>/qetandin<vblex><tv><pp>/qutkirin<vblex><tv><pp>$ ^open<adj>/kifş<adj>$ ^*the/*the$ ^wound<n><sg>/kul<n><f><sg>/birîn<n><f><sg>$ ^*of/*of$ ^try<vblex><inf>/hewldan<vblex><tv><inf>/ceribandin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^remove<vblex><inf>/jêkirin<vblex><tv><inf>$ ^*the/*the$ ^*venom/*venom$^.<sent>/.<sent>$
+[/ECP43oD9yk7u]
+[EfiSikrcaGWb#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^understand<vblex><inf>/fahmkirin<vblex><tv><inf>/fêm kirin<vblex><tv><inf>/fêmkirin<vblex><tv><inf>/fêhmkirin<vblex><tv><inf>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^language<n><sg>/zar<n><m><sg>/ziman<n><m><sg>$^?.<sent>/?.<sent>$
+[/EfiSikrcaGWb]
+[Ek6yc_mgpHDj#0] ^Prpers<prn><subj><p2><mf><sp>/Tu<prn><pers><p2><mf><sg>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^*welcome/*welcome$^.<sent>/.<sent>$
+[/Ek6yc_mgpHDj]
+[EvZOiehCrUrW#0] ^Deck<n><sg>/Guverte<n><f><sg>$^:<sent>/:<sent>$ € ^41,5<num>/41,5<num>$^.<sent>/.<sent>$
+[/EvZOiehCrUrW]
+[FTT1cvb-yvOd#0] ^Criterion<n><pl>/Pîvan<n><f><pl>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*Humanitarian/*Humanitarian$ ^*Residency/*Residency$ ^*permit/*permit$^.<sent>/.<sent>$
+[/FTT1cvb-yvOd]
+[FWmILbCd7Rzg#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*access/*access$ ^*a/*a$ ^*computer/*computer$^?.<sent>/?.<sent>$
+[/FWmILbCd7Rzg]
+[Fh7UvUiyzKKx#0] ^There<adv>/Wir<adv>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*a/*a$ ^*medical/*medical$ ^reason<n><sg>/eql<n><m><sg>/sebeb<n><m><sg>$ ^not<adv>/ne<adv><neg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*breastfeed/*breastfeed$^.<sent>/.<sent>$
+[/Fh7UvUiyzKKx]
+[Fx1swm7y8dKP#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^know<vblex><inf>/zanîn<vblex><tv><inf>/nasîn<vblex><TD><inf>$ ^which<det><itg><sp>/kîjan<det><itg><sp>$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$^?.<sent>/?.<sent>$
+[/Fx1swm7y8dKP]
+[GE_dWfKFIf1F#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^think<vblex><pres>/ramîn<vblex><TD><pres>/hizirîn<vblex><TD><pres>/fikirîn<vblex><TD><pres>/pûnijîn<vblex><TD><pres>$ ^about<pr>/li ser<pr>/derheqê<pr>/derheqa<pr>/derbarê<pr>/di bareya<pr>$ ^suicide<n><sg>/xwekujî<n><f><sg>/întihar<n><f><sg>/xwekuştin<n><f><sg>$^.<sent>/.<sent>$
+[/GE_dWfKFIf1F]
+[GbgJ9QOY6EvK#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^*frightened/*frightened$^.<sent>/.<sent>$
+[/GbgJ9QOY6EvK]
+[GsY7tFUB2RnR#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^cough<vblex><ger>/kuxîn<vblex><iv><ger>$ ^*up/*up$ ^*sputum/*sputum$^.<sent>/.<sent>$
+[/GsY7tFUB2RnR]
+[Gyxo2wCba4gs#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^try<vblex><inf>/hewldan<vblex><tv><inf>/ceribandin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^move<n><sg>/bizav<n><f><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*another/*another$ ^part<n><sg>/alî<n><m><sg>/beş<n><sg>/qet<n><f><sg>/deq<n><f><sg>/şax<n><f><sg>$ ^*of/*of$ ^*your/*your$ ^country<n><sg>/welat<n><f><sg>/welat<n><m><sg>/diyar<n><sg>/çolter<n><f><sg>/niştiman<n><m><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*avoid/*avoid$ ^*your/*your$ ^problem<n><pl>/arîşe<n><f><pl>/problem<n><f><pl>$^?.<sent>/?.<sent>$
+[/Gyxo2wCba4gs]
+[H8UUTWU1XHb2#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^*the/*the$ ^police<n><pl>/polîs<n><f><pl>/polîs<n><m><pl>$ ^*tell/*tell$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*a/*a$ ^train<n><sg>/trên<n><f><sg>/tirên<n><f><sg>$^?.<sent>/?.<sent>$
+[/H8UUTWU1XHb2]
+[HT68pYBjUbNl#0] ^Buy<vblex><imp>/Kirîn<vblex><tv><imp>/Kirîn<vblex><TD><imp>/Kirrîn<vblex><TD><imp>$ ^ticket<n><pl>/bilêt<n><f><pl>/tikêt<n><f><pl>/bîtaqe<n><f><pl>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^advance<n><sg>/pêşî<n><f><sg>$^.<sent>/.<sent>$
+[/HT68pYBjUbNl]
+[HynyAf8ohbkP#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*my/*my$ ^medication<n><sg>/derman<n><m><sg>$^.<sent>/.<sent>$
+[/HynyAf8ohbkP]
+[Hz9VIgZKQjRB#0] ^Prpers<prn><subj><p2><mf><sp>/Tu<prn><pers><p2><mf><sg>$ ^understand<vblex><pres>/fahmkirin<vblex><tv><pres>/fêm kirin<vblex><tv><pres>/fêmkirin<vblex><tv><pres>/fêhmkirin<vblex><tv><pres>$ ^all<adv>/tev<adv>/hemî<adv>$ ^*the/*the$ ^instruction<n><pl>/dîrektîv<n><f><pl>$^.<sent>/.<sent>$
+[/Hz9VIgZKQjRB]
+[I814kWwU5yzd#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*freezing/*freezing$^.<sent>/.<sent>$
+[/I814kWwU5yzd]
+[IB6kPZKa2QmR#0] ‘^*Serious/*Serious$ ^harm<n><sg>/ziyan<n><f><sg>/xerabî<n><f><sg>$’ ^means<n><pl>/pergal<n><pl>/havil<n><f><pl>$^:.<sent>/:.<sent>$
+[/IB6kPZKa2QmR]
+[IKeVUbcuQyJb#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^cough<vblex><ger>/kuxîn<vblex><iv><ger>$ ^*up/*up$ ^blood<n><sg>/xwîn<n><f><sg>/xûn<n><f><sg>/xizmatî<n><f><sg>$^.<sent>/.<sent>$
+[/IKeVUbcuQyJb]
+[IVKULBdpuglB#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*asthma/*asthma$^.<sent>/.<sent>$
+[/IVKULBdpuglB]
+[IkHRoRheNqom#0] ^*Where/*Where$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^fill<vblex><inf>/dagirtin<vblex><tv><inf>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^*prescription/*prescription$^?.<sent>/?.<sent>$
+[/IkHRoRheNqom]
+[IsDAyQSw_nlx#0] ^*my/*my$ ^child<n><pl>/zarok<n><pl>/kurik<n><m><pl>/mindal<n><m><pl>$^.<sent>/.<sent>$
+[/IsDAyQSw_nlx]
+[ItRFhBxAkOdu#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^when<cnjadv>/gava<cnjsub>$ ^urinate<vblex><ger>/mîstin<vblex><TD><ger>$^.<sent>/.<sent>$
+[/ItRFhBxAkOdu]
+[Iv9YBpx_lRwO#0] ^*Where/*Where$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*the/*the$ ^toilet<n><sg>/kok<n><f><sg>/daşir<n><f><sg>/xeml<n><f><sg>/destavxane<n><f><sg>$^?.<sent>/?.<sent>$
+[/Iv9YBpx_lRwO]
+[JKshymwdP0RY#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^charge<n><sg>/gazin<n><f><sg>/îtham<n><f><sg>/xwîkî<n><f><sg>/şikayet<n><f><sg>/mikelefiyet<n><f><sg>$ ^*your/*your$ ^*phone/*phone$ ^here<adv>/vir<adv>$^.<sent>/.<sent>$
+[/JKshymwdP0RY]
+[JZR7S3uHLWYR#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^sleep<vblex><inf>/nivîn<vblex><iv><inf>/raketin<vblex><iv><inf>/raketin<vblex><TD><inf>$^.<sent>/.<sent>$
+[/JZR7S3uHLWYR]
+[JifMvYbsWM1T#0] ^Be<vbser><pres><p3><sg>/Bûn<vbcop><pres><p3><sg>/Bûn<vaux><pres><p3><sg>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^food<n><sg>/aş<n><m><sg>/çer<n><f><sg>/risq<n><m><sg>/gida<n><f><sg>/hepo<n><m><sg>/bixwe<n><f><sg>/xwarin<n><f><sg>$ ^Halal<adj>/Helal<adj>$^?.<sent>/?.<sent>$
+[/JifMvYbsWM1T]
+[K2h9timLYp07#0] ^Goodbye<ij>/Oxir be<ij>/Bi xatirê te<ij>$^.<sent>/.<sent>$
+[/K2h9timLYp07]
+[KOPLmrEZP_rP#0] ^*It/*It$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*a/*a$ ^sharp<adj><sint>/kone<adj>/tûj<adj>$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$^.<sent>/.<sent>$
+[/KOPLmrEZP_rP]
+[Kn7iWMHz3E47#0] ^*It/*It$ ^hurt<vblex><pres><p3><sg>/êşandin<vblex><tv><pres><p3><sg>$ ^when<cnjadv>/gava<cnjsub>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*touch/*touch$ ^*it/*it$^.<sent>/.<sent>$
+[/Kn7iWMHz3E47]
+[Kp14QA6SSt7Y#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^hungry<adj><sint>/birçî<adj>/birsî<adj>$^.<sent>/.<sent>$
+[/Kp14QA6SSt7Y]
+[LA0SYTIOa6Pf#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^*the/*the$ ^police<n><pl>/polîs<n><f><pl>/polîs<n><m><pl>$ ^*tell/*tell$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*a/*a$ ^*taxi/*taxi$^?.<sent>/?.<sent>$
+[/LA0SYTIOa6Pf]
+[LBrFN0b3-4dS#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^want<vblex><inf>/xwestin<vblex><tv><inf>$ ^*a/*a$ ^lawyer<n><sg>/parêzer<n><m><sg>$^?.<sent>/?.<sent>$
+[/LBrFN0b3-4dS]
+[LK10Zi_j4SYl#0] ^Do<vaux><pres><p3><sg>/Kirin<vblex><tv><pres><p3><sg>$ ^*the/*the$ ^beach<n><sg>/perav<n><f><sg>$ ^need<n><sg>/bêgavî<n><f><sg>/mecbûrî<n><f><sg>/hewcedarî<n><f><sg>$ ^clean<adj><sint>/pakîze<adj>/pak<adj>/puxt<adj>/temîz<adj>$ ^*up/*up$^?.<sent>/?.<sent>$
+[/LK10Zi_j4SYl]
+[LQbJ3yoRplh-#0] ^*Departure/*Departure$ ^*Point/*Point$^.<sent>/.<sent>$
+[/LQbJ3yoRplh-]
+[LWsH5LxNcIHX#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^pay<n><sg>/bergind<n><f><sg>$ ^more<adv>/hêj<adv>/hê<adv>/pitir<adv>/bêhtir<adv>$ ^*than/*than$ ^*the/*the$ ^state<vblex><pp>/diyarkirin<vblex><tv><pp>$ ^price<n><sg>/nirx<n><m><sg>/fiyet<n><m><sg>$^?.<sent>/?.<sent>$
+[/LWsH5LxNcIHX]
+[LYvX2btfhbpk#0] ^Hello<ij>/Merheba<ij>$^.<sent>/.<sent>$
+[/LYvX2btfhbpk]
+[M6969AW8Ne6j#0] ^*It/*It$ ^*gets/*gets$ ^bad<adj><sint><comp>/bed<adj><comp>/neçak<adj><comp>/xebîs<adj><comp>/xirab<adj><comp>$ ^when<cnjadv>/gava<cnjsub>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^lie# down<vblex><pres>/nivîn<vblex><iv><pres>$^.<sent>/.<sent>$
+[/M6969AW8Ne6j]
+[MHfKv6hdFmP6#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*constipation/*constipation$^.<sent>/.<sent>$
+[/MHfKv6hdFmP6]
+[MR4uCNH3tHeK#0] ^*Where/*Where$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$^.?.<sent>/.?.<sent>$
+[/MR4uCNH3tHeK]
+[MdnmzcosMrDl#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^before<pr>/li ber<pr>/berî<pr>$^.<sent>/.<sent>$
+[/MdnmzcosMrDl]
+[MiR9N3SLM5Wp#0] ^*Where/*Where$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*pray/*pray$^?.<sent>/?.<sent>$
+[/MiR9N3SLM5Wp]
+[MiZA9rxSkU95#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^difficulty<n><sg>/alozî<n><f><sg>/dijwarî<n><f><sg>/zehmet<n><f><sg>/zorî<n><f><sg>/tengasî<n><f><sg>$ ^breathing<n><sg>/henase<n><f><sg>$^.<sent>/.<sent>$
+[/MiZA9rxSkU95]
+[MqQJXTYakU_c#0] ^*My/*My$ ^.<sent>/.<sent>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*tingling/*tingling$^.<sent>/.<sent>$
+[/MqQJXTYakU_c]
+[MqZmBAgGtg8-#0] ^*It/*It$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*a/*a$ ^*dull/*dull$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$^.<sent>/.<sent>$
+[/MqZmBAgGtg8-]
+[N1D-qcQf_0NC#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*sore/*sore$ ^throat<n><sg>/gewrî<n><f><sg>/stu<n><f><sg>/hewg<n><f><sg>/qirik<n><f><sg>$^.<sent>/.<sent>$
+[/N1D-qcQf_0NC]
+[NKA0kPBBNPhW#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*HIV/*HIV$^.<sent>/.<sent>$
+[/NKA0kPBBNPhW]
+[Np5pm40Gt6Xg#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^fall<vblex><past>/ketin<vblex><iv><past>$ ^from<pr>/jê<pr>/ji<pr>$ ^*a/*a$ ^height<n><sg>/berzî<n><f><sg>/bejin<n><f><sg>/bejn<n><f><sg>/qam<n><f><sg>/qûç<n><f><sg>/bilindcih<n><m><sg>$^.<sent>/.<sent>$
+[/Np5pm40Gt6Xg]
+[NyL9kvZue7Sk#0] ^Come<vblex><imp>/Hatin<vblex><iv><imp>$ ^*over/*over$ ^here<adv>/vir<adv>$^!.<sent>/!.<sent>$
+[/NyL9kvZue7Sk]
+[OA_qEEphhc34#0] ^*Arrange/*Arrange$ ^*a/*a$ ^meet<vblex><pprs>/pêşwazîkirin<vblex><tv><pprs>$ ^*point/*point$^.<sent>/.<sent>$
+[/OA_qEEphhc34]
+[OXRPGgfVUDcM#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*receive/*receive$ ^*a/*a$ ^blanket<n><sg>/betenî<n><m><sg>/orxan<n><m><sg>$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^warm<adj><sint>/germ<adj>$ ^clothing<n><sg>/berg<n><m><sg>/belgih<n><m><sg>/kinc<n><f><sg>/çek<n><f><sg>/cil<n><m><sg>$^?.<sent>/?.<sent>$
+[/OXRPGgfVUDcM]
+[Oat03cLfkJ_j#0] ^*The/*The$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^*started/*started$ ^here<adv>/vir<adv>$ ^and<cnjcoo>/û<cnjcoo>$ ^go<vblex><pres><p3><sg>/çûn<vblex><iv><pres><p3><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^here<adv>/vir<adv>$^.<sent>/.<sent>$
+[/Oat03cLfkJ_j]
+[OhX_Us3-3G7d#0] ^What<prn><itg><mf><sp>/Çi<prn><itg><mf><sp>$ ^time<n><sg>/kat<n><f><sg>/geh<n><f><sg>/dem<n><f><sg>/car<n><f><sg>/çax<n><f><sg>/çax<n><m><sg>/dewr<n><f><sg>/wext<n><f><sg>/wext<n><m><sg>/zeman<n><m><sg>/dewran<n><f><sg>/hengam<n><f><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*it/*it$^?.<sent>/?.<sent>$
+[/OhX_Us3-3G7d]
+[OmdFNWS6MxPR#0] ^Currency<n><sg>/Tedawil<n><f><sg>$ ^exchange<n><sg>/werdan<n><f><sg>/danûstendin<n><f><sg>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^*Chios/*Chios$ ^Bank<n><sg>/Bank<n><f><sg>$^.<sent>/.<sent>$
+[/OmdFNWS6MxPR]
+[OseQxnKUg-0M#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^will<n><sg>/vîn<n><f><sg>/hemd<n><m><sg>/hosî<n><f><sg>/îrade<n><f><sg>/wesyet<n><f><sg>/wesiyetname<n><f><sg>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^back<n><sg>/par<n><f><sg>/t<n><f><sg>/qûn<n><f><sg>/pişt<n><f><sg>/pist<n><f><sg>$ ^*soon/*soon$^.<sent>/.<sent>$
+[/OseQxnKUg-0M]
+[Osjy5AR5OCt6#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^*ill/*ill$^.<sent>/.<sent>$
+[/Osjy5AR5OCt6]
+[Ou_v_BbiOaB8#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^able<adj><sint>/kara<adj>/tiwana<adj>/bişiyan<adj>/bizever<adj>/bitaqet<adj>/pêçêbûyî<adj>/muqtedîr<adj>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^write<vblex><inf>/nivîsin<vblex><tv><inf>/nivîsîn<vblex><tv><inf>/honandin<vblex><tv><inf>/nivîsandin<vblex><tv><inf>$ ^*the/*the$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$ ^*of/*of$ ^*the/*the$ ^person<n><sg>/meriv<n><m><sg>/mirov<n><f><sg>/kes<n><sg>$ ^*missing/*missing$^?.<sent>/?.<sent>$
+[/Ou_v_BbiOaB8]
+[P8jGXK3fILYV#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^sad<adj><sint>/dama<adj>/melûl<adj>/xemdar<adj>/xembar<adj>/xemgîn<adj>/esefnak<adj>/bikeser<adj>/xemxwar<adj>$^.<sent>/.<sent>$
+[/P8jGXK3fILYV]
+[PDX1YxBhT7jC#0] ^Asylum<n><sg>/Pena<n><f><sg>/Sitare<n><f><sg>/Penageh<n><f><sg>/Sitargeh<n><f><sg>$ ^in<pr>/li<pr>$ ^Greece<np><top><sg>/Yewnan<np><top><f><sg>/Yewnanîstan<np><top><f><sg>/Yewnanistan<np><top><f><sg>$^.<sent>/.<sent>$
+[/PDX1YxBhT7jC]
+[PS3xHP3zJpjK#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^epilepsy<n><sg>/teb<n><f><sg>/fê<n><f><sg>$^.<sent>/.<sent>$
+[/PS3xHP3zJpjK]
+[PttgwO7mmpUC#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*my/*my$ ^mother<n><sg>/mak<n><f><sg>/dayîk<n><f><sg>/dayik<n><m><sg>/dî<n><f><sg>$^.<sent>/.<sent>$
+[/PttgwO7mmpUC]
+[Pyqj9juGsrTH#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^feeling<n><sg>/pêjin<n><f><sg>/seh<n><f><sg>/hes<n><f><sg>/hest<n><f><sg>/hîs<n><f><sg>$ ^*dizzy/*dizzy$^?.<sent>/?.<sent>$
+[/Pyqj9juGsrTH]
+[Pz8vpPURUWEm#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*planning/*planning$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*apply/*apply$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^asylum<n><sg>/pena<n><f><sg>/sitare<n><f><sg>/penageh<n><f><sg>/sitargeh<n><f><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*fYR/*fYR$ ^Macedonia<np><top><sg>/Makedonya<np><top><f><sg>$^?.<sent>/?.<sent>$
+[/Pz8vpPURUWEm]
+[Q3_ZY0KO0hZ1#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^happy<adj><sint>/mesûd<adj>/şad<adj>/şa<adj>/dilgeş<adj>/bicoş<adj>/bikêf<adj>/dilxweş<adj>/kêfxweş<adj>/bextiyar<adj>/bextewar<adj>/bextewer<adj>$^.<sent>/.<sent>$
+[/Q3_ZY0KO0hZ1]
+[Q5HMqE9Xm-7a#0] ^*It/*It$ ^already<adv>/jixwe<adv>$ ^have<vbhaver><pres><p3><sg>/hebûn<vbhaver><pres><p3><sg>$ ^pure<adj><sint>/temîz<adj>/masûm<adj>/sayî<adj>/sahî<adj>/sirf<adj>/pak<adj>/petî<adj>/xurî<adj>/xwerû<adj>/pakîze<adj>$ ^water<n><sg>/av<n><f><sg>$ ^add<vblex><past>/pêve kirin<vblex><tv><past>$^:<sent>/:<sent>$ ^*it/*it$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^not<adv>/ne<adv><neg>$ ^necessary<adj>/hewce<adj>/jênegerr<adj>/gerek<adj>/girîng<adj>/lazim<adj>/pêwîst<adj>/pêdivî<adj>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^add<vblex><inf>/pêve kirin<vblex><tv><inf>$ ^water<n><sg>/av<n><f><sg>$^.<sent>/.<sent>$
+[/Q5HMqE9Xm-7a]
+[QCwokCp1xEwb#0] ^Clothes<n><pl>/Berg<n><m>$ ^ONLY<adv>/TENÊ<adv>/BITENÊ<adv>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^wet<vblex><pp>/şil kirin<vblex><tv><pp>$ ^person<n><pl>/meriv<n><m><pl>/mirov<n><f><pl>/kes<n><pl>$^.<sent>/.<sent>$
+[/QCwokCp1xEwb]
+[QIF35yWmRpnE#0] ^*Hold/*Hold$ ^*your/*your$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$ ^close<adj><sint>/nêz<adj>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^let<vblex><past>/berdan<vblex><tv><past>$ ^*him/*him$\/^*her/*her$ ^*sip/*sip$ ^*slowly/*slowly$^.<sent>/.<sent>$
+[/QIF35yWmRpnE]
+[QLpUP5lD1ixJ#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*any/*any$ ^*other/*other$ ^*documentation/*documentation$ ^that<cnjsub>/ku<cnjsub>$ ^show<n><pl>/şow<n><f><pl>/rapêşîn<n><f><pl>/pêşangeh<n><f><pl>$ ^*your/*your$ ^*nationality/*nationality$^?.<sent>/?.<sent>$
+[/QLpUP5lD1ixJ]
+[Qp1M8qdt6Ojg#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*feel/*feel$ ^comfortable<adj>/rehet<adj>/sazgar<adj>$ ^stay<vblex><subs>/man<vblex><iv><subs>/sekinîn<vblex><iv><subs>/sekinîn<vblex><TD><subs>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^*site/*site$ ^today<adv>/îroj<adv>/îro<adv>/îroyîn<adv>$^?.<sent>/?.<sent>$
+[/Qp1M8qdt6Ojg]
+[QrN-8lZOubaR#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^this<det><dem><pl>/ev<det><dem><pl>$ ^*your/*your$ ^child<n><pl>/zarok<n><pl>/kurik<n><m><pl>/mindal<n><m><pl>$^?.<sent>/?.<sent>$
+[/QrN-8lZOubaR]
+[QspVqdJVIiD_#0] ^*Where/*Where$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*the/*the$ ^subway<n><sg>/mêtro<n><f><sg>$\/^underground<adj>/binax<adj>/binerdî<adj>/binerd<adj>/bin-ax<adj>/definandî<adj>/temartî<adj>/naştî<adj>$^?.<sent>/?.<sent>$
+[/QspVqdJVIiD_]
+[R5jfHFJpgyDe#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^like<pr>/weke<pr>/wek<pr>/wekî<pr>/mîna<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$^.<sent>/.<sent>$
+[/R5jfHFJpgyDe]
+[R5mF1seGJLwF#0] ^Do<vaux><pres><p3><sg>/Kirin<vblex><tv><pres><p3><sg>$ ^*the/*the$ ^person<n><sg>/meriv<n><m><sg>/mirov<n><f><sg>/kes<n><sg>$ ^*missing/*missing$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*your/*your$ ^*phone/*phone$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^*viber/*viber$ ^number<n><sg>/nimre<n><f><sg>/reqem<n><f><sg>/jimar<n><f><sg>/hêjmar<n><f><sg>/hejmar<n><f><sg>/hijmar<n><f><sg>/jimare<n><f><sg>$^?.<sent>/?.<sent>$
+[/R5mF1seGJLwF]
+[RAA3e58r74YK#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^*keep/*keep$ ^*leftover/*leftover$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^more<adv>/hêj<adv>/hê<adv>/pitir<adv>/bêhtir<adv>$ ^*than/*than$ ^1<num>/1<num>$ ^hour<n><sg>/saet<n><f><sg>/sa'et<n><f><sg>/demjimêr<n><f><sg>$ – ^*it/*it$ ^will<n><sg>/vîn<n><f><sg>/hemd<n><m><sg>/hosî<n><f><sg>/îrade<n><f><sg>/wesyet<n><f><sg>/wesiyetname<n><f><sg>$ ^*become/*become$ ^unclean<adj>/napak<adj>/ne paqij<adj>$ ^and<cnjcoo>/û<cnjcoo>$ ^unsafe<adj>/zererdar<adj>/ziyandar<adj>$^.<sent>/.<sent>$
+[/RAA3e58r74YK]
+[RHHd1xBeGCaI#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^smoke<n><sg>/dû<n><m><sg>/dixan<n><f><sg>/dûxan<n><f><sg>/dûkêl<n><m><sg>/dûkel<n><f><sg>/dûman<n><f><sg>$ ^inside<n><sg>/hundur<n><m><sg>$^.<sent>/.<sent>$
+[/RHHd1xBeGCaI]
+[RKRmJTWcHYfk#0] ^Church<n><sg>/Dêr<n><f><sg>$^.<sent>/.<sent>$
+[/RKRmJTWcHYfk]
+[RLRTbT0f6PL1#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*bleeding/*bleeding$ ^from<pr>/jê<pr>/ji<pr>$ ^*my/*my$ ^anus<n><sg>/zotik<n><f><sg>$^.<sent>/.<sent>$
+[/RLRTbT0f6PL1]
+[RPO87-xOmbbm#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^*medical/*medical$ ^attention<n><sg>/pax<n><f><sg>/bal<n><f><sg>/dîn<n><f><sg>/sexbêrî<n><f><sg>/gurdarî<n><f><sg>$^?.<sent>/?.<sent>$
+[/RPO87-xOmbbm]
+[RV1OYe3gvx8X#0] ^*The/*The$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^*started/*started$ ^*suddenly/*suddenly$^.<sent>/.<sent>$
+[/RV1OYe3gvx8X]
+[RZ1nvQlrmLt0#0] ^Come<vblex><imp>/Hatin<vblex><iv><imp>$ ^back<adv>/şunda<adv>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*UNHCR/*UNHCR$ ^tent<n><sg>/kon<n><m><sg>/xîvet<n><m><sg>/çadir<n><m><sg>$ ^(<lpar>/(<lpar>$^few<adj><sint>/hindik<adj><sint>/degmen<adj><sint>/kêmpeyda<adj><sint>$ ^hour<n><pl>/saet<n><f><pl>/sa'et<n><f><pl>/demjimêr<n><f><pl>$^)<rpar>/)<rpar>$^.<sent>/.<sent>$
+[/RZ1nvQlrmLt0]
+[RarAZAGzPqXb#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p1><sg>/bûn<vbcop><past><p1><sg>/bûn<vaux><past><p1><sg>$ ^unconscious<adj>/bêhay<adj>$^.<sent>/.<sent>$
+[/RarAZAGzPqXb]
+[S39AB8yOpqW1#0] ^*My/*My$ ^..<sent>/..<sent>$ ^*feels/*feels$ ^*numb/*numb$^.<sent>/.<sent>$
+[/S39AB8yOpqW1]
+[SDQRdSubwRdi#0] ^Because<cnjsub>/Lewra<cnjsub>/Ji bona ku<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^well<n><sg>/bîr<n><f><sg>/çal<n><f><sg>$^-<guio>/-<guio>$^found<vblex><pp>/çêkirin<vblex><tv><pp>/sazkirin<vblex><tv><pp>/damezrandin<vblex><tv><pp>/damezrandin<vblex><TD><pp>$ ^fear<n><sg>/hêb<n><f><sg>/xof<n><f><sg>/qurf<n><f><sg>/tirs<n><f><sg>/erjeng<n><f><sg>/hijmet<n><f><sg>/dehşet<n><f><sg>/fewqulade<n><f><sg>$^:.<sent>/:.<sent>$
+[/SDQRdSubwRdi]
+[SpO4wI6DDzM7#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*sufficient/*sufficient$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^all<adv>/tev<adv>/hemî<adv>$ ^need<n><pl>/bêgavî<n><f><pl>/mecbûrî<n><f><pl>/hewcedarî<n><f><pl>$ ^*of/*of$ ^*a/*a$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$ ^until<pr>/heya<pr>/heta<pr>/ta<pr>$ ^*the/*the$ ^age<n><sg>/jî<n><m><sg>/imr<n><m><sg>/dewr<n><f><sg>/emir<n><m><sg>/heyam<n><f><sg>/dewran<n><f><sg>$ ^*of/*of$ ^six<num><pl>/şeş<num><pl>$ ^(<lpar>/(<lpar>$^6<num>/6<num>$^)<rpar>/)<rpar>$ ^month<n><pl>/meh<n><f><pl>/heyv<n><f><pl>$^.<sent>/.<sent>$
+[/SpO4wI6DDzM7]
+[StVpfEBdkpY7#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$^?.<sent>/?.<sent>$
+[/StVpfEBdkpY7]
+[StkjxDPLPBDj#0] ^There<adv>/Wir<adv>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^blood<n><sg>/xwîn<n><f><sg>/xûn<n><f><sg>/xizmatî<n><f><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*my/*my$ ^*faeces/*faeces$^.<sent>/.<sent>$
+[/StkjxDPLPBDj]
+[SzMOFAGY8zvk#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^want<vblex><inf>/xwestin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^speak<vblex><inf>/axaftin<vblex><iv><inf>$ ^*privately/*privately$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^*a/*a$ ^translator<n><sg>/tercuman<n><m><sg>/wer bûn divan<n><m><sg>$^?.<sent>/?.<sent>$
+[/SzMOFAGY8zvk]
+[T-xJF9N40DCr#0] ^Airplane<n><pl>/Firroke<n><f><pl>$^:.<sent>/:.<sent>$
+[/T-xJF9N40DCr]
+[Tqy7WRKzUkOP#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*please/*please$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*your/*your$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$ ^so<adv>/wisa<adv>/wilo<adv>/ewqas<adv>/lewre<adv>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^check<n><sg>/kontrol<n><f><sg>/qontrol<n><f><sg>$ ^*the/*the$ ^database<n><sg>/danegeh<n><f><sg>/databas<n><f><sg>$^?.<sent>/?.<sent>$
+[/Tqy7WRKzUkOP]
+[U-pb2fpjliyw#0] ^*Don/*Don$’^*t/*t$ ^worry<n><sg>/qilal<n><f><sg>/şayîş<n><f><sg>/fikar<n><f><sg>/hêsîbes<n><f><sg>$^.<sent>/.<sent>$
+[/U-pb2fpjliyw]
+[U3sfshkQeAdq#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^more<adv>/hêj<adv>/hê<adv>/pitir<adv>/bêhtir<adv>$ ^*of/*of$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^medication<n><sg>/derman<n><m><sg>$^.<sent>/.<sent>$
+[/U3sfshkQeAdq]
+[UC_-wr73enJj#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^share<n><sg>/beş<n><sg>/maf<n><m><sg>/par<n><f><sg>/pişk<n><f><sg>$ ^*your/*your$ ^information<n><sg>/hay<n><f><sg>/agadarî<n><f><sg>/agahî<n><f><sg>/agahdarî<n><m><sg>/enformasyon<n><f><sg>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^*my/*my$ ^colleague<n><pl>/hevkar<n><m><pl>$ ^in<pr>/li<pr>$ ^Serbia<np><top><sg>/Serbistan<np><top><f><sg>$ ^so<adv>/wisa<adv>/wilo<adv>/ewqas<adv>/lewre<adv>$ ^prpers<prn><subj><p1><mf><pl>/ez<prn><pers><p1><mf><pl>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^*provide/*provide$ ^service<n><pl>/raje<n><f><pl>/xizmet<n><f><pl>/xidmet<n><f><pl>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^there<adv>/wir<adv>$^?.<sent>/?.<sent>$
+[/UC_-wr73enJj]
+[Uk4OiUXSkDVQ#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^make<vblex><inf>/kirin<vblex><tv><inf>/borandin<vblex><tv><inf>$ ^*a/*a$ ^*phone/*phone$ ^call<n><sg>/bang<n><f><sg>/gasa<n><f><sg>/hewar<n><f><sg>$^.<sent>/.<sent>$
+[/Uk4OiUXSkDVQ]
+[UkgDq7bDiYJs#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^show<vblex><inf>/nîşandan<vblex><tv><inf>/nîşankirin<vblex><tv><inf>/xwepêşandin<vblex><tv><inf>$ ^prpers<prn><obj><p1><mf><pl>/ez<prn><pers><p1><mf><pl>$ ^*the/*the$ ^*GPS/*GPS$ ^spot<n><sg>/cih<n><m><sg>/dews<n><f><sg>/dever<n><f><sg>$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^*your/*your$ ^*phone/*phone$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^find<vblex><inf>/peyda kirin<vblex><tv><inf>$ ^*the/*the$ ^*others/*others$^!.<sent>/!.<sent>$
+[/UkgDq7bDiYJs]
+[UqCmjgalygTp#0] ^Bus<n><sg>/Otobûs<n><f><sg>$ ^fare<n><sg>/çer<n><f><sg>/gida<n><f><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^3<num>/3<num>$ ^*euros/*euros$^.<sent>/.<sent>$
+[/UqCmjgalygTp]
+[V15Z8xG6v1ck#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*diabetic/*diabetic$^.<sent>/.<sent>$
+[/V15Z8xG6v1ck]
+[VO28fuRJr2VZ#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p3><sg>/bûn<vbcop><past><p3><sg>/bûn<vaux><past><p3><sg>$ ^*stabbed/*stabbed$\/ ^cut<vblex><pp>/qetandin<vblex><tv><pp>/qutkirin<vblex><tv><pp>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^*a/*a$ ^knife<n><sg>/kêr<n><f><sg>/kêr<n><m><sg>/çeqo<n><f><sg>/şefir<n><f><sg>/çeqok<n><f><sg>$^.<sent>/.<sent>$
+[/VO28fuRJr2VZ]
+[VO7AsGXpkakT#0] ^*Where/*Where$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^buy<vblex><inf>/kirîn<vblex><tv><inf>/kirîn<vblex><TD><inf>/kirrîn<vblex><TD><inf>$_____^?.<sent>/?.<sent>$
+[/VO7AsGXpkakT]
+[VYCsRxrH6-Ih#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^see<vblex><inf>/dîtin<vblex><tv><inf>/dîtin<vblex><TD><inf>$ ^*any/*any$ ^refugee<n><pl>/mişext<n><m><pl>/penaber<n><f><pl>/penaber<n><m><pl>$^?.<sent>/?.<sent>$
+[/VYCsRxrH6-Ih]
+[VoiUENPrU677#0] ^*Emergency/*Emergency$ ^Clothing<n><sg>/Berg<n><m><sg>/Belgih<n><m><sg>/Kinc<n><f><sg>/Çek<n><f><sg>/Cil<n><m><sg>$ ^Centre<n><sg>/Navend<n><sg>/Merkez<n><f><sg>$^.<sent>/.<sent>$
+[/VoiUENPrU677]
+[Vtj0DlXf57Ig#0] ^Call<n><sg>/Bang<n><f><sg>/Gasa<n><f><sg>/Hewar<n><f><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^*notify/*notify$ ^*XXX/*XXX$ ^*upon/*upon$ ^arrival<n><sg>/çûn<n><f><sg>/çûyîn<n><f><sg>$^.<sent>/.<sent>$
+[/Vtj0DlXf57Ig]
+[Vxurrl8D1LqX#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^see<vblex><inf>/dîtin<vblex><tv><inf>/dîtin<vblex><TD><inf>$ ^*a/*a$ ^doctor<n><sg>/bijîşk<n><f><sg>/bijîşk<n><m><sg>/doktor<n><f><sg>/doktor<n><m><sg>/tixtor<n><m><sg>$^.<sent>/.<sent>$
+[/Vxurrl8D1LqX]
+[W8FOaV899hEg#0] ^Suitable<adj>/Erênî<adj>/Nerm<adj>/Sazgar<adj>/Minasib<adj>/Pêkhatî<adj>/Bikêrhatî<adj>$ ^from<pr>/jê<pr>/ji<pr>$ ^Birth<n><sg>/Zan<n><f><sg>/Zayîn<n><f><sg>/Zayin<n><f><sg>/Mîlad<n><f><sg>$^.<sent>/.<sent>$
+[/W8FOaV899hEg]
+[WA0SI0H7pDJh#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^money<n><sg>/pere<n><sg>/pêre<n><m><sg>/dirav<n><m><sg>/sermaye<n><m><sg>/kapîtal<n><m><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^purchase<n><sg>/wergirtin<n><f><sg>$ ^*your/*your$ ^ticket<n><pl>/bilêt<n><f><pl>/tikêt<n><f><pl>/bîtaqe<n><f><pl>$^?.<sent>/?.<sent>$
+[/WA0SI0H7pDJh]
+[WUl4WSU43Fiq#0] ^*INFANT/*INFANT$ ^FORMULA<n><sg>/FORMUL<n><f><sg>$^.<sent>/.<sent>$
+[/WUl4WSU43Fiq]
+[WhtkFD1cIyYa#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*fever/*fever$^.<sent>/.<sent>$
+[/WhtkFD1cIyYa]
+[WiBO1h12TM-O#0] ^*The/*The$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^there<adv>/wir<adv>$ ^all<adv>/tev<adv>/hemî<adv>$ ^*the/*the$ ^time<n><sg>/kat<n><f><sg>/geh<n><f><sg>/dem<n><f><sg>/car<n><f><sg>/çax<n><f><sg>/çax<n><m><sg>/dewr<n><f><sg>/wext<n><f><sg>/wext<n><m><sg>/zeman<n><m><sg>/dewran<n><f><sg>/hengam<n><f><sg>$^.<sent>/.<sent>$
+[/WiBO1h12TM-O]
+[WncCOb15lAh2#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^*dizzy/*dizzy$^.<sent>/.<sent>$
+[/WncCOb15lAh2]
+[X1RwsdOyenLK#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^urinate<vblex><pres>/mîstin<vblex><TD><pres>$ ^every<det><ind><sg>/her<det><ind><sg>$ ^hour<n><sg>/saet<n><f><sg>/sa'et<n><f><sg>/demjimêr<n><f><sg>$^.<sent>/.<sent>$
+[/X1RwsdOyenLK]
+[X31Zui041spu#0] ^BOTTLE<n><pl>/BOTL<n><f><pl>$ ^AND<cnjcoo>/Û<cnjcoo>$ ^UNCLEAN<adj>/NAPAK<adj>/NE PAQIJ<adj>$ ^CUP<n><pl>/KAS<n><f><pl>/KÛP<n><f><pl>/FINCAN<n><f><pl>$ ^CAN<vbmod><pres>/KARÎN<vblex><tv><pres>$ ^MAKE<vblex><inf>/KIRIN<vblex><tv><inf>/BORANDIN<vblex><tv><inf>$ ^*YOUR/*YOUR$ ^CHILD<n><sg>/ZAROK<n><sg>/KURIK<n><m><sg>/MINDAL<n><m><sg>$ ^SICK<adj><sint>/NEXWEŞ<adj>$^!.<sent>/!.<sent>$
+[/X31Zui041spu]
+[XFHqdSAedKyH#0] ^*My/*My$ ^child<n><sg>/zarok<n><sg>/kurik<n><m><sg>/mindal<n><m><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^hungry<adj><sint>/birçî<adj>/birsî<adj>$^.<sent>/.<sent>$
+[/XFHqdSAedKyH]
+[XgXbAolH_LiT#0] ^Charge<n><sg>/Gazin<n><f><sg>/Îtham<n><f><sg>/Xwîkî<n><f><sg>/Şikayet<n><f><sg>/Mikelefiyet<n><f><sg>$ ^*your/*your$ ^*phone/*phone$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^big<adj><sint>/girs<adj><sint>$ ^tent<n><pl>/kon<n><m><pl>/xîvet<n><m><pl>/çadir<n><m><pl>$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^*ICT/*ICT$ ^centre<n><sg>/navend<n><sg>/merkez<n><f><sg>$^.<sent>/.<sent>$
+[/XgXbAolH_LiT]
+[XkYZM3zni2v8#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^stomach<n><sg>/made<n><f><sg>$ ^ache<vblex><inf>/êşîn<vblex><iv><inf>$^.<sent>/.<sent>$
+[/XkYZM3zni2v8]
+[Xu71QZBKx1iI#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*would/*would$ ^like<pr>/weke<pr>/wek<pr>/wekî<pr>/mîna<pr>$ ^*an/*an$ ^appointment<n><sg>/randevû<n><f><sg>/hevdîtin<n><f><sg>/jivan<n><f><sg>/tevîn<n><f><sg>/tayîn<n><f><sg>$^.<sent>/.<sent>$
+[/Xu71QZBKx1iI]
+[XzZ0JOq2QfKY#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^*insulin/*insulin$^.<sent>/.<sent>$
+[/XzZ0JOq2QfKY]
+[YWyXdLfrEb_I#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*my/*my$ ^husband<n><sg>/mêr<n><m><sg>$^.<sent>/.<sent>$
+[/YWyXdLfrEb_I]
+[YwKNfGdoL7b2#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*access/*access$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*a/*a$ ^*phone/*phone$^?.<sent>/?.<sent>$
+[/YwKNfGdoL7b2]
+[Yx4OC5PwuyRM#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^have<vbhaver><ger>/hebûn<vbhaver><ger>$ ^*an/*an$ ^*allergic/*allergic$ ^reaction<n><sg>/bersiv<n><f><sg>/bertek<n><f><sg>/reaksiyon<n><f><sg>$^.<sent>/.<sent>$
+[/Yx4OC5PwuyRM]
+[Z2bwn9xesmqe#0] ^*Please/*Please$^.<sent>/.<sent>$
+[/Z2bwn9xesmqe]
+[Z4KbKnWWnu6m#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^diabetes<n><sg>/diyabet<n><f><sg>$^.<sent>/.<sent>$
+[/Z4KbKnWWnu6m]
+[Z4uubif23DFo#0] ^*my/*my$ ^son<n><sg>/za<n><m><sg>/kur<n><sg>/pis<n><m><sg>/law<n><m><sg>/gede<n><m><sg>/kurr<n><m><sg>$^.<sent>/.<sent>$
+[/Z4uubif23DFo]
+[ZClm7gcYjQ1l#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^hear<vblex><pres>/bîstin<vblex><TD><pres>/bihîstin<vblex><tv><pres>$ ^voice<n><pl>/deng<n><m><pl>/sewt<n><f><pl>/awaz<n><f><pl>/awaz<n><m><pl>/gal<n><f><pl>$ ^when<cnjadv>/gava<cnjsub>$ ^prpers<prn><subj><p1><mf><sg>/ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^alone<adj>/bêkes<adj>/tenha<adj>/tenê<adj>/tek<adj>/sirf<adj>$^.<sent>/.<sent>$
+[/ZClm7gcYjQ1l]
+[ZDtI0BjZey3d#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^go<vblex><inf>/çûn<vblex><iv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*a/*a$ ^*hotel/*hotel$^?.<sent>/?.<sent>$
+[/ZDtI0BjZey3d]
+[Za540wqIRwUc#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^light<adj><sint>/sivik<adj>/ron<adj>/gewr<adj>/spiyê girtî<adj>$ ^fire<n><pl>/agir<n><m><pl>/şewat<n><f><pl>/şewitandin<n><f><pl>$ ^inside<n><sg>/hundur<n><m><sg>$^.<sent>/.<sent>$
+[/Za540wqIRwUc]
+[ZdvYvlJV7sTL#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^share<n><sg>/beş<n><sg>/maf<n><m><sg>/par<n><f><sg>/pişk<n><f><sg>$ ^information<n><sg>/hay<n><f><sg>/agadarî<n><f><sg>/agahî<n><f><sg>/agahdarî<n><m><sg>/enformasyon<n><f><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*UNHCR/*UNHCR$ ^*Tabernovce/*Tabernovce$^?.<sent>/?.<sent>$
+[/ZdvYvlJV7sTL]
+[ZpcBYs1FgjJV#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^feeling<n><sg>/pêjin<n><f><sg>/seh<n><f><sg>/hes<n><f><sg>/hest<n><f><sg>/hîs<n><f><sg>$ ^very<preadv>/gelek<preadv>$ ^cold<adj><sint>/sar<adj>$^?.<sent>/?.<sent>$
+[/ZpcBYs1FgjJV]
+[_7Aavp-_SRZV#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*receive/*receive$ ^MACEDONIA<np><top><sg>/MAKEDONYA<np><top><f><sg>$ ^document<n><pl>/belge<n><f><pl>/dokument<n><f><pl>/belgename<n><f><pl>$^?.<sent>/?.<sent>$
+[/_7Aavp-_SRZV]
+[_bcvWqv4EsL0#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^be<vbser><pp>/bûn<vbcop><pp>/bûn<vaux><pp>$ ^sick<adj><sint>/nexweş<adj>$^.<sent>/.<sent>$
+[/_bcvWqv4EsL0]
+[_f4WrCf_jE6y#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^*they/*they$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$^?.<sent>/?.<sent>$
+[/_f4WrCf_jE6y]
+[_kh36AKZ6SBY#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^tuberculosis<n><sg>/werem<n><f><sg>$^.<sent>/.<sent>$
+[/_kh36AKZ6SBY]
+[_oHGSBNVOv_D#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^write<vblex><inf>/nivîsin<vblex><tv><inf>/nivîsîn<vblex><tv><inf>/honandin<vblex><tv><inf>/nivîsandin<vblex><tv><inf>$ ^*your/*your$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*your/*your$ ^family<n><sg>/famîle<n><sg>/ocax<n><f><sg>/malbat<n><f><sg>$^?.<sent>/?.<sent>$
+[/_oHGSBNVOv_D]
+[_taQH3EM1Dkf#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^*the/*the$ ^volume<n><sg>/ebad<n><f><sg>/cild<n><f><sg>$ ^loud<adj><sint><comp>/bala<adj><comp>/berz<adj><comp>$^?.<sent>/?.<sent>$
+[/_taQH3EM1Dkf]
+[aGJ2y4tp5v5u#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^*a/*a$ ^*seizure/*seizure$^.<sent>/.<sent>$
+[/aGJ2y4tp5v5u]
+[aajjvUSl9xfc#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^*an/*an$ ^ambulance<n><sg>/ambûlans<n><f><sg>$^.<sent>/.<sent>$
+[/aajjvUSl9xfc]
+[aoydLveTTf38#0] ^Be<vbser><imp>/Bûn<vbcop><imp>/Bûn<vaux><imp>$ ^Careful<adj>/Baldar<adj>/Sexbêr<adj>$^.<sent>/.<sent>$ ^*Don/*Don$’^*t/*t$ ^leave<vblex><pres>/hêlan<vblex><tv><pres>/berdan<vblex><tv><pres>/terikandin<vblex><tv><pres>$ ^*the/*the$ ^kid<n><pl>/zarok<n><pl>$ ^*approaching/*approaching$^.<sent>/.<sent>$ ^Only<adj>/Sirf<adj>/Tenê<adj>/Yekane<adj>$ ^*adults/*adults$^.<sent>/.<sent>$
+[/aoydLveTTf38]
+[atCnSvL4MmXo#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^*the/*the$ ^police<n><pl>/polîs<n><f><pl>/polîs<n><m><pl>$ ^*tell/*tell$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*a/*a$ ^coach<n><sg>/vagon<n><f><sg>$^?.<sent>/?.<sent>$
+[/atCnSvL4MmXo]
+[bFI_xuFQSt_9#0] ^What<prn><itg><mf><sp>/Çi<prn><itg><mf><sp>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*your/*your$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$^?.<sent>/?.<sent>$
+[/bFI_xuFQSt_9]
+[bPL7OVYRJTQN#0] ^one<num><sg>/yek<num><sg>$ ^month<n><sg>/meh<n><f><sg>/heyv<n><f><sg>$^.<sent>/.<sent>$
+[/bPL7OVYRJTQN]
+[bUqyajrL0-Pk#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^read<vblex><inf>/xwendin<vblex><tv><inf>/xwandin<vblex><tv><inf>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^language<n><sg>/zar<n><m><sg>/ziman<n><m><sg>$^?.<sent>/?.<sent>$
+[/bUqyajrL0-Pk]
+[c-EcRQeXm9fM#0] ^*It/*It$ ^will<n><sg>/vîn<n><f><sg>/hemd<n><m><sg>/hosî<n><f><sg>/îrade<n><f><sg>/wesyet<n><f><sg>/wesiyetname<n><f><sg>$ ^not<adv>/ne<adv><neg>$ ^protect<vblex><inf>/strandin<vblex><tv><inf>/parastin<vblex><tv><inf>/parastin<vblex><TD><inf>$ ^*your/*your$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$ ^against<pr>/hember<pr>/li dijî<pr>$ ^infection<n><pl>/enfeksiyon<n><f><pl>$^.<sent>/.<sent>$
+[/c-EcRQeXm9fM]
+[c95PtN_P9iM2#0] ^*Audio/*Audio$ ^announcement<n><pl>/anons<n><f><pl>/agadarî<n><f><pl>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^more<adv>/hêj<adv>/hê<adv>/pitir<adv>/bêhtir<adv>$ ^information<n><sg>/hay<n><f><sg>/agadarî<n><f><sg>/agahî<n><f><sg>/agahdarî<n><m><sg>/enformasyon<n><f><sg>$^.<sent>/.<sent>$
+[/c95PtN_P9iM2]
+[cB9t1VW5actr#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^that<cnjsub>/ku<cnjsub>$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$^?.<sent>/?.<sent>$
+[/cB9t1VW5actr]
+[cKcStojKOz0n#0] ^*Apply/*Apply$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^asylum<n><sg>/pena<n><f><sg>/sitare<n><f><sg>/penageh<n><f><sg>/sitargeh<n><f><sg>$^.<sent>/.<sent>$
+[/cKcStojKOz0n]
+[cLatZfI0WUiG#0] ^*An/*An$ ^*approximate/*approximate$ ^*pricing/*pricing$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$^:.<sent>/:.<sent>$
+[/cLatZfI0WUiG]
+[cMg3nHhsAiCj#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^like<pr>/weke<pr>/wek<pr>/wekî<pr>/mîna<pr>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^be<vbser><ger>/bûn<vbcop><ger>/bûn<vaux><ger>$ ^*watched/*watched$^.<sent>/.<sent>$
+[/cMg3nHhsAiCj]
+[chTAFoLIkbsq#0] ^Help<n><sg>/Arî<n><f><sg>/Han<n><f><sg>/Arîkarî<n><f><sg>/Alîkarî<n><f><sg>/Piştevanî<n><f><sg>$^!.<sent>/!.<sent>$
+[/chTAFoLIkbsq]
+[cp106njscflr#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^there<adv>/wir<adv>$ ^life<n><sg>/jîn<n><f><sg>/can<n><f><sg>/umr<n><m><sg>/jiyan<n><sg>/jîyan<n><f><sg>/temen<n><m><sg>/giyan<n><f><sg>$ ^jacket<n><pl>/çakêt<n><m><pl>/kiras<n><m><pl>$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^*the/*the$ ^shore<n><sg>/rex<n><m><sg>/qerax<n><f><sg>$^?.<sent>/?.<sent>$
+[/cp106njscflr]
+[d5vt1tt0Wj-e#0] ^*a/*a$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^*shall/*shall$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^consider<vblex><pp>/hasibandin<vblex><tv><pp>/hesibandin<vblex><tv><pp>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^form<vblex><inf>/qewimin<vblex><iv><inf>$ ^*a/*a$ ^particular<adj>/taybet<adj>/mexsûs<adj>/xas<adj>/xusûsî<adj>$ ^social<adj>/sosyal<adj>/civatî<adj>/civakî<adj>$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^*where/*where$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^particular<adj>/taybet<adj>/mexsûs<adj>/xas<adj>/xusûsî<adj>$^:.<sent>/:.<sent>$
+[/d5vt1tt0Wj-e]
+[dLVFrZpmXOFH#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*my/*my$ ^father<n><sg>/bav<n><m><sg>/bab<n><m><sg>$^.<sent>/.<sent>$
+[/dLVFrZpmXOFH]
+[dTBNuV_zLaHh#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^cough<vblex><inf>/kuxîn<vblex><iv><inf>$^.<sent>/.<sent>$
+[/dTBNuV_zLaHh]
+[ddcTDAj4z3ZR#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^call<vblex><inf>/navandin<vblex><tv><inf>/navkirin<vblex><tv><inf>/dengkirin<vblex><tv><inf>/binavkirin<vblex><tv><inf>$ ^when<cnjadv>/gava<cnjsub>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^see<vblex><pres>/dîtin<vblex><tv><pres>/dîtin<vblex><TD><pres>$ ^*a/*a$ ^raft<n><sg>/kelek<n><f><sg>$^?.<sent>/?.<sent>$
+[/ddcTDAj4z3ZR]
+[dgfa7LGPa8co#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p1><sg>/bûn<vbcop><past><p1><sg>/bûn<vaux><past><p1><sg>$ ^*injured/*injured$^.<sent>/.<sent>$
+[/dgfa7LGPa8co]
+[dhMqjNPRSCDI#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$’^*t/*t$ ^eat<vblex><pres>/xwarin<vblex><tv><pres>$ ^meat<n><sg>/t<n><m><sg>/goşt<n><m><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^fish<n><sg>/masî<n><f><sg>/masi<n><f><sg>$^.<sent>/.<sent>$
+[/dhMqjNPRSCDI]
+[dn9mI7WBdDvH#0] ^*Consult/*Consult$ ^*a/*a$ ^doctor<n><sg>/bijîşk<n><f><sg>/bijîşk<n><m><sg>/doktor<n><f><sg>/doktor<n><m><sg>/tixtor<n><m><sg>$ ^before<pr>/li ber<pr>/berî<pr>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^stop<vblex><inf>/rawestandin<vblex><tv><inf>$ ^*breastfeeding/*breastfeeding$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^before<pr>/li ber<pr>/berî<pr>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^give<vblex><pres>/dan<vblex><tv><pres>$ ^*any/*any$ ^*breastmilk/*breastmilk$ ^substitute<n><sg>/bergind<n><f><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*your/*your$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$^.<sent>/.<sent>$
+[/dn9mI7WBdDvH]
+[dztk5Ruz4kwR#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$'^*t/*t$ ^*feel/*feel$ ^well<n><sg>/bîr<n><f><sg>/çal<n><f><sg>$ ^.<sent>/.<sent>$
+[/dztk5Ruz4kwR]
+[eKQUn7Ul7pzk#0] ^*Wipe/*Wipe$ ^and<cnjcoo>/û<cnjcoo>$ ^shake<vblex><inf>/hejandin<vblex><tv><inf>$ ^*the/*the$ ^packet<n><sg>/pakêt<n><f><sg>/paket<n><f><sg>$ ^before<pr>/li ber<pr>/berî<pr>$ ^open<vblex><subs>/vekirin<vblex><tv><subs>/vekirin<vblex><TD><subs>/biserketin<vblex><iv><subs>$^.<sent>/.<sent>$
+[/eKQUn7Ul7pzk]
+[eQuY-2YJysgH#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^not<adv>/ne<adv><neg>$ ^speak<vblex><inf>/axaftin<vblex><iv><inf>$^.<sent>/.<sent>$
+[/eQuY-2YJysgH]
+[f-_G3GR2z92q#0] ^*Where/*Where$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*a/*a$ ^shower<n><sg>/dûş<n><f><sg>$^?.<sent>/?.<sent>$
+[/f-_G3GR2z92q]
+[f-rVGHiVH4eO#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^know<vblex><inf>/zanîn<vblex><tv><inf>/nasîn<vblex><TD><inf>$ ^who<prn><itg><mf><sp>/kî<prn><itg><mf><sp>$ ^*your/*your$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^leader<n><sg>/serek<n><f><sg>/serek<n><m><sg>/serok<n><m><sg>/rêber<n><m><sg>/serdar<n><m><sg>/serwer<n><m><sg>/pêşber<n><m><sg>/pêşeng<n><m><sg>/xwedan<n><m><sg>/rêveber<n><m><sg>/pêşevan<n><m><sg>/birêvebir<n><m><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$^?.<sent>/?.<sent>$
+[/f-rVGHiVH4eO]
+[f1te3mHsvpet#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^cold<n><sg>/zekem<n><f><sg>/serma<n><f><sg>/nezle<n><f><sg>/persîv<n><f><sg>$^.<sent>/.<sent>$
+[/f1te3mHsvpet]
+[fAdk1Jb1YJj5#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*chronic/*chronic$ ^*bronchitis/*bronchitis$^.<sent>/.<sent>$
+[/fAdk1Jb1YJj5]
+[fIXXy3Wl8kJ1#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^hear<vblex><inf>/bîstin<vblex><TD><inf>/bihîstin<vblex><tv><inf>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^*recording/*recording$^?.<sent>/?.<sent>$
+[/fIXXy3Wl8kJ1]
+[fJiJsXQmrevQ#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*labour/*labour$^.<sent>/.<sent>$
+[/fJiJsXQmrevQ]
+[fVs3JT4rdE-g#0] ^very<preadv>/gelek<preadv>$ ^*soon/*soon$^.<sent>/.<sent>$
+[/fVs3JT4rdE-g]
+[f_MYMYtugNHm#0] ^*My/*My$ ^period<n><pl>/mudet<n><m><pl>/heyam<n><f><pl>/dem<n><f><pl>/serdem<n><f><pl>$ ^finish<vblex><pp>/qetandin<vblex><tv><pp>/qedandin<vblex><tv><pp>$^,<cm>/,<cm>$ ^but<cnjcoo>/lê<cnjcoo>/lê belê<cnjcoo>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*bleeding/*bleeding$ ^again<adv>/dîsan<adv>/dîsa<adv>/dubare<adv>/cardin<adv>$^.<sent>/.<sent>$
+[/f_MYMYtugNHm]
+[flvkRqj5-TXc#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*leukaemia/*leukaemia$^.<sent>/.<sent>$
+[/flvkRqj5-TXc]
+[frauVXMJyk6W#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*discharge/*discharge$ ^from<pr>/jê<pr>/ji<pr>$ ^*my/*my$ ^vagina<n><sg>/quz<n><m><sg>/vajîna<n><m><sg>$^.<sent>/.<sent>$
+[/frauVXMJyk6W]
+[g6G4bvLct1yf#0] ^Use<vblex><imp>/Bikaranîn<vblex><tv><imp>/Xebitandin<vblex><tv><imp>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^only<adv>/tenê<adv>/bitenê<adv>$ ^*if/*if$^:.<sent>/:.<sent>$
+[/g6G4bvLct1yf]
+[g6_bhgXZiXtV#0] ^*Apply/*Apply$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*relocation/*relocation$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^Europe<np><top><sg>/Ewropa<np><top><f><sg>/Ewrûpa<np><top><f><sg>/ewropa<np><top><f><sg>$^.<sent>/.<sent>$
+[/g6_bhgXZiXtV]
+[g8HAVQxvCJto#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^pregnant<adj>/avis<adj>/bardar<adj>/bihemil<adj>/ducanî<adj>$ ^and<cnjcoo>/û<cnjcoo>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*bleeding/*bleeding$^.<sent>/.<sent>$
+[/g8HAVQxvCJto]
+[gPrFJQkxVQXl#0] ^*My/*My$ ^child<n><sg>/zarok<n><sg>/kurik<n><m><sg>/mindal<n><m><sg>$ ^have<vbhaver><pres><p3><sg>/hebûn<vbhaver><pres><p3><sg>$ ^*a/*a$ ^*sore/*sore$ ^throat<n><sg>/gewrî<n><f><sg>/stu<n><f><sg>/hewg<n><f><sg>/qirik<n><f><sg>$^.<sent>/.<sent>$
+[/gPrFJQkxVQXl]
+[gR64G50R1lo2#0] ^chicken<n><sg>/mirîşk<n><f><sg>$
+[/gR64G50R1lo2]
+[gTu_7uLkHWhV#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*allergic/*allergic$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$…^.<sent>/.<sent>$
+[/gTu_7uLkHWhV]
+[hDH7UU5WjGey#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^leave<vblex><inf>/hêlan<vblex><tv><inf>/berdan<vblex><tv><inf>/terikandin<vblex><tv><inf>$ ^*belongings/*belongings$ ^*unattended/*unattended$^.<sent>/.<sent>$
+[/hDH7UU5WjGey]
+[hEU8Kz6otdYW#0] ^*The/*The$ ^pain<n><sg>/jan<n><f><sg>/êş<n><f><sg>/elem<n><f><sg>/tehl<n><f><sg>/tahl<n><f><sg>/derd<n><m><sg>$ ^come<vblex><pres><p3><sg>/hatin<vblex><iv><pres><p3><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^go<vblex><pres><p3><sg>/çûn<vblex><iv><pres><p3><sg>$^.<sent>/.<sent>$
+[/hEU8Kz6otdYW]
+[hRaW19UuEVhS#0] ^There<adv>/Wir<adv>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^blood<n><sg>/xwîn<n><f><sg>/xûn<n><f><sg>/xizmatî<n><f><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*my/*my$ ^urine<n><sg>/mîz<n><f><sg>/îdrar<n><f><sg>/destava zirav<n><f><sg>$^.<sent>/.<sent>$
+[/hRaW19UuEVhS]
+[hTCr4L1yq4LS#0] ^*Duration/*Duration$^:<sent>/:<sent>$ ^When<cnjadv>/Gava<cnjsub>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^describe<vblex><ger>/şayesandin<vblex><tv><ger>$ ^thing<n><pl>/tişt<n><f><pl>/tişt<n><m><pl>$ ^that<cnjsub>/ku<cnjsub>$ ^happen<vblex><past>/qewimin<vblex><iv><past>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$^,<cm>/,<cm>$ ^include<vblex><imp>/pêve kirin<vblex><tv><imp>$ ^how<adv><itg>/çawa<adv><itg>/çend<adv><itg>$ ^long<adj><sint>/dirêj<adj>$ ^this<det><dem><pl>/ev<det><dem><pl>$ ^thing<n><pl>/tişt<n><f><pl>/tişt<n><m><pl>$ ^*lasted/*lasted$^.<sent>/.<sent>$
+[/hTCr4L1yq4LS]
+[hWnvxO1aYnMU#0] ^Thank<vblex><imp>/Spas kirin<vblex><tv><imp>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$^.<sent>/.<sent>$
+[/hWnvxO1aYnMU]
+[hrNWGxKGAbjL#0] ^Come<vblex><imp>/Hatin<vblex><iv><imp>$ ^back<adv>/şunda<adv>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*UNHCR/*UNHCR$ ^tent<n><sg>/kon<n><m><sg>/xîvet<n><m><sg>/çadir<n><m><sg>$ ^(<lpar>/(<lpar>$^1<num>/1<num>$ ^hour<n><sg>/saet<n><f><sg>/sa'et<n><f><sg>/demjimêr<n><f><sg>$^)<rpar>/)<rpar>$^.<sent>/.<sent>$
+[/hrNWGxKGAbjL]
+[huTy0MmshOEv#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^*admitted/*admitted$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*the/*the$ ^hospital<n><sg>/nexwexane<n><f><sg>/nexweşxane<n><f><sg>$^?.<sent>/?.<sent>$
+[/huTy0MmshOEv]
+[iDX0TI6GWWU8#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^*pour/*pour$ ^*the/*the$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^*into/*into$ ^*his/*his$\/^*her/*her$ ^mouth<n><sg>/dev<n><m><sg>$^.<sent>/.<sent>$ ^Let<vblex><imp>/Berdan<vblex><tv><imp>$ ^*the/*the$ ^baby<n><sg>/pitik<n><m><sg>/çêlik<n><m><sg>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^as<pr>/qasî<pr>/bi qasî<pr>$ ^much<adv>/zehf<adv>$ ^as<pr>/qasî<pr>/bi qasî<pr>$ ^*he/*he$ \/ ^*she/*she$ ^want<vblex><pres><p3><sg>/xwestin<vblex><tv><pres><p3><sg>$^.<sent>/.<sent>$
+[/iDX0TI6GWWU8]
+[iHMuL_5h9R7R#0] ^Also<adv>/Herwisa<adv>/Herwiha<adv>$ ^explain<vblex><imp>/vegotin<vblex><TD><imp>/ravekirin<vblex><tv><imp>$ ^*if/*if$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^try<vblex><past>/hewldan<vblex><tv><past>/ceribandin<vblex><tv><past>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^leave<vblex><inf>/hêlan<vblex><tv><inf>/berdan<vblex><tv><inf>/terikandin<vblex><tv><inf>$ ^*your/*your$ ^country<n><sg>/welat<n><f><sg>/welat<n><m><sg>/diyar<n><sg>/çolter<n><f><sg>/niştiman<n><m><sg>$ ^but<cnjcoo>/lê<cnjcoo>/lê belê<cnjcoo>$ ^can<vbmod><past>/karîn<vblex><tv><past>$ ^not<adv>/ne<adv><neg>$ ^and<cnjcoo>/û<cnjcoo>$ ^what<prn><itg><mf><sp>/çi<prn><itg><mf><sp>$ ^stop<vblex><past>/rawestandin<vblex><tv><past>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$^.<sent>/.<sent>$
+[/iHMuL_5h9R7R]
+[iJcBz93-kg6A#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^*depressed/*depressed$^.<sent>/.<sent>$
+[/iJcBz93-kg6A]
+[ieHebhbc0m5P#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^want<vblex><inf>/xwestin<vblex><tv><inf>$ ^*a/*a$ ^translator<n><sg>/tercuman<n><m><sg>/wer bûn divan<n><m><sg>$^?.<sent>/?.<sent>$
+[/ieHebhbc0m5P]
+[iuzMG9nUiKCJ#0] ^*Where/*Where$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*the/*the$ ^bathroom<n><sg>/hemam<n><f><sg>/serşok<n><f><sg>$^?.<sent>/?.<sent>$
+[/iuzMG9nUiKCJ]
+[j34kzX_ZwxXR#0] ^*Chios/*Chios$ – ^*Pireas/*Pireas$ ^(<lpar>/(<lpar>$^Athens<np><top><sg>/Atîna<np><top><f><sg>$^)<rpar>/)<rpar>$^.<sent>/.<sent>$
+[/j34kzX_ZwxXR]
+[jA6cjltjgcBx#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^similar<adj>/hemta<adj>/herwekî<adj>/hevşib<adj>/hevşêwe<adj>/wekhev<adj>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^that<det><dem><sg>/ew<det><dem><sg>$ ^*of/*of$ ^all<adv>/tev<adv>/hemî<adv>$ ^*other/*other$ ^*brands/*brands$ ^*of/*of$ ^ready<adj><sint>/amade<adj><sint>/hazir<adj><sint>/berdest<adj><sint>/hazir; adjcomp ; ready<adj><sint>$^-<guio>/-<guio>$^make<vblex><pp>/kirin<vblex><tv><pp>/borandin<vblex><tv><pp>$ ^formula<n><pl>/formul<n><f><pl>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^sale<n><sg>/tenzîlat<n><f><sg>$^.<sent>/.<sent>$
+[/jA6cjltjgcBx]
+[jBFJD-7f8CC-#0] ^one<num><sg>/yek<num><sg>$ ^day<n><sg>/roj<n><f><sg>$^.<sent>/.<sent>$
+[/jBFJD-7f8CC-]
+[jQeP1javnydO#0] ^*My/*My$ ^heart<n><sg>/dil<n><m><sg>/xatir<n><m><sg>$ ^beat<n><pl>/kutan<n><f><pl>$ ^fast<n><sg>/lezgîn<n><m><sg>$^.<sent>/.<sent>$
+[/jQeP1javnydO]
+[jmJaOyEIEfRk#0] ^Prpers<prn><subj><p2><mf><sp>/Tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^wait<vblex><inf>/sekinîn<vblex><iv><inf>/sekinî bûn<vblex><iv><inf>$^.<sent>/.<sent>$
+[/jmJaOyEIEfRk]
+[jv9PFY-S-Gqv#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^take<vblex><inf>/birin<vblex><tv><inf>/girtin<vblex><tv><inf>/standin<vblex><tv><inf>/wergirtin<vblex><tv><inf>$ ^*a/*a$ ^shower<n><sg>/dûş<n><f><sg>$^.<sent>/.<sent>$
+[/jv9PFY-S-Gqv]
+[jvgVMUwjOqtM#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*scan/*scan$ ^*a/*a$ ^document<n><sg>/belge<n><f><sg>/dokument<n><f><sg>/belgename<n><f><sg>$^?.<sent>/?.<sent>$
+[/jvgVMUwjOqtM]
+[k5NdZSdg7x4Q#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$'^*t/*t$ ^drink<n><sg>/vexwarin<n><f><sg>$ ^alcohol<n><sg>/elkol<n><f><sg>/alkol<n><f><sg>$^.<sent>/.<sent>$
+[/k5NdZSdg7x4Q]
+[k6DaOA0QjTp6#0] ^After<pr>/Piştî<pr>/Li pey<pr>$ ^six<num><pl>/şeş<num><pl>$ ^month<n><pl>/meh<n><f><pl>/heyv<n><f><pl>$^,<cm>/,<cm>$ ^*he/*he$\/^*she/*she$ ^*should/*should$ ^also<adv>/herwisa<adv>/herwiha<adv>$ ^start<n><sg>/ibtida<n><f><sg>/sereta<n><m><sg>/bidayet<n><f><sg>/destpêk<n><f><sg>/ewlewiyet<n><f><sg>/înisiyatîv<n><f><sg>/dest pê kirin<n><f><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*receive/*receive$ ^*other/*other$ ^food<n><pl>/aş<n><m><pl>/çer<n><f><pl>/risq<n><m><pl>/gida<n><f><pl>/hepo<n><m><pl>/bixwe<n><f><pl>/xwarin<n><f><pl>$^.<sent>/.<sent>$
+[/k6DaOA0QjTp6]
+[k80CqVkntef_#0] ^Like<pr>/Weke<pr>/Wek<pr>/Wekî<pr>/Mîna<pr>$ ^all<adv>/tev<adv>/hemî<adv>$ ^artificial<adj>/çêkirok<adj>$ ^formula<n><pl>/formul<n><f><pl>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$ ^do<vaux><pres><p3><sg>/kirin<vblex><tv><pres><p3><sg>$ ^not<adv>/ne<adv><neg>$ ^contain<vblex><inf>/hewandin<vblex><tv><inf>/dihewandin<vblex><tv><inf>$ ^*the/*the$ ^living<adj>/jîndar<adj>$ ^*antibodies/*antibodies$ ^which<det><itg><sp>/kîjan<det><itg><sp>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^mother<n><sg>/mak<n><f><sg>/dayîk<n><f><sg>/dayik<n><m><sg>/dî<n><f><sg>$^have<vbhaver><pres><p3><sg>/hebûn<vbhaver><pres><p3><sg>$ ^milk<n><sg>/şîr<n><m><sg>/doşîn<n><f><sg>$^.<sent>/.<sent>$
+[/k80CqVkntef_]
+[k_aTscixQ_zT#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><past><p1><sg>/bûn<vbcop><past><p1><sg>/bûn<vaux><past><p1><sg>$ ^hit<vblex><pp>/lêxistin<vblex><TD><pp>$ ^by<pr>/li<pr>/di<pr>$ ^*a/*a$ ^car<n><sg>/erebe<n><f><sg>/seyare<n><f><sg>/makîne<n><f><sg>/otomobîl<n><f><sg>$^.<sent>/.<sent>$
+[/k_aTscixQ_zT]
+[kjgPiDma-wik#0] ^*Chios/*Chios$ – ^*Thessaloniki/*Thessaloniki$^.<sent>/.<sent>$
+[/kjgPiDma-wik]
+[lH5JaLS9eZfT#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$^..<sent>/..<sent>$
+[/lH5JaLS9eZfT]
+[lPS6W1Dkm4L8#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*my/*my$ ^brother<n><sg>/bira<n><m><sg>$^.<sent>/.<sent>$
+[/lPS6W1Dkm4L8]
+[lUVe2Yot133i#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^not<adv>/ne<adv><neg>$ ^*flex/*flex$ ^*my/*my$ ^neck<n><sg>/stû<n><m><sg>/stu<n><f><sg>/mil<n><m><sg>/hustu<n><m><sg>/gewrî<n><f><sg>/gerden<n><f><sg>/qirrik<n><f><sg>$^.<sent>/.<sent>$
+[/lUVe2Yot133i]
+[lekOFoFb5Koe#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^go<vblex><inf>/çûn<vblex><iv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*the/*the$ ^hospital<n><sg>/nexwexane<n><f><sg>/nexweşxane<n><f><sg>$^.<sent>/.<sent>$
+[/lekOFoFb5Koe]
+[likOHXYwowvz#0] ^*Cabins/*Cabins$ ^(<lpar>/(<lpar>$^4<num>/4<num>$^-<guio>/-<guio>$^bed<n><sg>/text<n><f><sg>/text<n><m><sg>/livîn<n><m><sg>/nivîn<n><m><sg>$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^2<num>/2<num>$^-<guio>/-<guio>$^bed<n><sg>/text<n><f><sg>/text<n><m><sg>/livîn<n><m><sg>/nivîn<n><m><sg>$^)<rpar>/)<rpar>$^:<sent>/:<sent>$ € ^61<num>/61<num>$ ^-<guio>/-<guio>$ € ^81,5<num>/81,5<num>$^.<sent>/.<sent>$
+[/likOHXYwowvz]
+[ljJdDpvW9KTQ#0] ^INSTRUCTION<n><pl>/DÎREKTÎV<n><f><pl>$^.<sent>/.<sent>$
+[/ljJdDpvW9KTQ]
+[ljZDDl39wxUQ#0] ^*Chios/*Chios$ ^-<guio>/-<guio>$ ^Athens<np><top><sg>/Atîna<np><top><f><sg>$^.<sent>/.<sent>$
+[/ljZDDl39wxUQ]
+[mBS-OJtwT7hr#0] ^*Depending/*Depending$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^*the/*the$ ^circumstance<n><pl>/hoy<n><m><pl>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*the/*the$ ^country<n><sg>/welat<n><f><sg>/welat<n><m><sg>/diyar<n><sg>/çolter<n><f><sg>/niştiman<n><m><sg>$ ^*of/*of$ ^origin<n><sg>/asl<n><m><sg>/esil<n><m><sg>/esl<n><m><sg>/jêder<n><f><sg>/orijîn<n><m><sg>/çavkanî<n><f><sg>$^,<cm>/,<cm>$ ^*a/*a$ ^particular<adj>/taybet<adj>/mexsûs<adj>/xas<adj>/xusûsî<adj>$ ^social<adj>/sosyal<adj>/civatî<adj>/civakî<adj>$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^*might/*might$ ^include<vblex><pres>/pêve kirin<vblex><tv><pres>$ ^*a/*a$ ^group<n><sg>/grûb<n><f><sg>/kom<n><f><sg>/cem<n><m><sg>/deste<n><f><sg>/kitle<n><f><sg>$ ^*based/*based$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^*a/*a$ ^common<adj>/hevbeş<adj>$ ^characteristic<n><sg>/karakter<n><f><sg>/ged<n><f><sg>/xusûsiyet<n><f><sg>/xislet<n><f><sg>/xû<n><m><sg>/xûy<n><f><sg>$ ^*of/*of$ ^*sexual/*sexual$ ^*orientation/*orientation$^.<sent>/.<sent>$ ^.<sent>/.<sent>$
+[/mBS-OJtwT7hr]
+[mIMyvwEIK6GK#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^share<n><sg>/beş<n><sg>/maf<n><m><sg>/par<n><f><sg>/pişk<n><f><sg>$ ^information<n><sg>/hay<n><f><sg>/agadarî<n><f><sg>/agahî<n><f><sg>/agahdarî<n><m><sg>/enformasyon<n><f><sg>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*UNHCR/*UNHCR$ ^Serbia<np><top><sg>/Serbistan<np><top><f><sg>$^?.<sent>/?.<sent>$
+[/mIMyvwEIK6GK]
+[mN2FxmEOmdla#0] ^Bus<n><sg>/Otobûs<n><f><sg>$ ^stop<vblex><inf>/rawestandin<vblex><tv><inf>$^.<sent>/.<sent>$
+[/mN2FxmEOmdla]
+[mQ5fNzccqyPs#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*might/*might$ ^be<vbser><inf>/bûn<vbcop><inf>/bûn<vaux><inf>$ ^pregnant<adj>/avis<adj>/bardar<adj>/bihemil<adj>/ducanî<adj>$^.<sent>/.<sent>$
+[/mQ5fNzccqyPs]
+[mR4IuQWwIaNI#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^board<n><sg>/texte<n><m><sg>$ ^train<n><sg>/trên<n><f><sg>/tirên<n><f><sg>$ ^*if/*if$ ^*your/*your$ ^family<n><sg>/famîle<n><sg>/ocax<n><f><sg>/malbat<n><f><sg>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^*missing/*missing$ ^document<n><pl>/belge<n><f><pl>/dokument<n><f><pl>/belgename<n><f><pl>$^.<sent>/.<sent>$
+[/mR4IuQWwIaNI]
+[mSaC1UB3bhyc#0] ^*Pour/*Pour$ ^*the/*the$ ^content<n><pl>/naverok<n><f><pl>$ ^*into/*into$ ^*a/*a$ ^clean<adj><sint>/pakîze<adj>/pak<adj>/puxt<adj>/temîz<adj>$ ^cup<n><sg>/kas<n><f><sg>/kûp<n><f><sg>/fincan<n><f><sg>$^.<sent>/.<sent>$
+[/mSaC1UB3bhyc]
+[m_bqK42sigaG#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*a/*a$ ^*vegetarian/*vegetarian$^.<sent>/.<sent>$
+[/m_bqK42sigaG]
+[nUNGqsmVbjbX#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^*a/*a$ ^doctor<n><sg>/bijîşk<n><f><sg>/bijîşk<n><m><sg>/doktor<n><f><sg>/doktor<n><m><sg>/tixtor<n><m><sg>$^?.<sent>/?.<sent>$
+[/nUNGqsmVbjbX]
+[niwlKrSD_QtY#0] ^*the/*the$ ^day<n><sg>/roj<n><f><sg>$ ^after<pr>/piştî<pr>/li pey<pr>$ ^tomorrow<adv>/sibe<adv>$^.<sent>/.<sent>$
+[/niwlKrSD_QtY]
+[nrETNXgXORyI#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^schizophrenia<n><sg>/şîzofrenî<n><f><sg>$^.<sent>/.<sent>$
+[/nrETNXgXORyI]
+[nsoDRw2c8BJx#0] ^Can<vbmod><pres>/Karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^write<vblex><inf>/nivîsin<vblex><tv><inf>/nivîsîn<vblex><tv><inf>/honandin<vblex><tv><inf>/nivîsandin<vblex><tv><inf>$ ^*your/*your$ ^number<n><sg>/nimre<n><f><sg>/reqem<n><f><sg>/jimar<n><f><sg>/hêjmar<n><f><sg>/hejmar<n><f><sg>/hijmar<n><f><sg>/jimare<n><f><sg>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*your/*your$ ^family<n><sg>/famîle<n><sg>/ocax<n><f><sg>/malbat<n><f><sg>$^?.<sent>/?.<sent>$
+[/nsoDRw2c8BJx]
+[o1Xh6o6vgbxF#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^*a/*a$ ^*myocardial/*myocardial$ ^*infarction/*infarction$^.<sent>/.<sent>$
+[/o1Xh6o6vgbxF]
+[ouGM2sNmHJEv#0] ^next<adj>/bê<adj>/piştî<adj>$ ^week<n><sg>/hefte<n><f><sg>$^.<sent>/.<sent>$
+[/ouGM2sNmHJEv]
+[p58sgdnFTEJb#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^try<vblex><inf>/hewldan<vblex><tv><inf>/ceribandin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^do<vaux><inf>/kirin<vblex><tv><inf>$ ^*anything/*anything$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^stop<vblex><inf>/rawestandin<vblex><tv><inf>$ ^*the/*the$ ^problem<n><pl>/arîşe<n><f><pl>/problem<n><f><pl>$ ^that<cnjsub>/ku<cnjsub>$ ^happen<vblex><past>/qewimin<vblex><iv><past>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*your/*your$ ^country<n><sg>/welat<n><f><sg>/welat<n><m><sg>/diyar<n><sg>/çolter<n><f><sg>/niştiman<n><m><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^what<prn><itg><mf><sp>/çi<prn><itg><mf><sp>$ ^happen<vblex><past>/qewimin<vblex><iv><past>$^?.<sent>/?.<sent>$
+[/p58sgdnFTEJb]
+[pYr5zl4p6OK0#0] ^*Where/*Where$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*the/*the$ ^registration<n><sg>/tescîl<n><f><sg>/tomarkirin<n><f><sg>$ ^centre<n><sg>/navend<n><sg>/merkez<n><f><sg>$^?.<sent>/?.<sent>$
+[/pYr5zl4p6OK0]
+[pa_SlAzgFS3h#0] ^Dry<adj><sint>/Zuha<adj>/Hişk<adj>$ ^sock<n><pl>/gore<n><f><pl>$^.<sent>/.<sent>$
+[/pa_SlAzgFS3h]
+[privFzKXVctd#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*feel/*feel$ ^comfortable<adj>/rehet<adj>/sazgar<adj>$ ^stay<vblex><subs>/man<vblex><iv><subs>/sekinîn<vblex><iv><subs>/sekinîn<vblex><TD><subs>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^tent<n><sg>/kon<n><m><sg>/xîvet<n><m><sg>/çadir<n><m><sg>$ ^*tonight/*tonight$^?.<sent>/?.<sent>$
+[/privFzKXVctd]
+[q8CNsB0NqmH4#0] ^*It/*It$ ^*gets/*gets$ ^bad<adj><sint><comp>/bed<adj><comp>/neçak<adj><comp>/xebîs<adj><comp>/xirab<adj><comp>$ ^when<cnjadv>/gava<cnjsub>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^stand<n><sg>/boçûn<n><f><sg>/nezer<n><f><sg>/qenaet<n><f><sg>/helwest<n><f><sg>/pozisyon<n><f><sg>$ ^*up/*up$^.<sent>/.<sent>$
+[/q8CNsB0NqmH4]
+[q8LpX1W2JqJT#0] ^Bank<n><sg>/Bank<n><f><sg>$^.<sent>/.<sent>$
+[/q8LpX1W2JqJT]
+[q95_Box_nP5b#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*chronic/*chronic$ ^depression<n><sg>/melankolî<n><f><sg>/melûlî<n><f><sg>/depresyon<n><f><sg>/hizn<n><f><sg>/kor û kend<n><m><sg>$^.<sent>/.<sent>$
+[/q95_Box_nP5b]
+[qBLu4ak9R-US#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*bleeding/*bleeding$ ^between<pr>/navbera<pr>/di navbera<pr>$ ^*my/*my$ ^period<n><pl>/mudet<n><m><pl>/heyam<n><f><pl>/dem<n><f><pl>/serdem<n><f><pl>$^.<sent>/.<sent>$
+[/qBLu4ak9R-US]
+[qN9DBNpHGnUm#0] ^Date<n><pl>/Qesp<n><f><pl>/Xurme<n><f><pl>/Jivan<n><f><pl>/Randevû<n><f><pl>/Hevdîtin<n><f><pl>$ ^and<cnjcoo>/û<cnjcoo>$ ^Time<n><pl>/Kat<n><f><pl>/Geh<n><f><pl>/Dem<n><f><pl>/Car<n><f><pl>/Çax<n><f><pl>/Çax<n><m><pl>/Dewr<n><f><pl>/Wext<n><f><pl>/Wext<n><m><pl>/Zeman<n><m><pl>/Dewran<n><f><pl>/Hengam<n><f><pl>$^:<sent>/:<sent>$ ^When<cnjadv>/Gava<cnjsub>$ ^thing<n><pl>/tişt<n><f><pl>/tişt<n><m><pl>$ ^happen<vblex><past>/qewimin<vblex><iv><past>$^.<sent>/.<sent>$
+[/qN9DBNpHGnUm]
+[qc-pPSSzvnKm#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^cancer<n><sg>/qanser<n><f><sg>$^.<sent>/.<sent>$
+[/qc-pPSSzvnKm]
+[qywqV2DLHcAc#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^cold<n><sg>/zekem<n><f><sg>/serma<n><f><sg>/nezle<n><f><sg>/persîv<n><f><sg>$^?.<sent>/?.<sent>$
+[/qywqV2DLHcAc]
+[r3SgJCb-PG_z#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*feel/*feel$ ^sick<adj><sint>/nexweş<adj>$^.<sent>/.<sent>$
+[/r3SgJCb-PG_z]
+[rruTPdItSDzt#0] ^*My/*My$ ^child<n><sg>/zarok<n><sg>/kurik<n><m><sg>/mindal<n><m><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^sick<adj><sint>/nexweş<adj>$^.<sent>/.<sent>$
+[/rruTPdItSDzt]
+[s7Q0OGfjZRnp#0] ^Bakery<n><sg>/Firne<n><f><sg>/Firrin<n><f><sg>/Nanpêjî<n><f><sg>$^.<sent>/.<sent>$
+[/s7Q0OGfjZRnp]
+[sE9p5E8lYera#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^from<pr>/jê<pr>/ji<pr>$^..<sent>/..<sent>$
+[/sE9p5E8lYera]
+[sG9PR_bit8I6#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*feel/*feel$ ^comfortable<adj>/rehet<adj>/sazgar<adj>$ ^stay<vblex><subs>/man<vblex><iv><subs>/sekinîn<vblex><iv><subs>/sekinîn<vblex><TD><subs>$ ^at<pr>/bi<pr>/di<pr>/li<pr>$ ^this<det><dem><sg>/ev<det><dem><sg>$ ^*site/*site$ ^*tonight/*tonight$^?.<sent>/?.<sent>$
+[/sG9PR_bit8I6]
+[sKnVg9c3wgPk#0] ^Child<n><pl>/Zarok<n><pl>/Kurik<n><m><pl>/Mindal<n><m><pl>$^have<vbhaver><pres><p3><sg>/hebûn<vbhaver><pres><p3><sg>$ ^clothes<n><pl>/berg<n><m>$ ^and<cnjcoo>/û<cnjcoo>$ ^shoe<n><pl>/sol<n><f><pl>/şekal<n><f><pl>/maras<n><f><pl>/pêlav<n><f><pl>$ ^be<vbser><pres>/bûn<vbcop><pres>/bûn<vaux><pres>$ ^*over/*over$ ^there<adv>/wir<adv>$^.<sent>/.<sent>$
+[/sKnVg9c3wgPk]
+[sLQZTqkxoSaB#0] ^*Additional/*Additional$ ^Information<n><sg>/Hay<n><f><sg>/Agadarî<n><f><sg>/Agahî<n><f><sg>/Agahdarî<n><m><sg>/Enformasyon<n><f><sg>$^.<sent>/.<sent>$
+[/sLQZTqkxoSaB]
+[sL_HBGnjWZZ7#0] ^Do<vaux><past>/Kirin<vblex><tv><past>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^try<vblex><inf>/hewldan<vblex><tv><inf>/ceribandin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*get/*get$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$ ^from<pr>/jê<pr>/ji<pr>$ ^*your/*your$ ^government<n><sg>/hikûmet<n><f><sg>/hukûmet<n><f><sg>/hukmet<n><f><sg>/desthilatî<n><f><sg>/desthilatdar<n><m><sg>/desthilatdarî<n><f><sg>$^,<cm>/,<cm>$ ^*the/*the$ ^police<n><pl>/polîs<n><f><pl>/polîs<n><m><pl>$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^*anyone/*anyone$ ^*else/*else$^?.<sent>/?.<sent>$
+[/sL_HBGnjWZZ7]
+[sLlksDn39_4a#0] ^There<adv>/Wir<adv>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^blood<n><sg>/xwîn<n><f><sg>/xûn<n><f><sg>/xizmatî<n><f><sg>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*my/*my$ ^vomit<n><sg>/verişîn<n><f><sg>/vereşîn<n><f><sg>$^.<sent>/.<sent>$
+[/sLlksDn39_4a]
+[sZZeHNVO0Yoc#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^information<n><sg>/hay<n><f><sg>/agadarî<n><f><sg>/agahî<n><f><sg>/agahdarî<n><m><sg>/enformasyon<n><f><sg>$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^*the/*the$ ^train<n><sg>/trên<n><f><sg>/tirên<n><f><sg>$ ^arrival<n><sg>/çûn<n><f><sg>/çûyîn<n><f><sg>$ ^time<n><sg>/kat<n><f><sg>/geh<n><f><sg>/dem<n><f><sg>/car<n><f><sg>/çax<n><f><sg>/çax<n><m><sg>/dewr<n><f><sg>/wext<n><f><sg>/wext<n><m><sg>/zeman<n><m><sg>/dewran<n><f><sg>/hengam<n><f><sg>$^?.<sent>/?.<sent>$
+[/sZZeHNVO0Yoc]
+[swPpHGXZpQgb#0] ^Criterion<n><pl>/Pîvan<n><f><pl>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^Refugee<n><sg>/Mişext<n><m><sg>/Penaber<n><f><sg>/Penaber<n><m><sg>$ ^Status<n><sg>/Hal<n><f><sg>/Statû<n><f><sg>/Kewter<n><m><sg>/Kavdan<n><m><sg>/Barûdox<n><m><sg>/Destûdar<n><m><sg>$^.<sent>/.<sent>$
+[/swPpHGXZpQgb]
+[swWgW45NLNNE#0] ^Wash<n><sg>/Şûştin<n><f><sg>$ ^*your/*your$ ^hand<n><pl>/mîl<n><m><pl>/dest<n><f><pl>/dest<n><m><pl>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^soap<n><sg>/sabûn<n><f><sg>$ ^and<cnjcoo>/û<cnjcoo>$ ^water<n><sg>/av<n><f><sg>$^.<sent>/.<sent>$
+[/swWgW45NLNNE]
+[sykq2o7RJgdP#0] ^*Please/*Please$ ^help<n><sg>/arî<n><f><sg>/han<n><f><sg>/arîkarî<n><f><sg>/alîkarî<n><f><sg>/piştevanî<n><f><sg>$ ^prpers<prn><obj><p1><mf><sg>/ez<prn><pers><p1><mf><sg>$^!.<sent>/!.<sent>$
+[/sykq2o7RJgdP]
+[tDq6nE50lfHh#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^wet<adj><sint>/şil<adj><sint>$^?.<sent>/?.<sent>$
+[/tDq6nE50lfHh]
+[tRwyo2x1aaeM#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^not<adv>/ne<adv><neg>$ ^leave<vblex><inf>/hêlan<vblex><tv><inf>/berdan<vblex><tv><inf>/terikandin<vblex><tv><inf>$ ^without<pr>/bêî<pr>/bêy<pr>/bêyî<pr>$ ^*your/*your$ ^document<n><pl>/belge<n><f><pl>/dokument<n><f><pl>/belgename<n><f><pl>$^.<sent>/.<sent>$
+[/tRwyo2x1aaeM]
+[tUSD4dCLXWX0#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^last<adj><ord>/paşîn<adj><ord>/dawîn<adj><ord>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^sex<n><sg>/guhnelî<n><f><sg>$ ^2<num>/2<num>$ ^day<n><pl>/roj<n><f><pl>$ ^*ago/*ago$^.<sent>/.<sent>$
+[/tUSD4dCLXWX0]
+[tqXFYeE_w6K0#0] ^*Accomodation/*Accomodation$^.<sent>/.<sent>$
+[/tqXFYeE_w6K0]
+[u0Ua6BswCLAS#0] ^Do<vaux><inf>/Kirin<vblex><tv><inf>$ ^prpers<prn><subj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^need<vblex><inf>/divêtin<vblex><inf>$ ^*somewhere/*somewhere$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^stay<vblex><inf>/man<vblex><iv><inf>/sekinîn<vblex><iv><inf>/sekinîn<vblex><TD><inf>$ ^*tonight/*tonight$^?.<sent>/?.<sent>$
+[/u0Ua6BswCLAS]
+[uJyrkR4T35Ue#0] ^How<adv><itg>/Çawa<adv><itg>/Çend<adv><itg>$ ^long<adj><sint>/dirêj<adj>$ ^do<vaux><pres>/kirin<vblex><tv><pres>$ ^prpers<prn><subj><p1><mf><pl>/ez<prn><pers><p1><mf><pl>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^wait<vblex><inf>/sekinîn<vblex><iv><inf>/sekinî bûn<vblex><iv><inf>$ ^here<adv>/vir<adv>$^?.<sent>/?.<sent>$
+[/uJyrkR4T35Ue]
+[uV1Knjxoza8R#0] ^*Keep/*Keep$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*a/*a$ ^cool<adj><sint>/hênik<adj>$^,<cm>/,<cm>$ ^dry<adj><sint>/zuha<adj>/hişk<adj>$ ^place<n><sg>/cih<n><f><sg>/cih<n><m><sg>/cî<n><m><sg>/cî<n><f><sg>/qad<n><f><sg>/deq<n><f><sg>/der<n><f><sg>/dews<n><f><sg>/şûn<n><f><sg>/dever<n><f><sg>$ ^with<pr>/di<pr>/bi<pr>/ji<pr>/digel<pr>$ ^*the/*the$ ^lid<n><sg>/qepax<n><f><sg>/derdank<n><f><sg>$ ^*tightly/*tightly$ ^close<vblex><pp>/girtin<vblex><tv><pp>$^.<sent>/.<sent>$
+[/uV1Knjxoza8R]
+[v0T_7ao2WcxO#0] ^approve<vblex><pp>/erêkirin<vblex><tv><pp>$^.<sent>/.<sent>$
+[/v0T_7ao2WcxO]
+[vRAgJar8tn00#0] ^When<cnjadv>/Gava<cnjsub>$ ^do<vaux><inf>/kirin<vblex><tv><inf>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^come<vblex><inf>/hatin<vblex><iv><inf>$ ^back<adv>/şunda<adv>$^?.<sent>/?.<sent>$
+[/vRAgJar8tn00]
+[vT2zB0x9TbS2#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*discharge/*discharge$ ^from<pr>/jê<pr>/ji<pr>$ ^*my/*my$ ^*urethra/*urethra$^.<sent>/.<sent>$
+[/vT2zB0x9TbS2]
+[vTEJ_GYYoEJW#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^not<adv>/ne<adv><neg>$ ^have<vbhaver><past>/hebûn<vbhaver><past>$ ^sex<n><sg>/guhnelî<n><f><sg>$ ^for<pr>/ji<pr>/bo<pr>/ji bo<pr>$ ^*a/*a$ ^long<adj><sint>/dirêj<adj>$ ^time<n><sg>/kat<n><f><sg>/geh<n><f><sg>/dem<n><f><sg>/car<n><f><sg>/çax<n><f><sg>/çax<n><m><sg>/dewr<n><f><sg>/wext<n><f><sg>/wext<n><m><sg>/zeman<n><m><sg>/dewran<n><f><sg>/hengam<n><f><sg>$^.<sent>/.<sent>$
+[/vTEJ_GYYoEJW]
+[vVNk6UQNPTzX#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^be<vbser><pres><p1><sg>/bûn<vbcop><pres><p1><sg>/bûn<vaux><pres><p1><sg>$ ^*ill/*ill$^.<sent>/.<sent>$
+[/vVNk6UQNPTzX]
+[veyPWlfreR4F#0] ^*Where/*Where$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^room<n><sg>/oda<n><f><sg>/ode<n><f><sg>/mezel<n><f><sg>/mezel<n><m><sg>$ ^number<n><sg>/nimre<n><f><sg>/reqem<n><f><sg>/jimar<n><f><sg>/hêjmar<n><f><sg>/hejmar<n><f><sg>/hijmar<n><f><sg>/jimare<n><f><sg>$ ____^?.<sent>/?.<sent>$
+[/veyPWlfreR4F]
+[vjfGyiJ0GmE4#0] ^Child<n><pl>/Zarok<n><pl>/Kurik<n><m><pl>/Mindal<n><m><pl>$ ^Playground<n><sg>/Yarîgeh<n><f><sg>$^.<sent>/.<sent>$
+[/vjfGyiJ0GmE4]
+[w0AvVZIxpGhd#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*a/*a$ ^*nosebleed/*nosebleed$^.<sent>/.<sent>$
+[/w0AvVZIxpGhd]
+[x9ZR51bquijB#0] ^*My/*My$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$^..<sent>/..<sent>$
+[/x9ZR51bquijB]
+[xNvLLACF_8eZ#0] ^*my/*my$ ^wife<n><sg>/jin<n><f><sg>$^.<sent>/.<sent>$
+[/xNvLLACF_8eZ]
+[xP8oBT2cOS_l#0] ^Be<vbser><pres>/Bûn<vbcop><pres>/Bûn<vaux><pres>$ ^prpers<prn><obj><p2><mf><sp>/tu<prn><pers><p2><mf><sg>$ ^*planning/*planning$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^stay<vblex><inf>/man<vblex><iv><inf>/sekinîn<vblex><iv><inf>/sekinîn<vblex><TD><inf>$ ^here<adv>/vir<adv>$ ^in<pr>/bi<pr>/di<pr>/li<pr>$ ^*fYR/*fYR$ ^Macedonia<np><top><sg>/Makedonya<np><top><f><sg>$^?.<sent>/?.<sent>$
+[/xP8oBT2cOS_l]
+[xQGPPCaC6Der#0] ^*My/*My$ ^name<n><sg>/nav<n><m><sg>/navdêr<n><f><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^..<sent>/..<sent>$
+[/xQGPPCaC6Der]
+[xbZhurUzUjTa#0] ^Dry<adj><sint>/Zuha<adj>/Hişk<adj>$ ^trousers<n><pl>/şal<n><m>/şelwal<n><m>/berten<n><f>/pantolon<n><m>$^.<sent>/.<sent>$
+[/xbZhurUzUjTa]
+[xhCaNL883AHK#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*don/*don$’^*t/*t$ ^have<vbhaver><inf>/hebûn<vbhaver><inf>$ ^*any/*any$ ^money<n><sg>/pere<n><sg>/pêre<n><m><sg>/dirav<n><m><sg>/sermaye<n><m><sg>/kapîtal<n><m><sg>$^.<sent>/.<sent>$
+[/xhCaNL883AHK]
+[xtRcgly2jofo#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^need<vblex><pres>/divêtin<vblex><pres>$ ^*a/*a$ ^doctor<n><sg>/bijîşk<n><f><sg>/bijîşk<n><m><sg>/doktor<n><f><sg>/doktor<n><m><sg>/tixtor<n><m><sg>$^.<sent>/.<sent>$
+[/xtRcgly2jofo]
+[xwdDxFPXvv8Y#0] ^DO<vaux><inf>/KIRIN<vblex><tv><inf>$ ^NOT<adv>/NE<adv><neg>$ ^Try<vblex><inf>/Hewldan<vblex><tv><inf>/Ceribandin<vblex><tv><inf>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^capture<vblex><inf>/dîlgirtin<vblex><tv><inf>/bidestxistin<vblex><tv><inf>/bidest xistin<vblex><tv><inf>$ ^*the/*the$ ^snake<n><sg>/mar<n><m><sg>$^.<sent>/.<sent>$
+[/xwdDxFPXvv8Y]
+[xxyhlLaCyKUW#0] ^*Where/*Where$ ^can<vbmod><pres>/karîn<vblex><tv><pres>$ ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^find<vblex><inf>/peyda kirin<vblex><tv><inf>$____^?.<sent>/?.<sent>$
+[/xxyhlLaCyKUW]
+[xy3z-ICzA-ww#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^*fainted/*fainted$^.<sent>/.<sent>$
+[/xy3z-ICzA-ww]
+[y54b7W-znoMp#0] ^DO<vaux><inf>/KIRIN<vblex><tv><inf>$ ^NOT<adv>/NE<adv><neg>$ ^put<vblex><inf>/xistin<vblex><tv><inf>/têxistin<vblex><tv><inf>$ ^*anything/*anything$ ^tight<adj><sint>/kîp<adj>/himbiz<adj>$ ^around<pr>/li dora<pr>$^,<cm>/,<cm>$ ^*such/*such$ ^as<pr>/qasî<pr>/bi qasî<pr>$ ^*a/*a$ ^*tourniquet/*tourniquet$^.<sent>/.<sent>$
+[/y54b7W-znoMp]
+[yFLW6ibjKC6u#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^be<vbser><pp>/bûn<vbcop><pp>/bûn<vaux><pp>$ ^shake<vblex><ger>/hejandin<vblex><tv><ger>$^.<sent>/.<sent>$
+[/yFLW6ibjKC6u]
+[yL3vwQonxDfz#0] ^*Based/*Based$ ^on<pr>/bi<pr>/ser<pr>/li ser<pr>$ ^one<num><sg>/yek<num><sg>$ ^or<cnjcoo>/an<cnjcoo>/yan<cnjcoo>/anjî<cnjcoo>/ango<cnjadv>/yanî<cnjadv>$ ^more<adv>/hêj<adv>/hê<adv>/pitir<adv>/bêhtir<adv>$ ^*of/*of$ ^*the/*the$ ^*following/*following$ ^reason<n><pl>/eql<n><m><pl>/sebeb<n><m><pl>$^:.<sent>/:.<sent>$
+[/yL3vwQonxDfz]
+[ysdN0270GpCZ#0] ^This<det><dem><sg>/Ev<det><dem><sg>$ ^be<vbser><pres><p3><sg>/bûn<vbcop><pres><p3><sg>/bûn<vaux><pres><p3><sg>$ ^*my/*my$ ^sister<n><sg>/et<n><f><sg>/xweh<n><f><sg>/xwişk<n><f><sg>/xwîşk<n><f><sg>/xuh<n><f><sg>/xuşk<n><f><sg>$^.<sent>/.<sent>$
+[/ysdN0270GpCZ]
+[yvg4ts9SQgBe#0] ^*Emergency/*Emergency$ ^*Exit/*Exit$^.<sent>/.<sent>$
+[/yvg4ts9SQgBe]
+[z-DhBK1e3M9D#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^heart<n><sg>/dil<n><m><sg>/xatir<n><m><sg>$ ^*failure/*failure$^.<sent>/.<sent>$
+[/z-DhBK1e3M9D]
+[zLf0J44P8in4#0] ^Come<vblex><imp>/Hatin<vblex><iv><imp>$ ^back<adv>/şunda<adv>$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^*UNHCR/*UNHCR$ ^tent<n><sg>/kon<n><m><sg>/xîvet<n><m><sg>/çadir<n><m><sg>$ ^(<lpar>/(<lpar>$^morning<n><sg>/beyanî<n><f><sg>$^)<rpar>/)<rpar>$^.<sent>/.<sent>$
+[/zLf0J44P8in4]
+[zO-RIPfVewlx#0] ^Prpers<prn><subj><p2><mf><sp>/Tu<prn><pers><p2><mf><sg>$ ^have<vbhaver><pres>/hebûn<vbhaver><pres>$ ^*access/*access$ ^to<pr>/ve<post>/ba<pr>/ji<pr>/li<pr>/ser<pr>$ ^clean<adj><sint>/pakîze<adj>/pak<adj>/puxt<adj>/temîz<adj>$ ^cup<n><pl>/kas<n><f><pl>/kûp<n><f><pl>/fincan<n><f><pl>$^.<sent>/.<sent>$
+[/zO-RIPfVewlx]
+[zdsTseZB0L6p#0] ^Prpers<prn><subj><p1><mf><sg>/Ez<prn><pers><p1><mf><sg>$ ^fall<vblex><past>/ketin<vblex><iv><past>$ ^*down/*down$^.<sent>/.<sent>$
+[/zdsTseZB0L6p]

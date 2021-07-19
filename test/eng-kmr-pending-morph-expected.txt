@@ -1,0 +1,722 @@
+[-cVMdYpBQP14#0] ^It/*It$ ^is/be<vbser><pres><p3><sg>$ ^not/not<adv>$ ^possible/possible<adj>$ ^for/for<pr>$ ^the/*the$ ^baby/baby<n><sg>$ ^to/to<pr>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^breastmilk/*breastmilk$^./.<sent>$
+[/-cVMdYpBQP14]
+[-hIFh87w0jIX#0] ^Excuse me/excuse me<ij>$^./.<sent>$
+[/-hIFh87w0jIX]
+[-j-zyqWzyXti#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^all/all<adv>$ ^well/well<n><sg>$^?./?.<sent>$
+[/-j-zyqWzyXti]
+[-m52LQ3cM5y-#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^scared/scare<vblex><past>/scare<vblex><pp>$^./.<sent>$
+[/-m52LQ3cM5y-]
+[05FcCX7HfY8Z#0] ^one/one<num><sg>$ ^hour/hour<n><sg>$^./.<sent>$
+[/05FcCX7HfY8Z]
+[0M5xCx5tGAAH#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$^../..<sent>$
+[/0M5xCx5tGAAH]
+[0VE7GrIBvwOg#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$´^t/*t$ ^urinate/urinate<vblex><inf>/urinate<vblex><pres>/urinate<vblex><imp>$^./.<sent>$
+[/0VE7GrIBvwOg]
+[0XJQdg004cRk#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^chest/chest<n><sg>$ ^pain/pain<n><sg>$^./.<sent>$
+[/0XJQdg004cRk]
+[0ZF2OnGtUNV0#0] ^Blankets/blanket<n><pl>$ ^are/be<vbser><pres>$ ^over/*over$ ^there/there<adv>$^./.<sent>$
+[/0ZF2OnGtUNV0]
+[0oycUn0WO8_X#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^colic/*colic$ ^pain/pain<n><sg>$ ^in/in<pr>$ ^my/*my$ ^side/side<n><sg>$^./.<sent>$
+[/0oycUn0WO8_X]
+[10Uvls6hRf9Q#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^bipolar/*bipolar$ ^disorder/*disorder$^./.<sent>$
+[/10Uvls6hRf9Q]
+[146osc8gSsOG#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^leave/leave<n><sg>/leave<vblex><inf>/leave<vblex><pres>/leave<vblex><imp>$ ^the/*the$ ^island/island<n><sg>$ ^without/without<pr>$ ^the/*the$ ^Registration/registration<n><sg>$ ^Document/document<n><sg>$^?./?.<sent>$
+[/146osc8gSsOG]
+[1JMjiTMelK3x#0] ^my/*my$ ^daughter/daughter<n><sg>$^./.<sent>$
+[/1JMjiTMelK3x]
+[1aew9lL_9tP1#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^help/help<n><sg>$ ^clean/clean<adj><sint>$ ^up/*up$^?./?.<sent>$
+[/1aew9lL_9tP1]
+[2I_Mr3XkTXBp#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^write/write<vblex><inf>/write<vblex><pres>/write<vblex><imp>$ ^that/that<cnjsub>/that<det><dem><sg>$ ^down/*down$ ^for/for<pr>$ ^me/prpers<prn><obj><p1><mf><sg>$^?./?.<sent>$
+[/2I_Mr3XkTXBp]
+[2lRb0VTnxjAR#0] ^Good evening/good evening<ij>$^./.<sent>$
+[/2lRb0VTnxjAR]
+[2vZiceexAxPR#0] ^Chai/*Chai$ ^will/will<n><sg>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^served/serve<vblex><past>/serve<vblex><pp>$^./.<sent>$
+[/2vZiceexAxPR]
+[30Ba9D8oP3zk#0] ^Deportation/*Deportation$ ^to/to<pr>$ ^Turkey/Turkey<np><top><sg>$^./.<sent>$
+[/30Ba9D8oP3zk]
+[35J2hZLLGucN#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^been/be<vbser><pp>$ ^taking/taking<n><sg>/take<vblex><pprs>/take<vblex><subs>/take<vblex><ger>$ ^this/this<det><dem><sg>$ ^medication/medication<n><sg>$ ^for/for<pr>$ ^years/year<n><pl>$^./.<sent>$
+[/35J2hZLLGucN]
+[39U_rIbrzoEL#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^a/*a$ ^photograph/*photograph$ ^on/on<pr>$ ^your/*your$ ^phone/*phone$ ^of/*of$ ^your/*your$ ^Greek/Greek<adj>/Greek<adj>/Greek<n><sg>/Greek<n><sg>$ ^documentation/*documentation$^?./?.<sent>$
+[/39U_rIbrzoEL]
+[39rvclf7DkUE#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^diarrhoea/*diarrhoea$^./.<sent>$
+[/39rvclf7DkUE]
+[3Tzl3L2PRqxH#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^been/be<vbser><pp>$ ^raped/*raped$^./.<sent>$
+[/3Tzl3L2PRqxH]
+[3wT-s_MxqncE#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^sick/sick<adj><sint>$^./.<sent>$
+[/3wT-s_MxqncE]
+[3xbJf5tDuapT#0] ^City/city<n><sg>$^./.<sent>$
+[/3xbJf5tDuapT]
+[41IurcoHyVAd#0] ^Good morning/good morning<ij>$^./.<sent>$
+[/41IurcoHyVAd]
+[4C50qnWzlB8L#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^phone/*phone$ ^or/or<cnjcoo>$ ^viber/*viber$ ^number/number<n><sg>$ ^of/*of$ ^the/*the$ ^person/person<n><sg>$ ^missing/*missing$^?./?.<sent>$
+[/4C50qnWzlB8L]
+[4DdOBy88_UtC#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^stung/*stung$ ^by/by<pr>$ ^an/*an$ ^insect/insect<n><sg>$^./.<sent>$
+[/4DdOBy88_UtC]
+[4VPOW5JQjGJt#0] ^CLOTHES/clothes<n><pl>$ ^DISTRIBUTION/*DISTRIBUTION$^./.<sent>$
+[/4VPOW5JQjGJt]
+[4mEXAzKKotKp#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^never/never<adv>$ ^had/have<vbhaver><past>$ ^this/this<det><dem><sg>$ ^pain/pain<n><sg>$ ^before/before<pr>$^./.<sent>$
+[/4mEXAzKKotKp]
+[4nyYbXrO25ax#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^cold/cold<n><sg>/cold<adj><sint>$^./.<sent>$
+[/4nyYbXrO25ax]
+[4ux0ssdgfJrr#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^eat/eat<vblex><inf>/eat<vblex><pres>/eat<vblex><imp>$ ^pork/pork<n><sg>$^./.<sent>$
+[/4ux0ssdgfJrr]
+[518SM4WvfK_b#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^food/food<n><sg>$^,/,<cm>$ ^coffee/coffee<n><sg>$^,/,<cm>$ ^tea/tea<n><sg>$^?./?.<sent>$
+[/518SM4WvfK_b]
+[5Q4qohsQp8ye#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^wheezing/*wheezing$^./.<sent>$
+[/5Q4qohsQp8ye]
+[5RYvF6juuSrP#0] ^DO/do<vaux><inf>/do<vaux><pres>$ ^NOT/not<adv>$ ^ADD/add<vblex><inf>/add<vblex><pres>/add<vblex><imp>$ ^WATER/water<n><sg>$ ^TO/to<pr>$ ^THIS/this<det><dem><sg>$ ^PRODUCT/product<n><sg>$^./.<sent>$
+[/5RYvF6juuSrP]
+[5SGF3jYsUOga#0] ^Does/do<vaux><pres><p3><sg>$ ^anyone/*anyone$ ^in/in<pr>$ ^your/*your$ ^group/group<n><sg>$ ^require/*require$ ^medical/*medical$ ^attention/attention<n><sg>$^?./?.<sent>$
+[/5SGF3jYsUOga]
+[63cb9i1vMWmy#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^children/child<n><pl>$ ^with/with<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$^?./?.<sent>$
+[/63cb9i1vMWmy]
+[6DCyxFCYrgSr#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^stomach/stomach<n><sg>$ ^ache/ache<vblex><inf>/ache<vblex><pres>/ache<vblex><imp>$^./.<sent>$
+[/6DCyxFCYrgSr]
+[76OXPQl2TS8F#0] ^Both/both<det><ind><pl>$ ^of/*of$ ^them/*them$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^similar/similar<adj>$ ^pricing/*pricing$ ^policy/policy<n><sg>$^:./:.<sent>$
+[/76OXPQl2TS8F]
+[77uA9ajcXAyz#0] ^The/*The$ ^pain/pain<n><sg>$ ^started/*started$ ^gradually/*gradually$^./.<sent>$
+[/77uA9ajcXAyz]
+[7AsQaAr_OJ9y#0] ^IMPORTANT/important<adj>$ ^WARNING/warning<n><sg>$^:/:<sent>$ ^A/*A$ ^mother/mother<n><sg>$^’s/be<vbser><pres><p3><sg>/have<vbhaver><pres><p3><sg>$ ^breastmilk/*breastmilk$ ^is/be<vbser><pres><p3><sg>$ ^the/*the$ ^best/good<adj><sint><sup>$ ^food/food<n><sg>$ ^for/for<pr>$ ^her/*her$ ^infant/*infant$^./.<sent>$
+[/7AsQaAr_OJ9y]
+[7TjQfxS68p1_#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^bitten/bite<vblex><pp>$^./.<sent>$
+[/7TjQfxS68p1_]
+[7U5R0Q6mLHHg#0] ^Airport/airport<n><sg>$^./.<sent>$
+[/7U5R0Q6mLHHg]
+[7Ugg4-_QVJL7#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^cannot/can<vbmod><pres>+not<adv>$ ^see/see<vblex><inf>/see<vblex><pres>/see<vblex><imp>$^./.<sent>$
+[/7Ugg4-_QVJL7]
+[7WJ4pzhe7uZb#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^thirsty/thirsty<adj><sint>$^./.<sent>$
+[/7WJ4pzhe7uZb]
+[7kJ9qxGgl3-X#0] ^As/as<pr>$ ^of/*of$ ^5/5<num>$^th/*th$ ^of/*of$ ^June/June<n><sg>$ ^and/and<cnjcoo>$ ^until/until<pr>$ ^the/*the$ ^end/end<n><sg>/end<vblex><inf>/end<vblex><pres>/end<vblex><imp>$ ^of/*of$ ^the/*the$ ^Ramadan/*Ramadan$ ^Period/period<n><sg>$^,/,<cm>$ ^on/on<pr>$ ^5/5<num>$^th/*th$ ^of/*of$ ^July/*July$^,/,<cm>$ ^breakfast/breakfast<n><sg>$ ^will/will<n><sg>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^served/serve<vblex><past>/serve<vblex><pp>$ ^with/with<pr>$ ^dinner/dinner<n><sg>$ ^at/at<pr>$ ^19.00/19.00<num>$^,/,<cm>$ ^while/*while$ ^lunch/lunch<n><sg>$ ^will/will<n><sg>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^served/serve<vblex><past>/serve<vblex><pp>$ ^as/as<pr>$ ^usual/usual<adj>$^./.<sent>$
+[/7kJ9qxGgl3-X]
+[7sZKLpDySLXB#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^vomit/vomit<n><sg>$ ^up/*up$ ^all/all<adv>$ ^food/food<n><sg>$ ^and/and<cnjcoo>$ ^drinks/drink<n><pl>$^./.<sent>$
+[/7sZKLpDySLXB]
+[80mHn8BkAKxI#0] ^my/*my$ ^baby/baby<n><sg>$^./.<sent>$
+[/80mHn8BkAKxI]
+[83hnxOJ1Kg0J#0] ^Chios/*Chios$ – ^Kavala/*Kavala$^./.<sent>$
+[/83hnxOJ1Kg0J]
+[8QpYCK8YgCCx#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^bleeding/*bleeding$^./.<sent>$
+[/8QpYCK8YgCCx]
+[8Yu7eo2Ps3qC#0] ^elderly/*elderly$ ^persons/person<n><pl>$^,/,<cm>$^./.<sent>$
+[/8Yu7eo2Ps3qC]
+[8iGw5cgrRTDN#0] ^Coffee/coffee<n><sg>$^./.<sent>$
+[/8iGw5cgrRTDN]
+[9-Fp8ky1d1p8#0] ^My/*My$ ^child/child<n><sg>$ ^has/have<vbhaver><pres><p3><sg>$ ^a/*a$ ^sore/*sore$ ^cough/cough<vblex><inf>/cough<vblex><pres>/cough<vblex><imp>$^./.<sent>$
+[/9-Fp8ky1d1p8]
+[9Rvq1IjhS2Vq#0] ^Thanks/thanks<n><pl>/thank<vblex><pres><p3><sg>$^./.<sent>$
+[/9Rvq1IjhS2Vq]
+[9Uh-1LNTpR1S#0] ^Somebody/*Somebody$ ^hit/hit<n><sg>/hit<vblex><inf>/hit<vblex><pres>/hit<vblex><past>/hit<vblex><pp>/hit<vblex><imp>$ ^me/prpers<prn><obj><p1><mf><sg>$^./.<sent>$
+[/9Uh-1LNTpR1S]
+[9exNQZvzEqVE#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^use/use<n><sg>/use<vblex><inf>/use<vblex><pres>/use<vblex><imp>$ ^a/*a$ ^bottle/bottle<n><sg>$^./.<sent>$ ^Use/use<n><sg>/use<vblex><inf>/use<vblex><pres>/use<vblex><imp>$ ^a/*a$ ^clean/clean<adj><sint>$ ^cup/cup<n><sg>$^./.<sent>$
+[/9exNQZvzEqVE]
+[9xq4uhekUzr0#0] ^My/*My$ ^heart/heart<n><sg>$ ^beats/beat<n><pl>/beat<vblex><pres><p3><sg>$ ^irregular/*irregular$^./.<sent>$
+[/9xq4uhekUzr0]
+[A0JMzPeEdYn0#0] ^My/*My$ ^./.<sent>$ ^is/be<vbser><pres><p3><sg>$ ^paralysed/*paralysed$^./.<sent>$
+[/A0JMzPeEdYn0]
+[A1X5OltON2gd#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^this/this<det><dem><sg>$ ^medication/medication<n><sg>$ ^every/every<det><ind><sg>$ ^day/day<n><sg>$^./.<sent>$
+[/A1X5OltON2gd]
+[A3uCHOYT4bh6#0] ^Does/do<vaux><pres><p3><sg>$ ^anyone/*anyone$ ^in/in<pr>$ ^your/*your$ ^group/group<n><sg>$ ^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$ ^English/English<adj>/English<adj>/English<n><sg>/English<n><pl>/English<n><sg>/English<n><pl>$^?./?.<sent>$
+[/A3uCHOYT4bh6]
+[A6Y5THW2exH3#0] ^Clothing/clothing<n><sg>$ ^(/(<lpar>$^only/only<adj>/only<adv>$ ^for/for<pr>$ ^wet/wet<adj><sint>/wet<vblex><inf>/wet<vblex><pres>/wet<vblex><past>/wet<vblex><pp>/wet<vblex><imp>$ ^people/people<n><sg>/person<n><pl>$^)/)<rpar>$^./.<sent>$
+[/A6Y5THW2exH3]
+[AMmMQxY8yJyh#0] ^Criteria/criterion<n><pl>$ ^for/for<pr>$ ^Subsidiary/subsidiary<adj>$ ^Protection/protection<n><sg>$^./.<sent>$
+[/AMmMQxY8yJyh]
+[AV0rFQSebrbT#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$’^t/*t$ ^know/know<vblex><inf>/know<vblex><pres>/know<vblex><imp>$^./.<sent>$
+[/AV0rFQSebrbT]
+[AmRMAvNzDNtH#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^photograph/*photograph$ ^of/*of$ ^Greek/Greek<adj>/Greek<adj>/Greek<n><sg>/Greek<n><sg>$ ^documents/document<n><pl>$^?./?.<sent>$
+[/AmRMAvNzDNtH]
+[AtndzyHwbI-F#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$'^t/*t$ ^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$ ^(/(<lpar>$^English/English<adj>/English<adj>/English<n><sg>/English<n><pl>/English<n><sg>/English<n><pl>$^)/)<rpar>$ ^very/very<adv>/very<preadv>$ ^well/well<n><sg>$^./.<sent>$
+[/AtndzyHwbI-F]
+[AwNShgKk_uKC#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^headache/headache<n><sg>$^./.<sent>$
+[/AwNShgKk_uKC]
+[B5JxnBTVebiC#0] ^Be/be<vbser><inf>/be<vbser><imp>$ ^part/part<n><sg>$ ^of/*of$ ^the/*the$ ^relocation/*relocation$ ^process/process<n><sg>$ ^but/but<cnjcoo>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^are/be<vbser><pres>$ ^at/at<pr>$ ^the/*the$ ^end/end<n><sg>/end<vblex><inf>/end<vblex><pres>/end<vblex><imp>$ ^of/*of$ ^the/*the$ ^line/line<n><sg>$^./.<sent>$
+[/B5JxnBTVebiC]
+[BFlxh5DNmRxg#0] ^It/*It$ ^hurts/hurt<vblex><pres><p3><sg>$ ^here/here<adv>$^./.<sent>$
+[/BFlxh5DNmRxg]
+[BNxmouqPYFsN#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^able/able<adj><sint>$ ^to/to<pr>$ ^write/write<vblex><inf>/write<vblex><pres>/write<vblex><imp>$ ^your/*your$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$^?./?.<sent>$
+[/BNxmouqPYFsN]
+[Bl3hcHUoGQqE#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$’^t/*t$ ^understand/understand<vblex><inf>/understand<vblex><pres>/understand<vblex><imp>$^./.<sent>$
+[/Bl3hcHUoGQqE]
+[By01VJ-Bkp9P#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^want/want<vblex><inf>/want<vblex><pres>/want<vblex><imp>$ ^to/to<pr>$ ^stay/stay<n><sg>/stay<vblex><inf>/stay<vblex><pres>/stay<vblex><imp>$ ^in/in<pr>$ ^the/*the$ ^children/child<n><pl>$ ^and/and<cnjcoo>$ ^families/family<n><pl>$' ^center/centre<n><sg>$ ^tonight/*tonight$^?./?.<sent>$
+[/By01VJ-Bkp9P]
+[C75gSBpxaTUB#0] ^What/what<prn><itg><mf><sp>$ ^happened/happen<vblex><pp>/happen<vblex><past>$^?./?.<sent>$
+[/C75gSBpxaTUB]
+[CFjALpIWyYUO#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^pregnant/pregnant<adj>$^./.<sent>$
+[/CFjALpIWyYUO]
+[CTLOQtkvAhgo#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^share/share<n><sg>$ ^your/*your$ ^information/information<n><sg>$ ^with/with<pr>$ ^my/*my$ ^colleagues/colleague<n><pl>$ ^at/at<pr>$ ^the/*the$ ^next/next<adj>$ ^train/train<n><sg>$ ^stop/stop<vblex><inf>/stop<vblex><pres>/stop<vblex><imp>$ ^so/so<adv>$ ^we/prpers<prn><subj><p1><mf><pl>$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^provide/*provide$ ^services/service<n><pl>$ ^for/for<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^there/there<adv>$^?./?.<sent>$
+[/CTLOQtkvAhgo]
+[Cpi1pZJX41eG#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^had/have<vbhaver><past>$ ^a/*a$ ^cold/cold<n><sg>/cold<adj><sint>$ ^sweat/*sweat$^./.<sent>$
+[/Cpi1pZJX41eG]
+[D-howE2Py_Xr#0] ^Ask/ask<vblex><inf>/ask<vblex><pres>/ask<vblex><imp>$ ^for/for<pr>$ ^a/*a$ ^translator/translator<n><sg>$ ^to/to<pr>$ ^discuss/*discuss$ ^family/family<n><sg>$ ^issues/issue<n><pl>$^./.<sent>$
+[/D-howE2Py_Xr]
+[D5eUOhxQnUGF#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^hurt/hurt<vblex><inf>/hurt<vblex><pres>/hurt<vblex><past>/hurt<vblex><pp>/hurt<vblex><imp>$^?./?.<sent>$
+[/D5eUOhxQnUGF]
+[DC-34x6GqlIx#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^sad/sad<adj><sint>$^./.<sent>$
+[/DC-34x6GqlIx]
+[DOPvRI4vmIpN#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$ ^English/English<adj>/English<adj>/English<n><sg>/English<n><pl>/English<n><sg>/English<n><pl>$^?./?.<sent>$
+[/DOPvRI4vmIpN]
+[DUk1Nz6k1DXN#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^help/help<n><sg>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^clean/clean<adj><sint>$^?./?.<sent>$
+[/DUk1Nz6k1DXN]
+[DcsrjRqNgep1#0] ^Once/*Once$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^start/start<n><sg>$ ^using/use<vblex><pprs>/use<vblex><subs>/use<vblex><ger>$ ^this/this<det><dem><sg>$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^it/*it$ ^might/*might$ ^not/not<adv>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^easy/easy<adj><sint>$ ^to/to<pr>$ ^start/start<n><sg>$ ^breastfeeding/*breastfeeding$ ^again/again<adv>$^./.<sent>$
+[/DcsrjRqNgep1]
+[DtGfvYUDNtBq#0] ^My/*My$ ^urine/urine<n><sg>$ ^smells/smell<n><pl>$ ^bad/bad<adj><sint>$^./.<sent>$
+[/DtGfvYUDNtBq]
+[Du3TneOZvIoF#0] ^My/*My$ ^./.<sent>$ ^is/be<vbser><pres><p3><sg>$ ^weak/weak<adj><sint>$^./.<sent>$
+[/Du3TneOZvIoF]
+[E1EMi3tFcGmT#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^temperature/*temperature$^./.<sent>$
+[/E1EMi3tFcGmT]
+[E6_9CGQeRN8x#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^raped/*raped$^./.<sent>$
+[/E6_9CGQeRN8x]
+[EAho--SC7yUz#0] ^This/this<det><dem><sg>$ ^product/product<n><sg>$ ^must/*must$ ^not/not<adv>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^used/use<vblex><past>/use<vblex><pp>$ ^after/after<cnjadv>/after<pr>$ ^date/date<n><sg>$ ^printed/print<vblex><pp>/print<vblex><past>$ ^at/at<pr>$ ^the/*the$ ^bottom/bottom<n><sg>$ ^of/*of$ ^the/*the$ ^tin/tin<n><sg>$\/^pack/pack<n><sg>$^./.<sent>$
+[/EAho--SC7yUz]
+[EAsRVvHJqusl#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^photocopy/*photocopy$ ^a/*a$ ^document/document<n><sg>$^?./?.<sent>$
+[/EAsRVvHJqusl]
+[ECP43oD9yk7u#0] ^DO/do<vaux><inf>/do<vaux><pres>$ ^NOT/not<adv>$ ^cut/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>/cut<vblex><imp>$ ^open/open<adj>/open<vblex><inf>/open<vblex><pres>/open<vblex><imp>$ ^the/*the$ ^wound/wound<n><sg>$ ^of/*of$ ^try/try<vblex><inf>/try<vblex><pres>/try<vblex><imp>$ ^to/to<pr>$ ^remove/remove<vblex><inf>/remove<vblex><pres>/remove<vblex><imp>$ ^the/*the$ ^venom/*venom$^./.<sent>$
+[/ECP43oD9yk7u]
+[EfiSikrcaGWb#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^understand/understand<vblex><inf>/understand<vblex><pres>/understand<vblex><imp>$ ^this/this<det><dem><sg>$ ^language/language<n><sg>$^?./?.<sent>$
+[/EfiSikrcaGWb]
+[Ek6yc_mgpHDj#0] ^You're/prpers<prn><subj><p2><mf><sp>+be<vbser><pres>$ ^welcome/*welcome$^./.<sent>$
+[/Ek6yc_mgpHDj]
+[EvZOiehCrUrW#0] ^Deck/deck<n><sg>$^:/:<sent>$ € ^41,5/41,5<num>$^./.<sent>$
+[/EvZOiehCrUrW]
+[FTT1cvb-yvOd#0] ^Criteria/criterion<n><pl>$ ^for/for<pr>$ ^Humanitarian/*Humanitarian$ ^Residency/*Residency$ ^permit/*permit$^./.<sent>$
+[/FTT1cvb-yvOd]
+[FWmILbCd7Rzg#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^access/*access$ ^a/*a$ ^computer/*computer$^?./?.<sent>$
+[/FWmILbCd7Rzg]
+[Fh7UvUiyzKKx#0] ^There/there<adv>$ ^is/be<vbser><pres><p3><sg>$ ^a/*a$ ^medical/*medical$ ^reason/reason<n><sg>$ ^not/not<adv>$ ^to/to<pr>$ ^breastfeed/*breastfeed$^./.<sent>$
+[/Fh7UvUiyzKKx]
+[Fx1swm7y8dKP#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^know/know<vblex><inf>/know<vblex><pres>/know<vblex><imp>$ ^which/which<det><itg><sp>$ ^group/group<n><sg>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^are/be<vbser><pres>$ ^in/in<pr>$^?./?.<sent>$
+[/Fx1swm7y8dKP]
+[GE_dWfKFIf1F#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^think/think<vblex><inf>/think<vblex><pres>/think<vblex><imp>$ ^about/about<pr>$ ^suicide/suicide<n><sg>$^./.<sent>$
+[/GE_dWfKFIf1F]
+[GbgJ9QOY6EvK#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^frightened/*frightened$^./.<sent>$
+[/GbgJ9QOY6EvK]
+[GsY7tFUB2RnR#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^coughing/cough<vblex><pprs>/cough<vblex><subs>/cough<vblex><ger>$ ^up/*up$ ^sputum/*sputum$^./.<sent>$
+[/GsY7tFUB2RnR]
+[Gyxo2wCba4gs#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^try/try<vblex><inf>/try<vblex><pres>/try<vblex><imp>$ ^to/to<pr>$ ^move/move<n><sg>$ ^to/to<pr>$ ^another/*another$ ^part/part<n><sg>$ ^of/*of$ ^your/*your$ ^country/country<n><sg>$ ^to/to<pr>$ ^avoid/*avoid$ ^your/*your$ ^problems/problem<n><pl>$^?./?.<sent>$
+[/Gyxo2wCba4gs]
+[H8UUTWU1XHb2#0] ^Did/do<vaux><past>$ ^the/*the$ ^police/police<n><pl>$ ^tell/*tell$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^to/to<pr>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^a/*a$ ^train/train<n><sg>$^?./?.<sent>$
+[/H8UUTWU1XHb2]
+[HT68pYBjUbNl#0] ^Buy/buy<vblex><inf>/buy<vblex><pres>/buy<vblex><imp>$ ^tickets/ticket<n><pl>$ ^in/in<pr>$ ^advance/advance<n><sg>$^./.<sent>$
+[/HT68pYBjUbNl]
+[HynyAf8ohbkP#0] ^This/this<det><dem><sg>$ ^is/be<vbser><pres><p3><sg>$ ^my/*my$ ^medication/medication<n><sg>$^./.<sent>$
+[/HynyAf8ohbkP]
+[Hz9VIgZKQjRB#0] ^You/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^understand/understand<vblex><inf>/understand<vblex><pres>/understand<vblex><imp>$ ^all/all<adv>$ ^the/*the$ ^instructions/instruction<n><pl>$^./.<sent>$
+[/Hz9VIgZKQjRB]
+[I814kWwU5yzd#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^freezing/*freezing$^./.<sent>$
+[/I814kWwU5yzd]
+[IB6kPZKa2QmR#0] ‘^Serious/*Serious$ ^harm/harm<n><sg>$’ ^means/means<n><sg>/means<n><pl>$^:./:.<sent>$
+[/IB6kPZKa2QmR]
+[IKeVUbcuQyJb#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^coughing/cough<vblex><pprs>/cough<vblex><subs>/cough<vblex><ger>$ ^up/*up$ ^blood/blood<n><sg>$^./.<sent>$
+[/IKeVUbcuQyJb]
+[IVKULBdpuglB#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^asthma/*asthma$^./.<sent>$
+[/IVKULBdpuglB]
+[IkHRoRheNqom#0] ^Where/*Where$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^fill/fill<vblex><inf>/fill<vblex><pres>/fill<vblex><imp>$ ^this/this<det><dem><sg>$ ^prescription/*prescription$^?./?.<sent>$
+[/IkHRoRheNqom]
+[IsDAyQSw_nlx#0] ^my/*my$ ^children/child<n><pl>$^./.<sent>$
+[/IsDAyQSw_nlx]
+[ItRFhBxAkOdu#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^pain/pain<n><sg>$ ^when/when<cnjadv>$ ^urinating/urinate<vblex><pprs>/urinate<vblex><subs>/urinate<vblex><ger>$^./.<sent>$
+[/ItRFhBxAkOdu]
+[Iv9YBpx_lRwO#0] ^Where/*Where$ ^is/be<vbser><pres><p3><sg>$ ^the/*the$ ^toilet/toilet<n><sg>$^?./?.<sent>$
+[/Iv9YBpx_lRwO]
+[JKshymwdP0RY#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^charge/charge<n><sg>$ ^your/*your$ ^phone/*phone$ ^here/here<adv>$^./.<sent>$
+[/JKshymwdP0RY]
+[JZR7S3uHLWYR#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^sleep/sleep<n><sg>/sleep<vblex><inf>/sleep<vblex><pres>/sleep<vblex><imp>$^./.<sent>$
+[/JZR7S3uHLWYR]
+[JifMvYbsWM1T#0] ^Is/be<vbser><pres><p3><sg>$ ^this/this<det><dem><sg>$ ^food/food<n><sg>$ ^Halal/halal<adj>$^?./?.<sent>$
+[/JifMvYbsWM1T]
+[K2h9timLYp07#0] ^Goodbye/goodbye<ij>$^./.<sent>$
+[/K2h9timLYp07]
+[KOPLmrEZP_rP#0] ^It/*It$ ^is/be<vbser><pres><p3><sg>$ ^a/*a$ ^sharp/sharp<adj><sint>$ ^pain/pain<n><sg>$^./.<sent>$
+[/KOPLmrEZP_rP]
+[Kn7iWMHz3E47#0] ^It/*It$ ^hurts/hurt<vblex><pres><p3><sg>$ ^when/when<cnjadv>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^touch/*touch$ ^it/*it$^./.<sent>$
+[/Kn7iWMHz3E47]
+[Kp14QA6SSt7Y#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^hungry/hungry<adj><sint>$^./.<sent>$
+[/Kp14QA6SSt7Y]
+[LA0SYTIOa6Pf#0] ^Did/do<vaux><past>$ ^the/*the$ ^police/police<n><pl>$ ^tell/*tell$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^to/to<pr>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^a/*a$ ^taxi/*taxi$^?./?.<sent>$
+[/LA0SYTIOa6Pf]
+[LBrFN0b3-4dS#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^want/want<vblex><inf>/want<vblex><pres>/want<vblex><imp>$ ^a/*a$ ^lawyer/lawyer<n><sg>$^?./?.<sent>$
+[/LBrFN0b3-4dS]
+[LK10Zi_j4SYl#0] ^Does/do<vaux><pres><p3><sg>$ ^the/*the$ ^beach/beach<n><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^clean/clean<adj><sint>$ ^up/*up$^?./?.<sent>$
+[/LK10Zi_j4SYl]
+[LQbJ3yoRplh-#0] ^Departure/*Departure$ ^Point/*Point$^./.<sent>$
+[/LQbJ3yoRplh-]
+[LWsH5LxNcIHX#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^pay/pay<n><sg>$ ^more/more<adv>$ ^than/*than$ ^the/*the$ ^stated/state<vblex><past>/state<vblex><pp>$ ^price/price<n><sg>$^?./?.<sent>$
+[/LWsH5LxNcIHX]
+[LYvX2btfhbpk#0] ^Hello/hello<ij>$^./.<sent>$
+[/LYvX2btfhbpk]
+[M6969AW8Ne6j#0] ^It/*It$ ^gets/*gets$ ^worse/bad<adj><sint><comp>$ ^when/when<cnjadv>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^lie down/lie<vblex><inf># down/lie<vblex><pres># down/lie<vblex><imp># down$^./.<sent>$
+[/M6969AW8Ne6j]
+[MHfKv6hdFmP6#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^constipation/*constipation$^./.<sent>$
+[/MHfKv6hdFmP6]
+[MR4uCNH3tHeK#0] ^Where/*Where$ ^is/be<vbser><pres><p3><sg>$^.?./.?.<sent>$
+[/MR4uCNH3tHeK]
+[MdnmzcosMrDl#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^had/have<vbhaver><past>$ ^this/this<det><dem><sg>$ ^pain/pain<n><sg>$ ^before/before<pr>$^./.<sent>$
+[/MdnmzcosMrDl]
+[MiR9N3SLM5Wp#0] ^Where/*Where$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^pray/*pray$^?./?.<sent>$
+[/MiR9N3SLM5Wp]
+[MiZA9rxSkU95#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^difficulty/difficulty<n><sg>$ ^breathing/breathing<n><sg>$^./.<sent>$
+[/MiZA9rxSkU95]
+[MqQJXTYakU_c#0] ^My/*My$ ^./.<sent>$ ^is/be<vbser><pres><p3><sg>$ ^tingling/*tingling$^./.<sent>$
+[/MqQJXTYakU_c]
+[MqZmBAgGtg8-#0] ^It/*It$ ^is/be<vbser><pres><p3><sg>$ ^a/*a$ ^dull/*dull$ ^pain/pain<n><sg>$^./.<sent>$
+[/MqZmBAgGtg8-]
+[N1D-qcQf_0NC#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^sore/*sore$ ^throat/throat<n><sg>$^./.<sent>$
+[/N1D-qcQf_0NC]
+[NKA0kPBBNPhW#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^HIV/*HIV$^./.<sent>$
+[/NKA0kPBBNPhW]
+[Np5pm40Gt6Xg#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^fell/fall<vblex><past>$ ^from/from<pr>$ ^a/*a$ ^height/height<n><sg>$^./.<sent>$
+[/Np5pm40Gt6Xg]
+[NyL9kvZue7Sk#0] ^Come/come<vblex><inf>/come<vblex><pres>/come<vblex><pp>/come<vblex><imp>$ ^over/*over$ ^here/here<adv>$^!./!.<sent>$
+[/NyL9kvZue7Sk]
+[OA_qEEphhc34#0] ^Arrange/*Arrange$ ^a/*a$ ^meeting/meeting<n><sg>/meet<vblex><pprs>/meet<vblex><subs>/meet<vblex><ger>$ ^point/*point$^./.<sent>$
+[/OA_qEEphhc34]
+[OXRPGgfVUDcM#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^receive/*receive$ ^a/*a$ ^blanket/blanket<n><sg>$ ^or/or<cnjcoo>$ ^warm/warm<adj><sint>$ ^clothing/clothing<n><sg>$^?./?.<sent>$
+[/OXRPGgfVUDcM]
+[Oat03cLfkJ_j#0] ^The/*The$ ^pain/pain<n><sg>$ ^started/*started$ ^here/here<adv>$ ^and/and<cnjcoo>$ ^goes/go<vblex><pres><p3><sg>$ ^to/to<pr>$ ^here/here<adv>$^./.<sent>$
+[/Oat03cLfkJ_j]
+[OhX_Us3-3G7d#0] ^What/what<prn><itg><mf><sp>$ ^time/time<n><sg>$ ^is/be<vbser><pres><p3><sg>$ ^it/*it$^?./?.<sent>$
+[/OhX_Us3-3G7d]
+[OmdFNWS6MxPR#0] ^Currency/currency<n><sg>$ ^exchange/exchange<n><sg>$ ^at/at<pr>$ ^Chios/*Chios$ ^Bank/bank<n><sg>$^./.<sent>$
+[/OmdFNWS6MxPR]
+[OseQxnKUg-0M#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^will/will<n><sg>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^back/back<adv>/back<n><sg>$ ^soon/*soon$^./.<sent>$
+[/OseQxnKUg-0M]
+[Osjy5AR5OCt6#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^ill/*ill$^./.<sent>$
+[/Osjy5AR5OCt6]
+[Ou_v_BbiOaB8#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^able/able<adj><sint>$ ^to/to<pr>$ ^write/write<vblex><inf>/write<vblex><pres>/write<vblex><imp>$ ^the/*the$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$ ^of/*of$ ^the/*the$ ^person/person<n><sg>$ ^missing/*missing$^?./?.<sent>$
+[/Ou_v_BbiOaB8]
+[P8jGXK3fILYV#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^sad/sad<adj><sint>$^./.<sent>$
+[/P8jGXK3fILYV]
+[PDX1YxBhT7jC#0] ^Asylum/asylum<n><sg>$ ^in/in<pr>$ ^Greece/Greece<np><top><sg>$^./.<sent>$
+[/PDX1YxBhT7jC]
+[PS3xHP3zJpjK#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^epilepsy/epilepsy<n><sg>$^./.<sent>$
+[/PS3xHP3zJpjK]
+[PttgwO7mmpUC#0] ^This/this<det><dem><sg>$ ^is/be<vbser><pres><p3><sg>$ ^my/*my$ ^mother/mother<n><sg>$^./.<sent>$
+[/PttgwO7mmpUC]
+[Pyqj9juGsrTH#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^feeling/feeling<n><sg>$ ^dizzy/*dizzy$^?./?.<sent>$
+[/Pyqj9juGsrTH]
+[Pz8vpPURUWEm#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^planning/*planning$ ^to/to<pr>$ ^apply/*apply$ ^for/for<pr>$ ^asylum/asylum<n><sg>$ ^in/in<pr>$ ^fYR/*fYR$ ^Macedonia/Macedonia<np><top><sg>$^?./?.<sent>$
+[/Pz8vpPURUWEm]
+[Q3_ZY0KO0hZ1#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^happy/happy<adj><sint>$^./.<sent>$
+[/Q3_ZY0KO0hZ1]
+[Q5HMqE9Xm-7a#0] ^It/*It$ ^already/already<adv>$ ^has/have<vbhaver><pres><p3><sg>$ ^pure/pure<adj><sint>$ ^water/water<n><sg>$ ^added/add<vblex><pp>/add<vblex><past>$^:/:<sent>$ ^it/*it$ ^is/be<vbser><pres><p3><sg>$ ^not/not<adv>$ ^necessary/necessary<adj>$ ^to/to<pr>$ ^add/add<vblex><inf>/add<vblex><pres>/add<vblex><imp>$ ^water/water<n><sg>$^./.<sent>$
+[/Q5HMqE9Xm-7a]
+[QCwokCp1xEwb#0] ^Clothes/clothes<n><pl>$ ^ONLY/only<adj>/only<adv>$ ^for/for<pr>$ ^wet/wet<adj><sint>/wet<vblex><inf>/wet<vblex><pres>/wet<vblex><past>/wet<vblex><pp>/wet<vblex><imp>$ ^people/people<n><sg>/person<n><pl>$^./.<sent>$
+[/QCwokCp1xEwb]
+[QIF35yWmRpnE#0] ^Hold/*Hold$ ^your/*your$ ^baby/baby<n><sg>$ ^close/close<adj><sint>/close<vblex><inf>/close<vblex><pres>/close<vblex><imp>$ ^to/to<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^and/and<cnjcoo>$ ^let/let<vblex><inf>/let<vblex><pres>/let<vblex><past>/let<vblex><pp>/let<vblex><imp>$ ^him/*him$\/^her/*her$ ^sip/*sip$ ^slowly/*slowly$^./.<sent>$
+[/QIF35yWmRpnE]
+[QLpUP5lD1ixJ#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^any/*any$ ^other/*other$ ^documentation/*documentation$ ^that/that<cnjsub>/that<det><dem><sg>$ ^shows/show<n><pl>/show<vblex><pres><p3><sg>$ ^your/*your$ ^nationality/*nationality$^?./?.<sent>$
+[/QLpUP5lD1ixJ]
+[Qp1M8qdt6Ojg#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^feel/*feel$ ^comfortable/comfortable<adj>$ ^staying/stay<vblex><pprs>/stay<vblex><subs>/stay<vblex><ger>$ ^at/at<pr>$ ^this/this<det><dem><sg>$ ^site/*site$ ^today/today<adv>$^?./?.<sent>$
+[/Qp1M8qdt6Ojg]
+[QrN-8lZOubaR#0] ^Are/be<vbser><pres>$ ^these/this<det><dem><pl>$ ^your/*your$ ^children/child<n><pl>$^?./?.<sent>$
+[/QrN-8lZOubaR]
+[QspVqdJVIiD_#0] ^Where/*Where$ ^is/be<vbser><pres><p3><sg>$ ^the/*the$ ^subway/subway<n><sg>$\/^underground/underground<adj>$^?./?.<sent>$
+[/QspVqdJVIiD_]
+[R5jfHFJpgyDe#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^like/like<pr>/like<vblex><inf>/like<vblex><pres>/like<vblex><imp>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$^./.<sent>$
+[/R5jfHFJpgyDe]
+[R5mF1seGJLwF#0] ^Does/do<vaux><pres><p3><sg>$ ^the/*the$ ^person/person<n><sg>$ ^missing/*missing$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^your/*your$ ^phone/*phone$ ^or/or<cnjcoo>$ ^viber/*viber$ ^number/number<n><sg>$^?./?.<sent>$
+[/R5mF1seGJLwF]
+[RAA3e58r74YK#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^keep/*keep$ ^leftover/*leftover$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^for/for<pr>$ ^more/more<adv>$ ^than/*than$ ^1/1<num>$ ^hour/hour<n><sg>$ – ^it/*it$ ^will/will<n><sg>$ ^become/*become$ ^unclean/unclean<adj>$ ^and/and<cnjcoo>$ ^unsafe/unsafe<adj>$^./.<sent>$
+[/RAA3e58r74YK]
+[RHHd1xBeGCaI#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^smoke/smoke<n><sg>$ ^inside/inside<n><sg>$^./.<sent>$
+[/RHHd1xBeGCaI]
+[RKRmJTWcHYfk#0] ^Church/church<n><sg>$^./.<sent>$
+[/RKRmJTWcHYfk]
+[RLRTbT0f6PL1#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^bleeding/*bleeding$ ^from/from<pr>$ ^my/*my$ ^anus/anus<n><sg>$^./.<sent>$
+[/RLRTbT0f6PL1]
+[RPO87-xOmbbm#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^medical/*medical$ ^attention/attention<n><sg>$^?./?.<sent>$
+[/RPO87-xOmbbm]
+[RV1OYe3gvx8X#0] ^The/*The$ ^pain/pain<n><sg>$ ^started/*started$ ^suddenly/*suddenly$^./.<sent>$
+[/RV1OYe3gvx8X]
+[RZ1nvQlrmLt0#0] ^Come/come<vblex><inf>/come<vblex><pres>/come<vblex><pp>/come<vblex><imp>$ ^back/back<adv>/back<n><sg>$ ^to/to<pr>$ ^UNHCR/*UNHCR$ ^tent/tent<n><sg>$ ^(/(<lpar>$^few/few<adj><sint>$ ^hrs/hour<n><pl>$^)/)<rpar>$^./.<sent>$
+[/RZ1nvQlrmLt0]
+[RarAZAGzPqXb#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^unconscious/unconscious<adj>$^./.<sent>$
+[/RarAZAGzPqXb]
+[S39AB8yOpqW1#0] ^My/*My$ ^../..<sent>$ ^feels/*feels$ ^numb/*numb$^./.<sent>$
+[/S39AB8yOpqW1]
+[SDQRdSubwRdi#0] ^Because/because<cnjsub>/because<cnjadv>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^well/well<n><sg>$^-/-<guio>$^founded/found<vblex><pp>/found<vblex><past>$ ^fear/fear<n><sg>/fear<vblex><inf>/fear<vblex><pres>/fear<vblex><imp>$^:./:.<sent>$
+[/SDQRdSubwRdi]
+[SpO4wI6DDzM7#0] ^This/this<det><dem><sg>$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^is/be<vbser><pres><p3><sg>$ ^sufficient/*sufficient$ ^for/for<pr>$ ^all/all<adv>$ ^needs/need<n><pl>/need<vblex><pres><p3><sg>$ ^of/*of$ ^a/*a$ ^baby/baby<n><sg>$ ^until/until<pr>$ ^the/*the$ ^age/age<n><sg>$ ^of/*of$ ^six/six<num><pl>$ ^(/(<lpar>$^6/6<num>$^)/)<rpar>$ ^months/month<n><pl>$^./.<sent>$
+[/SpO4wI6DDzM7]
+[StVpfEBdkpY7#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^help/help<n><sg>$^?./?.<sent>$
+[/StVpfEBdkpY7]
+[StkjxDPLPBDj#0] ^There/there<adv>$ ^is/be<vbser><pres><p3><sg>$ ^blood/blood<n><sg>$ ^in/in<pr>$ ^my/*my$ ^faeces/*faeces$^./.<sent>$
+[/StkjxDPLPBDj]
+[SzMOFAGY8zvk#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^want/want<vblex><inf>/want<vblex><pres>/want<vblex><imp>$ ^to/to<pr>$ ^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$ ^privately/*privately$ ^with/with<pr>$ ^a/*a$ ^translator/translator<n><sg>$^?./?.<sent>$
+[/SzMOFAGY8zvk]
+[T-xJF9N40DCr#0] ^Airplanes/airplane<n><pl>$^:./:.<sent>$
+[/T-xJF9N40DCr]
+[Tqy7WRKzUkOP#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^please/*please$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^your/*your$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$ ^so/so<adv>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^check/check<n><sg>$ ^the/*the$ ^database/database<n><sg>$^?./?.<sent>$
+[/Tqy7WRKzUkOP]
+[U-pb2fpjliyw#0] ^Don/*Don$’^t/*t$ ^worry/worry<n><sg>/worry<vblex><inf>/worry<vblex><pres>/worry<vblex><imp>$^./.<sent>$
+[/U-pb2fpjliyw]
+[U3sfshkQeAdq#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^more/more<adv>$ ^of/*of$ ^this/this<det><dem><sg>$ ^medication/medication<n><sg>$^./.<sent>$
+[/U3sfshkQeAdq]
+[UC_-wr73enJj#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^share/share<n><sg>$ ^your/*your$ ^information/information<n><sg>$ ^with/with<pr>$ ^my/*my$ ^colleagues/colleague<n><pl>$ ^in/in<pr>$ ^Serbia/Serbia<np><top><sg>$ ^so/so<adv>$ ^we/prpers<prn><subj><p1><mf><pl>$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^provide/*provide$ ^services/service<n><pl>$ ^for/for<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^there/there<adv>$^?./?.<sent>$
+[/UC_-wr73enJj]
+[Uk4OiUXSkDVQ#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^make/make<vblex><inf>/make<vblex><pres>/make<vblex><imp>$ ^a/*a$ ^phone/*phone$ ^call/call<n><sg>/call<vblex><inf>/call<vblex><pres>/call<vblex><imp>$^./.<sent>$
+[/Uk4OiUXSkDVQ]
+[UkgDq7bDiYJs#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^show/show<n><sg>/show<vblex><inf>/show<vblex><pres>/show<vblex><imp>$ ^us/prpers<prn><obj><p1><mf><pl>$ ^the/*the$ ^GPS/*GPS$ ^spot/spot<n><sg>$ ^on/on<pr>$ ^your/*your$ ^phone/*phone$ ^to/to<pr>$ ^find/find<vblex><inf>/find<vblex><pres>/find<vblex><imp>$ ^the/*the$ ^others/*others$^!./!.<sent>$
+[/UkgDq7bDiYJs]
+[UqCmjgalygTp#0] ^Bus/bus<n><sg>$ ^fare/fare<n><sg>$ ^is/be<vbser><pres><p3><sg>$ ^3/3<num>$ ^euros/*euros$^./.<sent>$
+[/UqCmjgalygTp]
+[V15Z8xG6v1ck#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^diabetic/*diabetic$^./.<sent>$
+[/V15Z8xG6v1ck]
+[VO28fuRJr2VZ#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^stabbed/*stabbed$\/ ^cut/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>/cut<vblex><imp>$ ^with/with<pr>$ ^a/*a$ ^knife/knife<n><sg>$^./.<sent>$
+[/VO28fuRJr2VZ]
+[VO7AsGXpkakT#0] ^Where/*Where$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^buy/buy<vblex><inf>/buy<vblex><pres>/buy<vblex><imp>$_____^?./?.<sent>$
+[/VO7AsGXpkakT]
+[VYCsRxrH6-Ih#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^see/see<vblex><inf>/see<vblex><pres>/see<vblex><imp>$ ^any/*any$ ^refugees/refugee<n><pl>$^?./?.<sent>$
+[/VYCsRxrH6-Ih]
+[VoiUENPrU677#0] ^Emergency/*Emergency$ ^Clothing/clothing<n><sg>$ ^Centre/centre<n><sg>$^./.<sent>$
+[/VoiUENPrU677]
+[Vtj0DlXf57Ig#0] ^Call/call<n><sg>/call<vblex><inf>/call<vblex><pres>/call<vblex><imp>$ ^and/and<cnjcoo>$ ^notify/*notify$ ^XXX/*XXX$ ^upon/*upon$ ^arrival/arrival<n><sg>$^./.<sent>$
+[/Vtj0DlXf57Ig]
+[Vxurrl8D1LqX#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^see/see<vblex><inf>/see<vblex><pres>/see<vblex><imp>$ ^a/*a$ ^doctor/doctor<n><sg>$^./.<sent>$
+[/Vxurrl8D1LqX]
+[W8FOaV899hEg#0] ^Suitable/suitable<adj>$ ^from/from<pr>$ ^Birth/birth<n><sg>$^./.<sent>$
+[/W8FOaV899hEg]
+[WA0SI0H7pDJh#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^money/money<n><sg>$ ^to/to<pr>$ ^purchase/purchase<n><sg>$ ^your/*your$ ^tickets/ticket<n><pl>$^?./?.<sent>$
+[/WA0SI0H7pDJh]
+[WUl4WSU43Fiq#0] ^INFANT/*INFANT$ ^FORMULA/formula<n><sg>$^./.<sent>$
+[/WUl4WSU43Fiq]
+[WhtkFD1cIyYa#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^fever/*fever$^./.<sent>$
+[/WhtkFD1cIyYa]
+[WiBO1h12TM-O#0] ^The/*The$ ^pain/pain<n><sg>$ ^is/be<vbser><pres><p3><sg>$ ^there/there<adv>$ ^all/all<adv>$ ^the/*the$ ^time/time<n><sg>$^./.<sent>$
+[/WiBO1h12TM-O]
+[WncCOb15lAh2#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^dizzy/*dizzy$^./.<sent>$
+[/WncCOb15lAh2]
+[X1RwsdOyenLK#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^urinate/urinate<vblex><inf>/urinate<vblex><pres>/urinate<vblex><imp>$ ^every/every<det><ind><sg>$ ^hour/hour<n><sg>$^./.<sent>$
+[/X1RwsdOyenLK]
+[X31Zui041spu#0] ^BOTTLES/bottle<n><pl>$ ^AND/and<cnjcoo>$ ^UNCLEAN/unclean<adj>$ ^CUPS/cup<n><pl>$ ^CAN/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^MAKE/make<vblex><inf>/make<vblex><pres>/make<vblex><imp>$ ^YOUR/*YOUR$ ^CHILD/child<n><sg>$ ^SICK/sick<adj><sint>$^!./!.<sent>$
+[/X31Zui041spu]
+[XFHqdSAedKyH#0] ^My/*My$ ^child/child<n><sg>$ ^is/be<vbser><pres><p3><sg>$ ^hungry/hungry<adj><sint>$^./.<sent>$
+[/XFHqdSAedKyH]
+[XgXbAolH_LiT#0] ^Charge/charge<n><sg>$ ^your/*your$ ^phone/*phone$ ^in/in<pr>$ ^big/big<adj><sint>$ ^tents/tent<n><pl>$ ^or/or<cnjcoo>$ ^ICT/*ICT$ ^centre/centre<n><sg>$^./.<sent>$
+[/XgXbAolH_LiT]
+[XkYZM3zni2v8#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^stomach/stomach<n><sg>$ ^ache/ache<vblex><inf>/ache<vblex><pres>/ache<vblex><imp>$^./.<sent>$
+[/XkYZM3zni2v8]
+[Xu71QZBKx1iI#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^would/*would$ ^like/like<pr>/like<vblex><inf>/like<vblex><pres>/like<vblex><imp>$ ^an/*an$ ^appointment/appointment<n><sg>$^./.<sent>$
+[/Xu71QZBKx1iI]
+[XzZ0JOq2QfKY#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^insulin/*insulin$^./.<sent>$
+[/XzZ0JOq2QfKY]
+[YWyXdLfrEb_I#0] ^This/this<det><dem><sg>$ ^is/be<vbser><pres><p3><sg>$ ^my/*my$ ^husband/husband<n><sg>$^./.<sent>$
+[/YWyXdLfrEb_I]
+[YwKNfGdoL7b2#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^access/*access$ ^to/to<pr>$ ^a/*a$ ^phone/*phone$^?./?.<sent>$
+[/YwKNfGdoL7b2]
+[Yx4OC5PwuyRM#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^having/have<vbhaver><pprs>/have<vbhaver><subs>/have<vbhaver><ger>$ ^an/*an$ ^allergic/*allergic$ ^reaction/reaction<n><sg>$^./.<sent>$
+[/Yx4OC5PwuyRM]
+[Z2bwn9xesmqe#0] ^Please/*Please$^./.<sent>$
+[/Z2bwn9xesmqe]
+[Z4KbKnWWnu6m#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^diabetes/diabetes<n><sg>$^./.<sent>$
+[/Z4KbKnWWnu6m]
+[Z4uubif23DFo#0] ^my/*my$ ^son/son<n><sg>$^./.<sent>$
+[/Z4uubif23DFo]
+[ZClm7gcYjQ1l#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^hear/hear<vblex><inf>/hear<vblex><pres>/hear<vblex><imp>$ ^voices/voice<n><pl>$ ^when/when<cnjadv>$ ^i/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^alone/alone<adj>$^./.<sent>$
+[/ZClm7gcYjQ1l]
+[ZDtI0BjZey3d#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^go/go<vblex><inf>/go<vblex><pres>/go<vblex><imp>$ ^to/to<pr>$ ^a/*a$ ^hotel/*hotel$^?./?.<sent>$
+[/ZDtI0BjZey3d]
+[Za540wqIRwUc#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^light/light<n><sg>/light<adj><sint>$ ^fires/fire<n><pl>$ ^inside/inside<n><sg>$^./.<sent>$
+[/Za540wqIRwUc]
+[ZdvYvlJV7sTL#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^share/share<n><sg>$ ^information/information<n><sg>$ ^to/to<pr>$ ^UNHCR/*UNHCR$ ^Tabernovce/*Tabernovce$^?./?.<sent>$
+[/ZdvYvlJV7sTL]
+[ZpcBYs1FgjJV#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^feeling/feeling<n><sg>$ ^very/very<adv>/very<preadv>$ ^cold/cold<n><sg>/cold<adj><sint>$^?./?.<sent>$
+[/ZpcBYs1FgjJV]
+[_7Aavp-_SRZV#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^receive/*receive$ ^FYRM/Macedonia<np><top><sg>$ ^documents/document<n><pl>$^?./?.<sent>$
+[/_7Aavp-_SRZV]
+[_bcvWqv4EsL0#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^been/be<vbser><pp>$ ^sick/sick<adj><sint>$^./.<sent>$
+[/_bcvWqv4EsL0]
+[_f4WrCf_jE6y#0] ^Did/do<vaux><past>$ ^they/*they$ ^help/help<n><sg>$^?./?.<sent>$
+[/_f4WrCf_jE6y]
+[_kh36AKZ6SBY#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^tuberculosis/tuberculosis<n><sg>$^./.<sent>$
+[/_kh36AKZ6SBY]
+[_oHGSBNVOv_D#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^write/write<vblex><inf>/write<vblex><pres>/write<vblex><imp>$ ^your/*your$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$ ^for/for<pr>$ ^your/*your$ ^family/family<n><sg>$^?./?.<sent>$
+[/_oHGSBNVOv_D]
+[_taQH3EM1Dkf#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^the/*the$ ^volume/volume<n><sg>$ ^louder/loud<adj><sint><comp>$^?./?.<sent>$
+[/_taQH3EM1Dkf]
+[aGJ2y4tp5v5u#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^had/have<vbhaver><past>$ ^a/*a$ ^seizure/*seizure$^./.<sent>$
+[/aGJ2y4tp5v5u]
+[aajjvUSl9xfc#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^an/*an$ ^ambulance/ambulance<n><sg>$^./.<sent>$
+[/aajjvUSl9xfc]
+[aoydLveTTf38#0] ^Be/be<vbser><inf>/be<vbser><imp>$ ^Careful/careful<adj>$^./.<sent>$ ^Don/*Don$’^t/*t$ ^leave/leave<n><sg>/leave<vblex><inf>/leave<vblex><pres>/leave<vblex><imp>$ ^the/*the$ ^kids/kid<n><pl>$ ^approaching/*approaching$^./.<sent>$ ^Only/only<adj>/only<adv>$ ^adults/*adults$^./.<sent>$
+[/aoydLveTTf38]
+[atCnSvL4MmXo#0] ^Did/do<vaux><past>$ ^the/*the$ ^police/police<n><pl>$ ^tell/*tell$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^to/to<pr>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^a/*a$ ^coach/coach<n><sg>/coach<vblex><inf>/coach<vblex><pres>/coach<vblex><imp>$^?./?.<sent>$
+[/atCnSvL4MmXo]
+[bFI_xuFQSt_9#0] ^What/what<prn><itg><mf><sp>$ ^is/be<vbser><pres><p3><sg>$ ^your/*your$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$^?./?.<sent>$
+[/bFI_xuFQSt_9]
+[bPL7OVYRJTQN#0] ^one/one<num><sg>$ ^month/month<n><sg>$^./.<sent>$
+[/bPL7OVYRJTQN]
+[bUqyajrL0-Pk#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^read/read<vblex><inf>/read<vblex><pres>/read<vblex><past>/read<vblex><pp>/read<vblex><imp>$ ^this/this<det><dem><sg>$ ^language/language<n><sg>$^?./?.<sent>$
+[/bUqyajrL0-Pk]
+[c-EcRQeXm9fM#0] ^It/*It$ ^will/will<n><sg>$ ^not/not<adv>$ ^protect/protect<vblex><inf>/protect<vblex><pres>/protect<vblex><imp>$ ^your/*your$ ^baby/baby<n><sg>$ ^against/against<pr>$ ^infections/infection<n><pl>$^./.<sent>$
+[/c-EcRQeXm9fM]
+[c95PtN_P9iM2#0] ^Audio/*Audio$ ^announcements/announcement<n><pl>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^more/more<adv>$ ^information/information<n><sg>$^./.<sent>$
+[/c95PtN_P9iM2]
+[cB9t1VW5actr#0] ^Did/do<vaux><past>$ ^that/that<cnjsub>/that<det><dem><sg>$ ^help/help<n><sg>$^?./?.<sent>$
+[/cB9t1VW5actr]
+[cKcStojKOz0n#0] ^Apply/*Apply$ ^for/for<pr>$ ^asylum/asylum<n><sg>$^./.<sent>$
+[/cKcStojKOz0n]
+[cLatZfI0WUiG#0] ^An/*An$ ^approximate/*approximate$ ^pricing/*pricing$ ^is/be<vbser><pres><p3><sg>$^:./:.<sent>$
+[/cLatZfI0WUiG]
+[cMg3nHhsAiCj#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^like/like<pr>/like<vblex><inf>/like<vblex><pres>/like<vblex><imp>$ ^I'm/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^being/being<n><sg>/be<vbser><pprs>/be<vbser><subs>/be<vbser><ger>$ ^watched/*watched$^./.<sent>$
+[/cMg3nHhsAiCj]
+[chTAFoLIkbsq#0] ^Help/help<n><sg>$^!./!.<sent>$
+[/chTAFoLIkbsq]
+[cp106njscflr#0] ^Are/be<vbser><pres>$ ^there/there<adv>$ ^life/life<n><sg>$ ^jackets/jacket<n><pl>$ ^on/on<pr>$ ^the/*the$ ^shore/shore<n><sg>$^?./?.<sent>$
+[/cp106njscflr]
+[d5vt1tt0Wj-e#0] ^a/*a$ ^group/group<n><sg>$ ^shall/*shall$ ^be/be<vbser><inf>/be<vbser><imp>$ ^considered/consider<vblex><pp>/consider<vblex><past>$ ^to/to<pr>$ ^form/form<n><sg>/form<vblex><inf>/form<vblex><pres>/form<vblex><imp>$ ^a/*a$ ^particular/particular<adj>$ ^social/social<adj>$ ^group/group<n><sg>$ ^where/*where$ ^in/in<pr>$ ^particular/particular<adj>$^:./:.<sent>$
+[/d5vt1tt0Wj-e]
+[dLVFrZpmXOFH#0] ^This/this<det><dem><sg>$ ^is/be<vbser><pres><p3><sg>$ ^my/*my$ ^father/father<n><sg>$^./.<sent>$
+[/dLVFrZpmXOFH]
+[dTBNuV_zLaHh#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^cough/cough<vblex><inf>/cough<vblex><pres>/cough<vblex><imp>$^./.<sent>$
+[/dTBNuV_zLaHh]
+[ddcTDAj4z3ZR#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^call/call<n><sg>/call<vblex><inf>/call<vblex><pres>/call<vblex><imp>$ ^when/when<cnjadv>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^see/see<vblex><inf>/see<vblex><pres>/see<vblex><imp>$ ^a/*a$ ^raft/raft<n><sg>$^?./?.<sent>$
+[/ddcTDAj4z3ZR]
+[dgfa7LGPa8co#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^injured/*injured$^./.<sent>$
+[/dgfa7LGPa8co]
+[dhMqjNPRSCDI#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$’^t/*t$ ^eat/eat<vblex><inf>/eat<vblex><pres>/eat<vblex><imp>$ ^meat/meat<n><sg>$ ^and/and<cnjcoo>$ ^fish/fish<n><sg>/fish<n><pl>$^./.<sent>$
+[/dhMqjNPRSCDI]
+[dn9mI7WBdDvH#0] ^Consult/*Consult$ ^a/*a$ ^doctor/doctor<n><sg>$ ^before/before<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^stop/stop<vblex><inf>/stop<vblex><pres>/stop<vblex><imp>$ ^breastfeeding/*breastfeeding$ ^or/or<cnjcoo>$ ^before/before<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^give/give<vblex><inf>/give<vblex><pres>/give<vblex><imp>$ ^any/*any$ ^breastmilk/*breastmilk$ ^substitute/substitute<n><sg>$ ^to/to<pr>$ ^your/*your$ ^baby/baby<n><sg>$^./.<sent>$
+[/dn9mI7WBdDvH]
+[dztk5Ruz4kwR#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$'^t/*t$ ^feel/*feel$ ^well/well<n><sg>$ ^./.<sent>$
+[/dztk5Ruz4kwR]
+[eKQUn7Ul7pzk#0] ^Wipe/*Wipe$ ^and/and<cnjcoo>$ ^shake/shake<vblex><inf>/shake<vblex><pres>/shake<vblex><imp>$ ^the/*the$ ^packet/packet<n><sg>$ ^before/before<pr>$ ^opening/opening<n><sg>/open<vblex><pprs>/open<vblex><subs>/open<vblex><ger>$^./.<sent>$
+[/eKQUn7Ul7pzk]
+[eQuY-2YJysgH#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^cannot/can<vbmod><pres>+not<adv>$ ^speak/speak<vblex><inf>/speak<vblex><pres>/speak<vblex><imp>$^./.<sent>$
+[/eQuY-2YJysgH]
+[f-_G3GR2z92q#0] ^Where/*Where$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^a/*a$ ^shower/shower<n><sg>$^?./?.<sent>$
+[/f-_G3GR2z92q]
+[f-rVGHiVH4eO#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^know/know<vblex><inf>/know<vblex><pres>/know<vblex><imp>$ ^who/who<prn><itg><mf><sp>$ ^your/*your$ ^group/group<n><sg>$ ^leader/leader<n><sg>$ ^is/be<vbser><pres><p3><sg>$^?./?.<sent>$
+[/f-rVGHiVH4eO]
+[f1te3mHsvpet#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^cold/cold<n><sg>/cold<adj><sint>$^./.<sent>$
+[/f1te3mHsvpet]
+[fAdk1Jb1YJj5#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^chronic/*chronic$ ^bronchitis/*bronchitis$^./.<sent>$
+[/fAdk1Jb1YJj5]
+[fIXXy3Wl8kJ1#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^hear/hear<vblex><inf>/hear<vblex><pres>/hear<vblex><imp>$ ^this/this<det><dem><sg>$ ^recording/*recording$^?./?.<sent>$
+[/fIXXy3Wl8kJ1]
+[fJiJsXQmrevQ#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^in/in<pr>$ ^labour/*labour$^./.<sent>$
+[/fJiJsXQmrevQ]
+[fVs3JT4rdE-g#0] ^very/very<adv>/very<preadv>$ ^soon/*soon$^./.<sent>$
+[/fVs3JT4rdE-g]
+[f_MYMYtugNHm#0] ^My/*My$ ^periods/period<n><pl>$ ^finished/finish<vblex><pp>/finish<vblex><past>/finished<adj>$^,/,<cm>$ ^but/but<cnjcoo>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^bleeding/*bleeding$ ^again/again<adv>$^./.<sent>$
+[/f_MYMYtugNHm]
+[flvkRqj5-TXc#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^leukaemia/*leukaemia$^./.<sent>$
+[/flvkRqj5-TXc]
+[frauVXMJyk6W#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^discharge/*discharge$ ^from/from<pr>$ ^my/*my$ ^vagina/vagina<n><sg>$^./.<sent>$
+[/frauVXMJyk6W]
+[g6G4bvLct1yf#0] ^Use/use<n><sg>/use<vblex><inf>/use<vblex><pres>/use<vblex><imp>$ ^this/this<det><dem><sg>$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^only/only<adj>/only<adv>$ ^if/*if$^:./:.<sent>$
+[/g6G4bvLct1yf]
+[g6_bhgXZiXtV#0] ^Apply/*Apply$ ^for/for<pr>$ ^relocation/*relocation$ ^to/to<pr>$ ^Europe/Europe<np><top><sg>$^./.<sent>$
+[/g6_bhgXZiXtV]
+[g8HAVQxvCJto#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^pregnant/pregnant<adj>$ ^and/and<cnjcoo>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^bleeding/*bleeding$^./.<sent>$
+[/g8HAVQxvCJto]
+[gPrFJQkxVQXl#0] ^My/*My$ ^child/child<n><sg>$ ^has/have<vbhaver><pres><p3><sg>$ ^a/*a$ ^sore/*sore$ ^throat/throat<n><sg>$^./.<sent>$
+[/gPrFJQkxVQXl]
+[gR64G50R1lo2#0] ^chicken/chicken<n><sg>$
+[/gR64G50R1lo2]
+[gTu_7uLkHWhV#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^allergic/*allergic$ ^to/to<pr>$…^./.<sent>$
+[/gTu_7uLkHWhV]
+[hDH7UU5WjGey#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^leave/leave<n><sg>/leave<vblex><inf>/leave<vblex><pres>/leave<vblex><imp>$ ^belongings/*belongings$ ^unattended/*unattended$^./.<sent>$
+[/hDH7UU5WjGey]
+[hEU8Kz6otdYW#0] ^The/*The$ ^pain/pain<n><sg>$ ^comes/come<vblex><pres><p3><sg>$ ^and/and<cnjcoo>$ ^goes/go<vblex><pres><p3><sg>$^./.<sent>$
+[/hEU8Kz6otdYW]
+[hRaW19UuEVhS#0] ^There/there<adv>$ ^is/be<vbser><pres><p3><sg>$ ^blood/blood<n><sg>$ ^in/in<pr>$ ^my/*my$ ^urine/urine<n><sg>$^./.<sent>$
+[/hRaW19UuEVhS]
+[hTCr4L1yq4LS#0] ^Duration/*Duration$^:/:<sent>$ ^When/when<cnjadv>$ ^you’re/prpers<prn><subj><p2><mf><sp>+be<vbser><pres>$ ^describing/describe<vblex><pprs>/describe<vblex><subs>/describe<vblex><ger>$ ^things/thing<n><pl>$ ^that/that<cnjsub>/that<det><dem><sg>$ ^happened/happen<vblex><pp>/happen<vblex><past>$ ^to/to<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$^,/,<cm>$ ^include/include<vblex><inf>/include<vblex><pres>/include<vblex><imp>$ ^how/how<adv>/how<adv><itg>$ ^long/long<adj><sint>$ ^these/this<det><dem><pl>$ ^things/thing<n><pl>$ ^lasted/*lasted$^./.<sent>$
+[/hTCr4L1yq4LS]
+[hWnvxO1aYnMU#0] ^Thank/thank<vblex><inf>/thank<vblex><pres>/thank<vblex><imp>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$^./.<sent>$
+[/hWnvxO1aYnMU]
+[hrNWGxKGAbjL#0] ^Come/come<vblex><inf>/come<vblex><pres>/come<vblex><pp>/come<vblex><imp>$ ^back/back<adv>/back<n><sg>$ ^to/to<pr>$ ^UNHCR/*UNHCR$ ^tent/tent<n><sg>$ ^(/(<lpar>$^1/1<num>$ ^hr/hour<n><sg>$^)/)<rpar>$^./.<sent>$
+[/hrNWGxKGAbjL]
+[huTy0MmshOEv#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^to/to<pr>$ ^be/be<vbser><inf>/be<vbser><imp>$ ^admitted/*admitted$ ^to/to<pr>$ ^the/*the$ ^hospital/hospital<n><sg>$^?./?.<sent>$
+[/huTy0MmshOEv]
+[iDX0TI6GWWU8#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^pour/*pour$ ^the/*the$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^into/*into$ ^his/*his$\/^her/*her$ ^mouth/mouth<n><sg>$^./.<sent>$ ^Let/let<vblex><inf>/let<vblex><pres>/let<vblex><past>/let<vblex><pp>/let<vblex><imp>$ ^the/*the$ ^baby/baby<n><sg>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^as/as<pr>$ ^much/much<adv>$ ^as/as<pr>$ ^he/*he$ \/ ^she/*she$ ^wants/want<vblex><pres><p3><sg>$^./.<sent>$
+[/iDX0TI6GWWU8]
+[iHMuL_5h9R7R#0] ^Also/also<adv>$ ^explain/explain<vblex><inf>/explain<vblex><pres>/explain<vblex><imp>$ ^if/*if$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^tried/try<vblex><pp>/try<vblex><past>$ ^to/to<pr>$ ^leave/leave<n><sg>/leave<vblex><inf>/leave<vblex><pres>/leave<vblex><imp>$ ^your/*your$ ^country/country<n><sg>$ ^but/but<cnjcoo>$ ^couldn’t/can<vbmod><past>+not<adv>$ ^and/and<cnjcoo>$ ^what/what<prn><itg><mf><sp>$ ^stopped/stop<vblex><past>/stop<vblex><pp>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$^./.<sent>$
+[/iHMuL_5h9R7R]
+[iJcBz93-kg6A#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^depressed/*depressed$^./.<sent>$
+[/iJcBz93-kg6A]
+[ieHebhbc0m5P#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^want/want<vblex><inf>/want<vblex><pres>/want<vblex><imp>$ ^a/*a$ ^translator/translator<n><sg>$^?./?.<sent>$
+[/ieHebhbc0m5P]
+[iuzMG9nUiKCJ#0] ^Where/*Where$ ^is/be<vbser><pres><p3><sg>$ ^the/*the$ ^bathroom/bathroom<n><sg>$^?./?.<sent>$
+[/iuzMG9nUiKCJ]
+[j34kzX_ZwxXR#0] ^Chios/*Chios$ – ^Pireas/*Pireas$ ^(/(<lpar>$^Athens/Athens<np><top><sg>$^)/)<rpar>$^./.<sent>$
+[/j34kzX_ZwxXR]
+[jA6cjltjgcBx#0] ^This/this<det><dem><sg>$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^is/be<vbser><pres><p3><sg>$ ^similar/similar<adj>$ ^to/to<pr>$ ^that/that<cnjsub>/that<det><dem><sg>$ ^of/*of$ ^all/all<adv>$ ^other/*other$ ^brands/*brands$ ^of/*of$ ^ready/ready<adj><sint>$^-/-<guio>$^made/make<vblex><past>/make<vblex><pp>$ ^formulas/formula<n><pl>$ ^for/for<pr>$ ^sale/sale<n><sg>$^./.<sent>$
+[/jA6cjltjgcBx]
+[jBFJD-7f8CC-#0] ^one/one<num><sg>$ ^day/day<n><sg>$^./.<sent>$
+[/jBFJD-7f8CC-]
+[jQeP1javnydO#0] ^My/*My$ ^heart/heart<n><sg>$ ^beats/beat<n><pl>/beat<vblex><pres><p3><sg>$ ^fast/fast<n><sg>/fast<adj><sint>$^./.<sent>$
+[/jQeP1javnydO]
+[jmJaOyEIEfRk#0] ^You/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^to/to<pr>$ ^wait/wait<n><sg>/wait<vblex><inf>/wait<vblex><pres>/wait<vblex><imp>$^./.<sent>$
+[/jmJaOyEIEfRk]
+[jv9PFY-S-Gqv#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^take/take<vblex><inf>/take<vblex><pres>/take<vblex><imp>$ ^a/*a$ ^shower/shower<n><sg>$^./.<sent>$
+[/jv9PFY-S-Gqv]
+[jvgVMUwjOqtM#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^scan/*scan$ ^a/*a$ ^document/document<n><sg>$^?./?.<sent>$
+[/jvgVMUwjOqtM]
+[k5NdZSdg7x4Q#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$'^t/*t$ ^drink/drink<n><sg>$ ^alcohol/alcohol<n><sg>$^./.<sent>$
+[/k5NdZSdg7x4Q]
+[k6DaOA0QjTp6#0] ^After/after<cnjadv>/after<pr>$ ^six/six<num><pl>$ ^months/month<n><pl>$^,/,<cm>$ ^he/*he$\/^she/*she$ ^should/*should$ ^also/also<adv>$ ^start/start<n><sg>$ ^to/to<pr>$ ^receive/*receive$ ^other/*other$ ^foods/food<n><pl>$^./.<sent>$
+[/k6DaOA0QjTp6]
+[k80CqVkntef_#0] ^Like/like<pr>/like<vblex><inf>/like<vblex><pres>/like<vblex><imp>$ ^all/all<adv>$ ^artificial/artificial<adj>$ ^formulas/formula<n><pl>$ ^this/this<det><dem><sg>$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$ ^does/do<vaux><pres><p3><sg>$ ^not/not<adv>$ ^contain/contain<vblex><inf>/contain<vblex><pres>/contain<vblex><imp>$ ^the/*the$ ^living/living<adj>/living<n><sg>/live<vblex><pprs>/live<vblex><subs>/live<vblex><ger>$ ^antibodies/*antibodies$ ^which/which<det><itg><sp>$ ^are/be<vbser><pres>$ ^in/in<pr>$ ^mother/mother<n><sg>$^’s/be<vbser><pres><p3><sg>/have<vbhaver><pres><p3><sg>$ ^milk/milk<n><sg>/milk<vblex><inf>/milk<vblex><pres>/milk<vblex><imp>$^./.<sent>$
+[/k80CqVkntef_]
+[k_aTscixQ_zT#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^was/be<vbser><past><p1><sg>/be<vbser><past><p3><sg>$ ^hit/hit<n><sg>/hit<vblex><inf>/hit<vblex><pres>/hit<vblex><past>/hit<vblex><pp>/hit<vblex><imp>$ ^by/by<pr>$ ^a/*a$ ^car/car<n><sg>$^./.<sent>$
+[/k_aTscixQ_zT]
+[kjgPiDma-wik#0] ^Chios/*Chios$ – ^Thessaloniki/*Thessaloniki$^./.<sent>$
+[/kjgPiDma-wik]
+[lH5JaLS9eZfT#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$^../..<sent>$
+[/lH5JaLS9eZfT]
+[lPS6W1Dkm4L8#0] ^This/this<det><dem><sg>$ ^is/be<vbser><pres><p3><sg>$ ^my/*my$ ^brother/brother<n><sg>$^./.<sent>$
+[/lPS6W1Dkm4L8]
+[lUVe2Yot133i#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^cannot/can<vbmod><pres>+not<adv>$ ^flex/*flex$ ^my/*my$ ^neck/neck<n><sg>$^./.<sent>$
+[/lUVe2Yot133i]
+[lekOFoFb5Koe#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^to/to<pr>$ ^go/go<vblex><inf>/go<vblex><pres>/go<vblex><imp>$ ^to/to<pr>$ ^the/*the$ ^hospital/hospital<n><sg>$^./.<sent>$
+[/lekOFoFb5Koe]
+[likOHXYwowvz#0] ^Cabins/*Cabins$ ^(/(<lpar>$^4/4<num>$^-/-<guio>$^bed/bed<n><sg>$ ^or/or<cnjcoo>$ ^2/2<num>$^-/-<guio>$^bed/bed<n><sg>$^)/)<rpar>$^:/:<sent>$ € ^61/61<num>$ ^-/-<guio>$ € ^81,5/81,5<num>$^./.<sent>$
+[/likOHXYwowvz]
+[ljJdDpvW9KTQ#0] ^INSTRUCTIONS/instruction<n><pl>$^./.<sent>$
+[/ljJdDpvW9KTQ]
+[ljZDDl39wxUQ#0] ^Chios/*Chios$ ^-/-<guio>$ ^Athens/Athens<np><top><sg>$^./.<sent>$
+[/ljZDDl39wxUQ]
+[mBS-OJtwT7hr#0] ^Depending/*Depending$ ^on/on<pr>$ ^the/*the$ ^circumstances/circumstance<n><pl>$ ^in/in<pr>$ ^the/*the$ ^country/country<n><sg>$ ^of/*of$ ^origin/origin<n><sg>$^,/,<cm>$ ^a/*a$ ^particular/particular<adj>$ ^social/social<adj>$ ^group/group<n><sg>$ ^might/*might$ ^include/include<vblex><inf>/include<vblex><pres>/include<vblex><imp>$ ^a/*a$ ^group/group<n><sg>$ ^based/*based$ ^on/on<pr>$ ^a/*a$ ^common/common<adj>$ ^characteristic/characteristic<n><sg>$ ^of/*of$ ^sexual/*sexual$ ^orientation/*orientation$^./.<sent>$ ^./.<sent>$
+[/mBS-OJtwT7hr]
+[mIMyvwEIK6GK#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^share/share<n><sg>$ ^information/information<n><sg>$ ^to/to<pr>$ ^UNHCR/*UNHCR$ ^Serbia/Serbia<np><top><sg>$^?./?.<sent>$
+[/mIMyvwEIK6GK]
+[mN2FxmEOmdla#0] ^Bus/bus<n><sg>$ ^stop/stop<vblex><inf>/stop<vblex><pres>/stop<vblex><imp>$^./.<sent>$
+[/mN2FxmEOmdla]
+[mQ5fNzccqyPs#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^might/*might$ ^be/be<vbser><inf>/be<vbser><imp>$ ^pregnant/pregnant<adj>$^./.<sent>$
+[/mQ5fNzccqyPs]
+[mR4IuQWwIaNI#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^board/board<n><sg>$ ^train/train<n><sg>$ ^if/*if$ ^your/*your$ ^family/family<n><sg>$ ^are/be<vbser><pres>$ ^missing/*missing$ ^documents/document<n><pl>$^./.<sent>$
+[/mR4IuQWwIaNI]
+[mSaC1UB3bhyc#0] ^Pour/*Pour$ ^the/*the$ ^contents/content<n><pl>$ ^into/*into$ ^a/*a$ ^clean/clean<adj><sint>$ ^cup/cup<n><sg>$^./.<sent>$
+[/mSaC1UB3bhyc]
+[m_bqK42sigaG#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^a/*a$ ^vegetarian/*vegetarian$^./.<sent>$
+[/m_bqK42sigaG]
+[nUNGqsmVbjbX#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^a/*a$ ^doctor/doctor<n><sg>$^?./?.<sent>$
+[/nUNGqsmVbjbX]
+[niwlKrSD_QtY#0] ^the/*the$ ^day/day<n><sg>$ ^after/after<cnjadv>/after<pr>$ ^tomorrow/tomorrow<adv>$^./.<sent>$
+[/niwlKrSD_QtY]
+[nrETNXgXORyI#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^schizophrenia/schizophrenia<n><sg>$^./.<sent>$
+[/nrETNXgXORyI]
+[nsoDRw2c8BJx#0] ^Can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^write/write<vblex><inf>/write<vblex><pres>/write<vblex><imp>$ ^your/*your$ ^number/number<n><sg>$ ^for/for<pr>$ ^your/*your$ ^family/family<n><sg>$^?./?.<sent>$
+[/nsoDRw2c8BJx]
+[o1Xh6o6vgbxF#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^had/have<vbhaver><past>$ ^a/*a$ ^myocardial/*myocardial$ ^infarction/*infarction$^./.<sent>$
+[/o1Xh6o6vgbxF]
+[ouGM2sNmHJEv#0] ^next/next<adj>$ ^week/week<n><sg>$^./.<sent>$
+[/ouGM2sNmHJEv]
+[p58sgdnFTEJb#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^try/try<vblex><inf>/try<vblex><pres>/try<vblex><imp>$ ^to/to<pr>$ ^do/do<vaux><inf>/do<vaux><pres>$ ^anything/*anything$ ^to/to<pr>$ ^stop/stop<vblex><inf>/stop<vblex><pres>/stop<vblex><imp>$ ^the/*the$ ^problems/problem<n><pl>$ ^that/that<cnjsub>/that<det><dem><sg>$ ^happened/happen<vblex><pp>/happen<vblex><past>$ ^to/to<pr>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^in/in<pr>$ ^your/*your$ ^country/country<n><sg>$ ^and/and<cnjcoo>$ ^what/what<prn><itg><mf><sp>$ ^happened/happen<vblex><pp>/happen<vblex><past>$^?./?.<sent>$
+[/p58sgdnFTEJb]
+[pYr5zl4p6OK0#0] ^Where/*Where$ ^is/be<vbser><pres><p3><sg>$ ^the/*the$ ^registration/registration<n><sg>$ ^centre/centre<n><sg>$^?./?.<sent>$
+[/pYr5zl4p6OK0]
+[pa_SlAzgFS3h#0] ^Dry/dry<adj><sint>/dry<vblex><inf>/dry<vblex><pres>/dry<vblex><imp>$ ^socks/sock<n><pl>$^./.<sent>$
+[/pa_SlAzgFS3h]
+[privFzKXVctd#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^feel/*feel$ ^comfortable/comfortable<adj>$ ^staying/stay<vblex><pprs>/stay<vblex><subs>/stay<vblex><ger>$ ^in/in<pr>$ ^this/this<det><dem><sg>$ ^tent/tent<n><sg>$ ^tonight/*tonight$^?./?.<sent>$
+[/privFzKXVctd]
+[q8CNsB0NqmH4#0] ^It/*It$ ^gets/*gets$ ^worse/bad<adj><sint><comp>$ ^when/when<cnjadv>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^stand/stand<n><sg>$ ^up/*up$^./.<sent>$
+[/q8CNsB0NqmH4]
+[q8LpX1W2JqJT#0] ^Bank/bank<n><sg>$^./.<sent>$
+[/q8LpX1W2JqJT]
+[q95_Box_nP5b#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^chronic/*chronic$ ^depression/depression<n><sg>$^./.<sent>$
+[/q95_Box_nP5b]
+[qBLu4ak9R-US#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^am/be<vbser><pres><p1><sg>$ ^bleeding/*bleeding$ ^between/between<pr>$ ^my/*my$ ^periods/period<n><pl>$^./.<sent>$
+[/qBLu4ak9R-US]
+[qN9DBNpHGnUm#0] ^Dates/date<n><pl>$ ^and/and<cnjcoo>$ ^Times/time<n><pl>$^:/:<sent>$ ^When/when<cnjadv>$ ^things/thing<n><pl>$ ^happened/happen<vblex><pp>/happen<vblex><past>$^./.<sent>$
+[/qN9DBNpHGnUm]
+[qc-pPSSzvnKm#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^cancer/cancer<n><sg>$^./.<sent>$
+[/qc-pPSSzvnKm]
+[qywqV2DLHcAc#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^cold/cold<n><sg>/cold<adj><sint>$^?./?.<sent>$
+[/qywqV2DLHcAc]
+[r3SgJCb-PG_z#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^feel/*feel$ ^sick/sick<adj><sint>$^./.<sent>$
+[/r3SgJCb-PG_z]
+[rruTPdItSDzt#0] ^My/*My$ ^child/child<n><sg>$ ^is/be<vbser><pres><p3><sg>$ ^sick/sick<adj><sint>$^./.<sent>$
+[/rruTPdItSDzt]
+[s7Q0OGfjZRnp#0] ^Bakery/bakery<n><sg>$^./.<sent>$
+[/s7Q0OGfjZRnp]
+[sE9p5E8lYera#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^from/from<pr>$^../..<sent>$
+[/sE9p5E8lYera]
+[sG9PR_bit8I6#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^feel/*feel$ ^comfortable/comfortable<adj>$ ^staying/stay<vblex><pprs>/stay<vblex><subs>/stay<vblex><ger>$ ^at/at<pr>$ ^this/this<det><dem><sg>$ ^site/*site$ ^tonight/*tonight$^?./?.<sent>$
+[/sG9PR_bit8I6]
+[sKnVg9c3wgPk#0] ^Children/child<n><pl>$^'s/be<vbser><pres><p3><sg>/have<vbhaver><pres><p3><sg>$ ^clothes/clothes<n><pl>$ ^and/and<cnjcoo>$ ^shoes/shoe<n><pl>$ ^are/be<vbser><pres>$ ^over/*over$ ^there/there<adv>$^./.<sent>$
+[/sKnVg9c3wgPk]
+[sLQZTqkxoSaB#0] ^Additional/*Additional$ ^Information/information<n><sg>$^./.<sent>$
+[/sLQZTqkxoSaB]
+[sL_HBGnjWZZ7#0] ^Did/do<vaux><past>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^try/try<vblex><inf>/try<vblex><pres>/try<vblex><imp>$ ^to/to<pr>$ ^get/*get$ ^help/help<n><sg>$ ^from/from<pr>$ ^your/*your$ ^government/government<n><sg>$^,/,<cm>$ ^the/*the$ ^police/police<n><pl>$ ^or/or<cnjcoo>$ ^anyone/*anyone$ ^else/*else$^?./?.<sent>$
+[/sL_HBGnjWZZ7]
+[sLlksDn39_4a#0] ^There/there<adv>$ ^is/be<vbser><pres><p3><sg>$ ^blood/blood<n><sg>$ ^in/in<pr>$ ^my/*my$ ^vomit/vomit<n><sg>$^./.<sent>$
+[/sLlksDn39_4a]
+[sZZeHNVO0Yoc#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^information/information<n><sg>$ ^on/on<pr>$ ^the/*the$ ^train/train<n><sg>$ ^arrival/arrival<n><sg>$ ^time/time<n><sg>$^?./?.<sent>$
+[/sZZeHNVO0Yoc]
+[swPpHGXZpQgb#0] ^Criteria/criterion<n><pl>$ ^for/for<pr>$ ^Refugee/refugee<n><sg>$ ^Status/status<n><sg>$^./.<sent>$
+[/swPpHGXZpQgb]
+[swWgW45NLNNE#0] ^Wash/wash<n><sg>/wash<vblex><inf>/wash<vblex><pres>/wash<vblex><imp>$ ^your/*your$ ^hands/hand<n><pl>$ ^with/with<pr>$ ^soap/soap<n><sg>$ ^and/and<cnjcoo>$ ^water/water<n><sg>$^./.<sent>$
+[/swWgW45NLNNE]
+[sykq2o7RJgdP#0] ^Please/*Please$ ^help/help<n><sg>$ ^me/prpers<prn><obj><p1><mf><sg>$^!./!.<sent>$
+[/sykq2o7RJgdP]
+[tDq6nE50lfHh#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^wet/wet<adj><sint>/wet<vblex><inf>/wet<vblex><pres>/wet<vblex><past>/wet<vblex><pp>/wet<vblex><imp>$^?./?.<sent>$
+[/tDq6nE50lfHh]
+[tRwyo2x1aaeM#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^not/not<adv>$ ^leave/leave<n><sg>/leave<vblex><inf>/leave<vblex><pres>/leave<vblex><imp>$ ^without/without<pr>$ ^your/*your$ ^documents/document<n><pl>$^./.<sent>$
+[/tRwyo2x1aaeM]
+[tUSD4dCLXWX0#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^last/last<adj>/last<adj><ord>$ ^had/have<vbhaver><past>$ ^sex/sex<n><sg>$ ^2/2<num>$ ^days/day<n><pl>$ ^ago/*ago$^./.<sent>$
+[/tUSD4dCLXWX0]
+[tqXFYeE_w6K0#0] ^Accomodation/*Accomodation$^./.<sent>$
+[/tqXFYeE_w6K0]
+[u0Ua6BswCLAS#0] ^Do/do<vaux><inf>/do<vaux><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^somewhere/*somewhere$ ^to/to<pr>$ ^stay/stay<n><sg>/stay<vblex><inf>/stay<vblex><pres>/stay<vblex><imp>$ ^tonight/*tonight$^?./?.<sent>$
+[/u0Ua6BswCLAS]
+[uJyrkR4T35Ue#0] ^How/how<adv>/how<adv><itg>$ ^long/long<adj><sint>$ ^do/do<vaux><inf>/do<vaux><pres>$ ^we/prpers<prn><subj><p1><mf><pl>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^to/to<pr>$ ^wait/wait<n><sg>/wait<vblex><inf>/wait<vblex><pres>/wait<vblex><imp>$ ^here/here<adv>$^?./?.<sent>$
+[/uJyrkR4T35Ue]
+[uV1Knjxoza8R#0] ^Keep/*Keep$ ^in/in<pr>$ ^a/*a$ ^cool/cool<adj><sint>/cool<vblex><inf>/cool<vblex><pres>/cool<vblex><imp>$^,/,<cm>$ ^dry/dry<adj><sint>/dry<vblex><inf>/dry<vblex><pres>/dry<vblex><imp>$ ^place/place<n><sg>/place<vblex><inf>/place<vblex><pres>/place<vblex><imp>$ ^with/with<pr>$ ^the/*the$ ^lid/lid<n><sg>$ ^tightly/*tightly$ ^closed/closed<adj>/close<vblex><past>/close<vblex><pp>$^./.<sent>$
+[/uV1Knjxoza8R]
+[v0T_7ao2WcxO#0] ^approved/approve<vblex><past>/approve<vblex><pp>$^./.<sent>$
+[/v0T_7ao2WcxO]
+[vRAgJar8tn00#0] ^When/when<cnjadv>$ ^do/do<vaux><inf>/do<vaux><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^to/to<pr>$ ^come/come<vblex><inf>/come<vblex><pres>/come<vblex><pp>/come<vblex><imp>$ ^back/back<adv>/back<n><sg>$^?./?.<sent>$
+[/vRAgJar8tn00]
+[vT2zB0x9TbS2#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^discharge/*discharge$ ^from/from<pr>$ ^my/*my$ ^urethra/*urethra$^./.<sent>$
+[/vT2zB0x9TbS2]
+[vTEJ_GYYoEJW#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^not/not<adv>$ ^had/have<vbhaver><past>$ ^sex/sex<n><sg>$ ^for/for<pr>$ ^a/*a$ ^long/long<adj><sint>$ ^time/time<n><sg>$^./.<sent>$
+[/vTEJ_GYYoEJW]
+[vVNk6UQNPTzX#0] ^I’m/prpers<prn><subj><p1><mf><sg>+be<vbser><pres><p1><sg>$ ^ill/*ill$^./.<sent>$
+[/vVNk6UQNPTzX]
+[veyPWlfreR4F#0] ^Where/*Where$ ^is/be<vbser><pres><p3><sg>$ ^room/room<n><sg>$ ^number/number<n><sg>$ ____^?./?.<sent>$
+[/veyPWlfreR4F]
+[vjfGyiJ0GmE4#0] ^Children/child<n><pl>$ ^Playground/playground<n><sg>$^./.<sent>$
+[/vjfGyiJ0GmE4]
+[w0AvVZIxpGhd#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^a/*a$ ^nosebleed/*nosebleed$^./.<sent>$
+[/w0AvVZIxpGhd]
+[x9ZR51bquijB#0] ^My/*My$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$ ^is/be<vbser><pres><p3><sg>$^../..<sent>$
+[/x9ZR51bquijB]
+[xNvLLACF_8eZ#0] ^my/*my$ ^wife/wife<n><sg>$^./.<sent>$
+[/xNvLLACF_8eZ]
+[xP8oBT2cOS_l#0] ^Are/be<vbser><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^planning/*planning$ ^to/to<pr>$ ^stay/stay<n><sg>/stay<vblex><inf>/stay<vblex><pres>/stay<vblex><imp>$ ^here/here<adv>$ ^in/in<pr>$ ^fYR/*fYR$ ^Macedonia/Macedonia<np><top><sg>$^?./?.<sent>$
+[/xP8oBT2cOS_l]
+[xQGPPCaC6Der#0] ^My/*My$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>/name<vblex><imp>$ ^is/be<vbser><pres><p3><sg>$ ^../..<sent>$
+[/xQGPPCaC6Der]
+[xbZhurUzUjTa#0] ^Dry/dry<adj><sint>/dry<vblex><inf>/dry<vblex><pres>/dry<vblex><imp>$ ^trousers/trousers<n><pl>$^./.<sent>$
+[/xbZhurUzUjTa]
+[xhCaNL883AHK#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^don/*don$’^t/*t$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^any/*any$ ^money/money<n><sg>$^./.<sent>$
+[/xhCaNL883AHK]
+[xtRcgly2jofo#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^need/need<n><sg>/need<vblex><inf>/need<vblex><pres>/need<vblex><imp>$ ^a/*a$ ^doctor/doctor<n><sg>$^./.<sent>$
+[/xtRcgly2jofo]
+[xwdDxFPXvv8Y#0] ^DO/do<vaux><inf>/do<vaux><pres>$ ^NOT/not<adv>$ ^Try/try<vblex><inf>/try<vblex><pres>/try<vblex><imp>$ ^to/to<pr>$ ^capture/capture<n><sg>/capture<vblex><inf>/capture<vblex><pres>/capture<vblex><imp>$ ^the/*the$ ^snake/snake<n><sg>$^./.<sent>$
+[/xwdDxFPXvv8Y]
+[xxyhlLaCyKUW#0] ^Where/*Where$ ^can/can<n><sg>/can<vbmod><inf>/can<vbmod><pres>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^find/find<vblex><inf>/find<vblex><pres>/find<vblex><imp>$____^?./?.<sent>$
+[/xxyhlLaCyKUW]
+[xy3z-ICzA-ww#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^fainted/*fainted$^./.<sent>$
+[/xy3z-ICzA-ww]
+[y54b7W-znoMp#0] ^DO/do<vaux><inf>/do<vaux><pres>$ ^NOT/not<adv>$ ^put/put<vblex><inf>/put<vblex><pres>/put<vblex><past>/put<vblex><pp>/put<vblex><imp>$ ^anything/*anything$ ^tight/tight<adj><sint>$ ^around/around<pr>$^,/,<cm>$ ^such/*such$ ^as/as<pr>$ ^a/*a$ ^tourniquet/*tourniquet$^./.<sent>$
+[/y54b7W-znoMp]
+[yFLW6ibjKC6u#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^been/be<vbser><pp>$ ^shaking/shake<vblex><pprs>/shake<vblex><subs>/shake<vblex><ger>$^./.<sent>$
+[/yFLW6ibjKC6u]
+[yL3vwQonxDfz#0] ^Based/*Based$ ^on/on<pr>$ ^one/one<num><sg>$ ^or/or<cnjcoo>$ ^more/more<adv>$ ^of/*of$ ^the/*the$ ^following/*following$ ^reasons/reason<n><pl>$^:./:.<sent>$
+[/yL3vwQonxDfz]
+[ysdN0270GpCZ#0] ^This/this<det><dem><sg>$ ^is/be<vbser><pres><p3><sg>$ ^my/*my$ ^sister/sister<n><sg>$^./.<sent>$
+[/ysdN0270GpCZ]
+[yvg4ts9SQgBe#0] ^Emergency/*Emergency$ ^Exit/*Exit$^./.<sent>$
+[/yvg4ts9SQgBe]
+[z-DhBK1e3M9D#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^heart/heart<n><sg>$ ^failure/*failure$^./.<sent>$
+[/z-DhBK1e3M9D]
+[zLf0J44P8in4#0] ^Come/come<vblex><inf>/come<vblex><pres>/come<vblex><pp>/come<vblex><imp>$ ^back/back<adv>/back<n><sg>$ ^to/to<pr>$ ^UNHCR/*UNHCR$ ^tent/tent<n><sg>$ ^(/(<lpar>$^morning/morning<n><sg>$^)/)<rpar>$^./.<sent>$
+[/zLf0J44P8in4]
+[zO-RIPfVewlx#0] ^You/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^have/have<vbhaver><inf>/have<vbhaver><pres>$ ^access/*access$ ^to/to<pr>$ ^clean/clean<adj><sint>$ ^cups/cup<n><pl>$^./.<sent>$
+[/zO-RIPfVewlx]
+[zdsTseZB0L6p#0] ^I/prpers<prn><subj><p1><mf><sg>$ ^fell/fall<vblex><past>$ ^down/*down$^./.<sent>$
+[/zdsTseZB0L6p]

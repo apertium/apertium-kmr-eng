@@ -341,7 +341,7 @@
       <program name="cg-proc -w">
         <file name="eng-kmr.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-kmr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>

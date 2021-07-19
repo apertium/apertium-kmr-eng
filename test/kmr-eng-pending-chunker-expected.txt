@@ -1,0 +1,710 @@
+[-JWhbqbnHltf#0] ^n<SN>{^the<det><def><sp>$ ^WATER<n><sg>$}$ ^v<SV><p3><sg>{^do<vaux><p3><sg>$ ^not<adv>$ ^PUT<vblex><inf>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^NAME<n><sg>$}$ ^default<default>{^THIS<det><dem><f><sg><obl><@det>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^product<n><sg>$ ^of<pr>$}$^sent<SENT>{^.<sent>$}$
+[/-JWhbqbnHltf]
+[-N4fMsENJYkh#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^Kurdish<adj>$}$ ^v<SV>{^speak<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/-N4fMsENJYkh]
+[-QfOhaX9x8Vg#0] ^default<default>{^To<pr><@case>$}$ ^default<default>{^5'<num>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^June<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^default<default>{^until<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^end<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^month<n><sg>$}$ ^ant<SN>{^Ramazan<np><ant><sg><@nmod:poss>$}$^default<default>{^,<cm><@punct>$}$ ^default<default>{^or<cnjcoo>$}$ ^default<default>{^at<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^day<n><sg>$}$ ^default<default>{^5'<num>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^June<n><sg>$}$ ^default<default>{^<@case>$}$^default<default>{^,<cm><@punct>$}$ ^n<SN>{^the<det><def><sp>$ ^breakfast<n><sg>$}$  ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*saet19$}$^sent<SENT>{^.<sent>$}$^default<default>{^00<num>$}$  ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^dinner<n><sg>$}$ ^default<default>{^<@case>$}$  ^unknown<unknown>{^*bête$}$ ^v<SV>{ ^present<vblex><past>$}$^default<default>{^,<cm><@punct>$}$ ^unknown<unknown>{^*belam$}$ ^n<SN>{^the<det><def><sp>$ ^lunch<n><sg>$}$  ^default<default>{^like<pr><@case>$}$ ^default<default>{^always<adv><@advmod>$}$ ^unknown<unknown>{^*bête$}$ ^v<SV>{ ^present<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/-QfOhaX9x8Vg]
+[-rSnFwLwogS0#0] ^det-nom<SN>{^My<det><pos><sp>$ ^bosom<n><sg>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/-rSnFwLwogS0]
+[0EUVXhg0uY-y#0] ^default<default>{^To<pr><@case>$}$ ^det-nom<SN>{^own<adj><@nmod:poss>$ ^benefit<n><sg>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^help<n><sg>$}$ ^default<default>{^make<vblex><fut><p3><sg>$}$^sent<SENT>{^!.<sent>$}$
+[/0EUVXhg0uY-y]
+[0I27wsB2W9Hl#0] ^default<default>{^At<pr><@case>$}$ ^unknown<unknown>{^*Bankaya$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^island<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*Cûmê$}$ ^default<default>{^<@case>$}$ ^unknown<unknown>{^*Pêkguhartina$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^money<n><sg>$ ^of<pr>$}$^sent<SENT>{^.<sent>$}$
+[/0I27wsB2W9Hl]
+[0JXANBDYAkAS#0] ^unknown<unknown>{^*HIŞDARIYA$}$ ^j<SA>{^IMPORTANT<adj>$}$^sent<SENT>{^:<sent>$}$^det-nom-of-nom<SN>{^the<det><def><sp>$ ^milk<n><sg>$ ^of<pr>$ ^mother<n><sg>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^food<n><sg>$ ^of<pr>$}$ ^default<default>{^go<vblex><prs><p2><sg>$}$ ^j<SA>{^fine<adj><sint>$}$ ^default<default>{^for<pr><@case>$}$ ^unknown<unknown>{^*qundax$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*savayê$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/0JXANBDYAkAS]
+[0UZF2fS1SgKT#0] ^pers<SN><@nmod:dat><p2><mf><sg>{^Prpers<prn><obj><p2><mf><sp>$}$ ^j<SA>{^many<adj>$}$ ^j<SA>{^cold<adj><sint>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/0UZF2fS1SgKT]
+[0VD_QaRJ8PEG#0] ^det-nom<SN>{^my<det><pos><sp>$ ^pain<n><sg>$ ^sickness<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^*bile<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0VD_QaRJ8PEG]
+[0nB-2wyZdhD9#0] ^unknown<unknown>{^*Derkirina$}$ ^default<default>{^by<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^side<n><sg>$}$  ^top<SN>{^Turkey<np><top><sg><@nmod:poss>$}$ ^sent<SENT>{^.<sent>$}$
+[/0nB-2wyZdhD9]
+[17EqARP61OY2#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^n<SN>{^the<det><def><sp>$ ^food<n><sg>$}$ ^j<SA>{^halal<adj>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$ ^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/17EqARP61OY2]
+[1C1Tzs4vGNpd#0] ^unknown<unknown>{^*Vebihên$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^tent<n><sg>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^(<lpar>$}$^default<default>{^some<det><qnt><sp><@det>$}$ ^p_d_n<SN>{^to<pr> $  ^hour<n><pl>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/1C1Tzs4vGNpd]
+[1JqmvjPvCBgP#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^name<n><sg>$ ^of<pr>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^meat<n><sg>$ ^of<pr>$}$ ^default<default>{^what<prn><itg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/1JqmvjPvCBgP]
+[1JsiQXLDwWbQ#0] ^unknown<unknown>{^*GUDILK$}$ ^cc<CC>{^And<cnjcoo>$}$ ^unknown<unknown>{^*FÎNCANÊN$}$ ^unknown<unknown>{^*NEPAQIJ$}$ ^v<SV>{^CAN<vbmod><pres>$}$ ^det-nom<SN>{^YOUR<det><pos><sp>$ ^CHILD<n><sg>$}$ ^j<SA>{^SICK<adj><sint>$}$ ^default<default>{^PUT<vblex><fut><p1><pl>$}$^sent<SENT>{^!.<sent>$}$
+[/1JsiQXLDwWbQ]
+[1U-Q3O_eJ_DX#0] ^unknown<unknown>{^*Nirxeke$}$ ^unknown<unknown>{^*bitexmînî$}$^sent<SENT>{^..<sent>$}$^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$\/^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/1U-Q3O_eJ_DX]
+[1aYyFFdoPcnX#0] ^sent<SENT>{^..<sent>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^unknown<unknown>{^*girîzokî$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/1aYyFFdoPcnX]
+[1h2m9wsrKmj2#0] ^p_d_n<SN>{^to<pr> $  ^Meat<n><sg>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^church<n><sg>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/1h2m9wsrKmj2]
+[1hPSclBaSyWs#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^want<vblex><pres>$}$ ^default<default>{^except for<pr><@case>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*wergêrekî$}$ ^n<SN>{^the<det><def><sp>$ ^road<n><pl>$}$ ^default<default>{^speak<vblex><prs><p3><pl>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/1hPSclBaSyWs]
+[1hadWSptbTr9#0] ^det-nom<SN>{^My<det><pos><sp>$ ^heart<n><sg>$}$ ^unknown<unknown>{^*dixelê$}$^sent<SENT>{^.<sent>$}$
+[/1hadWSptbTr9]
+[1jQD48UvnSzH#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp><@obj>$}$ ^v<SV>{^see<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/1jQD48UvnSzH]
+[2-6MDCwz0pYx#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^person<n><pl>$ ^of<pr>$}$ ^unknown<unknown>{^*extiyar$}$^sent<SENT>{^.<sent>$}$
+[/2-6MDCwz0pYx]
+[2BhyN9FbZjJb#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^pregnancy<n><sg>$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><obj><p1><mf><pl>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*xketime$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^clothing<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/2BhyN9FbZjJb]
+[2C-P_wZff1Vl#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp><@obj>$}$ ^v<SV>{^see<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/2C-P_wZff1Vl]
+[2HfdqALUXgfP#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^church<n><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^default<default>{^this<det><dem><f><sg><obl><@det>$}$ ^unknown<unknown>{^*reçeteyê$}$ ^j<SA>{^full<adj><sint>$}$ ^default<default>{^make<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/2HfdqALUXgfP]
+[2d16SoeH41eg#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^j<SA>{^sad<adj><sint>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/2d16SoeH41eg]
+[2xFFNwBlRspM#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^island<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*Cûmê$}$ ^default<default>{^-<guio>$}$ ^top<SN>{^Athens<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/2xFFNwBlRspM]
+[3-5LDX6ZJZT1#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*dirabim$}$ ^j-n-n<SN>{^evil<adj><comp><@amod>$ ^limb<n><sg>$ ^observation<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/3-5LDX6ZJZT1]
+[3LZ94vjSJSgY#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^nom-adj<SN>{^wounded<adj>$ ^knife<n><sg><@nmod>$}$ ^default<default>{^be<vbser><past><p1><sg><@cop>$}$^sent<SENT>{^.<sent>$}$
+[/3LZ94vjSJSgY]
+[3RkSZwBLnafI#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^plan<n><sg>$ ^of<pr>$ ^stay<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Macedonia<np><top><sg>$}$ ^v<SV>{^make<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/3RkSZwBLnafI]
+[3idjr7MdHT3e#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^unknown<unknown>{^*wergêrekî$}$ ^v<SV>{^want<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/3idjr7MdHT3e]
+[3oLxyCR_GTXc#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^Sickness<n><sg>$ ^of<pr>$ ^Boredom<n><sg>$}$ ^default<default>{^together# with<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/3oLxyCR_GTXc]
+[3safUaMEtg2K#0] ^det-nom<SN>{^My<det><pos><sp>$ ^allergy<n><sg>$}$ ^default<default>{^for<pr><@case>$}$^sent<SENT>{^..<sent>$}$^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/3safUaMEtg2K]
+[4Bhgqc4bAtjG#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^j<SA>{^dazed<adj>$}$ ^cop<SV><COP><p2><sg>{^be<vbser><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/4Bhgqc4bAtjG]
+[4H-7rpTLlHMq#0] ^pers<SN><p2><mf><pl>{^Prpers<prn><obj><p2><mf><sp>$}$ ^unknown<unknown>{^*bihayê$}$ ^default<default>{^that<cnjsub>$}$ ^v<SV>{ ^come<vblex><past>$}$ ^unknown<unknown>{^*kivşkirî$}$ ^j<SA>{^many<adj><comp>$}$ ^v<SV>{ ^give<vblex><past>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/4H-7rpTLlHMq]
+[4JNQdu2yxhqy#0] ^pers<SN><@nsubj><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{ ^attempt<vblex><past>$}$ ^default<default>{^go<vblex><prs><p3><pl>$}$ ^unknown<unknown>{^*dereka$}$ ^j<SA>{^other<adj>$}$  ^det-nom<SN>{^your<det><pos><sp>$ ^country<n><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^default<default>{^to<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^question<n><pl>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^far<adj><sint>$}$ ^n<SN>{^the<det><def><sp>$ ^bottom<n><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/4JNQdu2yxhqy]
+[4nhAh2fJ6G0t#0] ^default<default>{^To<pr><@case>$}$ ^unknown<unknown>{^*Rojbûnê$}$ ^unknown<unknown>{^*va$}$ ^unknown<unknown>{^*Minasib$}$^sent<SENT>{^.<sent>$}$
+[/4nhAh2fJ6G0t]
+[573xOV5hctsf#0] ^default<default>{^Need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*razim$}$^sent<SENT>{^.<sent>$}$
+[/573xOV5hctsf]
+[5HuVnnOXXxfG#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^thing<n><pl>$ ^of<pr>$}$ ^default<default>{^like<pr><@case>$}$ ^nom-adj<SN>{^narrow<adj><sint>$ ^scale<n><sg><@nmod>$}$ ^unknown<unknown>{^*daneyînin$}$^sent<SENT>{^.<sent>$}$
+[/5HuVnnOXXxfG]
+[5Ig0qyUjoFJs#0] ^default<default>{^When<cnjadv>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^urine<n><sg>$}$ ^v<SV>{^make<vblex><pres>$}$^default<default>{^,<cm><@punct>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^pain<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5Ig0qyUjoFJs]
+[5KYNFxBMMVSg#0] ^default<default>{^What<prn><itg>$}$ ^v<SV>{ ^heal<vblex><past>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/5KYNFxBMMVSg]
+[5M2BMi6thzxl#0] ^n<SN>{^the<det><def><sp>$ ^Airport<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5M2BMi6thzxl]
+[5ONq_Ne48Xqk#0] ^det-nom<SN>{^my<det><pos><sp>$ ^schizophrenia<n><sg>$ ^sickness<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5ONq_Ne48Xqk]
+[5SSuYy9JubNL#0] ^default<default>{^Need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^go<vblex><prs><p1><sg>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^hospital<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5SSuYy9JubNL]
+[5TGjJcwoxYGr#0] ^default<default>{^To<pr><@case>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^vagina<n><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^water<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5TGjJcwoxYGr]
+[5VbDsW6or8fi#0] ^pers<SN><@nsubj><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^to<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^document<n><pl>$}$ ^default<default>{^own<adj>$}$  ^unknown<unknown>{^*Yûnanistanê$}$ ^default<default>{^at<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^telephone<n><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^picture<n><sg>$}$ ^v<SV>{ ^take<vblex><past>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/5VbDsW6or8fi]
+[5aQVzDsLf-EB#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^emotion<n><sg>$}$ ^v<SV>{^make<vblex><pres>$}$ ^default<default>{^that<cnjsub>$}$ ^unknown<unknown>{^*tême$}$ ^unknown<unknown>{^*şopandin$}$^sent<SENT>{^.<sent>$}$
+[/5aQVzDsLf-EB]
+[5j19OieqEy6S#0] ^unknown<unknown>{^*Insulin$}$ ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^necessity<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/5j19OieqEy6S]
+[5pqUNhWDQQEv#0] ^unknown<unknown>{^*Savayê$}$ ^default<default>{^own<adj>$}$ ^j<SA>{^close<adj><con>$}$ ^default<default>{^own<adj><@nmod:poss>$}$ ^default<default>{^take<vblex><prs><p3><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^default<default>{^leave<vblex><prs><p3><sg>$}$ ^pers<SN><p3><mf><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^j<SA>{^slow<adj>$}$ ^j<SA>{^slow<adj>$}$ ^unknown<unknown>{^*vexwe$}$^sent<SENT>{^.<sent>$}$
+[/5pqUNhWDQQEv]
+[6VII-25F1OcF#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^plan<n><sg>$}$ ^v<SV>{^make<vblex><pres>$}$ ^unknown<unknown>{^*dawaza$}$ ^unknown<unknown>{^*penabertiyê$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Macedonia<np><top><sg>$}$ ^default<default>{^make<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/6VII-25F1OcF]
+[6XR8Mz0XA3LS#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^information<n><pl>$}$ ^default<default>{^at<pr><@case>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^colleague<n><pl>$}$ ^default<default>{^<@case>$}$ ^default<default>{^by<pr><@case>$}$ ^unknown<unknown>{^*rawestgeha$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^train<n><sg>$}$  ^unknown<unknown>{^*bêt$}$ ^default<default>{^break<vblex><prs><p1><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^unknown<unknown>{^*bikaribin$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^there<adv><@advmod>$}$ ^n<SN>{^the<det><def><sp>$ ^help<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^presentation<n><sg>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^make<vblex><fut><p1><pl>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/6XR8Mz0XA3LS]
+[6bgEAMGpyjjC#0] ^j<SA>{^Hot<adj>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^body<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/6bgEAMGpyjjC]
+[77ox0kcicpPo#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^pregnancy<n><sg>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/77ox0kcicpPo]
+[7N-4Al4tZIIh#0] ^unknown<unknown>{^*Sipas$}$^sent<SENT>{^.<sent>$}$
+[/7N-4Al4tZIIh]
+[7af5d31I8UQN#0] ^unknown<unknown>{^*Têlefon$}$ ^default<default>{^make<vblex><prs><p3><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^insult<n><sg>$}$ ^default<default>{^give<vblex><fut><p3><sg>$}$ ^unknown<unknown>{^*XXX$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$ ^ripening<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/7af5d31I8UQN]
+[7jSaE03TDSew#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^sent<SENT>{^..<sent>$}$^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/7jSaE03TDSew]
+[7jnRnYL0wfBm#0] ^sent<SENT>{^..<sent>$}$^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^n<SN>{^the<det><def><sp>$ ^church<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/7jnRnYL0wfBm]
+[7zioix2wudoA#0] ^det-nom<SN>{^My<det><pos><sp>$ ^name<n><sg>$}$ ^sent<SENT>{^..<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/7zioix2wudoA]
+[8Cs-MlJuWXo6#0] ^unknown<unknown>{^*Pitika$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8Cs-MlJuWXo6]
+[8EigaSBP_IXn#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*vejeteryanekî$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/8EigaSBP_IXn]
+[8u8MKSn3cfjK#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Police<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^<@case>$}$ ^v<SV>{ ^say<vblex><past>$}$ ^default<default>{^that<cnjsub>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^rider<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^bus<n><sg>$}$ ^default<default>{^be<vbser><prs><p3><pl><@cop>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/8u8MKSn3cfjK]
+[8x88hBtgUF_h#0] ^unknown<unknown>{^*Ciqasî$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^unknown<unknown>{^*mecburin$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^default<default>{^stay<vblex><fut><prs><p1><pl>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/8x88hBtgUF_h]
+[95MWhqpn8tQs#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*bêhiş$}$ ^v<SV>{ ^fall<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/95MWhqpn8tQs]
+[9MzyXOGuI4EQ#0] ^p_d_n<SN>{ ^a<det><ind><sg>$ ^Time<n><sg>$}$ ^j<SA>{^long<adj><sint><con>$}$ ^pers<SN><@nmod:poss><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^unknown<unknown>{^*seks$}$ ^v<SV><p2><sg>{^do<vaux>$ ^not<adv>$ ^make<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/9MzyXOGuI4EQ]
+[9Zl28uz_UCyp#0] ^n<SN>{^the<det><def><sp>$ ^Wound<n><sg>$}$ ^unknown<unknown>{^*NEBIRRIN$}$^default<default>{^,<cm><@punct>$}$ ^default<default>{^attempt<vblex><prs><p3><pl>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^poison<n><sg>$ ^of<pr>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^raise<vblex><prs><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/9Zl28uz_UCyp]
+[9ahPtRlUeObn#0] ^n<SN>{^a<det><ind><sg>$ ^Ambulance<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^j<SA>{^necessary<adj>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/9ahPtRlUeObn]
+[9dwT602I9uFO#0] ^default<default>{^by<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^pile<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^clod<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^English<n><sg>$}$ ^v<SV>{^speak<vblex><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/9dwT602I9uFO]
+[9ucEIw8saNNe#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^meat<n><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^family<n><sg>$}$ ^default<default>{^write<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/9ucEIw8saNNe]
+[9vhwQpiIqoH6#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^*fore<n><sg>$ ^of<pr>$}$  ^j<SA>{^such a<det>$}$ ^unknown<unknown>{^*êşîya$}$ ^default<default>{^be<vbser><past><p3><sg><@cop>$}$^sent<SENT>{^.<sent>$}$
+[/9vhwQpiIqoH6]
+[9xmgKskUXwF5#0] ^unknown<unknown>{^*Vîrûsê$}$ ^unknown<unknown>{^*AIDSê$}$  ^pers<SN><@nmod:poss><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/9xmgKskUXwF5]
+[A33CpYuDnxjf#0] ^det-nom<SN>{^My<det><pos><sp>$ ^smell<n><sg>$}$ ^unknown<unknown>{^*diçike$}$^sent<SENT>{^.<sent>$}$
+[/A33CpYuDnxjf]
+[ABNhtTTkRwLm#0] ^default<default>{^After<cnjadv>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><subj><p2><mf><sp>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^use<n><sg>$ ^of<pr>$}$ ^default<default>{^this<det><dem><m><sg><obl><@det>$}$ ^p_d_n<SN>{  ^milk<n><sg>$}$ ^default<default>{^begin<vblex><prs><p2><sg>$}$^default<default>{^,<cm><@punct>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$ ^default<default>{^that<cnjsub>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^beginning<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*mêjandinê$}$ ^default<default>{^to<pr><@case>$}$ ^j<SA>{^new<adj><sint>$}$ ^default<default>{^to<pr><@case>$}$ ^default<default>{^not<adv>$}$ ^j<SA>{^easy<adj><sint>$}$ ^default<default>{^be<vbser><prs><p3><sg><@cop>$}$^sent<SENT>{^.<sent>$}$
+[/ABNhtTTkRwLm]
+[ATerPF82DlmT#0] ^n<SN>{^the<det><def><sp>$ ^Room<n><sg>$}$ ^default<default>{^(<lpar>$}$^default<default>{^at<pr><@case>$}$ ^default<default>{^4<num>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^bed<n><pl>$}$ ^cc<CC>{^or<cnjcoo>$}$ ^default<default>{^at<pr><@case>$}$ ^default<default>{^2<num>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^bed<n><pl>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^:<sent>$}$  € ^default<default>{^61<num>$}$ ^default<default>{^-<guio>$}$ € ^default<default>{^81,5<num>$}$^sent<SENT>{^.<sent>$}$
+[/ATerPF82DlmT]
+[A_P1LtaP3Amn#0] ^default<default>{^To<pr><@case>$}$ ^det-nom<SN>{^own<adj><@nmod:poss>$ ^benefit<n><sg>$}$ ^default<default>{^<@case>$}$\/ ^n<SN>{^the<det><def><sp>$ ^Benefit<n><sg>$}$ ^default<default>{^make<vblex><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/A_P1LtaP3Amn]
+[Af40s4bjodCN#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^playground<n><sg>$ ^of<pr>$ ^child<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/Af40s4bjodCN]
+[Ala6q_ZC3IT5#0] ^det-nom<SN>{^My<det><pos><sp>$ ^head<n><sg>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Ala6q_ZC3IT5]
+[AtddSa-WGuBy#0] ^default<default>{^by<pr><@case>$}$ ^default<default>{^this<det><dem><f><sg><obl><@det>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^tent<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^p_d_n<SN>{  ^tent<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^stay<n><sg>$}$ ^default<default>{^own<adj>$}$ ^unknown<unknown>{^*rihet$}$ ^n<SN>{^the<det><def><sp>$ ^emotion<n><pl>$}$ ^v<SV>{^make<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/AtddSa-WGuBy]
+[B2dGWBlRGj6e#0] ^v<SV>{ ^accept<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/B2dGWBlRGj6e]
+[BT72m3ZCMVo8#0] ^unknown<unknown>{^*Kansera$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$  ^p_d_n<SN>{ ^the<det><def><sp>$ ^blood<n><sg>$}$ ^default<default>{^(<lpar>$}$^unknown<unknown>{^*leukaemî$}$^default<default>{^)<rpar>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/BT72m3ZCMVo8]
+[Bb2-ctI8tiow#0] ^pers<SN><p3><mf><sg>{^Prpers<prn><subj><p3><m><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^Kurdish<adj>$}$ ^v<SV>{^speak<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Bb2-ctI8tiow]
+[Bjnga5oXTb-U#0] ^n<SN>{^the<det><def><sp>$ ^Pain<n><sg>$}$ ^default<default>{^every<det><ind><mf><sg><@det>$}$ ^n<SN>{^the<det><def><sp>$ ^desire<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Bjnga5oXTb-U]
+[ByTWkgu_pOzt#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Bolero<n><pl>$}$ ^unknown<unknown>{^*siwa$}$ ^default<default>{^make<vblex><prs><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/ByTWkgu_pOzt]
+[C3Dys26AjmwQ#0] ^default<default>{^By<pr><@case>$}$ ^j<SA>{^connected<adj>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^condition<n><pl>$ ^of<pr>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^country<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*jêderk$}$^default<default>{^,<cm><@punct>$}$ ^unknown<unknown>{^*komekî$}$ ^j<SA>{^social<adj>$}$  ^p_d_n<SN>{ ^the<det><def><sp>$ ^up<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$ ^default<default>{^that<cnjsub>$}$ ^unknown<unknown>{^*komekî$}$ ^default<default>{^about<pr><@case>$}$ ^unknown<unknown>{^*gewşinekî$}$ ^j<SA>{^general<adj>$}$  ^unknown<unknown>{^*şayandina$}$ ^p_d_n<SN>{  ^gender<n><sg>$}$ ^default<default>{^<@case>$}$ ^unknown<unknown>{^*binyatkirî$}$  ^unknown<unknown>{^*vedihewîne$}$^sent<SENT>{^.<sent>$}$
+[/C3Dys26AjmwQ]
+[CJml0IzY5c4t#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^telephone<n><sg>$}$ ^cc<CC>{^or<cnjcoo>$}$ ^unknown<unknown>{^*vaybêra$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^mind<n><sg>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^person<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*windabûyî$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/CJml0IzY5c4t]
+[Cjd84AAZy3UF#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^island<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*Cûmê$}$ ^default<default>{^-<guio>$}$ ^unknown<unknown>{^*Kawala$}$^sent<SENT>{^.<sent>$}$
+[/Cjd84AAZy3UF]
+[Cvp-LT24bRzM#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^sent<SENT>{^..<sent>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/Cvp-LT24bRzM]
+[D5iBtjeTbXi2#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^default<default>{^own<adj>$}$ ^v<SV>{ ^give<vblex><past>$}$ ^default<default>{^fall<vblex><pp>$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><obj><p1><mf><pl>$}$^sent<SENT>{^.<sent>$}$
+[/D5iBtjeTbXi2]
+[DAbJFQmfgu77#0] ^default<default>{^To<pr><@case>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^back<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^blood<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/DAbJFQmfgu77]
+[DmL3ztQjWqh-#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^information<n><pl>$}$ ^default<default>{^at<pr><@case>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^colleague<n><pl>$}$ ^default<default>{^<@case>$}$ ^default<default>{^by<pr><@case>$}$ ^unknown<unknown>{^*Sirbistanê$}$ ^default<default>{^break<vblex><prs><p1><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^unknown<unknown>{^*bikaribin$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^there<adv><@advmod>$}$ ^n<SN>{^the<det><def><sp>$ ^help<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^presentation<n><sg>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^make<vblex><fut><p1><pl>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/DmL3ztQjWqh-]
+[Dnk9eehkc3Vm#0] ^unknown<unknown>{^*Civan$}$ ^n<SN>{^the<det><def><sp>$ ^necessity<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/Dnk9eehkc3Vm]
+[DoOhRWuMZLrH#0] ^default<default>{^At<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^name<n><sg>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^urine<n><sg>$}$ ^default<default>{^<@case>$}$ ^n<SN>{^the<det><def><sp>$ ^blood<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/DoOhRWuMZLrH]
+[DsOxwcKJPgUQ#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*îshalî$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*vîjikî$}$ ^unknown<unknown>{^*bûme$}$^sent<SENT>{^.<sent>$}$
+[/DsOxwcKJPgUQ]
+[E1Ksq4WszoBm#0] ^n<SN>{^the<det><def><sp>$ ^church<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/E1Ksq4WszoBm]
+[E2SpJP0uEscO#0] ^unknown<unknown>{^*Têlefona$}$ ^default<default>{^own<adj>$}$ ^default<default>{^at<pr><@case>$}$ ^nom-adj<SN>{^notable<adj>$ ^tent<n><pl><@nmod>$}$ ^cc<CC>{^or<cnjcoo>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^centre<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*ICT$}$' ^default<default>{^<@case>$}$ ^unknown<unknown>{^*şarj$}$ ^default<default>{^make<vblex><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/E2SpJP0uEscO]
+[E7j2R5MCT3_y#0] ^n<SN>{^the<det><def><sp>$ ^Milk<n><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^light<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^bush<n><sg>$}$ ^pers<SN><p3><m><sg>{^prpers<prn><obj><p3><m><sg>$}$\/^default<default>{^that<det><dem><f><sg><obl><@det>$}$^sent<SENT>{^.<sent>$}$ ^default<default>{^Leave<vblex><prs><p3><sg>$}$ ^unknown<unknown>{^*sava$}$ ^unknown<unknown>{^*vexwe$}$ ^default<default>{^as<pr><@case>$}$ ^pers<SN><p3><mf><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^default<default>{^need<vblex><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/E7j2R5MCT3_y]
+[E9dpynoXGtiL#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^telephone<n><sg>$}$ ^cc<CC>{^or<cnjcoo>$}$ ^unknown<unknown>{^*vaybêra$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^person<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*windabûyî$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^mind<n><sg>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^shame<n><sg>$ ^of<pr>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/E9dpynoXGtiL]
+[ELTNo59AojhE#0] ^default<default>{^Come<vblex><imp><p3><pl>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$^sent<SENT>{^!.<sent>$}$
+[/ELTNo59AojhE]
+[ELaDbI-RNHgN#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^throat<n><sg>$ ^of<pr>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^child<n><sg>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ELaDbI-RNHgN]
+[EO2hCV6hugYo#0] ^n<SN>{^the<det><def><sp>$ ^Criterion<n><sg>$}$ ^default<default>{^For<pr><@case>$}$ ^nom-adj<SN>{^Second<adj>$ ^Protection<n><sg><@nmod>$}$^sent<SENT>{^.<sent>$}$
+[/EO2hCV6hugYo]
+[FOEGm-pLbbKo#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Police<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^<@case>$}$ ^v<SV>{ ^say<vblex><past>$}$ ^default<default>{^that<cnjsub>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^rider<n><sg>$}$ ^unknown<unknown>{^*teksiyê$}$ ^default<default>{^be<vbser><prs><p3><pl><@cop>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/FOEGm-pLbbKo]
+[FtFH5-eFVQMU#0] ^n<SN>{^the<det><def><sp>$ ^Content<n><sg>$}$ ^unknown<unknown>{^*roke$}$ ^unknown<unknown>{^*fîncaneke$}$ ^j<SA>{^clean<adj>$}$^sent<SENT>{^.<sent>$}$
+[/FtFH5-eFVQMU]
+[FwTJNFIBxh4p#0] ^n<SN>{^the<det><def><sp>$ ^Emotion<n><sg>$}$ ^v<SV>{^make<vblex><pres>$}$ ^j<SA>{^sick<adj><sint>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/FwTJNFIBxh4p]
+[G5iaYtdi_dI8#0] ^unknown<unknown>{^*Penabertî$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Greece<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/G5iaYtdi_dI8]
+[GZdbOfkJs3s8#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^unknown<unknown>{^*şîra$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^sack<n><sg>$}$ ^default<default>{^every<det><ind><mf><sg><@det>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^necessity<n><pl>$}$ ^unknown<unknown>{^*savayî$}$ ^default<default>{^until<pr><@case>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^life<n><sg>$ ^of<pr>$}$ ^default<default>{^(<lpar>$}$^default<default>{^6<num>$}$^default<default>{^)<rpar>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^month<n><pl>$}$ ^v<SV>{^make<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/GZdbOfkJs3s8]
+[GdOd9QqU04yy#0] ^n<SN>{^the<det><def><sp>$ ^Criterion<n><sg>$}$ ^default<default>{^For<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^State<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^Refugee<n><pl>$}$ ^sent<SENT>{^.<sent>$}$
+[/GdOd9QqU04yy]
+[GeoFr9RY68BP#0] ^default<default>{^This<det><dem><m><sg><obl><@det>$}$ ^p_d_n<SN>{  ^milk<n><sg>$}$ ^default<default>{^use<vblex><prs><p3><pl>$}$^default<default>{^,<cm><@punct>$}$ ^default<default>{^only<adv><@advmod>$}$ ^default<default>{^if<cnjadv>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/GeoFr9RY68BP]
+[GiPhBispL79-#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^j<SA>{^wet<adj>$}$ ^cop<SV><COP><p2><sg>{^be<vbser><pres>$}$^sent<SENT>{^?<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/GiPhBispL79-]
+[Gis8EEnG-m32#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Police<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^<@case>$}$ ^v<SV>{ ^say<vblex><past>$}$ ^default<default>{^that<cnjsub>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^rider<n><sg>$}$ ^unknown<unknown>{^*hevkûşê$}$ ^default<default>{^be<vbser><prs><p3><pl><@cop>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/Gis8EEnG-m32]
+[HA2b8a6vNC5f#0] ^unknown<unknown>{^*Dexalet$}$ ^default<default>{^by<pr><@case>$}$ ^unknown<unknown>{^*Yonanistanê$}$^sent<SENT>{^.<sent>$}$
+[/HA2b8a6vNC5f]
+[HComollwLg_3#0] ^n<SN>{^the<det><def><sp>$ ^Blood<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^nose<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/HComollwLg_3]
+[Hmzv5VU63SsA#0] ^det-nom<SN>{^My<det><pos><sp>$ ^heart<n><sg>$}$ ^unknown<unknown>{^*bêaheng$}$ ^v<SV>{^beat<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Hmzv5VU63SsA]
+[HolK6woJ9NW2#0] ^pers<SN><p3><mf><sg>{^Prpers<prn><subj><p3><m><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^Kurdish<adj>$}$ ^v<SV>{^speak<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/HolK6woJ9NW2]
+[HpBScf7qUra6#0] ^pers<SN><@nmod:dat><p2><mf><sg>{^Prpers<prn><obj><p2><mf><sp>$}$ ^j<SA>{^cold<adj><sint>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/HpBScf7qUra6]
+[HwbMZ664Rnqi#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^child<n><pl>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/HwbMZ664Rnqi]
+[I-XseY_xRh53#0] ^det-nom<SN>{^My<det><pos><sp>$ ^allergy<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/I-XseY_xRh53]
+[I-jd4wi3Hc_V#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^want<vblex><pres>$}$ ^unknown<unknown>{^*îşev$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^centre<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^child<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^family<n><pl>$}$ ^default<default>{^stay<vblex><prs><p3><pl>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/I-jd4wi3Hc_V]
+[I-vWFVkJPpBf#0] ^nom-adj<SN>{^sharp<adj><sint>$ ^Pain<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/I-vWFVkJPpBf]
+[IY0jffcRXEGv#0] ^cop<SV><COP><p3><sg>{^Be<vbser><pres><3><4>$}$ ^default<default>{^that<cnjsub>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^pregnancy<n><sg>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/IY0jffcRXEGv]
+[IooPN_hTfRoN#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^document<n><pl>$}$ ^j<SA>{^other<adj>$}$ ^v<SV>{^have<vbhaver><pres>$}$ ^default<default>{^that<cnjsub>$}$ ^unknown<unknown>{^*hemwelatîbûna$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^sign<n><sg>$}$ ^default<default>{^give<vblex><prs><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/IooPN_hTfRoN]
+[It9TQ1byFIXG#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^j<SA>{^sick<adj><sint>$}$ ^unknown<unknown>{^*bûme$}$^sent<SENT>{^.<sent>$}$
+[/It9TQ1byFIXG]
+[J6fg-mBluODU#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^name<n><sg>$ ^of<pr>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^meat<n><sg>$ ^of<pr>$}$ ^default<default>{^for<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^family<n><sg>$}$ ^default<default>{^write<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/J6fg-mBluODU]
+[J9F1-9uZ1SdX#0] ^default<default>{^At<pr><@case>$}$ ^default<default>{^between<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^falling<n><sg>$}$ ^unknown<unknown>{^*bênimêjiyên$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^default<default>{^<@case>$}$ ^n<SN>{^the<det><def><sp>$ ^blood<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/J9F1-9uZ1SdX]
+[JABYn8J7Bj8J#0] ^pers<SN><p2><mf><pl>{^Prpers<prn><subj><p2><mf><sp>$}$ ^j<SA>{^all<adj>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^custom<n><pl>$}$ ^v<SV>{^understand<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/JABYn8J7Bj8J]
+[JFGiEvPNBDMH#0] ^n<SN>{^the<det><def><sp>$ ^Clothing<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^shoe<n><pl>$ ^of<pr>$ ^child<n><pl>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^there<adv><@advmod>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/JFGiEvPNBDMH]
+[J_l_WQ-KxPNN#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^*upperpart<n><sg>$}$ ^v<SV>{ ^fall<vblex><past>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^earth<n><sg>$}$^sent<SENT>{^.<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/J_l_WQ-KxPNN]
+[Jg9rP1NbPuvT#0] ^pers<SN><p2><mf><pl>{^Prpers<prn><subj><p2><mf><sp>$}$ ^j<SA>{^all<adj>$}$ ^j<SA>{^fine<adj><sint>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^?<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/Jg9rP1NbPuvT]
+[JiA4qAmUPYBo#0] ^n<SN>{^the<det><def><sp>$ ^Bathroom<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^n<SN>{^the<det><def><sp>$ ^church<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/JiA4qAmUPYBo]
+[Jm0ZZN25DURF#0] ^default<default>{^Go<vblex><fut><p2><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^end<n><sg>$}$ ^default<default>{^two<num><pl><nom><def>$}$ ^n<SN>{^the<det><def><sp>$ ^day<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^shovel<n><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^unknown<unknown>{^*seks$}$ ^v<SV>{ ^make<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/Jm0ZZN25DURF]
+[JnVVi6ZIWAKe#0] ^j<SA>{^Hot<adj><con>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/JnVVi6ZIWAKe]
+[JvunQtdcxlPr#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^plan<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^reference<n><sg>$}$ ^unknown<unknown>{^*penabertiyê$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Macedonia<np><top><sg>$}$ ^v<SV>{^make<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/JvunQtdcxlPr]
+[K5-5F5xGn1b3#0] ^n<SN>{^the<det><def><sp>$ ^Criterion<n><sg>$}$ ^default<default>{^For<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^Order<n><sg>$}$ ^unknown<unknown>{^*Warnişîna$}$ ^unknown<unknown>{^*Mirovayî$}$^sent<SENT>{^.<sent>$}$
+[/K5-5F5xGn1b3]
+[KPnenTEYDjDs#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^plan<n><sg>$}$ ^v<SV>{^make<vblex><pres>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Macedonia<np><top><sg>$}$ ^default<default>{^stay<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/KPnenTEYDjDs]
+[KaR3j32C_M32#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^clothing<n><pl>$ ^of<pr>$}$ ^default<default>{^(<lpar>$}$^default<default>{^only<adv><@advmod>$}$ ^default<default>{^for<pr><@case>$}$ ^nom-adj<SN>{^wet<adj>$ ^man<n><pl><@nmod>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/KaR3j32C_M32]
+[KglbHyf4n-hJ#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^every<det><ind><mf><sg><@det>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^thing<n><sg>$ ^of<pr>$}$ ^default<default>{^that<cnjsub>$}$ ^v<SV>{^eat<vblex><pres>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*vedixim$}$ ^unknown<unknown>{^*vedireşim$}$^sent<SENT>{^.<sent>$}$
+[/KglbHyf4n-hJ]
+[KrvTnSAAbtwM#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*fotokopîkirina$}$ ^p_d_n<SN>{^to<pr> $ ^a<det><ind><sg>$ ^document<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/KrvTnSAAbtwM]
+[L79Vyu92UkKT#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^name<n><sg>$}$ ^default<default>{^write<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/L79Vyu92UkKT]
+[LB0rzzoF9mNg#0] ^n<SN>{^the<det><def><sp>$ ^Pain<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^v<SV>{^go<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/LB0rzzoF9mNg]
+[LH1mEUbEga5Y#0] ^default<default>{^By<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^interior<n><sg>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^cigarette<n><sg>$ ^of<pr>$}$ ^v<SV><p3><pl>{^do<vaux>$ ^not<adv>$ ^pull<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/LH1mEUbEga5Y]
+[LVeljzdt_ei4#0] ^default<default>{^By<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^church<n><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ _____ ^default<default>{^buy<vblex><fut><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/LVeljzdt_ei4]
+[L_pCJGccYDNU#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*direlim$}$^sent<SENT>{^.<sent>$}$
+[/L_pCJGccYDNU]
+[LbgdCs22XLE4#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^information<n><pl>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*UNHCR$}$' ^unknown<unknown>{^*Sirbistanê$}$ ^default<default>{^<@case>$}$ ^default<default>{^break<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/LbgdCs22XLE4]
+[LmfSAIXUh-DJ#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^year<n><pl>$}$ ^default<default>{^this<det><dem><mf><pl><obl><@det>$}$ ^p_d_n<SN>{  ^medication<n><pl>$}$ ^v<SV>{^eat<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/LmfSAIXUh-DJ]
+[LnEAMBOwwfxB#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^default<default>{^<@case>$}$ ^default<default>{^write<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/LnEAMBOwwfxB]
+[Lo610K59gSXJ#0] ^default<default>{^By<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^church<n><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^prayer<n><sg>$}$ ^default<default>{^make<vblex><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Lo610K59gSXJ]
+[Lu6GoT4prWO5#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*dikuxûm$}$ ^n<SN>{^the<det><def><sp>$ ^blood<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Lu6GoT4prWO5]
+[MMciYixzaaDD#0] ^n<SN>{^a<det><ind><sg>$ ^Spot<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^date<n><sg>$}$ ^unknown<unknown>{^*birêxe$}$^sent<SENT>{^.<sent>$}$
+[/MMciYixzaaDD]
+[Ma8Jp_sQG-GG#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*divereşim$}$ ^n<SN>{^the<det><def><sp>$ ^blood<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Ma8Jp_sQG-GG]
+[MhACTkldgbYT#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^Emergence<n><sg>$ ^of<pr>$ ^Fast<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/MhACTkldgbYT]
+[NC5I7OHKkXyi#0] ^det-nom<SN>{^my<det><pos><sp>$ ^chronicle<n><sg>$ ^depression<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/NC5I7OHKkXyi]
+[NJyPmfeH2lNc#0] ^j<SA>{^Many<adj>$}$ ^j<SA>{^near<adj><sint>$}$ ^sent<SENT>{^.<sent>$}$
+[/NJyPmfeH2lNc]
+[NpBPwwAbwvoG#0] ^n<SN>{^the<det><def><sp>$ ^coffee<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/NpBPwwAbwvoG]
+[Nw05UsqYfWI2#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^information<n><pl>$ ^of<pr>$}$ ^default<default>{^more<adv><@advmod>$}$^sent<SENT>{^.<sent>$}$
+[/Nw05UsqYfWI2]
+[NzWUSCszFDxA#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^meaning<n><sg>$ ^of<pr>$}$ ‘^unknown<unknown>{^*Zîyana$}$ ^j<SA>{^notable<adj>$}$’ ^pers<SN><p3><mf><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/NzWUSCszFDxA]
+[OBWjMiwgIYWv#0] ^default<default>{^Without<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^document<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^unknown<unknown>{^*neçin$}$^sent<SENT>{^.<sent>$}$
+[/OBWjMiwgIYWv]
+[OElAvNmYvP6H#0] ^unknown<unknown>{^*Kansera$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/OElAvNmYvP6H]
+[OEz6fIwQYJXA#0] ^pers<SN><@nsubj><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><subj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^refugee<n><pl>$}$ ^default<default>{^see<vblex><inf>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/OEz6fIwQYJXA]
+[OFn5EcL9yVq0#0] ^pers<SN><p3><mf><sg>{^Prpers<prn><subj><p3><m><sg>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^help<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^wedding<n><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/OFn5EcL9yVq0]
+[OU86UL7wKelI#0] ^n<SN>{^the<det><def><sp>$ ^Pain<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^unknown<unknown>{^*nişkave$}$ ^v<SV>{ ^begin<vblex><past>$}$^sent<SENT>{^.<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/OU86UL7wKelI]
+[Oe7u3YJlGtdJ#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Advice<n><pl>$}$ ^default<default>{^to<pr><@case>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^doctor<n><sg>$}$ ^default<default>{^want<vblex><prs><p3><sg>$}$ ^default<default>{^before<pr><@case>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><subj><p2><mf><sp>$}$ ^unknown<unknown>{^*mêjandinê$}$ ^unknown<unknown>{^*bisekinînî$}$ ^cc<CC>{^or<cnjcoo>$}$ ^default<default>{^before<pr><@case>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><subj><p2><mf><sp>$}$ ^unknown<unknown>{^*cihgirekî$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^place<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^milk<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^*thorax<n><pl>$}$ ^default<default>{^give<vblex><prs><p2><sg>$}$ ^unknown<unknown>{^*savayê$}$ ^default<default>{^own<adj>$}$^sent<SENT>{^.<sent>$}$
+[/Oe7u3YJlGtdJ]
+[Onbqqms_RDVX#0] ^n<SN>{^the<det><def><sp>$ ^city<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Onbqqms_RDVX]
+[P3yB5ObHP78O#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^(<lpar>$}$^p_d_n<SN>{ ^the<det><def><sp>$ ^English<n><sg>$}$^default<default>{^)<rpar>$}$ ^default<default>{^very<preadv>$}$ ^j<SA>{^fine<adj><sint>$}$ ^v<SV><pres><p1><sg>{^do<vaux><pres>$ ^not<adv>$ ^know<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/P3yB5ObHP78O]
+[P6PjqeMMXR0P#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV><pres><p1><sg>{^do<vaux><pres>$ ^not<adv>$ ^can<inf>$}$ ^n<SN>{^the<det><def><sp>$ ^urine<n><sg>$}$ ^default<default>{^make<vblex><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/P6PjqeMMXR0P]
+[PGiuaxPR-W6j#0] ^det-nom<SN>{^My<det><pos><sp>$ ^child<n><sg>$}$ ^unknown<unknown>{^*dikuxê$}$^sent<SENT>{^.<sent>$}$
+[/PGiuaxPR-W6j]
+[PVrzn7CER3k-#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^Centre<n><sg>$ ^of<pr>$ ^Fast<n><sg>$}$  ^n<SN>{^the<det><def><sp>$ ^Clothing<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^clothing<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/PVrzn7CER3k-]
+[PXE47RllS9-u#0] ^det-nom<SN>{^My<det><pos><sp>$ ^name<n><sg>$}$ … ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/PXE47RllS9-u]
+[PjBmBgXA_SIV#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*dirazim$}$ ^j<SA>{^evil<adj><comp>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/PjBmBgXA_SIV]
+[PsFX4G6Fy_Cw#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^information<n><pl>$}$ ^n<SN>{^the<det><def><sp>$ ^observation<n><sg>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^coming<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^train<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/PsFX4G6Fy_Cw]
+[QFUw73bCXgf4#0] ^p_d_n<SN>{^to<pr> $ ^a<det><ind><sg>$ ^*tumbler<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^work<n><sg>$}$ ^unknown<unknown>{^*neyne$}$^sent<SENT>{^.<sent>$}$ ^unknown<unknown>{^*Fîncaneke$}$ ^j<SA>{^clean<adj>$}$ ^default<default>{^use<vblex><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/QFUw73bCXgf4]
+[QGvom-XrYFJR#0] ^default<default>{^Together# with<pr><@case>$}$ ^default<default>{^own<adj>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^milk<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*jibermayî$}$ ^unknown<unknown>{^*bêhtirî$}$ ^n<SN>{^a<det><ind><sg>$ ^hour<n><sg>$}$ ^unknown<unknown>{^*nehêle$}$ ^default<default>{^-<guio>$}$ ^pers<SN><p3><mf><sg>{^prpers<prn><subj><p3><m><sg>$}$  ^j<SA>{^dirty<adj>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*xeternak$}$ ^default<default>{^be<vbser><prs><p3><sg><@cop>$}$^sent<SENT>{^.<sent>$}$
+[/QGvom-XrYFJR]
+[QIxmVzcvmYzM#0] ^det-nom<SN>{^My<det><pos><sp>$ ^heart<n><sg>$}$ ^v<SV>{ ^stay<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/QIxmVzcvmYzM]
+[QSapv7bVwGqo#0] ^unknown<unknown>{^*Teyare$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/QSapv7bVwGqo]
+[QZtrk58Xe7HL#0] ^default<default>{^If<cnjadv>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^document<n><pl>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^family<n><sg>$}$ ^unknown<unknown>{^*tunebin$}$ ^default<default>{^by<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^train<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^rider<n><pl>$}$ ^v<SV><p1><pl>{^do<vaux>$ ^not<adv>$ ^take<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/QZtrk58Xe7HL]
+[Qad4zUR5ibJ8#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^v<SV>{ ^eat<vblex><past>$}$^default<default>{^,<cm><@punct>$}$ ^n<SN>{^the<det><def><sp>$ ^coffee<n><sg>$}$^default<default>{^,<cm><@punct>$}$ ^n<SN>{^the<det><def><sp>$ ^tea<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/Qad4zUR5ibJ8]
+[Qi0AXA9lra88#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^Broadcast<n><sg>$ ^of<pr>$ ^Clothing<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/Qi0AXA9lra88]
+[Qjj77Z11V1cC#0] ^default<default>{^At<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^misery<n><sg>$}$ ^default<default>{^<@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^voice<n><pl>$}$ ^v<SV>{^hear<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/Qjj77Z11V1cC]
+[QqX3SnLKwy55#0] ^v<SV>{ ^Fly<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/QqX3SnLKwy55]
+[Qtcg80n-wjyS#0] ^default<default>{^toward<pr><@case>$}$
+[/Qtcg80n-wjyS]
+[Qu6O81i0Z3z4#0] ^default<default>{^By<pr><@case>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^spot<n><sg>$}$ ^j<SA>{^cool<adj>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^j<SA>{^dry<adj>$}$ ^default<default>{^leave<vblex><prs><p3><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*bila$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^blade<n><sg>$}$ ^j<SA>{^good<adj><sint>$}$ ^v<SV>{^have<vbhaver><prs>$ ^take<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/Qu6O81i0Z3z4]
+[QxWDGZPJsW_4#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^this<det><dem><mf><pl><obl><@det>$}$ ^p_d_n<SN>{  ^medication<n><pl>$}$ ^default<default>{^every<det><ind><mf><sg><@det>$}$ ^n<SN>{^the<det><def><sp>$ ^day<n><sg>$}$ ^v<SV>{^eat<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/QxWDGZPJsW_4]
+[R27ir1qWmTRz#0] ^pers<SN><p3><mf><sg>{^Prpers<prn><subj><p3><m><sg>$}$  ^unknown<unknown>{^*savayê$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^v<SV>{^live<vblex><pres>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^infection<n><pl>$}$ ^v<SV><p3><sg>{^do<vaux><p3><sg>$ ^not<adv>$ ^protect<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/R27ir1qWmTRz]
+[RATI2r799t6e#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^know<vblex><pres>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^president<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^pile<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*grûpa$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^who<prn><itg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/RATI2r799t6e]
+[RLrj9cfkcy3F#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^unknown<unknown>{^*têlefon$}$ ^default<default>{^make<vblex><prs><p2><sg>$}$ ^default<default>{^when<cnjadv>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^meat<n><sg>$ ^of<pr>$}$ ^n<SN>{^a<det><ind><sg>$ ^edge<n><sg>$}$ ^v<SV>{ ^see<vblex><past>$}$^sent<SENT>{^?<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/RLrj9cfkcy3F]
+[RRSZSA6srXPA#0] ^nom-adj<SN>{^pure<adj>$ ^Water<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^shovel<n><sg>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^meat<n><sg>$ ^of<pr>$}$  ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^:<sent>$}$ ^unknown<unknown>{^*têxistina$}$ ^n<SN>{^the<det><def><sp>$ ^water<n><sg>$}$ ^default<default>{^not<adv>$}$ ^j<SA>{^necessary<adj>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/RRSZSA6srXPA]
+[RTjMGLNXne0z#0] ^pers<SN><p1><mf><pl>{^Prpers<prn><subj><p1><mf><pl>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^Kurdish<adj>$}$ ^v<SV>{^speak<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/RTjMGLNXne0z]
+[RgAoCU3szgyt#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^default<default>{^this<det><dem><f><sg><obl><@det>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^register<n><sg>$ ^of<pr>$}$ ^p_d_n<SN>{  ^voice<n><sg>$}$ ^default<default>{^hear<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/RgAoCU3szgyt]
+[Rkr5eZE85Y5y#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$^sent<SENT>{^.<sent>$}$
+[/Rkr5eZE85Y5y]
+[S9P8IOazP2NJ#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*skenkirina$}$ ^p_d_n<SN>{^to<pr> $ ^a<det><ind><sg>$ ^document<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/S9P8IOazP2NJ]
+[SAQfmerxhiO3#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^p_d_n<SN>{^to<pr> $  ^meat<n><sg>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/SAQfmerxhiO3]
+[SNPBsyKSauau#0] ^n<SN>{^a<det><ind><sg>$ ^pile<n><sg>$}$ ^default<default>{^need<vblex><p3><sg>$}$ ^default<default>{^like<pr><@case>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^pile<n><sg>$}$ ^unknown<unknown>{^*civakiye$}$ ^j<SA>{^private<adj>$}$ ^unknown<unknown>{^*bête$}$ ^default<default>{^see<vblex><inf>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^step<n><sg>$ ^of<pr>$}$ ^default<default>{^at<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^special<n><sg>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/SNPBsyKSauau]
+[Sc9LAEu9a42F#0] ^j<SA>{^Careful<adj>$}$ ^default<default>{^be<vbser><prs><p3><sg><@cop>$}$^sent<SENT>{^.<sent>$}$ ^unknown<unknown>{^*Nehêle$}$ ^n<SN>{^the<det><def><sp>$ ^child<n><sg>$}$ ^j<SA>{^close<adj>$}$ ^default<default>{^be<vbser><prs><p3><pl><@cop>$}$^sent<SENT>{^.<sent>$}$ ^default<default>{^To<pr><@case>$}$ ^unknown<unknown>{^*mezinan$}$ ^default<default>{^only<adv><@advmod>$}$ ^default<default>{^<@case>$}$^sent<SENT>{^.<sent>$}$
+[/Sc9LAEu9a42F]
+[ScTggWaAeVuY#0] ^unknown<unknown>{^*serçavan$}$^sent<SENT>{^.<sent>$}$
+[/ScTggWaAeVuY]
+[T2dzEG5DPfWZ#0] ^n<SN>{^the<det><def><sp>$ ^child<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^road<n><pl>$}$ ^v<SV>{^have<vbhaver><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/T2dzEG5DPfWZ]
+[T4U240-U1KU_#0] ^p_d_n<SN>{ ^a<det><ind><sg>$ ^Spot<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^date<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^default<default>{^name<vblex><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/T4U240-U1KU_]
+[TAiONpBK3I6N#0] ^default<default>{^Like<pr><@case>$}$ ^default<default>{^every<det><ind><mf><sg><@det>$}$ ^unknown<unknown>{^*formulayên$}$ ^default<default>{^not<adv>$}$ ^unknown<unknown>{^*siriştî$}$ ^default<default>{^at<pr><@case>$}$ ^det-nom<SN>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^default<default>{^<@case>$}$ ^unknown<unknown>{^*dijleşên$}$ ^j<SA>{^alive<adj><sint>$}$^default<default>{^,<cm><@punct>$}$  ^default<default>{^at<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^milk<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^mother<n><sg>$}$ ^default<default>{^<@case>$}$ ^v<SV>{^have<vbhaver><pres>$}$^default<default>{^,<cm><@punct>$}$ ^unknown<unknown>{^*tunne$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/TAiONpBK3I6N]
+[TJ7jvrOMauqp#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*muqatebûna$}$ ^n<SN>{^the<det><def><sp>$ ^medicine<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/TJ7jvrOMauqp]
+[TitUkM8rt-H8#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^place<n><sg>$ ^of<pr>$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^raising<n><sg>$ ^of<pr>$ ^child<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/TitUkM8rt-H8]
+[UCffeP7mR-m0#0] ^sent<SENT>{^..<sent>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^unknown<unknown>{^*bêhîs$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/UCffeP7mR-m0]
+[UJJx0HUH_YrW#0] ^default<default>{^by<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^pile<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^clod<n><sg>$}$ ^j<SA>{^necessary<adj><con>$}$ ^pers<SN><@nmod:poss><p3><m><sg>{^prpers<prn><obj><p3><m><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*muqatebûna$}$ ^n<SN>{^the<det><def><sp>$ ^medicine<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/UJJx0HUH_YrW]
+[UVQIKq7SH5Z1#0] ^n<SN>{^the<det><def><sp>$ ^*tombstone<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^det-nom<SN>{^own<adj><@nmod:poss>$ ^*mulla<n><sg>$}$ ^j<SA>{^orphaned<adj>$}$ ^unknown<unknown>{^*nehêlin$}$^sent<SENT>{^.<sent>$}$
+[/UVQIKq7SH5Z1]
+[UqxM7H7Vk3jX#0] ^n<SN>{^a<det><ind><sg>$ ^Pain<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^*bile<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/UqxM7H7Vk3jX]
+[V5ZEIkvPlL8N#0] ^pers<SN><@nsubj><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{ ^attempt<vblex><past>$}$ ^default<default>{^to<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^state<n><sg>$}$^default<default>{^,<cm><@punct>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^police<n><sg>$ ^of<pr>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^country<n><sg>$}$ ^cc<CC>{^or<cnjcoo>$}$ ^unknown<unknown>{^*kesekêî$}$ ^j<SA>{^other<adj>$}$ ^n<SN>{^the<det><def><sp>$ ^help<n><sg>$}$ ^unknown<unknown>{^*wergirin$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/V5ZEIkvPlL8N]
+[VDUs_wO6TrxD#0] ^det-nom<SN>{^My<det><pos><sp>$ ^sickness<n><sg>$}$  ^unknown<unknown>{^*bipolarî$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/VDUs_wO6TrxD]
+[VReXM30vXTUG#0] ^n<SN>{^the<det><def><sp>$ ^CUSTOM<n><sg>$}$ ^cc<CC>{^And<cnjcoo>$}$ ^n<SN>{^the<det><def><sp>$ ^ORDER<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/VReXM30vXTUG]
+[VWeUPzuBl4vl#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^product<n><sg>$ ^of<pr>$}$ ^v<SV><pres><p3><sg>{^do<vaux><pres><p3><sg>$ ^not<adv>$ ^take<vblex><inf>$}$ ^default<default>{^after<pr><@case>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^story<n><sg>$ ^of<pr>$}$ ^v<SV>{ ^print<vblex><past>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^bring<vblex><prs><p2><sg>$}$ ^unknown<unknown>{^*tenekeyî$}$\/^p_d_n<SN>{ ^the<det><def><sp>$ ^box<n><sg>$}$ ^unknown<unknown>{^*bête$}$ ^v<SV>{ ^use<vblex><past>$}$^sent<SENT>{^.<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/VWeUPzuBl4vl]
+[VogPg3WnyWJ-#0] ^det-nom<SN>{^My<det><pos><sp>$ ^head<n><sg>$}$ ^j<SA>{^dazed<adj>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/VogPg3WnyWJ-]
+[VqTmhEeEUbpI#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^apron<n><pl>$ ^of<pr>$ ^swimming<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^unknown<unknown>{^*beravê$}$ ^v<SV>{^have<vbhaver><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/VqTmhEeEUbpI]
+[W8WLtseVG7wj#0] ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*bêruh$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/W8WLtseVG7wj]
+[WL_Z2TYaijXM#0] ^unknown<unknown>{^*Avdestxane$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^n<SN>{^the<det><def><sp>$ ^church<n><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/WL_Z2TYaijXM]
+[WaO0L9DzV392#0] ^n<SN>{^the<det><def><sp>$ ^Bakery<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/WaO0L9DzV392]
+[WnQ9WjzhgCk9#0] ^unknown<unknown>{^*Bronşîta$}$ ^n<SN>{^the<det><def><sp>$ ^chronicle<n><sg>$}$ ^default<default>{^together# with<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/WnQ9WjzhgCk9]
+[WpbuhQ5gDBS3#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^suicide<n><sg>$}$ ^unknown<unknown>{^*difikirim$}$^sent<SENT>{^.<sent>$}$
+[/WpbuhQ5gDBS3]
+[WtbxljsMjpc8#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV><pres><p1><sg>{^do<vaux><pres>$ ^not<adv>$ ^can<inf>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^neck<n><sg>$}$ ^default<default>{^own<adj>$}$ ^unknown<unknown>{^*vegerînim$}$^sent<SENT>{^.<sent>$}$
+[/WtbxljsMjpc8]
+[X0M2QH2F0P22#0] ^j<SA>{^*kor<adj><con>$}$ ^pers<SN><@nmod:poss><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/X0M2QH2F0P22]
+[XP_SAVg8qa8F#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^centre<n><sg>$ ^of<pr>$ ^reference<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/XP_SAVg8qa8F]
+[XPwdpIQD6apo#0] ^default<default>{^Also<adv><@advmod>$}$ ^default<default>{^comment<vblex><prs><p3><sg>$}$ ^default<default>{^if<cnjadv>$}$ ^pers<SN><@nsubj><p2><mf><sg>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{ ^attempt<vblex><past>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^country<n><sg>$}$ ^p_d_n<SN>{  ^stone<n><sg>$}$ ^cc<CC>{^but<cnjcoo>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^unknown<unknown>{^*nikarîbû$}$ ^cc<CC>{^and<cnjcoo>$}$ ^default<default>{^what<prn><itg>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^unknown<unknown>{^*sekinand$}$^sent<SENT>{^.<sent>$}$
+[/XPwdpIQD6apo]
+[XVFBCd5UvmAA#0] ^default<default>{^Need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^go<vblex><prs><p1><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^medicine<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/XVFBCd5UvmAA]
+[YJFsRRnpC2qW#0] ^n<SN>{^the<det><def><sp>$ ^Hawar<n><sg>$}$^sent<SENT>{^!.<sent>$}$
+[/YJFsRRnpC2qW]
+[YYGe6wHMTuM3#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*qefilîm$}$^sent<SENT>{^.<sent>$}$
+[/YYGe6wHMTuM3]
+[YscfeNRUEQYf#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^unknown<unknown>{^*şîra$}$ ^default<default>{^like<pr><@case>$}$ ^j<SA>{^all<adj>$}$ ^unknown<unknown>{^*markeyên$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^religion<n><sg>$}$ ^default<default>{^,<cm><@punct>$}$  ^p_d_n<SN>{ ^the<det><def><sp>$ ^owner<n><sg>$}$ ^unknown<unknown>{^*formulayên$}$ ^v<SV>{ ^found<vblex><past>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^default<default>{^for<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^selling<n><sg>$}$ ^v<SV>{^come<vblex><pres>$}$ ^n<SN>{^the<det><def><sp>$ ^preperation<n><sg>$}$ ^sent<SENT>{^.<sent>$}$
+[/YscfeNRUEQYf]
+[YsrbwG8fH1B7#0] ^unknown<unknown>{^*Dilrawestan$}$ ^default<default>{^together# with<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/YsrbwG8fH1B7]
+[Yw-x8Y11Npwh#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*ditirsim$}$^sent<SENT>{^.<sent>$}$
+[/Yw-x8Y11Npwh]
+[Z76ymxUlCPbm#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*qebizbûyî$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*qeyserî$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/Z76ymxUlCPbm]
+[ZpdxQ4hyDs07#0] ^default<default>{^After<pr><@case>$}$ ^default<default>{^six<num><pl><nom><def>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^month<n><pl>$}$ ^default<default>{^need<vblex><p3><sg>$}$ ^pers<SN><p3><mf><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^default<default>{^begin<vblex><prs><p3><sg>$}$ ^nom-adj<SN>{^other<adj>$ ^food<n><pl>$}$  ^unknown<unknown>{^*werbigre$}$^sent<SENT>{^.<sent>$}$
+[/ZpdxQ4hyDs07]
+[_0iSPWgwTcxp#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^island<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*Cûmê$}$ ^default<default>{^-<guio>$}$ ^unknown<unknown>{^*Selanîk$}$^sent<SENT>{^.<sent>$}$
+[/_0iSPWgwTcxp]
+[_6XhaMnTKOjI#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><obj><p1><mf><pl><@obj>$}$ ^v<SV>{^see<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/_6XhaMnTKOjI]
+[_Jdt7V21-8sB#0] ^det-nom<SN>{^My<det><pos><sp>$ ^belly<n><sg>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_Jdt7V21-8sB]
+[_JgTKtKjjKME#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^n<SN>{^the<det><def><sp>$ ^help<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^cleaning<n><sg>$}$ ^default<default>{^<@case>$}$ ^default<default>{^make<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/_JgTKtKjjKME]
+[_OD9DJN4MEKB#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Grief<n><pl>$}$ ^v<SV><p3><sg>{^do<vaux><p3><sg>$ ^not<adv>$ ^eat<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/_OD9DJN4MEKB]
+[_j4DBw_27v0u#0] ^n<SN>{^the<det><def><sp>$ ^Blood<n><sg>$}$ ^unknown<unknown>{^*dirijînim$}$^sent<SENT>{^.<sent>$}$
+[/_j4DBw_27v0u]
+[_mnrEOXTFAEC#0] ^j<SA>{^Hot<adj><con>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^body<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_mnrEOXTFAEC]
+[_wIyP6OpH5N2#0] ^default<default>{^Together# with<pr><@case>$}$ ^default<default>{^both<prn><tn><pl>$}$ ^unknown<unknown>{^*eynî$}$ ^n<SN>{^a<det><ind><sg>$ ^politics<n><sg>$}$ ^unknown<unknown>{^*nirxkirinê$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/_wIyP6OpH5N2]
+[aA_MN2XDgzTw#0] ^unknown<unknown>{^*Qolincên$}$ ^n<SN>{^the<det><def><sp>$ ^birth<n><sg>$}$ ^v<SV>{^come<vblex><pres>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/aA_MN2XDgzTw]
+[aadMGevZUwGa#0] ^default<default>{^By<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^church<n><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ _____ ^default<default>{^see<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/aadMGevZUwGa]
+[ahfjxIBfMQ_a#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^unknown<unknown>{^*textît$}$ ^v<SV>{^make<vblex><pres>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^exhibit<n><sg>$}$ ^unknown<unknown>{^*penabertiyê$}$ ^default<default>{^by<pr><@case>$}$ ^unknown<unknown>{^*Maqedonya$}$ ^default<default>{^make<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/ahfjxIBfMQ_a]
+[akvH0-irXiTU#0] ^unknown<unknown>{^*Kuxika$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/akvH0-irXiTU]
+[alSI4hkslZLa#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Ticket<n><pl>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^shovel<n><sg>$}$ ^default<default>{^buy<vblex><fut><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/alSI4hkslZLa]
+[anfCYVb-m3l8#0] ^det-nom<SN>{^My<det><pos><sp>$ ^pleasure<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^default<default>{^<@case>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/anfCYVb-m3l8]
+[ayNKCnMS1APl#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^clothing<n><pl>$ ^of<pr>$}$ ^default<default>{^only<adv><@advmod>$}$ ^default<default>{^for<pr><@case>$}$ ^nom-adj<SN>{^wet<adj>$ ^man<n><pl><@nmod>$}$^sent<SENT>{^.<sent>$}$
+[/ayNKCnMS1APl]
+[b7EUlRNg1K8E#0] ^unknown<unknown>{^*qundaxa$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/b7EUlRNg1K8E]
+[bAjfAtYImbjz#0] ^unknown<unknown>{^*Seyyare$}$\/^det-nom-of<SN>{^the<det><def><sp>$ ^arab<n><sg>$ ^of<pr>$}$ ^default<default>{^by<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{ ^put<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/bAjfAtYImbjz]
+[bGMMHPp74JKv#0] ^n<SN>{^the<det><def><sp>$ ^Plane<n><sg>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/bGMMHPp74JKv]
+[bIIe_SPG1p7k#0] ^nom-adj<SN>{^evil<adj>$ ^Smell<n><sg>$}$  ^det-nom<SN>{^my<det><pos><sp>$ ^urine<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/bIIe_SPG1p7k]
+[bQxj3u553TRi#0] ^default<default>{^For<pr><@case>$}$ ^unknown<unknown>{^*qundax$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*savayê$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^drink<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^milk<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^mother<n><sg>$}$ ^unknown<unknown>{^*mimkin$}$ ^default<default>{^have<vbhaver><neg><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/bQxj3u553TRi]
+[bSka3GpbEt53#0] ^default<default>{^For<pr><@case>$}$ ^unknown<unknown>{^*gotûbêjkirina$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^question<n><pl>$ ^of<pr>$ ^family<n><sg>$}$ ^unknown<unknown>{^*dawaza$}$ ^unknown<unknown>{^*wergêrekî$}$\/^unknown<unknown>{^*ekê$}$ ^default<default>{^make<vblex><prs><p3><sg>$}$ ^sent<SENT>{^.<sent>$}$
+[/bSka3GpbEt53]
+[bgi5GKKB-rp5#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><obj><p1><mf><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^wire<n><sg>$}$ ^v<SV>{ ^take<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/bgi5GKKB-rp5]
+[bxzTXcwPUBGd#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^default<default>{^this<det><dem><m><sg><obl><@det>$}$ ^p_d_n<SN>{  ^language<n><sg>$}$ ^default<default>{^read<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/bxzTXcwPUBGd]
+[cU4pl1AHkxGL#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$  ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^time<n><sg>$}$ ^j<SA>{^near<adj><sint>$}$ ^default<default>{^<@case>$}$ ^v<SV>{ ^return<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/cU4pl1AHkxGL]
+[cWQ1b0XILZ9P#0] ^unknown<unknown>{^*Betanî$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^there<adv><@advmod>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/cWQ1b0XILZ9P]
+[cXaxTRRiNywC#0] ^v<SV><pres><p3><pl>{^do<vaux><pres>$ ^not<adv>$ ^Attempt<vblex><inf>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^snake<n><pl>$}$ ^unknown<unknown>{^*bigirn$}$^sent<SENT>{^.<sent>$}$
+[/cXaxTRRiNywC]
+[cmnqTeKOTcQT#0] ^det-nom<SN>{^My<det><pos><sp>$ ^throat<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/cmnqTeKOTcQT]
+[d-fMh0fAp59c#0] ^default<default>{^two<num><pl><nom><def>$}$ ^unknown<unknown>{^*sibê$}$^sent<SENT>{^.<sent>$}$
+[/d-fMh0fAp59c]
+[dFgg3NGh3zUc#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Parcel<n><sg>$}$ ^j<SA>{^clean<adj>$}$ ^default<default>{^make<vblex><prs><p3><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^default<default>{^shake<vblex><prs><p3><sg>$}$ ^default<default>{^before<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^opening<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/dFgg3NGh3zUc]
+[dVVmsv-BsZSh#0] ^sent<SENT>{^..<sent>$}$^j<SA>{^weak<adj>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/dVVmsv-BsZSh]
+[eE3BRKLaT_3C#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^n<SN>{^the<det><def><sp>$ ^church<n><sg>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/eE3BRKLaT_3C]
+[eFev0JGTGPCV#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^unknown<unknown>{^*xwanga$}$ ^pers<SN><@nmod:dat><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/eFev0JGTGPCV]
+[eOC0KjgWPAt3#0] ^default<default>{^by<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^stay<n><sg>$ ^of<pr>$}$ ^default<default>{^today<adv><@advmod>$}$ ^default<default>{^own<adj>$}$ ^unknown<unknown>{^*rihet$}$ ^n<SN>{^the<det><def><sp>$ ^emotion<n><pl>$}$ ^v<SV>{^make<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/eOC0KjgWPAt3]
+[eS8iTmdZxGHo#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^know<vblex><pres>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^which<det><itg><@det>$}$ ^n<SN>{^the<det><def><sp>$ ^pile<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^unknown<unknown>{^*grûpê$}$ ^v<SV>{ ^give<vblex><past>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/eS8iTmdZxGHo]
+[eftFtpb88ejz#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^spot<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*Guhastinê$}$^sent<SENT>{^.<sent>$}$
+[/eftFtpb88ejz]
+[fLzij4IpePU-#0] ^unknown<unknown>{^*Lucu$}$' ^default<default>{^by<pr><@case>$}$ ^unknown<unknown>{^*Yonanê$}$^sent<SENT>{^.<sent>$}$
+[/fLzij4IpePU-]
+[fQnk-doVJmJG#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^j<SA>{^hungry<adj><sint>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/fQnk-doVJmJG]
+[fV8ziR2dy291#0] ^n<SN>{^the<det><def><sp>$ ^Shovel<n><sg>$}$ ^j-n-n<SN>{^such a<det><@amod>$ ^pain<n><sg>$ ^part<n><sg>$}$ ^unknown<unknown>{^*nebubû$}$^sent<SENT>{^.<sent>$}$
+[/fV8ziR2dy291]
+[fcL4KcA8Jass#0] ^default<default>{^Every<det><ind><mf><sg><@det>$}$ ^n<SN>{^the<det><def><sp>$ ^step<n><sg>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^urine<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/fcL4KcA8Jass]
+[fyiz6iYHbuxE#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^that<det><dem><mf><pl><obl><@det>$}$ ^v<SV>{^see<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/fyiz6iYHbuxE]
+[fypmabWGw_sB#0] ^default<default>{^Be<vbser><prs><p3><sg><@cop>$}$ ^n<SN>{^a<det><ind><sg>$ ^piece<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^process<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*şûnguhertinê$}$ ^default<default>{^however<adv><@advmod>$}$ ^pers<SN><p2><mf><sg>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^end<n><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^environs<n><sg>$}$ ^cop<SV><COP><p2><sg>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/fypmabWGw_sB]
+[g1QFm3T7C8my#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^weighing<n><sg>$ ^of<pr>$ ^time<n><sg>$}$^sent<SENT>{^:<sent>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp><@obj>$}$ ^v<SV>{^say<vblex><pres>$}$ ^default<default>{^what<prn><itg>$}$ ^v<SV>{ ^come<vblex><past>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^head<n><sg>$}$^default<default>{^,<cm><@punct>$}$ ^default<default>{^say<vblex><fut><p1><pl>$}$ ^default<default>{^that<det><dem><mf><pl><obl><@det>$}$ ^unknown<unknown>{^*çiqasî$}$ ^v<SV>{ ^pull<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/g1QFm3T7C8my]
+[gG1wZZjUgtMJ#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^help<n><sg>$}$ ^default<default>{^make<vblex><prs><p1><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^cleaning<n><sg>$}$ ^default<default>{^<@case>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/gG1wZZjUgtMJ]
+[gH_DD2wJh-1t#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^place<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*GPS$}$ ^default<default>{^about<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^telephone<n><sg>$}$ ^n<SN>{^the<det><def><sp>$ ^sign<n><sg>$}$ ^pers<SN><@nsubj><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^default<default>{^give<vblex><prs><p2><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$  ^j<SA>{^other<adj><@amod>$}$ ^default<default>{^see<vblex><fut><p1><pl>$}$^sent<SENT>{^!.<sent>$}$
+[/gH_DD2wJh-1t]
+[gSwXBl5gQatU#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^default<default>{^go<vblex><prs><p1><sg>$}$ ^unknown<unknown>{^*hotêlekê$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/gSwXBl5gQatU]
+[gmYIDHSls-sl#0] ^pers<SN><@nsubj><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{ ^attempt<vblex><past>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^advance<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^question<n><pl>$}$ ^default<default>{^that<cnjsub>$}$ ^default<default>{^by<pr><@case>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^country<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^road<n><pl>$}$ ^default<default>{^go# out<vblex><inf>$}$ ^default<default>{^take<vblex><prs><p1><pl>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^default<default>{^what<prn><itg>$}$ ^v<SV>{ ^form<vblex><past>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/gmYIDHSls-sl]
+[goNEn7FbOKEC#0] ^default<default>{^By<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^det-nom<SN>{^own<adj><@nmod:poss>$ ^telephone<n><sg>$}$ ^v<SV><past><p3><pl>{^do<vaux><past>$ ^not<adv>$ ^change<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/goNEn7FbOKEC]
+[gtvpFU-5Ftua#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$ ^hand<n><sg>$}$ ^unknown<unknown>{^*didê$}$^default<default>{^,<cm><@punct>$}$ ^v<SV>{^ache<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/gtvpFU-5Ftua]
+[gvxOhnubafIc#0] ^det-nom<SN>{^My<det><pos><sp>$ ^time<n><sg>$}$  ^unknown<unknown>{^*bênimêjiyan$}$ ^unknown<unknown>{^*qadiya$}$ ^cc<CC>{^but<cnjcoo>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^blood<n><sg>$}$ ^unknown<unknown>{^*nasekine$}$^sent<SENT>{^.<sent>$}$
+[/gvxOhnubafIc]
+[hkt4ISs5pRsm#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^information<n><pl>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*UNHCR$}$' ^unknown<unknown>{^*Tabanoçeyê$}$ ^default<default>{^<@case>$}$ ^default<default>{^break<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/hkt4ISs5pRsm]
+[hq6eweIXuhQ0#0] ^unknown<unknown>{^*Kengî$}$ ^default<default>{^need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{ ^return<vblex><past>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/hq6eweIXuhQ0]
+[i5v1xB49u2Cb#0] ^default<default>{^At<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^name<n><sg>$}$ ^unknown<unknown>{^*guyê$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^default<default>{^<@case>$}$ ^n<SN>{^the<det><def><sp>$ ^blood<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/i5v1xB49u2Cb]
+[iLa5ppPc2wkL#0] ^pers<SN><p2><mf><pl>{^Prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^Kurdish<adj>$}$ ^v<SV>{^speak<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/iLa5ppPc2wkL]
+[iOPWUOUaqonx#0] ^default<default>{^For<pr><@case>$}$ ^unknown<unknown>{^*nedayîna$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^milk<n><sg>$ ^of<pr>$ ^mother<n><sg>$}$ ^unknown<unknown>{^*sebebka$}$ ^n<SN>{^the<det><def><sp>$ ^medicine<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/iOPWUOUaqonx]
+[iX1etqFCWBXX#0] ^unknown<unknown>{^*Rûniştgeh$}$^sent<SENT>{^.<sent>$}$
+[/iX1etqFCWBXX]
+[ieo_2COTaMKw#0] ^n<SN>{^the<det><def><sp>$ ^Pain<n><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^v<SV>{^begin<vblex><pres><p3><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^v<SV>{^go<vblex><pres><p3><sg>$}$ ^default<default>{^here<adv><@advmod>$}$^sent<SENT>{^.<sent>$}$
+[/ieo_2COTaMKw]
+[iwTu7hpJ3aIW#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^reference<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*şûnguhertina$}$ ^default<default>{^for<pr><@case>$}$ ^top<SN>{^Europe<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/iwTu7hpJ3aIW]
+[jWKWsFQQnlWU#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^hand<n><pl>$ ^of<pr>$ ^salt<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^water<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^soap<n><sg>$}$ ^default<default>{^wash<vblex><prs><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/jWKWsFQQnlWU]
+[jWwZA5_dtClY#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^j-n-n<SN>{^lost<adj><pst><@amod>$ ^person<n><sg>$ ^name<n><sg>$}$ ^default<default>{^write<vblex><prs><p2><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/jWwZA5_dtClY]
+[jZTzaT2LTp6f#0] ^unknown<unknown>{^*Qolinc$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^waist<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jZTzaT2LTp6f]
+[jci4nwk21fvm#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^at<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^English<n><pl>$}$ ^v<SV>{^know<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/jci4nwk21fvm]
+[jeWx7wO1aG8A#0] ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^price<n><sg>$ ^of<pr>$ ^bus<n><sg>$}$ ^default<default>{^3<num>$}$ ^unknown<unknown>{^*euro$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/jeWx7wO1aG8A]
+[jjdgR7x_tMaN#0] ^default<default>{^At<pr><@case>$}$ ^unknown<unknown>{^*daxwiyanên$}$ ^p_d_n<SN>{  ^voice<n><sg>$}$ ^default<default>{^<@case>$}$ ^n<SN>{^the<det><def><sp>$ ^information<n><pl>$}$ ^default<default>{^more<adv><@advmod>$}$ ^v<SV>{^have<vbhaver><pres>$}$^sent<SENT>{^.<sent>$}$
+[/jjdgR7x_tMaN]
+[jsucRUogue0N#0] ^unknown<unknown>{^*Êpîlepsî$}$ ^default<default>{^together# with<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jsucRUogue0N]
+[jwJKLSe_mHIL#0] ^n<SN>{^the<det><def><sp>$ ^Clan<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jwJKLSe_mHIL]
+[kJ1KgH1Vz_bi#0] ^n<SN>{^the<det><def><sp>$ ^Tea<n><sg>$}$  ^unknown<unknown>{^*bête$}$ ^v<SV>{ ^present<vblex><past>$}$^sent<SENT>{^.<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/kJ1KgH1Vz_bi]
+[kVhuwFNkfOmm#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^n<SN>{^the<det><def><sp>$ ^need<n><sg>$}$ ^default<default>{^stay<vblex><fut><prs><p2><sg>$}$^sent<SENT>{^.<sent>$}$
+[/kVhuwFNkfOmm]
+[kbvooxk0cKiL#0] ^pers<SN><p2><mf><pl>{^Prpers<prn><obj><p2><mf><sp>$}$ ^unknown<unknown>{^*mezêrekî$}$ ^cc<CC>{^or<cnjcoo>$}$ ^nom-adj<SN>{^thick<adj>$ ^clothing<n><pl>$}$ ^v<SV>{ ^take<vblex><past>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/kbvooxk0cKiL]
+[khS0eLZF2q7f#0] ^unknown<unknown>{^*Serkeştî$}$^sent<SENT>{^:<sent>$}$^default<default>{^41,5<num>$}$ ^unknown<unknown>{^*Euro$}$^sent<SENT>{^.<sent>$}$
+[/khS0eLZF2q7f]
+[kiNgV2OhmsFT#0] ^default<default>{^by<pr><@case>$}$ ^default<default>{^here<adv><@advmod>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^stay<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*îşev$}$ ^default<default>{^own<adj>$}$ ^unknown<unknown>{^*rihet$}$ ^n<SN>{^the<det><def><sp>$ ^emotion<n><pl>$}$ ^v<SV>{^make<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/kiNgV2OhmsFT]
+[kxaDWPkIGWLh#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^island<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*Cûmê$}$ ^default<default>{^-<guio>$}$ ^unknown<unknown>{^*Pireas$}$ ^default<default>{^(<lpar>$}$^top<SN>{^Athens<np><top><sg>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/kxaDWPkIGWLh]
+[l6TDyygR1R_3#0] ^det-nom<SN>{^your<det><pos><sp>$ ^hand<n><sg>$}$ ^v<SV>{^arrive<vblex><pres><p3><sg>$}$ ^p_d_n<SN>{^to<pr> $ ^the<det><def><sp>$ ^telephone<n><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/l6TDyygR1R_3]
+[lXAv1OQBvNcX#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*edran$}$ ^v<SV>{ ^fall<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/lXAv1OQBvNcX]
+[lXL7wu40iThn#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg><@obj>$}$ ^v<SV>{^see<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/lXL7wu40iThn]
+[lc-alYLdJkx7#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^dick<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*xira$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lc-alYLdJkx7]
+[lfgpWBpUs-om#0] ^unknown<unknown>{^*Rawestgeha$}$ ^n<SN>{^the<det><def><sp>$ ^bus<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lfgpWBpUs-om]
+[llRjjcaRzT0b#0] ^pers<SN><@nsubj><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^document<n><pl>$}$ ^unknown<unknown>{^*FYRMê$}$ ^default<default>{^wear<vblex><inf>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/llRjjcaRzT0b]
+[mEjycGmaG0cU#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^place<n><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^stay<n><sg>$}$ ^unknown<unknown>{^*îşev$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/mEjycGmaG0cU]
+[mOvoVoUelA_7#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^j<SA>{^dazed<adj>$}$ ^cop<SV><COP><p1><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/mOvoVoUelA_7]
+[mzqFygJ2NN4E#0] ^unknown<unknown>{^*Penceşêr$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/mzqFygJ2NN4E]
+[nT1iE4dy1Tb0#0] ^default<default>{^By<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^way<n><sg>$}$ ^default<default>{^one<num><sg><nom><def>$}$ ^cc<CC>{^or<cnjcoo>$}$ ^default<default>{^more<adv><@advmod>$}$ ^default<default>{^to<pr><@case>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^cause<n><pl>$ ^of<pr>$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^*downwards<n><sg>$}$^sent<SENT>{^:<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/nT1iE4dy1Tb0]
+[neSfMOLIF6_w#0] ^n<SN>{^the<det><def><sp>$ ^Story<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^n<SN>{^the<det><def><sp>$ ^Time<n><sg>$}$^sent<SENT>{^:<sent>$}$ ^det-nom-of-nom<SN>{^the<det><def><sp>$ ^time<n><sg>$ ^of<pr>$ ^thing<n><sg>$}$ ^default<default>{^together<adv><@advmod>$}$ ^v<SV>{^come<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/neSfMOLIF6_w]
+[nhPXYN7lZudc#0] ^n<SN>{^the<det><def><sp>$ ^Metro<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/nhPXYN7lZudc]
+[o3-bfWdVENGx#0] ^default<default>{^To<pr><@case>$}$ ^unknown<unknown>{^*mîzldanka$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^water<n><sg>$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/o3-bfWdVENGx]
+[oP7OKmuQtXtF#0] ^default<default>{^Need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*têkevime$}$ ^n<SN>{^the<det><def><sp>$ ^hospital<n><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/oP7OKmuQtXtF]
+[oPR5X74UK8MU#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^at<pr><@case>$}$ ^j<SA>{^Kurdish<adj>$}$ ^v<SV>{^speak<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/oPR5X74UK8MU]
+[oVtFLYsiY5Op#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^name<n><sg>$}$ ^default<default>{^know<vblex><prs><p1><sg>$}$ ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^database<n><sg>$}$ ^default<default>{^<@case>$}$ ^default<default>{^search<vblex><fut><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/oVtFLYsiY5Op]
+[oXCQRKfV7vmT#0] ^unknown<unknown>{^*Belxema$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/oXCQRKfV7vmT]
+[p8rBrh2LEucB#0] ^default<default>{^To<pr><@case>$}$ ^default<default>{^this<det><dem><mf><pl><obl><@det>$}$ ^p_d_n<SN>{^to<pr> $  ^medication<n><pl>$}$ ^j<SA>{^many<adj><comp>$}$ ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^unknown<unknown>{^*pêwîstin$}$^sent<SENT>{^.<sent>$}$
+[/p8rBrh2LEucB]
+[pbv2EvJDPSCI#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^picture<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^document<n><pl>$}$ ^unknown<unknown>{^*Yûnanistanê$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^mind<n><sg>$}$ ^pers<SN><p2><mf><pl>{^prpers<prn><obj><p2><mf><sp>$}$ ^v<SV>{^have<vbhaver><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/pbv2EvJDPSCI]
+[q-OsXL0qbFUS#0] ^unknown<unknown>{^*Tecawizî$}$ ^pers<SN><@nsubj><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^default<default>{^make<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/q-OsXL0qbFUS]
+[q8LpX1W2JqJT#0] ^n<SN>{^the<det><def><sp>$ ^Bank<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/q8LpX1W2JqJT]
+[qJFgcD30TTHU#0] ^det-nom<SN>{^My<det><pos><sp>$ ^money<n><pl>$}$ ^default<default>{^never<adv><@advmod>$}$ ^default<default>{^have<vbhaver><neg><pri><p3><sg>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/qJFgcD30TTHU]
+[qYe8bluO34ff#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^room<n><sg>$ ^of<pr>$}$ ^default<default>{^be<vbser><prs><p3><sg><@cop>$}$ ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*nûmerê$}$ ^default<default>{^by<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/qYe8bluO34ff]
+[qcX_hP4exCAB#0] ^default<default>{^Because<cnjadv>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^fear<n><sg>$}$  ^j<SA>{^genuine<adj><@amod>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^:<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/qcX_hP4exCAB]
+[qu5esKhYNTsQ#0] ^default<default>{^By<pr><@case>$}$ ^unknown<unknown>{^*hudir$}$ ^unknown<unknown>{^*êgir$}$ ^unknown<unknown>{^*vênexin$}$^sent<SENT>{^.<sent>$}$
+[/qu5esKhYNTsQ]
+[r1_0ST_Q4X4l#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^One<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{ ^put<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/r1_0ST_Q4X4l]
+[r1mUnAzSmUBc#0] ^unknown<unknown>{^*Vebihên$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^tent<n><sg>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^(<lpar>$}$^default<default>{^by<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^dawn<n><pl>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/r1mUnAzSmUBc]
+[r9QLL2vQRr1O#0] ^det-nom<SN>{^Your<det><pos><sp>$ ^hand<n><sg>$}$ ^v<SV>{^arrive<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*fîcanên$}$ ^j<SA>{^clean<adj>$}$^sent<SENT>{^.<sent>$}$
+[/r9QLL2vQRr1O]
+[rJ6zU5Xxzg8q#0] ^n<SN>{^the<det><def><sp>$ ^Pain<n><sg>$}$ ^j<SA>{^slow<adj>$}$ ^j<SA>{^slow<adj>$}$ ^j<SA>{^many<adj><comp>$}$ ^default<default>{^be<vbser><past><p3><sg><@cop>$}$^sent<SENT>{^.<sent>$}$
+[/rJ6zU5Xxzg8q]
+[sDcAJXZcGqMR#0] ^det-nom<SN>{^My<det><pos><sp>$ ^sickness<n><sg>$}$  ^unknown<unknown>{^*tuberkulozê$}$ ^default<default>{^(<lpar>$}$^det-nom-of<SN>{^the<det><def><sp>$ ^pain<n><sg>$ ^of<pr>$}$ ^n<SN>{^the<det><def><sp>$ ^*bile<n><sg>$}$^default<default>{^)<rpar>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/sDcAJXZcGqMR]
+[sHOSKoDhEfqp#0] ^n<SN>{^the<det><def><sp>$ ^MOON<n><sg>$}$  ^pers<SN><@nmod:poss><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/sHOSKoDhEfqp]
+[sKDg95yvEkGB#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^default<default>{^this<det><dem><m><sg><obl><@det>$}$ ^p_d_n<SN>{  ^language<n><sg>$}$ ^v<SV>{^understand<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/sKDg95yvEkGB]
+[tD58HMRP3T-D#0] ^unknown<unknown>{^*Dilkutk$}$ ^v<SV>{^come<vblex><pres><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/tD58HMRP3T-D]
+[tPxJgG9rCTlx#0] ^n<SN>{^the<det><def><sp>$ ^Hour<n><sg>$}$ ^default<default>{^how<adv><@advmod>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/tPxJgG9rCTlx]
+[tvF0tyt7M7gV#0] ^default<default>{^Need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^telephone<n><sg>$}$ ^default<default>{^make<vblex><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/tvF0tyt7M7gV]
+[tySP9QXWiRWl#0] ^j<SA>{^necessary<adj><con>$}$ ^unknown<unknown>{^*perravê$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^cleaning<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/tySP9QXWiRWl]
+[u2gPm1pPu0rZ#0] ^pers<SN><@nmod:dat><p1><mf><sg>{^Prpers<prn><obj><p1><mf><sg>$}$ ^j<SA>{^cold<adj><sint>$}$ ^cop<SV><COP><p3><sg>{^be<vbser><pres><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/u2gPm1pPu0rZ]
+[u3TN-idaOvBt#0] ^unknown<unknown>{^*Vebihên$}$ ^default<default>{^by<pr><@case>$}$ ^n<SN>{^the<det><def><sp>$ ^tent<n><sg>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^(<lpar>$}$^default<default>{^1<num>$}$ ^n<SN>{^the<det><def><sp>$ ^hour<n><sg>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/u3TN-idaOvBt]
+[u74-KuttqGfC#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^default<default>{^to<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^island<n><sg>$}$ ^v<SV>{^go# out<vblex><pres>$}$ ^j<SA>{^next<adj>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^document<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*qeydkirinê$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/u74-KuttqGfC]
+[uFf0VaeEBHO7#0] ^n<SN>{^the<det><def><sp>$ ^Asylum<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Greece<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/uFf0VaeEBHO7]
+[uQPbJAB57QRw#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^unknown<unknown>{^*bilindbêjê$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/uQPbJAB57QRw]
+[uYiklGTiX1QA#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^Computer<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/uYiklGTiX1QA]
+[uhCaujf7ge5i#0] ^default<default>{^Need<vblex><p3><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^head<n><sg>$}$ ^default<default>{^wash<vblex><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/uhCaujf7ge5i]
+[usWTQ1jp1-rq#0] ^unknown<unknown>{^*Tecawizî$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^default<default>{^make<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/usWTQ1jp1-rq]
+[vGaAfgHQnXhD#0] ^p_d_n<SN>{  ^Sock<n><pl>$}$ ^j<SA>{^dry<adj>$}$ ^default<default>{^make<vblex><prs><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/vGaAfgHQnXhD]
+[vGrgpzCu7Drj#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^Bug<n><sg>$}$ ^default<default>{^at<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$ ^default<default>{^to<pr><@case>$}$ ^v<SV>{ ^give<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/vGrgpzCu7Drj]
+[vIrrUljjREqN#0] ^default<default>{^By<pr><@case>$}$ ^default<default>{^that<cnjsub>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^church<n><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^v<SV>{^can<vbmod><pres>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^head<n><sg>$}$ ^default<default>{^wash<vblex><prs><p1><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/vIrrUljjREqN]
+[vb1G89SvUclj#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*dikixwûm$}$^sent<SENT>{^.<sent>$}$
+[/vb1G89SvUclj]
+[w5Zn0R6ea485#0] ^p_d_n<SN>{ ^a<det><ind><sg>$ ^Thing<n><sg>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^*tamarisk<n><sg>$}$ ^v<SV>{ ^make<vblex><past>$}$^sent<SENT>{^.<sent>$}$
+[/w5Zn0R6ea485]
+[wXXfKuPeN1np#0] ^pers<SN><p2><mf><sg>{^Prpers<prn><subj><p2><mf><sp>$}$ _____ ^v<SV>{^know<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/wXXfKuPeN1np]
+[wfY_FgAHnOZP#0] ^det-nom<SN>{^My<det><pos><sp>$ ^sugar<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/wfY_FgAHnOZP]
+[wv_TVgUQbd3u#0] ^pers<SN><p1><mf><sg>{^Prpers<prn><subj><p1><mf><sg>$}$ ^unknown<unknown>{^*birîndarim$}$^sent<SENT>{^.<sent>$}$
+[/wv_TVgUQbd3u]
+[xFt_EV8LMMMB#0] ^p_d_n<SN>{ ^the<det><def><sp>$ ^money<n><sg>$}$ ^cc<CC>{^and<cnjcoo>$}$ ^det-nom<SN>{^your<det><pos><sp>$ ^money<n><sg>$}$ ^det-nom-of<SN>{^the<det><def><sp>$ ^shame<n><sg>$ ^of<pr>$}$ ^det-nom<SN>{^own<adj><@nmod:poss>$ ^ticket<n><pl>$}$ ^default<default>{^buy<vblex><fut><prs><p1><pl>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/xFt_EV8LMMMB]
+[xHc8JMFwIdSN#0] ^p_d_n<SN>{^to<pr> $  ^Refugee<n><sg>$}$ ^default<default>{^by<pr><@case>$}$ ^top<SN>{^Greece<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/xHc8JMFwIdSN]
+[xhpxE-qhX8_k#0] ^dem<SN><ND>{^This<prn><dem><mf><2>$}$ ^det-nom<SN>{^my<det><pos><sp>$ ^medication<n><sg>$}$ ^cop<SV><COP><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/xhpxE-qhX8_k]
+[yS_N7pGdqSFX#0] ^sent<SENT>{^..<sent>$}$^pers<SN><p2><mf><sg>{^prpers<prn><obj><p2><mf><sp>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/yS_N7pGdqSFX]
+[yZ1tHjIY8lT5#0] ^n<SN>{^the<det><def><sp>$ ^Airplane<n><sg>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/yZ1tHjIY8lT5]
+[z2p9fiq1JIoi#0] ^pers<SN><p2><mf><pl>{^prpers<prn><subj><p2><mf><sp>$}$ ^p_d_n<SN>{ ^a<det><ind><sg>$ ^lawyer<n><sg>$}$ ^v<SV>{^want<vblex><pres>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/z2p9fiq1JIoi]
+[zGu27SDIQrg7#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^doctor<n><pl>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/zGu27SDIQrg7]
+[zR7hF2yzAwLU#0] ^unknown<unknown>{^*Textorek$}$ ^j<SA>{^important<adj>$}$  ^default<default>{^for<pr><@case>$}$ ^pers<SN><p1><mf><sg>{^prpers<prn><obj><p1><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/zR7hF2yzAwLU]
+[zpty7Qv1fRp0#0] ^j<SA>{^necessary<adj><con>$}$ ^default<default>{^that<det><dem><f><sg><obl><@det>$}$ ^default<default>{^at<pr><@case>$}$ ^p_d_n<SN>{ ^the<det><def><sp>$ ^help<n><sg>$}$ ^v<SV>{^have<vbhaver><pres><p3><sg>$}$^sent<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/zpty7Qv1fRp0]
+[zyeRcrMokXDo#0] ^det-nom-of<SN>{^the<det><def><sp>$ ^reference<n><sg>$ ^of<pr>$}$ ^unknown<unknown>{^*penabertiyê$}$^sent<SENT>{^.<sent>$}$
+[/zyeRcrMokXDo]

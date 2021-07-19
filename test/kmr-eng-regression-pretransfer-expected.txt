@@ -1,0 +1,70 @@
+[-NtdsTqAlNBu#0] ^Zarok<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^birçî<adj><pst>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/-NtdsTqAlNBu]
+[0NcAXUP6cp2f#0] ^Roj<n><f><sg><nom><ind>$^.<sent><@punct>$
+[/0NcAXUP6cp2f]
+[2d16SoeH41eg#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^xemgîn<adj><pst>$ ^bûn<vbcop><pri><p1><sg><@cop>$^.<sent><@punct>$
+[/2d16SoeH41eg]
+[2xGD5ZmgUfQ6#0] ^Keç<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>$
+[/2xGD5ZmgUfQ6]
+[4gySDkYeQe7n#0] ^Zarok<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^nexweş<adj><pst>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/4gySDkYeQe7n]
+[6cly7QDzXpT7#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^zanîn<vblex><tv><neg><pri><p1><sg>$^.<sent><@punct>$
+[/6cly7QDzXpT7]
+[9vGPj7f7aPCo#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^karîn<vblex><tv><neg><pri><p1><sg>$ ^dîtin<vblex><tv><prs><p1><sg>$^.<sent><@punct>$
+[/9vGPj7f7aPCo]
+[BBERBvj-qlan#0] ^Ev<prn><dem><mf><sp><nom>$ ^mêr<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/BBERBvj-qlan]
+[CByR46B9JVoR#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^nexweş<adj><pst>$ ^bûn<vbcop><pri><p1><sg><@cop>$^.<sent><@punct>$
+[/CByR46B9JVoR]
+[ErWM_3uzRQ3b#0] ^Ev<prn><dem><mf><sp><nom>$ ^dayîk<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/ErWM_3uzRQ3b]
+[F8-cSlW0SVN3#0] ^Jin<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>$
+[/F8-cSlW0SVN3]
+[FNW7vSHWQBFV#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^goştê beraz<n><m><sg><obl><def><@obj>$ ^xwarin<vblex><tv><neg><pri><p1><sg>$^.<sent><@punct>$
+[/FNW7vSHWQBFV]
+[FtA4YrilgbCs#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^karîn<vblex><tv><neg><pri><p1><sg>$ ^axaftin<vblex><iv><prs><p1><sg>$^.<sent><@punct>$
+[/FtA4YrilgbCs]
+[Io-ZlPw47BiN#0] ^Bibaxişîne<ij>$^.<sent><@punct>$
+[/Io-ZlPw47BiN]
+[LAjv5eOUh-Sw#0] ^hefte<n><f><sg><con><def>$ ^bê<adj><pst><@amod>$^.<sent><@punct>$
+[/LAjv5eOUh-Sw]
+[LOfM6eGUeWn-#0] ^Êvarbaş<ij>$^.<sent><@punct>$
+[/LOfM6eGUeWn-]
+[MqTyeQlRuDPg#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^kêfxweş<adj><pst>$ ^bûn<vbcop><pri><p1><sg><@cop>$^.<sent><@punct>$
+[/MqTyeQlRuDPg]
+[N8Rtt5J5B87V#0] ^Bibore<ij>$^.<sent><@punct>$
+[/N8Rtt5J5B87V]
+[S1NYb-OKPiI9#0] ^Saet<n><f><sg><nom><ind>$^.<sent><@punct>$
+[/S1NYb-OKPiI9]
+[Sr3F86QPU-03#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^alkol<n><f><sg><nom><def>$ ^*venaxwim$^.<sent><@punct>$
+[/Sr3F86QPU-03]
+[VLXO3V0Y7H5O#0] ^Zarok<n><m><pl><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>$
+[/VLXO3V0Y7H5O]
+[VtS4U0qSR2XJ#0] ^Ev<prn><dem><mf><sp><nom>$ ^bav<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/VtS4U0qSR2XJ]
+[bip79wRZnUqG#0] ^Ev<prn><dem><mf><sp><nom>$ ^xweh<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/bip79wRZnUqG]
+[cSZorQgkSmyB#0] ^Bi xatirê te<ij>$^.<sent><@punct>$
+[/cSZorQgkSmyB]
+[c_kkyc3MissQ#0] ^meh<n><f><sg><nom><ind>$^.<sent><@punct>$
+[/c_kkyc3MissQ]
+[cjAKD1F9aSxW#0] ^Ev<prn><dem><mf><sp><nom>$ ^dî<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/cjAKD1F9aSxW]
+[d40maQqvcVNv#0] ^Dembaş<ij>$^.<sent><@punct>$
+[/d40maQqvcVNv]
+[e9K5sNp25Iae#0] ^Law<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$^.<sent><@punct>$
+[/e9K5sNp25Iae]
+[g942T3GlnvpT#0] ^Rojbaş<ij>$^.<sent><@punct>$
+[/g942T3GlnvpT]
+[hmZ2onSSa6q7#0] ^Ev<prn><dem><mf><sp><nom>$ ^xwişk<n><f><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/hmZ2onSSa6q7]
+[jJx_tC_CTizi#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^goşt<n><m><sg><obl><def><@obj>$ ^û<cnjcoo><@cc>$ ^masî<n><f><sg><nom><def>$ ^xwarin<vblex><tv><neg><pri><p1><sg>$^.<sent><@punct>$
+[/jJx_tC_CTizi]
+[jd5Kth08R2bK#0] ^Ez<prn><pers><p1><mf><sg><obl><@nsubj>$ ^fêm kirin<vblex><tv><neg><past><p3><sg>$^.<sent><@punct>$
+[/jd5Kth08R2bK]
+[k3OEOcl-ae1C#0] ^Ez<prn><pers><p1><mf><sg><nom>$ ^ketin<vblex><iv><past><p1><sg>$^.<sent><@punct>$
+[/k3OEOcl-ae1C]
+[t4Cdc52prplR#0] ^Oxir be<ij>$^.<sent><@punct>$
+[/t4Cdc52prplR]
+[zXwfNDRuK8il#0] ^Ev<prn><dem><mf><sp><nom>$ ^bira<n><m><sg><con><def>$ ^ez<prn><pers><p1><mf><sg><obl><@nmod:poss>$ ^bûn<vbcop><pri><p3><sg><@cop>$^.<sent><@punct>$
+[/zXwfNDRuK8il]

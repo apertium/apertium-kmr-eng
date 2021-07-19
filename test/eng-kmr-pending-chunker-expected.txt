@@ -1,0 +1,722 @@
+[-cVMdYpBQP14#0] ^unknown<unknown>{^*It$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^gengaz<adj>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^pitik<n><m><sg>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*breastmilk$}$^sent<SENT>{^.<sent>$}$
+[/-cVMdYpBQP14]
+[-hIFh87w0jIX#0] ^default<default>{^Bibore<ij>$}$^sent<SENT>{^.<sent>$}$
+[/-hIFh87w0jIX]
+[-j-zyqWzyXti#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^tev<adv>$}$ ^default<default>{^bîr<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/-j-zyqWzyXti]
+[-m52LQ3cM5y-#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^tirsandin<vblex><tv><past>$}$^sent<SENT>{^.<sent>$}$
+[/-m52LQ3cM5y-]
+[05FcCX7HfY8Z#0] ^default<default>{^yek<num><sg>$}$ ^default<default>{^saet<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/05FcCX7HfY8Z]
+[0M5xCx5tGAAH#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^axaftin<vblex><iv><inf>$}$^sent<SENT>{^..<sent>$}$
+[/0M5xCx5tGAAH]
+[0VE7GrIBvwOg#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$´^unknown<unknown>{^*t$}$ ^default<default>{^mîstin<vblex><TD><inf>$}$^sent<SENT>{^.<sent>$}$
+[/0VE7GrIBvwOg]
+[0XJQdg004cRk#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^def<n><f><sg>$}$ ^default<default>{^jan<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0XJQdg004cRk]
+[0ZF2OnGtUNV0#0] ^default<default>{^Betenî<n><m><pl>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^unknown<unknown>{^*over$}$ ^default<default>{^wir<adv>$}$^sent<SENT>{^.<sent>$}$
+[/0ZF2OnGtUNV0]
+[0oycUn0WO8_X#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*colic$}$ ^default<default>{^jan<n><f><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^rex<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0oycUn0WO8_X]
+[10Uvls6hRf9Q#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*bipolar$}$ ^unknown<unknown>{^*disorder$}$^sent<SENT>{^.<sent>$}$
+[/10Uvls6hRf9Q]
+[146osc8gSsOG#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hêlan<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^girav<n><f><sg>$}$ ^default<default>{^bêî<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^Tescîl<n><f><sg>$}$ ^default<default>{^Belge<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/146osc8gSsOG]
+[1JMjiTMelK3x#0] ^unknown<unknown>{^*my$}$ ^default<default>{^dot<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/1JMjiTMelK3x]
+[1aew9lL_9tP1#0] ^can<SV><tv><inf><PD><ND>{^Karîn<vblex><tv><inf><4><5>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^arî<n><f><sg>$}$ ^default<default>{^pakîze<adj>$}$ ^unknown<unknown>{^*up$}$^sent<SENT>{^?.<sent>$}$
+[/1aew9lL_9tP1]
+[2I_Mr3XkTXBp#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^nivîsin<vblex><tv><inf>$}$ ^default<default>{^ku<cnjsub>$}$ ^unknown<unknown>{^*down$}$ ^default<default>{^ji<pr>$}$ ^pers<SN><p1><mf><sg><CD>{^ez<prn><pers><p1><mf><sg><5>$}$^sent<SENT>{^?.<sent>$}$
+[/2I_Mr3XkTXBp]
+[2lRb0VTnxjAR#0] ^default<default>{^Êvarbaş<ij>$}$^sent<SENT>{^.<sent>$}$
+[/2lRb0VTnxjAR]
+[2vZiceexAxPR#0] ^unknown<unknown>{^*Chai$}$ ^default<default>{^vîn<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^servîskirin<vblex><tv><pp>$}$^sent<SENT>{^.<sent>$}$
+[/2vZiceexAxPR]
+[30Ba9D8oP3zk#0] ^unknown<unknown>{^*Deportation$}$ ^pr-nom<SADV>{^ve<post>$ ^Rom<np><top><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/30Ba9D8oP3zk]
+[35J2hZLLGucN#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^cop<SN>{^bûn<vbcop><pp>$}$ ^default<default>{^birin<vblex><tv><ger>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^derman<n><m><sg><obl>$}$ ^pr-nom<SADV>{^ji<pr>$ ^sal<n><f><pl><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/35J2hZLLGucN]
+[39U_rIbrzoEL#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*photograph$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*your$}$ ^unknown<unknown>{^*phone$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^grekî<adj>$}$ ^unknown<unknown>{^*documentation$}$^sent<SENT>{^?.<sent>$}$
+[/39U_rIbrzoEL]
+[39rvclf7DkUE#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*diarrhoea$}$^sent<SENT>{^.<sent>$}$
+[/39rvclf7DkUE]
+[3Tzl3L2PRqxH#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^cop<SN>{^bûn<vbcop><pp>$}$ ^unknown<unknown>{^*raped$}$^sent<SENT>{^.<sent>$}$
+[/3Tzl3L2PRqxH]
+[3wT-s_MxqncE#0] ^default<SV>{^Ez<prn><pers><p1><mf><sg><nom>$ ^nexweş<adj><pst>$ ^bûn<vbcop><pri><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/3wT-s_MxqncE]
+[3xbJf5tDuapT#0] ^default<default>{^Şar<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/3xbJf5tDuapT]
+[41IurcoHyVAd#0] ^default<default>{^Dembaş<ij>$}$^sent<SENT>{^.<sent>$}$
+[/41IurcoHyVAd]
+[4C50qnWzlB8L#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*phone$}$ ^default<default>{^an<cnjcoo>$}$ ^unknown<unknown>{^*viber$}$ ^default<default>{^nimre<n><f><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^meriv<n><m><sg>$}$ ^unknown<unknown>{^*missing$}$^sent<SENT>{^?.<sent>$}$
+[/4C50qnWzlB8L]
+[4DdOBy88_UtC#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*stung$}$ ^default<default>{^li<pr>$}$ ^unknown<unknown>{^*an$}$ ^default<default>{^kêz<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4DdOBy88_UtC]
+[4VPOW5JQjGJt#0] ^default<default>{^BERG<n><m>$}$ ^unknown<unknown>{^*DISTRIBUTION$}$^sent<SENT>{^.<sent>$}$
+[/4VPOW5JQjGJt]
+[4mEXAzKKotKp#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^hîç<adv>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^jan<n><f><sg><obl>$}$ ^default<default>{^li ber<pr>$}$^sent<SENT>{^.<sent>$}$
+[/4mEXAzKKotKp]
+[4nyYbXrO25ax#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^zekem<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4nyYbXrO25ax]
+[4ux0ssdgfJrr#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^kirin<vblex><tv><pres>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^xwarin<vblex><tv><inf>$}$ ^default<default>{^goştê beraz<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4ux0ssdgfJrr]
+[518SM4WvfK_b#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^default<default>{^aş<n><m><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^qehwe<n><f><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^çay<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/518SM4WvfK_b]
+[5Q4qohsQp8ye#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*wheezing$}$^sent<SENT>{^.<sent>$}$
+[/5Q4qohsQp8ye]
+[5RYvF6juuSrP#0] ^default<default>{^KIRIN<vblex><tv><inf>$}$ ^default<default>{^NE<adv><neg>$}$ ^default<default>{^PÊVE KIRIN<vblex><tv><inf>$}$ ^default<default>{^AV<n><f><sg>$}$ ^default<default>{^VE<post>$}$ ^det-nom<SN>{^EV<det><dem><sg>$ ^BERHEM<n><f><sg><obl>$}$^sent<SENT>{^.<sent>$}$
+[/5RYvF6juuSrP]
+[5SGF3jYsUOga#0] ^default<default>{^Kirin<vblex><tv><pres><p3><sg>$}$ ^unknown<unknown>{^*anyone$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^grûb<n><f><sg>$}$ ^unknown<unknown>{^*require$}$ ^unknown<unknown>{^*medical$}$ ^default<default>{^pax<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/5SGF3jYsUOga]
+[63cb9i1vMWmy#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^default<default>{^zarok<n><pl>$}$ ^default<default>{^di<pr>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$^sent<SENT>{^?.<sent>$}$
+[/63cb9i1vMWmy]
+[6DCyxFCYrgSr#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^made<n><f><sg>$}$ ^default<default>{^êşîn<vblex><iv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/6DCyxFCYrgSr]
+[76OXPQl2TS8F#0] ^default<default>{^Herdu<det><ind><pl>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*them$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^hemta<adj>$}$ ^unknown<unknown>{^*pricing$}$ ^default<default>{^rêzanî<n><f><sg>$}$^sent<SENT>{^:.<sent>$}$
+[/76OXPQl2TS8F]
+[77uA9ajcXAyz#0] ^unknown<unknown>{^*The$}$ ^default<default>{^jan<n><f><sg>$}$ ^unknown<unknown>{^*started$}$ ^unknown<unknown>{^*gradually$}$^sent<SENT>{^.<sent>$}$
+[/77uA9ajcXAyz]
+[7AsQaAr_OJ9y#0] ^default<default>{^LAZIM<adj>$}$ ^default<default>{^QEWÎTÎ<n><f><sg>$}$^sent<SENT>{^:<sent>$}$ ^unknown<unknown>{^*A$}$ ^default<default>{^mak<n><f><sg>$}$^default<default>{^hebûn<vbhaver><pres><p3><sg>$}$ ^unknown<unknown>{^*breastmilk$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^baş<adj><sup>$}$ ^default<default>{^aş<n><m><sg>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*her$}$ ^unknown<unknown>{^*infant$}$^sent<SENT>{^.<sent>$}$
+[/7AsQaAr_OJ9y]
+[7TjQfxS68p1_#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p1><sg>$}$ ^default<default>{^heter kirin<vblex><tv><pp>$}$^sent<SENT>{^.<sent>$}$
+[/7TjQfxS68p1_]
+[7U5R0Q6mLHHg#0] ^default<default>{^Firrgeh<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/7U5R0Q6mLHHg]
+[7Ugg4-_QVJL7#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^dîtin<vblex><tv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/7Ugg4-_QVJL7]
+[7WJ4pzhe7uZb#0] ^default<SV>{^Ez<prn><pers><p1><mf><sg><nom>$ ^tî<adj><sint><pst>$ ^bûn<vbcop><pri><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/7WJ4pzhe7uZb]
+[7kJ9qxGgl3-X#0] ^default<default>{^Qasî<pr>$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^5<num>$}$^unknown<unknown>{^*th$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^Pûşper<n><f><sg>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^heya<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^paşî<n><f><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*Ramadan$}$ ^default<default>{^Mudet<n><m><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^5<num>$}$^unknown<unknown>{^*th$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*July$}$^default<default>{^,<cm>$}$ ^default<default>{^taşt<n><f><sg>$}$ ^default<default>{^vîn<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^servîskirin<vblex><tv><pp>$}$ ^pr-nom<SADV>{^di<pr>$ ^şîv<n><f><sg><obl><def>$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^19.00<num>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*while$}$ ^default<default>{^navroj<n><f><sg>$}$ ^default<default>{^vîn<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^servîskirin<vblex><tv><pp>$}$ ^default<default>{^qasî<pr>$}$ ^default<default>{^giştî<adj>$}$^sent<SENT>{^.<sent>$}$
+[/7kJ9qxGgl3-X]
+[7sZKLpDySLXB#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^verişîn<n><f><sg>$}$ ^unknown<unknown>{^*up$}$ ^default<default>{^tev<adv>$}$ ^default<default>{^aş<n><m><sg>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^vexwarin<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/7sZKLpDySLXB]
+[80mHn8BkAKxI#0] ^unknown<unknown>{^*my$}$ ^default<default>{^pitik<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/80mHn8BkAKxI]
+[83hnxOJ1Kg0J#0] ^unknown<unknown>{^*Chios$}$ – ^unknown<unknown>{^*Kavala$}$^sent<SENT>{^.<sent>$}$
+[/83hnxOJ1Kg0J]
+[8QpYCK8YgCCx#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$^sent<SENT>{^.<sent>$}$
+[/8QpYCK8YgCCx]
+[8Yu7eo2Ps3qC#0] ^unknown<unknown>{^*elderly$}$ ^default<default>{^meriv<n><m><pl>$}$^default<default>{^,<cm>$}$^sent<SENT>{^.<sent>$}$
+[/8Yu7eo2Ps3qC]
+[8iGw5cgrRTDN#0] ^default<default>{^Qehwe<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8iGw5cgrRTDN]
+[9-Fp8ky1d1p8#0] ^unknown<unknown>{^*My$}$ ^default<default>{^zarok<n><sg>$}$ ^default<default>{^hebûn<vbhaver><pres><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*sore$}$ ^default<default>{^kuxîn<vblex><iv><pres>$}$^sent<SENT>{^.<sent>$}$
+[/9-Fp8ky1d1p8]
+[9Rvq1IjhS2Vq#0] ^default<default>{^Şikir<n><f>$}$^sent<SENT>{^.<sent>$}$
+[/9Rvq1IjhS2Vq]
+[9Uh-1LNTpR1S#0] ^unknown<unknown>{^*Somebody$}$ ^default<default>{^lêxistin<vblex><TD><past>$}$ ^pers<SN><p1><mf><sg><CD>{^ez<prn><pers><p1><mf><sg><5>$}$^sent<SENT>{^.<sent>$}$
+[/9Uh-1LNTpR1S]
+[9exNQZvzEqVE#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^bikaranîn<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^botl<n><f><sg>$}$^sent<SENT>{^.<sent>$}$ ^default<default>{^Bikaranîn<vblex><tv><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^pakîze<adj>$}$ ^default<default>{^kas<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/9exNQZvzEqVE]
+[9xq4uhekUzr0#0] ^unknown<unknown>{^*My$}$ ^default<default>{^dil<n><m><sg>$}$ ^default<default>{^kutan<n><f><pl>$}$ ^unknown<unknown>{^*irregular$}$^sent<SENT>{^.<sent>$}$
+[/9xq4uhekUzr0]
+[A0JMzPeEdYn0#0] ^unknown<unknown>{^*My$}$ ^sent<SENT>{^.<sent>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*paralysed$}$^sent<SENT>{^.<sent>$}$
+[/A0JMzPeEdYn0]
+[A1X5OltON2gd#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^birin<vblex><tv><pres>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^derman<n><m><sg><obl>$}$ ^det-nom<SN>{^roj<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/A1X5OltON2gd]
+[A3uCHOYT4bh6#0] ^default<default>{^Kirin<vblex><tv><pres><p3><sg>$}$ ^unknown<unknown>{^*anyone$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^grûb<n><f><sg>$}$ ^default<default>{^axaftin<vblex><iv><pres>$}$ ^default<default>{^îngilîzî<adj>$}$^sent<SENT>{^?.<sent>$}$
+[/A3uCHOYT4bh6]
+[A6Y5THW2exH3#0] ^default<default>{^Berg<n><m><sg>$}$ ^default<default>{^(<lpar>$}$^default<default>{^tenê<adv>$}$ ^default<default>{^ji<pr>$}$ ^default<default>{^şil kirin<vblex><tv><pp>$}$ ^default<default>{^meriv<n><m><pl>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/A6Y5THW2exH3]
+[AMmMQxY8yJyh#0] ^default<default>{^Pîvan<n><f><pl>$}$ ^default<default>{^ji<pr>$}$ ^default<default>{^Jêrîn<adj>$}$ ^default<default>{^Sitar<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/AMmMQxY8yJyh]
+[AV0rFQSebrbT#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^zanîn<vblex><tv><pres>$}$^sent<SENT>{^.<sent>$}$
+[/AV0rFQSebrbT]
+[AmRMAvNzDNtH#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*photograph$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^grekî<adj>$}$ ^default<default>{^belge<n><f><pl>$}$^sent<SENT>{^?.<sent>$}$
+[/AmRMAvNzDNtH]
+[AtndzyHwbI-F#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$'^unknown<unknown>{^*t$}$ ^default<default>{^axaftin<vblex><iv><pres>$}$ ^default<default>{^(<lpar>$}$^default<default>{^îngilîzî<adj>$}$^default<default>{^)<rpar>$}$ ^default<default>{^gelek<preadv>$}$ ^default<default>{^bîr<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/AtndzyHwbI-F]
+[AwNShgKk_uKC#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^serêş<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/AwNShgKk_uKC]
+[B5JxnBTVebiC#0] ^cop<SN>{^Bûn<vbcop><imp>$}$ ^default<default>{^alî<n><m><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*relocation$}$ ^default<default>{^pêvajo<n><f><sg>$}$ ^default<default>{^lê<cnjcoo>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^paşî<n><f><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^hed<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/B5JxnBTVebiC]
+[BFlxh5DNmRxg#0] ^unknown<unknown>{^*It$}$ ^default<default>{^êşandin<vblex><tv><pres><p3><sg>$}$ ^default<default>{^vir<adv>$}$^sent<SENT>{^.<sent>$}$
+[/BFlxh5DNmRxg]
+[BNxmouqPYFsN#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^kara<adj>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^nivîsin<vblex><tv><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^nav<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/BNxmouqPYFsN]
+[Bl3hcHUoGQqE#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^fahmkirin<vblex><tv><pres>$}$^sent<SENT>{^.<sent>$}$
+[/Bl3hcHUoGQqE]
+[By01VJ-Bkp9P#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^xwestin<vblex><tv><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^man<vblex><iv><inf>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^zarok<n><pl>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^famîle<n><pl>$}$' ^default<default>{^navend<n><sg>$}$ ^unknown<unknown>{^*tonight$}$^sent<SENT>{^?.<sent>$}$
+[/By01VJ-Bkp9P]
+[C75gSBpxaTUB#0] ^default<default>{^Çi<prn><itg><mf><sp>$}$ ^default<default>{^qewimin<vblex><iv><past>$}$^sent<SENT>{^?.<sent>$}$
+[/C75gSBpxaTUB]
+[CFjALpIWyYUO#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^avis<adj>$}$^sent<SENT>{^.<sent>$}$
+[/CFjALpIWyYUO]
+[CTLOQtkvAhgo#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^beş<n><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^hay<n><f><sg>$}$ ^default<default>{^di<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^hevkar<n><m><pl>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^bê<adj>$}$ ^default<default>{^trên<n><f><sg>$}$ ^default<default>{^rawestandin<vblex><tv><inf>$}$ ^default<default>{^wisa<adv>$}$ ^pers<SN><p1><mf><pl><CD>{^ez<prn><pers><p1><mf><pl><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^unknown<unknown>{^*provide$}$ ^default<default>{^raje<n><f><pl>$}$ ^default<default>{^ji<pr>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^wir<adv>$}$^sent<SENT>{^?.<sent>$}$
+[/CTLOQtkvAhgo]
+[Cpi1pZJX41eG#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^zekem<n><f><sg>$}$ ^unknown<unknown>{^*sweat$}$^sent<SENT>{^.<sent>$}$
+[/Cpi1pZJX41eG]
+[D-howE2Py_Xr#0] ^default<default>{^Pirsîn<vblex><TD><imp>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^tercuman<n><m><sg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*discuss$}$ ^default<default>{^famîle<n><sg>$}$ ^default<default>{^arîşe<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/D-howE2Py_Xr]
+[D5eUOhxQnUGF#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^êşandin<vblex><tv><past>$}$^sent<SENT>{^?.<sent>$}$
+[/D5eUOhxQnUGF]
+[DC-34x6GqlIx#0] ^default<SV>{^Ez<prn><pers><p1><mf><sg><nom>$ ^dama<adj><pst>$ ^bûn<vbcop><pri><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/DC-34x6GqlIx]
+[DOPvRI4vmIpN#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^axaftin<vblex><iv><inf>$}$ ^default<default>{^îngilîzî<adj>$}$^sent<SENT>{^?.<sent>$}$
+[/DOPvRI4vmIpN]
+[DUk1Nz6k1DXN#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^arî<n><f><sg>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^pakîze<adj>$}$^sent<SENT>{^?.<sent>$}$
+[/DUk1Nz6k1DXN]
+[DcsrjRqNgep1#0] ^unknown<unknown>{^*Once$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^ibtida<n><f><sg>$}$ ^default<default>{^bikaranîn<vblex><tv><ger>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^şîr<n><m><sg><obl>$}$ ^unknown<unknown>{^*it$}$ ^unknown<unknown>{^*might$}$ ^default<default>{^ne<adv><neg>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^rehet<adj>$}$ ^pr-nom<SADV>{^ve<post>$ ^ibtida<n><f><sg><obl><def>$}$ ^unknown<unknown>{^*breastfeeding$}$ ^default<default>{^dîsan<adv>$}$^sent<SENT>{^.<sent>$}$
+[/DcsrjRqNgep1]
+[DtGfvYUDNtBq#0] ^unknown<unknown>{^*My$}$ ^default<default>{^mîz<n><f><sg>$}$ ^default<default>{^bêhn<n><f><pl>$}$ ^default<default>{^bed<adj>$}$^sent<SENT>{^.<sent>$}$
+[/DtGfvYUDNtBq]
+[Du3TneOZvIoF#0] ^unknown<unknown>{^*My$}$ ^sent<SENT>{^.<sent>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^bêhal<adj>$}$^sent<SENT>{^.<sent>$}$
+[/Du3TneOZvIoF]
+[E1EMi3tFcGmT#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*temperature$}$^sent<SENT>{^.<sent>$}$
+[/E1EMi3tFcGmT]
+[E6_9CGQeRN8x#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*raped$}$^sent<SENT>{^.<sent>$}$
+[/E6_9CGQeRN8x]
+[EAho--SC7yUz#0] ^det-nom<SN>{^Ev<det><dem><sg>$ ^berhem<n><f><sg><obl>$}$ ^unknown<unknown>{^*must$}$ ^default<default>{^ne<adv><neg>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^bikaranîn<vblex><tv><pp>$}$ ^pr-nom<SADV>{^piştî<pr>$ ^qesp<n><f><sg><obl><def>$}$ ^default<default>{^çapkirin<vblex><tv><pp>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^bin<n><m><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^pîl<n><m><sg>$}$\/^default<default>{^col<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/EAho--SC7yUz]
+[EAsRVvHJqusl#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*photocopy$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^belge<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/EAsRVvHJqusl]
+[ECP43oD9yk7u#0] ^default<default>{^KIRIN<vblex><tv><inf>$}$ ^default<default>{^NE<adv><neg>$}$ ^default<default>{^qetandin<vblex><tv><pp>$}$ ^default<default>{^kifş<adj>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^kul<n><f><sg>$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^hewldan<vblex><tv><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^jêkirin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*venom$}$^sent<SENT>{^.<sent>$}$
+[/ECP43oD9yk7u]
+[EfiSikrcaGWb#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^fahmkirin<vblex><tv><inf>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^zar<n><m><sg><obl>$}$^sent<SENT>{^?.<sent>$}$
+[/EfiSikrcaGWb]
+[Ek6yc_mgpHDj#0] ^pers<SN><p2><mf><sg><CD>{^Tu<prn><pers><p2><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^unknown<unknown>{^*welcome$}$^sent<SENT>{^.<sent>$}$
+[/Ek6yc_mgpHDj]
+[EvZOiehCrUrW#0] ^default<default>{^Guverte<n><f><sg>$}$^sent<SENT>{^:<sent>$}$ € ^default<default>{^41,5<num>$}$^sent<SENT>{^.<sent>$}$
+[/EvZOiehCrUrW]
+[FTT1cvb-yvOd#0] ^default<default>{^Pîvan<n><f><pl>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*Humanitarian$}$ ^unknown<unknown>{^*Residency$}$ ^unknown<unknown>{^*permit$}$^sent<SENT>{^.<sent>$}$
+[/FTT1cvb-yvOd]
+[FWmILbCd7Rzg#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*access$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*computer$}$^sent<SENT>{^?.<sent>$}$
+[/FWmILbCd7Rzg]
+[Fh7UvUiyzKKx#0] ^default<default>{^Wir<adv>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*medical$}$ ^default<default>{^eql<n><m><sg>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*breastfeed$}$^sent<SENT>{^.<sent>$}$
+[/Fh7UvUiyzKKx]
+[Fx1swm7y8dKP#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^zanîn<vblex><tv><inf>$}$ ^det-nom<SN>{^kîjan<det><itg><sp>$ ^grûb<n><f><sg><obl>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^default<default>{^bi<pr>$}$^sent<SENT>{^?.<sent>$}$
+[/Fx1swm7y8dKP]
+[GE_dWfKFIf1F#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^ramîn<vblex><TD><pres>$}$ ^pr-nom<SADV>{^li ser<pr>$ ^xwekujî<n><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/GE_dWfKFIf1F]
+[GbgJ9QOY6EvK#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^unknown<unknown>{^*frightened$}$^sent<SENT>{^.<sent>$}$
+[/GbgJ9QOY6EvK]
+[GsY7tFUB2RnR#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^kuxîn<vblex><iv><ger>$}$ ^unknown<unknown>{^*up$}$ ^unknown<unknown>{^*sputum$}$^sent<SENT>{^.<sent>$}$
+[/GsY7tFUB2RnR]
+[Gyxo2wCba4gs#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hewldan<vblex><tv><inf>$}$ ^pr-nom<SADV>{^ve<post>$ ^bizav<n><f><sg><obl><def>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*another$}$ ^default<default>{^alî<n><m><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^welat<n><f><sg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*avoid$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^arîşe<n><f><pl>$}$^sent<SENT>{^?.<sent>$}$
+[/Gyxo2wCba4gs]
+[H8UUTWU1XHb2#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^polîs<n><f><pl>$}$ ^unknown<unknown>{^*tell$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^trên<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/H8UUTWU1XHb2]
+[HT68pYBjUbNl#0] ^default<default>{^Kirîn<vblex><tv><imp>$}$ ^default<default>{^bilêt<n><f><pl>$}$ ^pr-nom<SADV>{^bi<pr>$ ^pêşî<n><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/HT68pYBjUbNl]
+[HynyAf8ohbkP#0] ^default<default>{^Ev<det><dem><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^derman<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/HynyAf8ohbkP]
+[Hz9VIgZKQjRB#0] ^pers<SN><p2><mf><sg><CD>{^Tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^fahmkirin<vblex><tv><pres>$}$ ^default<default>{^tev<adv>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^dîrektîv<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/Hz9VIgZKQjRB]
+[I814kWwU5yzd#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*freezing$}$^sent<SENT>{^.<sent>$}$
+[/I814kWwU5yzd]
+[IB6kPZKa2QmR#0] ‘^unknown<unknown>{^*Serious$}$ ^default<default>{^ziyan<n><f><sg>$}$’ ^default<default>{^pergal<n><pl>$}$^sent<SENT>{^:.<sent>$}$
+[/IB6kPZKa2QmR]
+[IKeVUbcuQyJb#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^kuxîn<vblex><iv><ger>$}$ ^unknown<unknown>{^*up$}$ ^default<default>{^xwîn<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/IKeVUbcuQyJb]
+[IVKULBdpuglB#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*asthma$}$^sent<SENT>{^.<sent>$}$
+[/IVKULBdpuglB]
+[IkHRoRheNqom#0] ^unknown<unknown>{^*Where$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^dagirtin<vblex><tv><inf>$}$ ^default<default>{^ev<det><dem><sg>$}$ ^unknown<unknown>{^*prescription$}$^sent<SENT>{^?.<sent>$}$
+[/IkHRoRheNqom]
+[IsDAyQSw_nlx#0] ^unknown<unknown>{^*my$}$ ^default<default>{^zarok<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/IsDAyQSw_nlx]
+[ItRFhBxAkOdu#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^jan<n><f><sg>$}$ ^default<default>{^gava<cnjsub>$}$ ^default<default>{^mîstin<vblex><TD><ger>$}$^sent<SENT>{^.<sent>$}$
+[/ItRFhBxAkOdu]
+[Iv9YBpx_lRwO#0] ^unknown<unknown>{^*Where$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^kok<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/Iv9YBpx_lRwO]
+[JKshymwdP0RY#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^gazin<n><f><sg>$}$ ^unknown<unknown>{^*your$}$ ^unknown<unknown>{^*phone$}$ ^default<default>{^vir<adv>$}$^sent<SENT>{^.<sent>$}$
+[/JKshymwdP0RY]
+[JZR7S3uHLWYR#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^nivîn<vblex><iv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/JZR7S3uHLWYR]
+[JifMvYbsWM1T#0] ^cop<SN>{^Bûn<vbcop><pri><p3><sg>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^aş<n><m><sg><obl>$}$ ^default<default>{^Helal<adj>$}$^sent<SENT>{^?.<sent>$}$
+[/JifMvYbsWM1T]
+[K2h9timLYp07#0] ^default<default>{^Oxir be<ij>$}$^sent<SENT>{^.<sent>$}$
+[/K2h9timLYp07]
+[KOPLmrEZP_rP#0] ^unknown<unknown>{^*It$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^kone<adj>$}$ ^default<default>{^jan<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/KOPLmrEZP_rP]
+[Kn7iWMHz3E47#0] ^unknown<unknown>{^*It$}$ ^default<default>{^êşandin<vblex><tv><pres><p3><sg>$}$ ^default<default>{^gava<cnjsub>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*touch$}$ ^unknown<unknown>{^*it$}$^sent<SENT>{^.<sent>$}$
+[/Kn7iWMHz3E47]
+[Kp14QA6SSt7Y#0] ^default<SV>{^Ez<prn><pers><p1><mf><sg><nom>$ ^birçî<adj><pst>$ ^bûn<vbcop><pri><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Kp14QA6SSt7Y]
+[LA0SYTIOa6Pf#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^polîs<n><f><pl>$}$ ^unknown<unknown>{^*tell$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*taxi$}$^sent<SENT>{^?.<sent>$}$
+[/LA0SYTIOa6Pf]
+[LBrFN0b3-4dS#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^xwestin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^parêzer<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/LBrFN0b3-4dS]
+[LK10Zi_j4SYl#0] ^default<default>{^Kirin<vblex><tv><pres><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^perav<n><f><sg>$}$ ^default<default>{^bêgavî<n><f><sg>$}$ ^default<default>{^pakîze<adj>$}$ ^unknown<unknown>{^*up$}$^sent<SENT>{^?.<sent>$}$
+[/LK10Zi_j4SYl]
+[LQbJ3yoRplh-#0] ^unknown<unknown>{^*Departure$}$ ^unknown<unknown>{^*Point$}$^sent<SENT>{^.<sent>$}$
+[/LQbJ3yoRplh-]
+[LWsH5LxNcIHX#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^bergind<n><f><sg>$}$ ^default<default>{^hêj<adv>$}$ ^unknown<unknown>{^*than$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^diyarkirin<vblex><tv><pp>$}$ ^default<default>{^nirx<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/LWsH5LxNcIHX]
+[LYvX2btfhbpk#0] ^default<default>{^Merheba<ij>$}$^sent<SENT>{^.<sent>$}$
+[/LYvX2btfhbpk]
+[M6969AW8Ne6j#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*gets$}$ ^default<default>{^bed<adj><comp>$}$ ^default<default>{^gava<cnjsub>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^nivîn<vblex><iv><pres>$}$^sent<SENT>{^.<sent>$}$
+[/M6969AW8Ne6j]
+[MHfKv6hdFmP6#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*constipation$}$^sent<SENT>{^.<sent>$}$
+[/MHfKv6hdFmP6]
+[MR4uCNH3tHeK#0] ^unknown<unknown>{^*Where$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$^sent<SENT>{^.?.<sent>$}$
+[/MR4uCNH3tHeK]
+[MdnmzcosMrDl#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^jan<n><f><sg><obl>$}$ ^default<default>{^li ber<pr>$}$^sent<SENT>{^.<sent>$}$
+[/MdnmzcosMrDl]
+[MiR9N3SLM5Wp#0] ^unknown<unknown>{^*Where$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*pray$}$^sent<SENT>{^?.<sent>$}$
+[/MiR9N3SLM5Wp]
+[MiZA9rxSkU95#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^alozî<n><f><sg>$}$ ^default<default>{^henase<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/MiZA9rxSkU95]
+[MqQJXTYakU_c#0] ^unknown<unknown>{^*My$}$ ^sent<SENT>{^.<sent>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*tingling$}$^sent<SENT>{^.<sent>$}$
+[/MqQJXTYakU_c]
+[MqZmBAgGtg8-#0] ^unknown<unknown>{^*It$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*dull$}$ ^default<default>{^jan<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/MqZmBAgGtg8-]
+[N1D-qcQf_0NC#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*sore$}$ ^default<default>{^gewrî<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/N1D-qcQf_0NC]
+[NKA0kPBBNPhW#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*HIV$}$^sent<SENT>{^.<sent>$}$
+[/NKA0kPBBNPhW]
+[Np5pm40Gt6Xg#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^ketin<vblex><iv><past>$}$ ^default<default>{^jê<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^berzî<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Np5pm40Gt6Xg]
+[NyL9kvZue7Sk#0] ^default<default>{^Hatin<vblex><iv><imp>$}$ ^unknown<unknown>{^*over$}$ ^default<default>{^vir<adv>$}$^sent<SENT>{^!.<sent>$}$
+[/NyL9kvZue7Sk]
+[OA_qEEphhc34#0] ^unknown<unknown>{^*Arrange$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^pêşwazîkirin<vblex><tv><pprs>$}$ ^unknown<unknown>{^*point$}$^sent<SENT>{^.<sent>$}$
+[/OA_qEEphhc34]
+[OXRPGgfVUDcM#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*receive$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^betenî<n><m><sg>$}$ ^default<default>{^an<cnjcoo>$}$ ^default<default>{^germ<adj>$}$ ^default<default>{^berg<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/OXRPGgfVUDcM]
+[Oat03cLfkJ_j#0] ^unknown<unknown>{^*The$}$ ^default<default>{^jan<n><f><sg>$}$ ^unknown<unknown>{^*started$}$ ^default<default>{^vir<adv>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^çûn<vblex><iv><pres><p3><sg>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^vir<adv>$}$^sent<SENT>{^.<sent>$}$
+[/Oat03cLfkJ_j]
+[OhX_Us3-3G7d#0] ^default<default>{^Çi<prn><itg><mf><sp>$}$ ^default<default>{^kat<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*it$}$^sent<SENT>{^?.<sent>$}$
+[/OhX_Us3-3G7d]
+[OmdFNWS6MxPR#0] ^default<default>{^Tedawil<n><f><sg>$}$ ^default<default>{^werdan<n><f><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*Chios$}$ ^default<default>{^Bank<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/OmdFNWS6MxPR]
+[OseQxnKUg-0M#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^vîn<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^par<n><f><sg>$}$ ^unknown<unknown>{^*soon$}$^sent<SENT>{^.<sent>$}$
+[/OseQxnKUg-0M]
+[Osjy5AR5OCt6#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^unknown<unknown>{^*ill$}$^sent<SENT>{^.<sent>$}$
+[/Osjy5AR5OCt6]
+[Ou_v_BbiOaB8#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^kara<adj>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^nivîsin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^nav<n><m><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^meriv<n><m><sg>$}$ ^unknown<unknown>{^*missing$}$^sent<SENT>{^?.<sent>$}$
+[/Ou_v_BbiOaB8]
+[P8jGXK3fILYV#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^dama<adj>$}$^sent<SENT>{^.<sent>$}$
+[/P8jGXK3fILYV]
+[PDX1YxBhT7jC#0] ^default<default>{^Pena<n><f><sg>$}$ ^pr-nom<SADV>{^li<pr>$ ^Yewnan<np><top><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/PDX1YxBhT7jC]
+[PS3xHP3zJpjK#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^teb<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/PS3xHP3zJpjK]
+[PttgwO7mmpUC#0] ^default<default>{^Ev<det><dem><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^mak<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/PttgwO7mmpUC]
+[Pyqj9juGsrTH#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^pêjin<n><f><sg>$}$ ^unknown<unknown>{^*dizzy$}$^sent<SENT>{^?.<sent>$}$
+[/Pyqj9juGsrTH]
+[Pz8vpPURUWEm#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*planning$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*apply$}$ ^pr-nom<SADV>{^ji<pr>$ ^pena<n><f><sg><obl><def>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*fYR$}$ ^default<default>{^Makedonya<np><top><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/Pz8vpPURUWEm]
+[Q3_ZY0KO0hZ1#0] ^default<SV>{^Ez<prn><pers><p1><mf><sg><nom>$ ^mesûd<adj><pst>$ ^bûn<vbcop><pri><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Q3_ZY0KO0hZ1]
+[Q5HMqE9Xm-7a#0] ^unknown<unknown>{^*It$}$ ^default<default>{^jixwe<adv>$}$ ^default<default>{^hebûn<vbhaver><pres><p3><sg>$}$ ^default<default>{^temîz<adj>$}$ ^default<default>{^av<n><f><sg>$}$ ^default<default>{^pêve kirin<vblex><tv><past>$}$^sent<SENT>{^:<sent>$}$ ^unknown<unknown>{^*it$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^hewce<adj>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^pêve kirin<vblex><tv><inf>$}$ ^default<default>{^av<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Q5HMqE9Xm-7a]
+[QCwokCp1xEwb#0] ^default<default>{^Berg<n><m>$}$ ^default<default>{^TENÊ<adv>$}$ ^default<default>{^ji<pr>$}$ ^default<default>{^şil kirin<vblex><tv><pp>$}$ ^default<default>{^meriv<n><m><pl>$}$^sent<SENT>{^.<sent>$}$
+[/QCwokCp1xEwb]
+[QIF35yWmRpnE#0] ^unknown<unknown>{^*Hold$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^pitik<n><m><sg>$}$ ^default<default>{^nêz<adj>$}$ ^default<default>{^ve<post>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^berdan<vblex><tv><past>$}$ ^unknown<unknown>{^*him$}$\/^unknown<unknown>{^*her$}$ ^unknown<unknown>{^*sip$}$ ^unknown<unknown>{^*slowly$}$^sent<SENT>{^.<sent>$}$
+[/QIF35yWmRpnE]
+[QLpUP5lD1ixJ#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*any$}$ ^unknown<unknown>{^*other$}$ ^unknown<unknown>{^*documentation$}$ ^default<default>{^ku<cnjsub>$}$ ^default<default>{^şow<n><f><pl>$}$ ^unknown<unknown>{^*your$}$ ^unknown<unknown>{^*nationality$}$^sent<SENT>{^?.<sent>$}$
+[/QLpUP5lD1ixJ]
+[Qp1M8qdt6Ojg#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^rehet<adj>$}$ ^default<default>{^man<vblex><iv><subs>$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^ev<det><dem><sg>$}$ ^unknown<unknown>{^*site$}$ ^default<default>{^îroj<adv>$}$^sent<SENT>{^?.<sent>$}$
+[/Qp1M8qdt6Ojg]
+[QrN-8lZOubaR#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^default<default>{^ev<det><dem><pl>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^zarok<n><pl>$}$^sent<SENT>{^?.<sent>$}$
+[/QrN-8lZOubaR]
+[QspVqdJVIiD_#0] ^unknown<unknown>{^*Where$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^mêtro<n><f><sg>$}$\/^default<default>{^binax<adj>$}$^sent<SENT>{^?.<sent>$}$
+[/QspVqdJVIiD_]
+[R5jfHFJpgyDe#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^weke<pr>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$^sent<SENT>{^.<sent>$}$
+[/R5jfHFJpgyDe]
+[R5mF1seGJLwF#0] ^default<default>{^Kirin<vblex><tv><pres><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^meriv<n><m><sg>$}$ ^unknown<unknown>{^*missing$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*your$}$ ^unknown<unknown>{^*phone$}$ ^default<default>{^an<cnjcoo>$}$ ^unknown<unknown>{^*viber$}$ ^default<default>{^nimre<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/R5mF1seGJLwF]
+[RAA3e58r74YK#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^unknown<unknown>{^*keep$}$ ^unknown<unknown>{^*leftover$}$ ^default<default>{^şîr<n><m><sg>$}$ ^default<default>{^ji<pr>$}$ ^default<default>{^hêj<adv>$}$ ^unknown<unknown>{^*than$}$ ^default<default>{^1<num>$}$ ^default<default>{^saet<n><f><sg>$}$ – ^unknown<unknown>{^*it$}$ ^default<default>{^vîn<n><f><sg>$}$ ^unknown<unknown>{^*become$}$ ^default<default>{^napak<adj>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^zererdar<adj>$}$^sent<SENT>{^.<sent>$}$
+[/RAA3e58r74YK]
+[RHHd1xBeGCaI#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^dû<n><m><sg>$}$ ^default<default>{^hundur<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RHHd1xBeGCaI]
+[RKRmJTWcHYfk#0] ^default<default>{^Dêr<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RKRmJTWcHYfk]
+[RLRTbT0f6PL1#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$ ^default<default>{^jê<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^zotik<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RLRTbT0f6PL1]
+[RPO87-xOmbbm#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^unknown<unknown>{^*medical$}$ ^default<default>{^pax<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/RPO87-xOmbbm]
+[RV1OYe3gvx8X#0] ^unknown<unknown>{^*The$}$ ^default<default>{^jan<n><f><sg>$}$ ^unknown<unknown>{^*started$}$ ^unknown<unknown>{^*suddenly$}$^sent<SENT>{^.<sent>$}$
+[/RV1OYe3gvx8X]
+[RZ1nvQlrmLt0#0] ^default<default>{^Hatin<vblex><iv><imp>$}$ ^default<default>{^şunda<adv>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^kon<n><m><sg>$}$ ^default<default>{^(<lpar>$}$^default<default>{^hindik<adj><sint>$}$ ^default<default>{^saet<n><f><pl>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/RZ1nvQlrmLt0]
+[RarAZAGzPqXb#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p1><sg>$}$ ^default<default>{^bêhay<adj>$}$^sent<SENT>{^.<sent>$}$
+[/RarAZAGzPqXb]
+[S39AB8yOpqW1#0] ^unknown<unknown>{^*My$}$ ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*feels$}$ ^unknown<unknown>{^*numb$}$^sent<SENT>{^.<sent>$}$
+[/S39AB8yOpqW1]
+[SDQRdSubwRdi#0] ^default<default>{^Lewra<cnjsub>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^bîr<n><f><sg>$}$^default<default>{^-<guio>$}$^default<default>{^çêkirin<vblex><tv><pp>$}$ ^default<default>{^hêb<n><f><sg>$}$^sent<SENT>{^:.<sent>$}$
+[/SDQRdSubwRdi]
+[SpO4wI6DDzM7#0] ^det-nom<SN>{^Ev<det><dem><sg>$ ^şîr<n><m><sg><obl>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*sufficient$}$ ^default<default>{^ji<pr>$}$ ^default<default>{^tev<adv>$}$ ^default<default>{^bêgavî<n><f><pl>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^pitik<n><m><sg>$}$ ^default<default>{^heya<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^jî<n><m><sg>$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^şeş<num><pl>$}$ ^default<default>{^(<lpar>$}$^default<default>{^6<num>$}$^default<default>{^)<rpar>$}$ ^default<default>{^meh<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/SpO4wI6DDzM7]
+[StVpfEBdkpY7#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^default<default>{^arî<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/StVpfEBdkpY7]
+[StkjxDPLPBDj#0] ^default<default>{^Wir<adv>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^xwîn<n><f><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*my$}$ ^unknown<unknown>{^*faeces$}$^sent<SENT>{^.<sent>$}$
+[/StkjxDPLPBDj]
+[SzMOFAGY8zvk#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^xwestin<vblex><tv><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^axaftin<vblex><iv><inf>$}$ ^unknown<unknown>{^*privately$}$ ^default<default>{^di<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^tercuman<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/SzMOFAGY8zvk]
+[T-xJF9N40DCr#0] ^default<default>{^Firroke<n><f><pl>$}$^sent<SENT>{^:.<sent>$}$
+[/T-xJF9N40DCr]
+[Tqy7WRKzUkOP#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*please$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^nav<n><m><sg>$}$ ^default<default>{^wisa<adv>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^default<default>{^kontrol<n><f><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^danegeh<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/Tqy7WRKzUkOP]
+[U-pb2fpjliyw#0] ^unknown<unknown>{^*Don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^qilal<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/U-pb2fpjliyw]
+[U3sfshkQeAdq#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^default<default>{^hêj<adv>$}$ ^unknown<unknown>{^*of$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^derman<n><m><sg><obl>$}$^sent<SENT>{^.<sent>$}$
+[/U3sfshkQeAdq]
+[UC_-wr73enJj#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^beş<n><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^hay<n><f><sg>$}$ ^default<default>{^di<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^hevkar<n><m><pl>$}$ ^pr-nom<SADV>{^li<pr>$ ^Serbistan<np><top><f><sg><obl><def>$}$ ^default<default>{^wisa<adv>$}$ ^pers<SN><p1><mf><pl><CD>{^ez<prn><pers><p1><mf><pl><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^unknown<unknown>{^*provide$}$ ^default<default>{^raje<n><f><pl>$}$ ^default<default>{^ji<pr>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^wir<adv>$}$^sent<SENT>{^?.<sent>$}$
+[/UC_-wr73enJj]
+[Uk4OiUXSkDVQ#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^kirin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*phone$}$ ^default<default>{^bang<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Uk4OiUXSkDVQ]
+[UkgDq7bDiYJs#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^nîşandan<vblex><tv><inf>$}$ ^pers<SN><p1><mf><pl><CD>{^ez<prn><pers><p1><mf><pl><5>$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*GPS$}$ ^default<default>{^cih<n><m><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*your$}$ ^unknown<unknown>{^*phone$}$ ^default<default>{^ve<post>$}$ ^default<default>{^peyda kirin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*others$}$^sent<SENT>{^!.<sent>$}$
+[/UkgDq7bDiYJs]
+[UqCmjgalygTp#0] ^default<default>{^Otobûs<n><f><sg>$}$ ^default<default>{^çer<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^3<num>$}$ ^unknown<unknown>{^*euros$}$^sent<SENT>{^.<sent>$}$
+[/UqCmjgalygTp]
+[V15Z8xG6v1ck#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*diabetic$}$^sent<SENT>{^.<sent>$}$
+[/V15Z8xG6v1ck]
+[VO28fuRJr2VZ#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p3><sg>$}$ ^unknown<unknown>{^*stabbed$}$\/ ^default<default>{^qetandin<vblex><tv><pp>$}$ ^default<default>{^di<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^kêr<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/VO28fuRJr2VZ]
+[VO7AsGXpkakT#0] ^unknown<unknown>{^*Where$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^kirîn<vblex><tv><inf>$}$_____^sent<SENT>{^?.<sent>$}$
+[/VO7AsGXpkakT]
+[VYCsRxrH6-Ih#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^dîtin<vblex><tv><inf>$}$ ^unknown<unknown>{^*any$}$ ^default<default>{^mişext<n><m><pl>$}$^sent<SENT>{^?.<sent>$}$
+[/VYCsRxrH6-Ih]
+[VoiUENPrU677#0] ^unknown<unknown>{^*Emergency$}$ ^default<default>{^Berg<n><m><sg>$}$ ^default<default>{^Navend<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/VoiUENPrU677]
+[Vtj0DlXf57Ig#0] ^default<default>{^Bang<n><f><sg>$}$ ^default<default>{^û<cnjcoo>$}$ ^unknown<unknown>{^*notify$}$ ^unknown<unknown>{^*XXX$}$ ^unknown<unknown>{^*upon$}$ ^default<default>{^çûn<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Vtj0DlXf57Ig]
+[Vxurrl8D1LqX#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^dîtin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^bijîşk<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Vxurrl8D1LqX]
+[W8FOaV899hEg#0] ^default<default>{^Erênî<adj>$}$ ^pr-nom<SADV>{^jê<pr>$ ^Zan<n><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/W8FOaV899hEg]
+[WA0SI0H7pDJh#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^default<default>{^pere<n><sg>$}$ ^pr-nom<SADV>{^ve<post>$ ^wergirtin<n><f><sg><obl><def>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^bilêt<n><f><pl>$}$^sent<SENT>{^?.<sent>$}$
+[/WA0SI0H7pDJh]
+[WUl4WSU43Fiq#0] ^unknown<unknown>{^*INFANT$}$ ^default<default>{^FORMUL<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/WUl4WSU43Fiq]
+[WhtkFD1cIyYa#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*fever$}$^sent<SENT>{^.<sent>$}$
+[/WhtkFD1cIyYa]
+[WiBO1h12TM-O#0] ^unknown<unknown>{^*The$}$ ^default<default>{^jan<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^wir<adv>$}$ ^default<default>{^tev<adv>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^kat<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/WiBO1h12TM-O]
+[WncCOb15lAh2#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^unknown<unknown>{^*dizzy$}$^sent<SENT>{^.<sent>$}$
+[/WncCOb15lAh2]
+[X1RwsdOyenLK#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^mîstin<vblex><TD><pres>$}$ ^det-nom<SN>{^saet<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/X1RwsdOyenLK]
+[X31Zui041spu#0] ^default<default>{^BOTL<n><f><pl>$}$ ^default<default>{^Û<cnjcoo>$}$ ^default<default>{^NAPAK<adj>$}$ ^default<default>{^KAS<n><f><pl>$}$ ^can<SV><tv><pri><PD><ND>{^KARÎN<vblex><tv><pri><4><5>$}$ ^default<default>{^KIRIN<vblex><tv><inf>$}$ ^unknown<unknown>{^*YOUR$}$ ^default<default>{^ZAROK<n><sg>$}$ ^default<default>{^NEXWEŞ<adj>$}$^sent<SENT>{^!.<sent>$}$
+[/X31Zui041spu]
+[XFHqdSAedKyH#0] ^unknown<unknown>{^*My$}$ ^default<default>{^zarok<n><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^birçî<adj>$}$^sent<SENT>{^.<sent>$}$
+[/XFHqdSAedKyH]
+[XgXbAolH_LiT#0] ^default<default>{^Gazin<n><f><sg>$}$ ^unknown<unknown>{^*your$}$ ^unknown<unknown>{^*phone$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^girs<adj><sint>$}$ ^default<default>{^kon<n><m><pl>$}$ ^default<default>{^an<cnjcoo>$}$ ^unknown<unknown>{^*ICT$}$ ^default<default>{^navend<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/XgXbAolH_LiT]
+[XkYZM3zni2v8#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^made<n><f><sg>$}$ ^default<default>{^êşîn<vblex><iv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/XkYZM3zni2v8]
+[Xu71QZBKx1iI#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*would$}$ ^default<default>{^weke<pr>$}$ ^unknown<unknown>{^*an$}$ ^default<default>{^randevû<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Xu71QZBKx1iI]
+[XzZ0JOq2QfKY#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^unknown<unknown>{^*insulin$}$^sent<SENT>{^.<sent>$}$
+[/XzZ0JOq2QfKY]
+[YWyXdLfrEb_I#0] ^default<default>{^Ev<det><dem><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^mêr<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/YWyXdLfrEb_I]
+[YwKNfGdoL7b2#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*access$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*phone$}$^sent<SENT>{^?.<sent>$}$
+[/YwKNfGdoL7b2]
+[Yx4OC5PwuyRM#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^hebûn<vbhaver><ger>$}$ ^unknown<unknown>{^*an$}$ ^unknown<unknown>{^*allergic$}$ ^default<default>{^bersiv<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Yx4OC5PwuyRM]
+[Z2bwn9xesmqe#0] ^unknown<unknown>{^*Please$}$^sent<SENT>{^.<sent>$}$
+[/Z2bwn9xesmqe]
+[Z4KbKnWWnu6m#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^diyabet<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Z4KbKnWWnu6m]
+[Z4uubif23DFo#0] ^unknown<unknown>{^*my$}$ ^default<default>{^za<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Z4uubif23DFo]
+[ZClm7gcYjQ1l#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^bîstin<vblex><TD><pres>$}$ ^default<default>{^deng<n><m><pl>$}$ ^default<default>{^gava<cnjsub>$}$ ^pers<SN><p1><mf><sg><CD>{^ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^bêkes<adj>$}$^sent<SENT>{^.<sent>$}$
+[/ZClm7gcYjQ1l]
+[ZDtI0BjZey3d#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^çûn<vblex><iv><inf>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*hotel$}$^sent<SENT>{^?.<sent>$}$
+[/ZDtI0BjZey3d]
+[Za540wqIRwUc#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^sivik<adj>$}$ ^default<default>{^agir<n><m><pl>$}$ ^default<default>{^hundur<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Za540wqIRwUc]
+[ZdvYvlJV7sTL#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^beş<n><sg>$}$ ^default<default>{^hay<n><f><sg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*UNHCR$}$ ^unknown<unknown>{^*Tabernovce$}$^sent<SENT>{^?.<sent>$}$
+[/ZdvYvlJV7sTL]
+[ZpcBYs1FgjJV#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^pêjin<n><f><sg>$}$ ^default<default>{^gelek<preadv>$}$ ^default<default>{^sar<adj>$}$^sent<SENT>{^?.<sent>$}$
+[/ZpcBYs1FgjJV]
+[_7Aavp-_SRZV#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*receive$}$ ^default<default>{^MAKEDONYA<np><top><f><sg>$}$ ^default<default>{^belge<n><f><pl>$}$^sent<SENT>{^?.<sent>$}$
+[/_7Aavp-_SRZV]
+[_bcvWqv4EsL0#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^cop<SN>{^bûn<vbcop><pp>$}$ ^default<default>{^nexweş<adj>$}$^sent<SENT>{^.<sent>$}$
+[/_bcvWqv4EsL0]
+[_f4WrCf_jE6y#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^unknown<unknown>{^*they$}$ ^default<default>{^arî<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/_f4WrCf_jE6y]
+[_kh36AKZ6SBY#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^werem<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_kh36AKZ6SBY]
+[_oHGSBNVOv_D#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^nivîsin<vblex><tv><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^nav<n><m><sg>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^famîle<n><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/_oHGSBNVOv_D]
+[_taQH3EM1Dkf#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ebad<n><f><sg>$}$ ^default<default>{^bala<adj><comp>$}$^sent<SENT>{^?.<sent>$}$
+[/_taQH3EM1Dkf]
+[aGJ2y4tp5v5u#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*seizure$}$^sent<SENT>{^.<sent>$}$
+[/aGJ2y4tp5v5u]
+[aajjvUSl9xfc#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^unknown<unknown>{^*an$}$ ^default<default>{^ambûlans<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/aajjvUSl9xfc]
+[aoydLveTTf38#0] ^cop<SN>{^Bûn<vbcop><imp>$}$ ^default<default>{^Baldar<adj>$}$^sent<SENT>{^.<sent>$}$ ^unknown<unknown>{^*Don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^hêlan<vblex><tv><pres>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^zarok<n><pl>$}$ ^unknown<unknown>{^*approaching$}$^sent<SENT>{^.<sent>$}$ ^default<default>{^Sirf<adj>$}$ ^unknown<unknown>{^*adults$}$^sent<SENT>{^.<sent>$}$
+[/aoydLveTTf38]
+[atCnSvL4MmXo#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^polîs<n><f><pl>$}$ ^unknown<unknown>{^*tell$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^vagon<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/atCnSvL4MmXo]
+[bFI_xuFQSt_9#0] ^default<default>{^Çi<prn><itg><mf><sp>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^nav<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/bFI_xuFQSt_9]
+[bPL7OVYRJTQN#0] ^default<default>{^yek<num><sg>$}$ ^default<default>{^meh<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/bPL7OVYRJTQN]
+[bUqyajrL0-Pk#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^xwendin<vblex><tv><inf>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^zar<n><m><sg><obl>$}$^sent<SENT>{^?.<sent>$}$
+[/bUqyajrL0-Pk]
+[c-EcRQeXm9fM#0] ^unknown<unknown>{^*It$}$ ^default<default>{^vîn<n><f><sg>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^strandin<vblex><tv><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^pitik<n><m><sg>$}$ ^pr-nom<SADV>{^hember<pr>$ ^enfeksiyon<n><f><pl><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/c-EcRQeXm9fM]
+[c95PtN_P9iM2#0] ^unknown<unknown>{^*Audio$}$ ^default<default>{^anons<n><f><pl>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^hêj<adv>$}$ ^default<default>{^hay<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/c95PtN_P9iM2]
+[cB9t1VW5actr#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^default<default>{^ku<cnjsub>$}$ ^default<default>{^arî<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/cB9t1VW5actr]
+[cKcStojKOz0n#0] ^unknown<unknown>{^*Apply$}$ ^pr-nom<SADV>{^ji<pr>$ ^pena<n><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/cKcStojKOz0n]
+[cLatZfI0WUiG#0] ^unknown<unknown>{^*An$}$ ^unknown<unknown>{^*approximate$}$ ^unknown<unknown>{^*pricing$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$^sent<SENT>{^:.<sent>$}$
+[/cLatZfI0WUiG]
+[cMg3nHhsAiCj#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^weke<pr>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^cop<SN>{^bûn<vbcop><ger>$}$ ^unknown<unknown>{^*watched$}$^sent<SENT>{^.<sent>$}$
+[/cMg3nHhsAiCj]
+[chTAFoLIkbsq#0] ^default<default>{^Arî<n><f><sg>$}$^sent<SENT>{^!.<sent>$}$
+[/chTAFoLIkbsq]
+[cp106njscflr#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^default<default>{^wir<adv>$}$ ^default<default>{^jîn<n><f><sg>$}$ ^default<default>{^çakêt<n><m><pl>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^rex<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/cp106njscflr]
+[d5vt1tt0Wj-e#0] ^unknown<unknown>{^*a$}$ ^default<default>{^grûb<n><f><sg>$}$ ^unknown<unknown>{^*shall$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^hasibandin<vblex><tv><pp>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^qewimin<vblex><iv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^taybet<adj>$}$ ^default<default>{^sosyal<adj>$}$ ^default<default>{^grûb<n><f><sg>$}$ ^unknown<unknown>{^*where$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^taybet<adj>$}$^sent<SENT>{^:.<sent>$}$
+[/d5vt1tt0Wj-e]
+[dLVFrZpmXOFH#0] ^default<default>{^Ev<det><dem><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^bav<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/dLVFrZpmXOFH]
+[dTBNuV_zLaHh#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^kuxîn<vblex><iv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/dTBNuV_zLaHh]
+[ddcTDAj4z3ZR#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^navandin<vblex><tv><inf>$}$ ^default<default>{^gava<cnjsub>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^dîtin<vblex><tv><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^kelek<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/ddcTDAj4z3ZR]
+[dgfa7LGPa8co#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*injured$}$^sent<SENT>{^.<sent>$}$
+[/dgfa7LGPa8co]
+[dhMqjNPRSCDI#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^xwarin<vblex><tv><pres>$}$ ^default<default>{^t<n><m><sg>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^masî<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/dhMqjNPRSCDI]
+[dn9mI7WBdDvH#0] ^unknown<unknown>{^*Consult$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^bijîşk<n><f><sg>$}$ ^default<default>{^li ber<pr>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^rawestandin<vblex><tv><inf>$}$ ^unknown<unknown>{^*breastfeeding$}$ ^default<default>{^an<cnjcoo>$}$ ^default<default>{^li ber<pr>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^dan<vblex><tv><pres>$}$ ^unknown<unknown>{^*any$}$ ^unknown<unknown>{^*breastmilk$}$ ^default<default>{^bergind<n><f><sg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^pitik<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/dn9mI7WBdDvH]
+[dztk5Ruz4kwR#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$'^unknown<unknown>{^*t$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^bîr<n><f><sg>$}$ ^sent<SENT>{^.<sent>$}$
+[/dztk5Ruz4kwR]
+[eKQUn7Ul7pzk#0] ^unknown<unknown>{^*Wipe$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^hejandin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^pakêt<n><f><sg>$}$ ^default<default>{^li ber<pr>$}$ ^default<default>{^vekirin<vblex><tv><subs>$}$^sent<SENT>{^.<sent>$}$
+[/eKQUn7Ul7pzk]
+[eQuY-2YJysgH#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^axaftin<vblex><iv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/eQuY-2YJysgH]
+[f-_G3GR2z92q#0] ^unknown<unknown>{^*Where$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^dûş<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/f-_G3GR2z92q]
+[f-rVGHiVH4eO#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^zanîn<vblex><tv><inf>$}$ ^default<default>{^kî<prn><itg><mf><sp>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^grûb<n><f><sg>$}$ ^default<default>{^serek<n><f><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/f-rVGHiVH4eO]
+[f1te3mHsvpet#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^zekem<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/f1te3mHsvpet]
+[fAdk1Jb1YJj5#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*chronic$}$ ^unknown<unknown>{^*bronchitis$}$^sent<SENT>{^.<sent>$}$
+[/fAdk1Jb1YJj5]
+[fIXXy3Wl8kJ1#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^bîstin<vblex><TD><inf>$}$ ^default<default>{^ev<det><dem><sg>$}$ ^unknown<unknown>{^*recording$}$^sent<SENT>{^?.<sent>$}$
+[/fIXXy3Wl8kJ1]
+[fJiJsXQmrevQ#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*labour$}$^sent<SENT>{^.<sent>$}$
+[/fJiJsXQmrevQ]
+[fVs3JT4rdE-g#0] ^default<default>{^gelek<preadv>$}$ ^unknown<unknown>{^*soon$}$^sent<SENT>{^.<sent>$}$
+[/fVs3JT4rdE-g]
+[f_MYMYtugNHm#0] ^unknown<unknown>{^*My$}$ ^default<default>{^mudet<n><m><pl>$}$ ^default<default>{^qetandin<vblex><tv><pp>$}$^default<default>{^,<cm>$}$ ^default<default>{^lê<cnjcoo>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$ ^default<default>{^dîsan<adv>$}$^sent<SENT>{^.<sent>$}$
+[/f_MYMYtugNHm]
+[flvkRqj5-TXc#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*leukaemia$}$^sent<SENT>{^.<sent>$}$
+[/flvkRqj5-TXc]
+[frauVXMJyk6W#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*discharge$}$ ^default<default>{^jê<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^quz<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/frauVXMJyk6W]
+[g6G4bvLct1yf#0] ^default<default>{^Bikaranîn<vblex><tv><imp>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^şîr<n><m><sg><obl>$}$ ^default<default>{^tenê<adv>$}$ ^unknown<unknown>{^*if$}$^sent<SENT>{^:.<sent>$}$
+[/g6G4bvLct1yf]
+[g6_bhgXZiXtV#0] ^unknown<unknown>{^*Apply$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*relocation$}$ ^pr-nom<SADV>{^ve<post>$ ^Ewropa<np><top><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/g6_bhgXZiXtV]
+[g8HAVQxvCJto#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^avis<adj>$}$ ^default<default>{^û<cnjcoo>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$^sent<SENT>{^.<sent>$}$
+[/g8HAVQxvCJto]
+[gPrFJQkxVQXl#0] ^unknown<unknown>{^*My$}$ ^default<default>{^zarok<n><sg>$}$ ^default<default>{^hebûn<vbhaver><pres><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*sore$}$ ^default<default>{^gewrî<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/gPrFJQkxVQXl]
+[gR64G50R1lo2#0] ^default<default>{^mirîşk<n><f><sg>$}$
+[/gR64G50R1lo2]
+[gTu_7uLkHWhV#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*allergic$}$ ^default<default>{^ve<post>$}$…^sent<SENT>{^.<sent>$}$
+[/gTu_7uLkHWhV]
+[hDH7UU5WjGey#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^hêlan<vblex><tv><inf>$}$ ^unknown<unknown>{^*belongings$}$ ^unknown<unknown>{^*unattended$}$^sent<SENT>{^.<sent>$}$
+[/hDH7UU5WjGey]
+[hEU8Kz6otdYW#0] ^unknown<unknown>{^*The$}$ ^default<default>{^jan<n><f><sg>$}$ ^default<default>{^hatin<vblex><iv><pres><p3><sg>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^çûn<vblex><iv><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/hEU8Kz6otdYW]
+[hRaW19UuEVhS#0] ^default<default>{^Wir<adv>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^xwîn<n><f><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^mîz<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/hRaW19UuEVhS]
+[hTCr4L1yq4LS#0] ^unknown<unknown>{^*Duration$}$^sent<SENT>{^:<sent>$}$ ^default<default>{^Gava<cnjsub>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^default<default>{^şayesandin<vblex><tv><ger>$}$ ^default<default>{^tişt<n><f><pl>$}$ ^default<default>{^ku<cnjsub>$}$ ^default<default>{^qewimin<vblex><iv><past>$}$ ^default<default>{^ve<post>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$^default<default>{^,<cm>$}$ ^default<default>{^pêve kirin<vblex><tv><imp>$}$ ^default<default>{^çawa<adv><itg>$}$ ^default<default>{^dirêj<adj>$}$ ^det-nom<SN>{^ev<det><dem><pl>$ ^tişt<n><f><pl><obl>$}$ ^unknown<unknown>{^*lasted$}$^sent<SENT>{^.<sent>$}$
+[/hTCr4L1yq4LS]
+[hWnvxO1aYnMU#0] ^default<default>{^Spas kirin<vblex><tv><imp>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$^sent<SENT>{^.<sent>$}$
+[/hWnvxO1aYnMU]
+[hrNWGxKGAbjL#0] ^default<default>{^Hatin<vblex><iv><imp>$}$ ^default<default>{^şunda<adv>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^kon<n><m><sg>$}$ ^default<default>{^(<lpar>$}$^default<default>{^1<num>$}$ ^default<default>{^saet<n><f><sg>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/hrNWGxKGAbjL]
+[huTy0MmshOEv#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^default<default>{^ve<post>$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^unknown<unknown>{^*admitted$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^nexwexane<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/huTy0MmshOEv]
+[iDX0TI6GWWU8#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^unknown<unknown>{^*pour$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^şîr<n><m><sg>$}$ ^unknown<unknown>{^*into$}$ ^unknown<unknown>{^*his$}$\/^unknown<unknown>{^*her$}$ ^default<default>{^dev<n><m><sg>$}$^sent<SENT>{^.<sent>$}$ ^default<default>{^Berdan<vblex><tv><imp>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^pitik<n><m><sg>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^default<default>{^qasî<pr>$}$ ^default<default>{^zehf<adv>$}$ ^default<default>{^qasî<pr>$}$ ^unknown<unknown>{^*he$}$ \/ ^unknown<unknown>{^*she$}$ ^default<default>{^xwestin<vblex><tv><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/iDX0TI6GWWU8]
+[iHMuL_5h9R7R#0] ^default<default>{^Herwisa<adv>$}$ ^default<default>{^vegotin<vblex><TD><imp>$}$ ^unknown<unknown>{^*if$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hewldan<vblex><tv><past>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^hêlan<vblex><tv><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^welat<n><f><sg>$}$ ^default<default>{^lê<cnjcoo>$}$ ^can<SV><tv><past><PD><ND>{^karîn<vblex><tv><past><4><5>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^çi<prn><itg><mf><sp>$}$ ^default<default>{^rawestandin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$^sent<SENT>{^.<sent>$}$
+[/iHMuL_5h9R7R]
+[iJcBz93-kg6A#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^unknown<unknown>{^*depressed$}$^sent<SENT>{^.<sent>$}$
+[/iJcBz93-kg6A]
+[ieHebhbc0m5P#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^xwestin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^tercuman<n><m><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/ieHebhbc0m5P]
+[iuzMG9nUiKCJ#0] ^unknown<unknown>{^*Where$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^hemam<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/iuzMG9nUiKCJ]
+[j34kzX_ZwxXR#0] ^unknown<unknown>{^*Chios$}$ – ^unknown<unknown>{^*Pireas$}$ ^default<default>{^(<lpar>$}$^default<default>{^Atîna<np><top><f><sg>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/j34kzX_ZwxXR]
+[jA6cjltjgcBx#0] ^det-nom<SN>{^Ev<det><dem><sg>$ ^şîr<n><m><sg><obl>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^hemta<adj>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^ew<det><dem><sg>$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^tev<adv>$}$ ^unknown<unknown>{^*other$}$ ^unknown<unknown>{^*brands$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^amade<adj><sint>$}$^default<default>{^-<guio>$}$^default<default>{^kirin<vblex><tv><pp>$}$ ^default<default>{^formul<n><f><pl>$}$ ^pr-nom<SADV>{^ji<pr>$ ^tenzîlat<n><f><sg><obl><def>$}$^sent<SENT>{^.<sent>$}$
+[/jA6cjltjgcBx]
+[jBFJD-7f8CC-#0] ^default<default>{^yek<num><sg>$}$ ^default<default>{^roj<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jBFJD-7f8CC-]
+[jQeP1javnydO#0] ^unknown<unknown>{^*My$}$ ^default<default>{^dil<n><m><sg>$}$ ^default<default>{^kutan<n><f><pl>$}$ ^default<default>{^lezgîn<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jQeP1javnydO]
+[jmJaOyEIEfRk#0] ^pers<SN><p2><mf><sg><CD>{^Tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^sekinîn<vblex><iv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/jmJaOyEIEfRk]
+[jv9PFY-S-Gqv#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^birin<vblex><tv><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^dûş<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jv9PFY-S-Gqv]
+[jvgVMUwjOqtM#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*scan$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^belge<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/jvgVMUwjOqtM]
+[k5NdZSdg7x4Q#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$'^unknown<unknown>{^*t$}$ ^default<default>{^vexwarin<n><f><sg>$}$ ^default<default>{^elkol<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/k5NdZSdg7x4Q]
+[k6DaOA0QjTp6#0] ^default<default>{^Piştî<pr>$}$ ^default<default>{^şeş<num><pl>$}$ ^default<default>{^meh<n><f><pl>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*he$}$\/^unknown<unknown>{^*she$}$ ^unknown<unknown>{^*should$}$ ^default<default>{^herwisa<adv>$}$ ^default<default>{^ibtida<n><f><sg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*receive$}$ ^unknown<unknown>{^*other$}$ ^default<default>{^aş<n><m><pl>$}$^sent<SENT>{^.<sent>$}$
+[/k6DaOA0QjTp6]
+[k80CqVkntef_#0] ^default<default>{^Weke<pr>$}$ ^default<default>{^tev<adv>$}$ ^default<default>{^çêkirok<adj>$}$ ^default<default>{^formul<n><f><pl>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^şîr<n><m><sg><obl>$}$ ^default<default>{^kirin<vblex><tv><pres><p3><sg>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^hewandin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^jîndar<adj>$}$ ^unknown<unknown>{^*antibodies$}$ ^default<default>{^kîjan<det><itg><sp>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^pr-nom<SADV>{^bi<pr>$ ^mak<n><f><sg><obl><def>$}$^default<default>{^hebûn<vbhaver><pres><p3><sg>$}$ ^default<default>{^şîr<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/k80CqVkntef_]
+[k_aTscixQ_zT#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><past><p1><sg>$}$ ^default<default>{^lêxistin<vblex><TD><pp>$}$ ^default<default>{^li<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^erebe<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/k_aTscixQ_zT]
+[kjgPiDma-wik#0] ^unknown<unknown>{^*Chios$}$ – ^unknown<unknown>{^*Thessaloniki$}$^sent<SENT>{^.<sent>$}$
+[/kjgPiDma-wik]
+[lH5JaLS9eZfT#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$^sent<SENT>{^..<sent>$}$
+[/lH5JaLS9eZfT]
+[lPS6W1Dkm4L8#0] ^default<default>{^Ev<det><dem><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^bira<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lPS6W1Dkm4L8]
+[lUVe2Yot133i#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^default<default>{^ne<adv><neg>$}$ ^unknown<unknown>{^*flex$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^stû<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lUVe2Yot133i]
+[lekOFoFb5Koe#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^çûn<vblex><iv><inf>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^nexwexane<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lekOFoFb5Koe]
+[likOHXYwowvz#0] ^unknown<unknown>{^*Cabins$}$ ^default<default>{^(<lpar>$}$^default<default>{^4<num>$}$^default<default>{^-<guio>$}$^default<default>{^text<n><f><sg>$}$ ^default<default>{^an<cnjcoo>$}$ ^default<default>{^2<num>$}$^default<default>{^-<guio>$}$^default<default>{^text<n><f><sg>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^:<sent>$}$ € ^default<default>{^61<num>$}$ ^default<default>{^-<guio>$}$ € ^default<default>{^81,5<num>$}$^sent<SENT>{^.<sent>$}$
+[/likOHXYwowvz]
+[ljJdDpvW9KTQ#0] ^default<default>{^DÎREKTÎV<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/ljJdDpvW9KTQ]
+[ljZDDl39wxUQ#0] ^unknown<unknown>{^*Chios$}$ ^default<default>{^-<guio>$}$ ^default<default>{^Atîna<np><top><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ljZDDl39wxUQ]
+[mBS-OJtwT7hr#0] ^unknown<unknown>{^*Depending$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^hoy<n><m><pl>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^welat<n><f><sg>$}$ ^unknown<unknown>{^*of$}$ ^default<default>{^asl<n><m><sg>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^taybet<adj>$}$ ^default<default>{^sosyal<adj>$}$ ^default<default>{^grûb<n><f><sg>$}$ ^unknown<unknown>{^*might$}$ ^default<default>{^pêve kirin<vblex><tv><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^grûb<n><f><sg>$}$ ^unknown<unknown>{^*based$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^hevbeş<adj>$}$ ^default<default>{^karakter<n><f><sg>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*sexual$}$ ^unknown<unknown>{^*orientation$}$^sent<SENT>{^.<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/mBS-OJtwT7hr]
+[mIMyvwEIK6GK#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^beş<n><sg>$}$ ^default<default>{^hay<n><f><sg>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^Serbistan<np><top><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/mIMyvwEIK6GK]
+[mN2FxmEOmdla#0] ^default<default>{^Otobûs<n><f><sg>$}$ ^default<default>{^rawestandin<vblex><tv><inf>$}$^sent<SENT>{^.<sent>$}$
+[/mN2FxmEOmdla]
+[mQ5fNzccqyPs#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*might$}$ ^cop<SN>{^bûn<vbcop><inf>$}$ ^default<default>{^avis<adj>$}$^sent<SENT>{^.<sent>$}$
+[/mQ5fNzccqyPs]
+[mR4IuQWwIaNI#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^texte<n><m><sg>$}$ ^default<default>{^trên<n><f><sg>$}$ ^unknown<unknown>{^*if$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^famîle<n><sg>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^unknown<unknown>{^*missing$}$ ^default<default>{^belge<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/mR4IuQWwIaNI]
+[mSaC1UB3bhyc#0] ^unknown<unknown>{^*Pour$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^naverok<n><f><pl>$}$ ^unknown<unknown>{^*into$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^pakîze<adj>$}$ ^default<default>{^kas<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/mSaC1UB3bhyc]
+[m_bqK42sigaG#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*vegetarian$}$^sent<SENT>{^.<sent>$}$
+[/m_bqK42sigaG]
+[nUNGqsmVbjbX#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^bijîşk<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/nUNGqsmVbjbX]
+[niwlKrSD_QtY#0] ^unknown<unknown>{^*the$}$ ^default<default>{^roj<n><f><sg>$}$ ^default<default>{^piştî<pr>$}$ ^default<default>{^sibe<adv>$}$^sent<SENT>{^.<sent>$}$
+[/niwlKrSD_QtY]
+[nrETNXgXORyI#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^şîzofrenî<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/nrETNXgXORyI]
+[nsoDRw2c8BJx#0] ^can<SV><tv><pri><PD><ND>{^Karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^nivîsin<vblex><tv><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^nimre<n><f><sg>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^famîle<n><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/nsoDRw2c8BJx]
+[o1Xh6o6vgbxF#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*myocardial$}$ ^unknown<unknown>{^*infarction$}$^sent<SENT>{^.<sent>$}$
+[/o1Xh6o6vgbxF]
+[ouGM2sNmHJEv#0] ^default<default>{^bê<adj>$}$ ^default<default>{^hefte<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ouGM2sNmHJEv]
+[p58sgdnFTEJb#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hewldan<vblex><tv><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^kirin<vblex><tv><inf>$}$ ^unknown<unknown>{^*anything$}$ ^default<default>{^ve<post>$}$ ^default<default>{^rawestandin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^arîşe<n><f><pl>$}$ ^default<default>{^ku<cnjsub>$}$ ^default<default>{^qewimin<vblex><iv><past>$}$ ^default<default>{^ve<post>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^welat<n><f><sg>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^çi<prn><itg><mf><sp>$}$ ^default<default>{^qewimin<vblex><iv><past>$}$^sent<SENT>{^?.<sent>$}$
+[/p58sgdnFTEJb]
+[pYr5zl4p6OK0#0] ^unknown<unknown>{^*Where$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^tescîl<n><f><sg>$}$ ^default<default>{^navend<n><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/pYr5zl4p6OK0]
+[pa_SlAzgFS3h#0] ^default<default>{^Zuha<adj>$}$ ^default<default>{^gore<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/pa_SlAzgFS3h]
+[privFzKXVctd#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^rehet<adj>$}$ ^default<default>{^man<vblex><iv><subs>$}$ ^default<default>{^bi<pr>$}$ ^det-nom<SN>{^ev<det><dem><sg>$ ^kon<n><m><sg><obl>$}$ ^unknown<unknown>{^*tonight$}$^sent<SENT>{^?.<sent>$}$
+[/privFzKXVctd]
+[q8CNsB0NqmH4#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*gets$}$ ^default<default>{^bed<adj><comp>$}$ ^default<default>{^gava<cnjsub>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^boçûn<n><f><sg>$}$ ^unknown<unknown>{^*up$}$^sent<SENT>{^.<sent>$}$
+[/q8CNsB0NqmH4]
+[q8LpX1W2JqJT#0] ^default<default>{^Bank<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/q8LpX1W2JqJT]
+[q95_Box_nP5b#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*chronic$}$ ^default<default>{^melankolî<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/q95_Box_nP5b]
+[qBLu4ak9R-US#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$ ^default<default>{^navbera<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^mudet<n><m><pl>$}$^sent<SENT>{^.<sent>$}$
+[/qBLu4ak9R-US]
+[qN9DBNpHGnUm#0] ^default<default>{^Qesp<n><f><pl>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^Kat<n><f><pl>$}$^sent<SENT>{^:<sent>$}$ ^default<default>{^Gava<cnjsub>$}$ ^default<default>{^tişt<n><f><pl>$}$ ^default<default>{^qewimin<vblex><iv><past>$}$^sent<SENT>{^.<sent>$}$
+[/qN9DBNpHGnUm]
+[qc-pPSSzvnKm#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^qanser<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/qc-pPSSzvnKm]
+[qywqV2DLHcAc#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^zekem<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/qywqV2DLHcAc]
+[r3SgJCb-PG_z#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^nexweş<adj>$}$^sent<SENT>{^.<sent>$}$
+[/r3SgJCb-PG_z]
+[rruTPdItSDzt#0] ^unknown<unknown>{^*My$}$ ^default<default>{^zarok<n><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^nexweş<adj>$}$^sent<SENT>{^.<sent>$}$
+[/rruTPdItSDzt]
+[s7Q0OGfjZRnp#0] ^default<default>{^Firne<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/s7Q0OGfjZRnp]
+[sE9p5E8lYera#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^default<default>{^jê<pr>$}$^sent<SENT>{^..<sent>$}$
+[/sE9p5E8lYera]
+[sG9PR_bit8I6#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*feel$}$ ^default<default>{^rehet<adj>$}$ ^default<default>{^man<vblex><iv><subs>$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^ev<det><dem><sg>$}$ ^unknown<unknown>{^*site$}$ ^unknown<unknown>{^*tonight$}$^sent<SENT>{^?.<sent>$}$
+[/sG9PR_bit8I6]
+[sKnVg9c3wgPk#0] ^default<default>{^Zarok<n><pl>$}$^default<default>{^hebûn<vbhaver><pres><p3><sg>$}$ ^default<default>{^berg<n><m>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^sol<n><f><pl>$}$ ^cop<SN>{^bûn<vbcop><pri>$}$ ^unknown<unknown>{^*over$}$ ^default<default>{^wir<adv>$}$^sent<SENT>{^.<sent>$}$
+[/sKnVg9c3wgPk]
+[sLQZTqkxoSaB#0] ^unknown<unknown>{^*Additional$}$ ^default<default>{^Hay<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/sLQZTqkxoSaB]
+[sL_HBGnjWZZ7#0] ^default<default>{^Kirin<vblex><tv><past>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hewldan<vblex><tv><inf>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*get$}$ ^default<default>{^arî<n><f><sg>$}$ ^default<default>{^jê<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^hikûmet<n><f><sg>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^polîs<n><f><pl>$}$ ^default<default>{^an<cnjcoo>$}$ ^unknown<unknown>{^*anyone$}$ ^unknown<unknown>{^*else$}$^sent<SENT>{^?.<sent>$}$
+[/sL_HBGnjWZZ7]
+[sLlksDn39_4a#0] ^default<default>{^Wir<adv>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^xwîn<n><f><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^verişîn<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/sLlksDn39_4a]
+[sZZeHNVO0Yoc#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^default<default>{^hay<n><f><sg>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^trên<n><f><sg>$}$ ^default<default>{^çûn<n><f><sg>$}$ ^default<default>{^kat<n><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/sZZeHNVO0Yoc]
+[swPpHGXZpQgb#0] ^default<default>{^Pîvan<n><f><pl>$}$ ^pr-nom<SADV>{^ji<pr>$ ^Mişext<n><m><sg><obl><def>$}$ ^default<default>{^Hal<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/swPpHGXZpQgb]
+[swWgW45NLNNE#0] ^default<default>{^Şûştin<n><f><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^mîl<n><m><pl>$}$ ^pr-nom<SADV>{^di<pr>$ ^sabûn<n><f><sg><obl><def>$}$ ^default<default>{^û<cnjcoo>$}$ ^default<default>{^av<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/swWgW45NLNNE]
+[sykq2o7RJgdP#0] ^unknown<unknown>{^*Please$}$ ^default<default>{^arî<n><f><sg>$}$ ^pers<SN><p1><mf><sg><CD>{^ez<prn><pers><p1><mf><sg><5>$}$^sent<SENT>{^!.<sent>$}$
+[/sykq2o7RJgdP]
+[tDq6nE50lfHh#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^şil<adj><sint>$}$^sent<SENT>{^?.<sent>$}$
+[/tDq6nE50lfHh]
+[tRwyo2x1aaeM#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^hêlan<vblex><tv><inf>$}$ ^default<default>{^bêî<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^belge<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/tRwyo2x1aaeM]
+[tUSD4dCLXWX0#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^paşîn<adj><ord>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^default<default>{^guhnelî<n><f><sg>$}$ ^default<default>{^2<num>$}$ ^default<default>{^roj<n><f><pl>$}$ ^unknown<unknown>{^*ago$}$^sent<SENT>{^.<sent>$}$
+[/tUSD4dCLXWX0]
+[tqXFYeE_w6K0#0] ^unknown<unknown>{^*Accomodation$}$^sent<SENT>{^.<sent>$}$
+[/tqXFYeE_w6K0]
+[u0Ua6BswCLAS#0] ^default<default>{^Kirin<vblex><tv><inf>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><inf>$}$ ^unknown<unknown>{^*somewhere$}$ ^default<default>{^ve<post>$}$ ^default<default>{^man<vblex><iv><inf>$}$ ^unknown<unknown>{^*tonight$}$^sent<SENT>{^?.<sent>$}$
+[/u0Ua6BswCLAS]
+[uJyrkR4T35Ue#0] ^default<default>{^Çawa<adv><itg>$}$ ^default<default>{^dirêj<adj>$}$ ^default<default>{^kirin<vblex><tv><pres>$}$ ^pers<SN><p1><mf><pl><CD>{^ez<prn><pers><p1><mf><pl><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^sekinîn<vblex><iv><inf>$}$ ^default<default>{^vir<adv>$}$^sent<SENT>{^?.<sent>$}$
+[/uJyrkR4T35Ue]
+[uV1Knjxoza8R#0] ^unknown<unknown>{^*Keep$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^hênik<adj>$}$^default<default>{^,<cm>$}$ ^default<default>{^zuha<adj>$}$ ^default<default>{^cih<n><f><sg>$}$ ^default<default>{^di<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^qepax<n><f><sg>$}$ ^unknown<unknown>{^*tightly$}$ ^default<default>{^girtin<vblex><tv><pp>$}$^sent<SENT>{^.<sent>$}$
+[/uV1Knjxoza8R]
+[v0T_7ao2WcxO#0] ^default<default>{^erêkirin<vblex><tv><pp>$}$^sent<SENT>{^.<sent>$}$
+[/v0T_7ao2WcxO]
+[vRAgJar8tn00#0] ^default<default>{^Gava<cnjsub>$}$ ^default<default>{^kirin<vblex><tv><inf>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^hatin<vblex><iv><inf>$}$ ^default<default>{^şunda<adv>$}$^sent<SENT>{^?.<sent>$}$
+[/vRAgJar8tn00]
+[vT2zB0x9TbS2#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*discharge$}$ ^default<default>{^jê<pr>$}$ ^unknown<unknown>{^*my$}$ ^unknown<unknown>{^*urethra$}$^sent<SENT>{^.<sent>$}$
+[/vT2zB0x9TbS2]
+[vTEJ_GYYoEJW#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^ne<adv><neg>$}$ ^default<default>{^hebûn<vbhaver><past>$}$ ^default<default>{^guhnelî<n><f><sg>$}$ ^default<default>{^ji<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^dirêj<adj>$}$ ^default<default>{^kat<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/vTEJ_GYYoEJW]
+[vVNk6UQNPTzX#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^cop<SN>{^bûn<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*ill$}$^sent<SENT>{^.<sent>$}$
+[/vVNk6UQNPTzX]
+[veyPWlfreR4F#0] ^unknown<unknown>{^*Where$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^default<default>{^oda<n><f><sg>$}$ ^default<default>{^nimre<n><f><sg>$}$ ____^sent<SENT>{^?.<sent>$}$
+[/veyPWlfreR4F]
+[vjfGyiJ0GmE4#0] ^default<default>{^Zarok<n><pl>$}$ ^default<default>{^Yarîgeh<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/vjfGyiJ0GmE4]
+[w0AvVZIxpGhd#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*nosebleed$}$^sent<SENT>{^.<sent>$}$
+[/w0AvVZIxpGhd]
+[x9ZR51bquijB#0] ^unknown<unknown>{^*My$}$ ^default<default>{^nav<n><m><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$^sent<SENT>{^..<sent>$}$
+[/x9ZR51bquijB]
+[xNvLLACF_8eZ#0] ^unknown<unknown>{^*my$}$ ^default<default>{^jin<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/xNvLLACF_8eZ]
+[xP8oBT2cOS_l#0] ^cop<SN>{^Bûn<vbcop><pri>$}$ ^pers<SN><p2><mf><sg><CD>{^tu<prn><pers><p2><mf><sg><5>$}$ ^unknown<unknown>{^*planning$}$ ^default<default>{^ve<post>$}$ ^default<default>{^man<vblex><iv><inf>$}$ ^default<default>{^vir<adv>$}$ ^default<default>{^bi<pr>$}$ ^unknown<unknown>{^*fYR$}$ ^default<default>{^Makedonya<np><top><f><sg>$}$^sent<SENT>{^?.<sent>$}$
+[/xP8oBT2cOS_l]
+[xQGPPCaC6Der#0] ^unknown<unknown>{^*My$}$ ^default<default>{^nav<n><m><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^sent<SENT>{^..<sent>$}$
+[/xQGPPCaC6Der]
+[xbZhurUzUjTa#0] ^default<default>{^Zuha<adj>$}$ ^default<default>{^şal<n><m>$}$^sent<SENT>{^.<sent>$}$
+[/xbZhurUzUjTa]
+[xhCaNL883AHK#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^hebûn<vbhaver><inf>$}$ ^unknown<unknown>{^*any$}$ ^default<default>{^pere<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/xhCaNL883AHK]
+[xtRcgly2jofo#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^divêtin<vblex><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^bijîşk<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/xtRcgly2jofo]
+[xwdDxFPXvv8Y#0] ^default<default>{^KIRIN<vblex><tv><inf>$}$ ^default<default>{^NE<adv><neg>$}$ ^default<default>{^Hewldan<vblex><tv><inf>$}$ ^default<default>{^ve<post>$}$ ^default<default>{^dîlgirtin<vblex><tv><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^mar<n><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/xwdDxFPXvv8Y]
+[xxyhlLaCyKUW#0] ^unknown<unknown>{^*Where$}$ ^can<SV><tv><pri><PD><ND>{^karîn<vblex><tv><pri><4><5>$}$ ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^peyda kirin<vblex><tv><inf>$}$____^sent<SENT>{^?.<sent>$}$
+[/xxyhlLaCyKUW]
+[xy3z-ICzA-ww#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^unknown<unknown>{^*fainted$}$^sent<SENT>{^.<sent>$}$
+[/xy3z-ICzA-ww]
+[y54b7W-znoMp#0] ^default<default>{^KIRIN<vblex><tv><inf>$}$ ^default<default>{^NE<adv><neg>$}$ ^default<default>{^xistin<vblex><tv><inf>$}$ ^unknown<unknown>{^*anything$}$ ^default<default>{^kîp<adj>$}$ ^default<default>{^li dora<pr>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*such$}$ ^default<default>{^qasî<pr>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*tourniquet$}$^sent<SENT>{^.<sent>$}$
+[/y54b7W-znoMp]
+[yFLW6ibjKC6u#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^cop<SN>{^bûn<vbcop><pp>$}$ ^default<default>{^hejandin<vblex><tv><ger>$}$^sent<SENT>{^.<sent>$}$
+[/yFLW6ibjKC6u]
+[yL3vwQonxDfz#0] ^unknown<unknown>{^*Based$}$ ^default<default>{^bi<pr>$}$ ^default<default>{^yek<num><sg>$}$ ^default<default>{^an<cnjcoo>$}$ ^default<default>{^hêj<adv>$}$ ^unknown<unknown>{^*of$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*following$}$ ^default<default>{^eql<n><m><pl>$}$^sent<SENT>{^:.<sent>$}$
+[/yL3vwQonxDfz]
+[ysdN0270GpCZ#0] ^default<default>{^Ev<det><dem><sg>$}$ ^cop<SN>{^bûn<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*my$}$ ^default<default>{^et<n><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ysdN0270GpCZ]
+[yvg4ts9SQgBe#0] ^unknown<unknown>{^*Emergency$}$ ^unknown<unknown>{^*Exit$}$^sent<SENT>{^.<sent>$}$
+[/yvg4ts9SQgBe]
+[z-DhBK1e3M9D#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^default<default>{^dil<n><m><sg>$}$ ^unknown<unknown>{^*failure$}$^sent<SENT>{^.<sent>$}$
+[/z-DhBK1e3M9D]
+[zLf0J44P8in4#0] ^default<default>{^Hatin<vblex><iv><imp>$}$ ^default<default>{^şunda<adv>$}$ ^default<default>{^ve<post>$}$ ^unknown<unknown>{^*UNHCR$}$ ^default<default>{^kon<n><m><sg>$}$ ^default<default>{^(<lpar>$}$^default<default>{^beyanî<n><f><sg>$}$^default<default>{^)<rpar>$}$^sent<SENT>{^.<sent>$}$
+[/zLf0J44P8in4]
+[zO-RIPfVewlx#0] ^pers<SN><p2><mf><sg><CD>{^Tu<prn><pers><p2><mf><sg><5>$}$ ^default<default>{^hebûn<vbhaver><pres>$}$ ^unknown<unknown>{^*access$}$ ^default<default>{^ve<post>$}$ ^default<default>{^pakîze<adj>$}$ ^default<default>{^kas<n><f><pl>$}$^sent<SENT>{^.<sent>$}$
+[/zO-RIPfVewlx]
+[zdsTseZB0L6p#0] ^pers<SN><p1><mf><sg><CD>{^Ez<prn><pers><p1><mf><sg><5>$}$ ^default<default>{^ketin<vblex><iv><past>$}$ ^unknown<unknown>{^*down$}$^sent<SENT>{^.<sent>$}$
+[/zdsTseZB0L6p]
