@@ -6121,7 +6121,7 @@
       <e><p><l>kulind<s n="n"/><s n="m"/></l><r>squash<s n="n"/></r></p></e>
       <e><p><l>kulindok<s n="n"/><s n="m"/></l><r>*courgette<s n="n"/></r></p></e>
       <e><p><l>kulindok<s n="n"/><s n="m"/></l><r>marrow<s n="n"/></r></p></e>
-      <e><p><l>kulindok<s n="n"/><s n="m"/></l><r>*zucchini<s n="n"/></r></p></e>
+      <e><p><l>kulindok<s n="n"/><s n="m"/></l><r>zucchini<s n="n"/></r></p></e>
       <e><p><l>kulî<s n="n"/><s n="f"/></l><r>flock<s n="n"/></r></p></e>
       <e><p><l>kulî<s n="n"/><s n="f"/></l><r>*grasshopper<s n="n"/></r></p></e>
       <e><p><l>kulîs<s n="n"/><s n="f"/></l><r>*coulisse<s n="n"/></r></p></e>
@@ -6344,7 +6344,7 @@
       <e><p><l>mak<s n="n"/><s n="f"/></l><r>mother<s n="n"/></r></p></e>
       <e><p><l>makyaj<s n="n"/><s n="f"/></l><r>cosmetic<s n="n"/><s n="pl"/></r></p></e>
       <e><p><l>makyaj<s n="n"/><s n="f"/></l><r>make-up<s n="n"/></r></p></e>
-      <e><p><l>maldarî<s n="n"/><s n="f"/></l><r>*affluence<s n="n"/></r></p></e>
+      <e><p><l>maldarî<s n="n"/><s n="f"/></l><r>affluence<s n="n"/></r></p></e>
       <e><p><l>maldarî<s n="n"/><s n="f"/></l><r>*fecundicity<s n="n"/></r></p></e>
       <e><p><l>maldarî<s n="n"/><s n="f"/></l><r>fertility<s n="n"/></r></p></e>
       <e><p><l>maldarî<s n="n"/><s n="f"/></l><r>fortune<s n="n"/></r></p></e>
@@ -6587,6 +6587,7 @@
       <e><p><l>mesnet<s n="n"/><s n="f"/></l><r>evidence<s n="n"/></r></p></e>
       <e><p><l>mesnet<s n="n"/><s n="f"/></l><r>fulcrum<s n="n"/></r></p></e>
       <e><p><l>mesnet<s n="n"/><s n="f"/></l><r>support<s n="n"/></r></p></e>
+      <e><p><l>mêş<s n="n"/><s n="f"/></l><r>fly<s n="n"/></r></p></e>
       <e><p><l>mêş<s n="n"/><s n="f"/></l><r>bee<s n="n"/></r></p></e>
       <e><p><l>meş<s n="n"/><s n="f"/></l><r>walking<s n="n"/></r></p></e>
       <e><p><l>meşq<s n="n"/><s n="f"/></l><r>practice<s n="n"/></r></p></e>
@@ -8409,7 +8410,7 @@
       <e><p><l>şagirt<s n="n"/><s n="m"/></l><r>*apprentice<s n="n"/></r></p></e>
       <e><p><l>şagirt<s n="n"/><s n="m"/></l><r>pupil<s n="n"/></r></p></e>
       <e><p><l>şahberrû<s n="n"/><s n="f"/></l><r>chestnut<s n="n"/></r></p></e>
-      <e><p><l>şahberrû<s n="n"/><s n="f"/></l><r>*marron<s n="n"/></r></p></e>
+      <e><p><l>şahberrû<s n="n"/><s n="f"/></l><r>marron<s n="n"/></r></p></e>
       <e><p><l>şahîd<s n="n"/><s n="m"/></l><r>witness<s n="n"/></r></p></e>
       <e><p><l>şahî<s n="n"/><s n="f"/></l><r>*gladness<s n="n"/></r></p></e>
       <e><p><l>şahî<s n="n"/><s n="f"/></l><r>happiness<s n="n"/></r></p></e>
@@ -8638,7 +8639,7 @@
       <e><p><l>seqetî<s n="n"/><s n="f"/></l><r>*infirmity<s n="n"/></r></p></e>
       <e><p><l>seqf<s n="n"/><s n="m"/></l><r>ceiling<s n="n"/></r></p></e>
       <e><p><l>seqf<s n="n"/><s n="m"/></l><r>roof<s n="n"/></r></p></e>
-      <e><p><l>şeq<s n="n"/><s n="f"/></l><r>*crotch<s n="n"/></r></p></e>
+      <e><p><l>şeq<s n="n"/><s n="f"/></l><r>crotch<s n="n"/></r></p></e>
       <e><p><l>şeq<s n="n"/><s n="f"/></l><r>fork<s n="n"/></r></p></e>
       <e><p><l>şeq<s n="n"/><s n="f"/></l><r>prong<s n="n"/></r></p></e>
       <e><p><l>sera<s n="n"/><s n="f"/></l><r>*glasshouse<s n="n"/></r></p></e>
@@ -14720,7 +14721,6 @@
       <e><p><l>teng<s n="adj"/></l><r>narrow<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>tenha<s n="adj"/></l><r>alone<s n="adj"/></r></p></e>
       <e><p><l>teorîk<s n="adj"/></l><r>theoretical<s n="adj"/></r></p></e>
-      <e><p><l>teorîk<s n="adj"/></l><r>*theoric<s n="adj"/></r></p></e>
       <e><p><l>têper<s n="adj"/></l><r>*transitive<s n="adj"/></r></p></e>
       <e><p><l>terkexem<s n="adj"/></l><r>careless<s n="adj"/></r></p></e>
       <e><p><l>terkexem<s n="adj"/></l><r>disinterested<s n="adj"/></r></p></e>
@@ -15059,7 +15059,7 @@
       <e><p><l>zû<s n="adj"/></l><r>fast<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zuha<s n="adj"/></l><r>dry<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>zû<s n="adj"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
-  
+
      <!-- SECTION: Preadverbs -->
      <e><p><l>gelek<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
@@ -15644,6 +15644,7 @@
      <e><p><l>zivirandin<s n="vblex"/><s n="tv"/></l><r>turn<g><b/>around</g><s n="vblex"/></r></p></e>
      <e><p><l>weşandin<s n="vblex"/><s n="tv"/></l><r>publish<s n="vblex"/></r></p></e>
      <e><p><l>avakirin<s n="vblex"/><s n="tv"/></l><r>build<s n="vblex"/></r></p></e>
+
      <!-- SECTION: Interjections -->
 
      <!-- SECTION: Punctuation -->
